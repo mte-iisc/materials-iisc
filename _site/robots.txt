@@ -1,1 +1,1 @@
-Sitemap: https://sai-mat-group.github.io/materials-iisc-beta/sitemap.xml
+Sitemap: https://mte-iisc.github.io/materials-iisc/sitemap.xml

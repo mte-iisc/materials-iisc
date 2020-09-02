@@ -20,11 +20,11 @@ title                    : "Materials Engineering IISc"
 title_separator          : "-"
 subtitle                 : " "
 name                     : "Department of Materials Engineering"
-description              : "(Beta) Website of Department of Materials Engineering, Indian Institute of Science"
-url                      : "https://sai-mat-group.github.io/materials-iisc-beta"
+description              : "Website of Department of Materials Engineering, Indian Institute of Science"
+url                      : "https://mte-iisc.github.io/materials-iisc"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
+repository               : "mte-iisc/materials-iisc"
+teaser                   : "/assets/images/IISclogo.png"
 logo                     : "/assets/images/IISclogo.png"
 masthead_title           : "Materials Engineering"
 # breadcrumbs            : false # true, false (default)
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com"
+      url: "https://github.com/mte-iisc"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -209,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata
 
 
 # Plugins (previously gems:)
@@ -268,11 +268,20 @@ compress_html:
 
 # Defaults
 defaults:
-  # _sidelinks
+  # _docs
   - scope:
       path: ""
-      type: sidelinks
+      type: docs
     values:
+      sidebar:
+        nav: "sidelinks"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
       sidebar:
         nav: "sidelinks"
   # _posts
@@ -281,8 +290,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
       related: true
+      sidebar:
+         nav: "sidelinks"

@@ -1,16 +1,24 @@
 # main links
 main:
   - title: "News"
-    url: https://sai-mat-group.github.io/materials-iisc-beta/news/
-  - title: "Research"
-    url: https://sai-mat-group.github.io/materials-iisc-beta/research/
+    url: /news
+  - title: "Events"
+    url: /events
   - title: "Courses"
-    url: https://sai-mat-group.github.io/materials-iisc-beta/courses/
+    url: /courses
   - title: "Gallery"
-    url: https://sai-mat-group.github.io/materials-iisc-beta/gallery/
+    url: /gallery
   - title: "Contact"
-    url: https://sai-mat-group.github.io/materials-iisc-beta/contact/
+    url: /contact
 sidelinks:
+  - title: "Research"
+    children:
+            - title: "Highlights"
+              url: /highlights
+            - title: "Themes"
+              url: /themes
+            - title: "Facilities"
+              url: /facilities
   - title: "People"
     children:
             - title: "Faculty"
@@ -19,6 +27,12 @@ sidelinks:
               url: /students
             - title: "Staff"
               url: /staff
+  - title: "Join Us"
+    children:
+            - title: "As faculty"
+              url: /prospective-faculty
+            - title: "As student"
+              url: /prospective-student
   - title: "Locate Us"
     children:
             - title: "Indian Institute of Science<br>Javanica Marg<br>Bengaluru 560012<br>India"

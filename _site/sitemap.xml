@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://sai-mat-group.github.io/materials-iisc-beta/2012-03-15-layout-sidebar-nav-list/</loc>
+<loc>https://mte-iisc.github.io/materials-iisc/2012-03-15-layout-sidebar-nav-list/</loc>
 </url>
 <url>
-<loc>https://sai-mat-group.github.io/materials-iisc-beta/</loc>
+<loc>https://mte-iisc.github.io/materials-iisc/faculty</loc>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/</loc>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/prospective-student</loc>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/facilities</loc>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/highlights</loc>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/themes</loc>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/sample-template</loc>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/terms/</loc>
+<lastmod>2016-06-06T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://mte-iisc.github.io/materials-iisc/pdfs/central-facility.pdf</loc>
+<lastmod>2020-09-02T23:01:32+05:30</lastmod>
 </url>
 </urlset>
