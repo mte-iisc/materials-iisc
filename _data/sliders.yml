@@ -1,0 +1,15 @@
+# example slider
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/slider/banner.jpg 
+      alt: Welcome
+    - src: /assets/images/slider/openday2020.jpg
+      alt: Open Day 2020
+  settings:
+    height: 400
+    effect: "'fade'"
+    interval: 4000
+    effect: "'fade'"
+    disableNav: false

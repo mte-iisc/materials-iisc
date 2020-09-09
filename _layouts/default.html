@@ -12,6 +12,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% include slider_styles.html %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -20,6 +21,9 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
+	    {% if page.url == "/" %}
+	    {% include slider.html selector="slider1" %}
+	    {% endif %}
       {{ content }}
     </div>
 
@@ -37,6 +41,7 @@
     </div>
 
     {% include scripts.html %}
+    {% include slider_scripts.html %}
 
   </body>
 </html>
