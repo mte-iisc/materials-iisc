@@ -21,6 +21,13 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
+
+    {% if page.url == "/" %}
+    <aside class="sidebar__right sticky">
+	    {% twitter https://twitter.com/goths19 maxwidth=400 limit=3 %}
+    </aside>
+    {% endif %}
+
     {{ content }}
   </div>
 </div>
