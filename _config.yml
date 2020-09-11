@@ -207,7 +207,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Kolkata
 
@@ -267,12 +267,28 @@ compress_html:
     envs: development
 
 
+#Defining news collection
+collections:
+  news:
+   output: true
+   permalink: /:collection/:path/
+  highlights:
+   output: true
+   permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _docs
   - scope:
       path: ""
       type: docs
+    values:
+      sidebar:
+        nav: "sidelinks"
+  # _single
+  - scope:
+      path: ""
+      type: single
     values:
       sidebar:
         nav: "sidelinks"
@@ -295,6 +311,32 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
+      sidebar:
+         nav: "sidelinks"
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: # true
+      share: true
+      related: false
+      sidebar:
+         nav: "sidelinks"
+  # _highlights
+  - scope:
+      path: ""
+      type: highlights
+    values:
+      layout: archive
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
+      related: false
       sidebar:
          nav: "sidelinks"

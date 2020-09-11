@@ -1,7 +1,7 @@
 ---
 title: "Archive Layout with Content"
 layout: archive
-permalink: /sample-template
+permalink: /sample-narrow-layout
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"

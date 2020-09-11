@@ -7,15 +7,23 @@ layout: archive
 <h2>{{ "Recent Updates" }}</h2>
 <hr>
 
+{% comment %}
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
 {% endif %}
+{% endcomment %}
+
+{% if paginator %}
+  {% assign posts = paginator.news %}
+{% else %}
+  {% assign posts = site.news %}
+{% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  {% for post in site.news %} 
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>

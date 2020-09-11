@@ -2,7 +2,7 @@
 title: "Archive Layout with Content"
 layout: archive
 classes: wide
-permalink: /highlights
+permalink: /sample-wide-layout
 ---
 
 A variety of common markup showing how the theme styles them.
