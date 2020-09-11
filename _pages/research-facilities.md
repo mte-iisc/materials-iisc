@@ -4,6 +4,7 @@ title: "Facilities available"
 toc: true
 toc_label: "Facilities list"
 toc_sticky: true
+toc_icon: "flask"
 #classes: wide
 permalink: /facilities
 ---
