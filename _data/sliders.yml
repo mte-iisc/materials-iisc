@@ -7,6 +7,10 @@
       alt: Welcome
     - src: /assets/images/slider/openday2020.jpg
       alt: Open Day 2020
+    - src: /assets/images/slider/reunion2019.jpg
+      alt: Alumni Reunion 2019
+    - src: /assets/images/slider/research.png
+      alt: Research Highlight
   settings:
     height: 400
     effect: "'fade'"
