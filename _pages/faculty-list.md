@@ -44,4 +44,5 @@ classes: wide
 
 | --------         | ------    | ------------------------------------------------------------ |
 | <img src="{{ site.baseurl }}/assets/images/faculty/kamanio.png" width=120px>    |  Kamanio Chattopadhyay <br> Honorary Professor <br> kamanio[at]iisc[dot]ac[dot]in <br> +91 80 2293 2262 <br> <a href="https://sites.google.com/view/kamaniochattopadhyay/" target="_blank">Group Website</a>    | Co-based superalloys <br> High-temperature corrosion <br> Light alloys <br> Energy materials <br> Thermoelectric materials                |
+| <img src="{{ site.baseurl }}/assets/images/faculty/db.jpg" width=120px>    |  Dipankar Banerjee <br> Honorary Professor <br> dbanerjee[at]iisc[dot]ac[dot]in <br> +91 80 2293 2558 <br> <a href="https://materials.iisc.ac.in/~dbanerjee/" target="_blank">Group Website</a>    | constructing a quantitative and predictive understanding of the phenomena underlying the materials development and application effort with an emphasis on engineering materials                |
 
