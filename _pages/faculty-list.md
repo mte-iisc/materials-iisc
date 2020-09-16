@@ -37,10 +37,12 @@ classes: wide
 
 
 | --------         | ------    | ------------------------------------------------------------ |                         
-| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.png" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana@iisc.ac.in     | Bio-materials <br> 3-D printing        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana@iisc.ac.in     | Bio-materials <br> 3-D printing        |
 | <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Professor Brahm Prakash Chair     |         |
-| <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.png" width=120px>    |  Prof. Prasad KDV Yarlagadda <br> SERB-VAJRA Professor     |         |
+| <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.jpg" width=120px>    |  Prof. Prasad KDV Yarlagadda <br> SERB-VAJRA Professor     |         |
+
 <br>
+
 # Emeritus and Honorary Faculty
 
 | --------         | ------    | ------------------------------------------------------------ |
