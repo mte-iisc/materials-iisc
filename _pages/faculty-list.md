@@ -37,8 +37,9 @@ classes: wide
 
 
 | --------         | ------    | ------------------------------------------------------------ |                         
-| <img src="{{ site.baseurl }}/assets/images/faculty/blank.png" width=120px>    |  Sonal Asthana <br> Visiting Professor     | Bio-materials <br> 3-D printing        |
-
+| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.png" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana@iisc.ac.in     | Bio-materials <br> 3-D printing        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Professor Brahm Prakash Chair     |         |
+| <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.png" width=120px>    |  Prof. Prasad KDV Yarlagadda <br> SERB-VAJRA Professor     |         |
 <br>
 # Emeritus and Honorary Faculty
 
@@ -49,4 +50,4 @@ classes: wide
 | <img src="{{ site.baseurl }}/assets/images/faculty/jacob.png" width=120px>    |  Jacob K.T <br> Emeritus Professor <br> katob[at]iisc[dot]ac[dot]in <br> +91 80 2293 2494 <br> <a href="https://materials.iisc.ac.in/faculty/k-t-jacob/" target="_blank">Personal Website</a>    | Classical, Statistical and Irreversible Thermodynamics of Materials, Solid State Sensors, High Temperature Corrosion, Phase Equilibria, Materials Processing, Nano Science & Technology, Fuel cells                |
 | <img src="{{ site.baseurl }}/assets/images/faculty/kan.png" width=120px>    |  Natarajan K.A <br> Emeritus Professor <br> kan[at]iisc[dot]ac[dot]in <br> +91 80 2293 2679 <br> <a href="https://materials.iisc.ac.in/faculty/k-a-natarajan/" target="_blank">Personal Website</a>    | Biometallurgy, Hydrometallurgy, Mineral Processing, Corrosion, Environmental Control                |
 | <img src="{{ site.baseurl }}/assets/images/faculty/rangu.png" width=120px>    |  Ranganathan S <br> Emeritus Professor <br> rangu[at]iisc[dot]ac[dot]in <br> +91-809880397490(M) <br> <a href="https://materials.iisc.ac.in/faculty/s-ranganathan/" target="_blank">Personal Website</a>    | Nanostructured materials, Mesoporous materials, Metallic glasses, Quasicrystals, Metallurgical heritage of India                |
-| <img src="{{ site.baseurl }}/assets/images/faculty/ssmani.png" width=120px>    |  Subramanian S <br> Emeritus Professor <br> rangu[at]iisc[dot]ac[dot]in <br> +91-809880397490(M) <br> <a href="https://materials.iisc.ac.in/faculty/s-subramanian/" target="_blank">Personal Website</a>    | Surface and colloid chemistry, Mineral processing, Extractive metallurgy, Bio-processing and environmental control                |
+| <img src="{{ site.baseurl }}/assets/images/faculty/ssmani.png" width=120px>    |  Subramanian S <br> Emeritus Professor <br> rangu[at]iisc[dot]ac[dot]in <br> +91 80 2293 2261 <br> <a href="https://materials.iisc.ac.in/faculty/s-subramanian/" target="_blank">Personal Website</a>    | Surface and colloid chemistry, Mineral processing, Extractive metallurgy, Bio-processing and environmental control                |
