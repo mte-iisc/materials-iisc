@@ -712,7 +712,7 @@ High load: 10 mN-1 N</td>
 <tbody>
 <tr>
 <td colspan="3" valign="top">
-<div align="center">ICP Spectrometer</div>
+<div align="left"><strong><ICP Spectrometer</strong></div>
 </td>
 </tr>
 <tr>
@@ -773,7 +773,7 @@ High load: 10 mN-1 N</td>
 </tr>
 <tr>
 <td colspan="3" valign="top">
-<div align="center">Atomic Absorption Spectrometer</div>
+<div align="left"><strong>Atomic Absorption Spectrometer</strong></div>
 </td>
 </tr>
 <tr>
@@ -831,7 +831,7 @@ High load: 10 mN-1 N</td>
 <tbody>
 <tr>
 <td>
-<div align="center">
+<div align="left">
 <p>High performance liquid chromatography (HPLC) from Waters (Identification, estimation and purification of macromolecules/oligomers/polymers)</p>
 </div>
 </td>
@@ -871,7 +871,7 @@ High load: 10 mN-1 N</td>
 <tr>
 <td colspan="3" valign="top" bgcolor="#000066">
 <div align="center">
-<p><span style="color: #ffffff;">Size exclusion chromatography (GPC/SEC) from Waters (For macromolecules/polymers molecular weight distribution analysis)</span></p>
+<p>Size exclusion chromatography (GPC/SEC) from Waters (For macromolecules/polymers molecular weight distribution analysis)</p>
 </div>
 </td>
 </tr>
