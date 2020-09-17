@@ -129,13 +129,148 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 ## Thermal analysis
 <b><a href="http://afmmslots.afmm.iisc.ac.in:8080/Thermal/" target="_blank">Online booking of thermal analysis facilities</a></b><br>
 <h3>DST</h3>
-Description
+<p><strong>Faculty member in charge: Praveen Ramamurthy</strong></p>
+<p>For usage contact: P. Padaikathan</p>
+<p><a href="http://afmm.iisc.ernet.in:8080/Thermal/">Online booking system</a></p>
+<p><img loading="lazy" alt="" src="http://materials.iisc.ernet.in/~www/facilities/ThermalAnalysis/clip_image003.gif" width="398" height="216" /></p>
+<p><strong>1. </strong>The <strong>METTLER-TOLEDO </strong>Differential Scanning Calorimeter (DSC 822 e ) with S <strong>TA </strong>R e software measures the difference between the heat flows from the sample and reference sides of a sensor as a function of temperature or time. Differences in heat flow arise when a sample absorbs or releases heat due to thermal effects such as melting, crystallization, chemical reactions, polymorphic transitions… …</p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>Sample mass/volume: minimum of 0.5 -20mg/up to 150ul</li>
+<li>Temp range: Between -150°C and +700 o C</li>
+<li>Cooling option: Liquid Nitrogen (pressurized to 20-30psi)</li>
+<li>Heating rate: 2 – 50 K/min</li>
+<li>Cooling rate: from 500 o C to 100 o C in 8min</li>
+<li><strong>Resolution: 0.4µW</strong></li>
+</ul>
+<p><strong>Soon DSC will be upgraded with…..</strong></p>
+<p><strong>Temperature-modulated DSC techniques (TMDSC) </strong>are widely used in thermal analysis to separate overlapping temperature-dependent and time-dependent thermal effects. Methods used up until now have overlaid the isothermal temperature or heating ramp with a (usually) sinusoidal temperature modulation of just one frequency (single frequency method).</p>
+<p><strong>Auto–Sampler Robot (for 32 No. of tests) and a LN 2 &#8211; Dewar capacity 240litre</strong></p>
+<p><strong><em>Independent users (Mettler DSC):</em></strong></p>
+<ul>
+<li><strong><em>Suresh(Satyam Suwas) (authorised to train others)</em></strong></li>
+<li><strong><em>Soumitra Roy(Aloke Paul)</em></strong></li>
+<li><strong><em>Eswar Prasad(U. Ramamurty)</em></strong></li>
+<li><strong><em>Kiritiman(K.Chattopadhyay)</em></strong></li>
+<li><strong>Ranjit(Praveen Ramamurthy)</strong></li>
+</ul>
+<p><img loading="lazy" alt="" src="http://materials.iisc.ernet.in/~www/facilities/ThermalAnalysis/clip_image007.gif" width="522" height="582" /><strong> </strong></p>
+<p><strong> 2. </strong>The <strong>NETZSCH </strong>STA 409 runs under <strong>PROTEUS </strong>Software for simultaneous TG-DSC or simultaneous TG-DTA measurements. The TG sample carriers exchanged with TG-DSC or TG-DTA modes operation with top-loaded samples ensure total protection of the balance, which is on the bottom and through accurate flow of the purge and protective gases</p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>Temperature range: 25°C to 1600°C (SiC: HEATING ELEMENT)</li>
+<li>Heating and cooling rates: 5 K/min to 50 K/min</li>
+<li>Weighing range: 200 mg</li>
+</ul>
+<p><strong>TG resolution: up to 0.002mg</strong></p>
+<p><strong>DSC resolution &lt; 1 µW</strong></p>
+<p>Atmospheres: inert, oxidizing, reducing, static, dynamic</p>
+<p><strong>TG features:</strong></p>
+<ul>
+<li>Mass changes in wt% or mg</li>
+<li>Automatic evaluation of mass-change steps</li>
+<li>Calculation of mass/temperature values</li>
+<li>Calculation of residual mass</li>
+<li>Extrapolated onset and end temperatures</li>
+<li>Peak temperatures of the 1st and 2nd derivative of the mass-change curve</li>
+<li>Automatic baseline</li>
+</ul>
+<p><strong>DSC/DTA features:</strong></p>
+<ul>
+<li>Determination of onset, peak, inflection and end temperatures</li>
+<li>Automatic peak search</li>
+<li>Analysis of peak areas (enthalpies) with selectable baseline</li>
+<li>Enthalpy determination allowing for mass changes</li>
+<li>Comprehensive analysis of glass transitions</li>
+</ul>
+<p><strong><em>Independent users (NETZSCH TG/DTA):</em></strong></p>
+<ul>
+<li>Prasath Babu( S. Karthikeyan )(authorised to train others)</li>
+<li>Soma prasad (Aloke Paul)</li>
+<li>Anindya Roy(Vikram Jayaram)</li>
+</ul>
 
 <h3>DT/TGA</h3>
 Description
 
 ## Mechanical testing
 <h3>DMA</h3>
+<table>
+<tbody>
+<tr>
+<td>Model</td>
+<td>:</td>
+<td>EPLEXOR 500 N</td>
+</tr>
+<tr>
+<td>Load Capacity Force Range (Statical)</td>
+<td>:</td>
+<td>500 N Provision to use 1500 N transducer</td>
+</tr>
+<tr>
+<td>Dynamic Strain*</td>
+<td>:</td>
+<td>± 1ìm to ± 1.5 mm</td>
+</tr>
+<tr>
+<td>Statical Strain</td>
+<td>:</td>
+<td>Upto 35 mm</td>
+</tr>
+<tr>
+<td>Frequency Range</td>
+<td>:</td>
+<td>0.01 to 100 Hz</td>
+</tr>
+<tr>
+<td>tan ä</td>
+<td>:</td>
+<td>0.0001 &#8211; 100</td>
+</tr>
+<tr>
+<td>Temperature Range</td>
+<td>:</td>
+<td>-150°C to 500 °C (Furnace 1)<br />
+Ambient to 1000° C (Furnace 2)</td>
+</tr>
+<tr>
+<td>Available Clamping Devices</td>
+<td>:</td>
+<td>Compression, Tensile and 3 point bending &#8211; symmetric and asymmetric</td>
+</tr>
+<tr>
+<td>Sample Dimensions</td>
+<td>:</td>
+<td>For compressive loads &#8211; Material Dependent<br />
+For tensile and 3 point bending &#8211; Thickness: 2mm, Width: 5mm and Length: 45 mm</td>
+</tr>
+<tr>
+<td>Materials that can be tested</td>
+<td valign="top" width="41">:</td>
+<td>Metals, composites, bulk metallic glasses, rubbers, elastomers etc.,</td>
+</tr>
+<tr>
+<td>Student trained to use the Instrument independently</td>
+<td>:</td>
+<td>Mr. Easwar Prasad (Prof. UR Lab.)</td>
+</tr>
+<tr>
+<td>Faculty in charge</td>
+<td>:</td>
+<td>A.H.Chokshi</td>
+</tr>
+<tr>
+<td>Contact person</td>
+<td>:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Maximum strain depends on the sample, clamping device and frequency</td>
+</tr>
+</tbody>
+</table>
 
 <h3>Depth sensing indentation</h3>
 
