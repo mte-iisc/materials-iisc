@@ -711,7 +711,7 @@ High load: 10 mN-1 N</td>
 <table>
 <tbody>
 <tr>
-<td colspan="3" valign="top" bgcolor="#000066">
+<td colspan="3" valign="top">
 <div align="center">ICP Spectrometer</div>
 </td>
 </tr>
@@ -772,7 +772,7 @@ High load: 10 mN-1 N</td>
 <td valign="top">B.V.Narayana (bvn@materials&#8230;)</td>
 </tr>
 <tr>
-<td colspan="3" valign="top" bgcolor="#000066">
+<td colspan="3" valign="top">
 <div align="center">Atomic Absorption Spectrometer</div>
 </td>
 </tr>
