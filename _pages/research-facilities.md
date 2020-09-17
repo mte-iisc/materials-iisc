@@ -88,6 +88,44 @@ W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state bac
 <li>R.Ravi(rravi@iisc.ac.in) / Subho Dasgupta(dasgupta@iisc.ac.in) / Satyam Suwas(satyamsuwas@iisc.ac.in)</li>
 </ul>
 
+<h3>Atomic Force Microscopy(AFM) and Scanning Tunneling Microscopy(STM)</h3>
+<ul>
+<li>Scan head: Maximum scan range: 70micron</li>
+<li>Drive resolution Z: 0.21 nm and XY: 1.0 nm (based on 16 bits)</li>
+<li>Auto approach: 5mm, Maximum approach speed: 0.1mm/s</li>
+<li>Cantilevers: CONTR/NCLR (FREQUENCY: 15-300 kHz)</li>
+<li>Imaging Modes: Phase contrast, Force Modulation, Spreading Resistance</li>
+</ul>
+<p><strong>Specifications: STM system</strong></p>
+<ul>
+<li>Scan head: Maximum scan range: 1.0micron</li>
+<li>Maximum Z-range: 200 nm</li>
+<li>Drive Resolution Z: 3 pm and XY: 15 pm</li>
+<li>Tip-sample approach: Stick-slip piezo motor</li>
+<li>Tip: Pt/ Ir wire: 0.25 mm</li>
+<li>Sample size: Max. 10 mm diameter</li>
+<li>Calibrated using: HOPG</li>
+</ul>
+<p>Faculty member in charge: A.M.Raichur</p>
+
+<h3>X-ray Diffraction Laboratory</h3>
+
+<p><strong>XPERTPro, PANalytical JDX-8030 , JEOL</strong></p>
+<p><strong>(1) X-Pert PRO, PANalytical</strong></p>
+<p>Fixed tube, Cu target, secondary graphite monochromator, flat plate horizontal sample holder, X-Celerator* for faster data acquisition, X-Pert Hi-Score plus software pattern analysis and phase identification (ICDD data base).<br />
+* Usage of X-Celerator reduces the data acquisition time by ~1/4th .</p>
+
+<p><strong>(2) JDX-8030, JEOL</strong></p>
+<p>Fixed tube, Cu and Fe-targets, horizontal flat plate sample holder.<br />
+Sample and quantity:<br />
+Most preferably powder, Otherwise any sample with flat surface. The powder/ bulk sample should cover ~ 15 mm x ~15 mm x ~1 mm space of the standard sample holder.</p>
+<p>For booking on this system, Please Contact Mr.A.N.Krishnamurthy ( X-Ray LAB)<br />
+Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ranjan</p>
+
+<p><strong>(3) X-radiography</strong></p>
+<p>Stenoscop 9000 is a mobile medical X-ray unit equipped with a C-arm, on which an image intensifier and X-ray source are mounted. The X-ray system enables operation in one of several modes: standard radiography, high-resolution fluoroscopy, pulsed fluoroscopy, and standard fluoroscopy. Up to 50 min of continuous X-ray emission in the fluoroscopy mode allowed collection of the high-quality, distortion-free images. Voltage range is from 40 to 110 kV and current range is from 0.1 to 6 mA. The unit has dual focus.</p>
+<p>For further information contact Prof. GS Gupta (govindg@iisc.ac.in)</p>
+
 ## Thermal analysis
 <b><a href="http://afmmslots.afmm.iisc.ac.in:8080/Thermal/" target="_blank">Online booking of thermal analysis facilities</a></b><br>
 <h3>DST</h3>
