@@ -132,7 +132,6 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 <p><strong>Faculty member in charge: Praveen Ramamurthy</strong></p>
 <p>For usage contact: P. Padaikathan</p>
 <p><a href="http://afmm.iisc.ernet.in:8080/Thermal/">Online booking system</a></p>
-<p><img loading="lazy" alt="" src="http://materials.iisc.ernet.in/~www/facilities/ThermalAnalysis/clip_image003.gif" width="398" height="216" /></p>
 <p><strong>1. </strong>The <strong>METTLER-TOLEDO </strong>Differential Scanning Calorimeter (DSC 822 e ) with S <strong>TA </strong>R e software measures the difference between the heat flows from the sample and reference sides of a sensor as a function of temperature or time. Differences in heat flow arise when a sample absorbs or releases heat due to thermal effects such as melting, crystallization, chemical reactions, polymorphic transitions… …</p>
 <p><strong>Specifications:</strong></p>
 <ul>
@@ -154,7 +153,7 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 <li><strong><em>Kiritiman(K.Chattopadhyay)</em></strong></li>
 <li><strong>Ranjit(Praveen Ramamurthy)</strong></li>
 </ul>
-<p><img loading="lazy" alt="" src="http://materials.iisc.ernet.in/~www/facilities/ThermalAnalysis/clip_image007.gif" width="522" height="582" /><strong> </strong></p>
+
 <p><strong> 2. </strong>The <strong>NETZSCH </strong>STA 409 runs under <strong>PROTEUS </strong>Software for simultaneous TG-DSC or simultaneous TG-DTA measurements. The TG sample carriers exchanged with TG-DSC or TG-DTA modes operation with top-loaded samples ensure total protection of the balance, which is on the bottom and through accurate flow of the purge and protective gases</p>
 <p><strong>Specifications:</strong></p>
 <ul>
@@ -182,12 +181,6 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 <li>Analysis of peak areas (enthalpies) with selectable baseline</li>
 <li>Enthalpy determination allowing for mass changes</li>
 <li>Comprehensive analysis of glass transitions</li>
-</ul>
-<p><strong><em>Independent users (NETZSCH TG/DTA):</em></strong></p>
-<ul>
-<li>Prasath Babu( S. Karthikeyan )(authorised to train others)</li>
-<li>Soma prasad (Aloke Paul)</li>
-<li>Anindya Roy(Vikram Jayaram)</li>
 </ul>
 
 <h3>DT/TGA</h3>
@@ -273,6 +266,146 @@ For tensile and 3 point bending &#8211; Thickness: 2mm, Width: 5mm and Length: 4
 </table>
 
 <h3>Depth sensing indentation</h3>
+<table>
+<tbody>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066">
+<div align="center"><span style="color: #cccccc; font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>Hysitron Nano Indentor (located in Department of Mechanical Engineering)</strong></span></div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="189">Model</td>
+<td valign="top" width="41">
+<div align="center">:</div>
+</td>
+<td valign="top" width="568">TI 900-Tribo Indentor</td>
+</tr>
+<tr>
+<td valign="top">Load Capacity</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Low load: 5 microN-10 mN<br />
+High load: 10 mN-1 N</td>
+</tr>
+<tr>
+<td valign="top">Load resolution</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">1nN</td>
+</tr>
+<tr>
+<td valign="top">Displacement resolution</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">0.04nm</td>
+</tr>
+<tr>
+<td valign="top">Maximum Displacement capacity:</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">2-3 microns</td>
+</tr>
+<tr>
+<td valign="top">Modes of operation</td>
+<td valign="top">
+<div align="center"><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>:</strong></span></div>
+</td>
+<td valign="top">
+<ul>
+<li>Quasistatic Nano Indentation</li>
+<li>Nano Scratch</li>
+<li>SPM In-situ Imaging</li>
+<li>Nano DMA</li>
+<li>High Temperature stage( upto 400 deg celsius)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top">Regular Operator</td>
+<td valign="top">
+<div align="center"><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small;"><strong>:</strong></span></div>
+</td>
+<td valign="top">Rashmi</td>
+</tr>
+<tr>
+<td valign="top">Other Independent Operators</td>
+<td valign="top">
+<div align="center"><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small;"><strong>:</strong></span></div>
+</td>
+<td valign="top">Praveena (Jayaram/Biswas), Anirban Mahato,(Biswas), Nisha Verma (Jayaram), Jaya Nagamani (Jayaram)</td>
+</tr>
+<tr>
+<td valign="top">Contact Person</td>
+<td valign="top">
+<div align="center"><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small;"><strong>:</strong></span></div>
+</td>
+<td valign="top">Vikram Jayaram (3243) / Shamsundar (2351)</td>
+</tr>
+<tr>
+<td valign="top"><span style="font-size: xx-small;"> </span></td>
+<td valign="top"><span style="font-size: xx-small;"> </span></td>
+<td valign="top"><span style="font-size: xx-small;"> </span></td>
+</tr>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066">
+<div align="center"><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>CSM instrumented microindentation system</strong></span></div>
+</td>
+</tr>
+<tr>
+<td valign="top">Room temperature</td>
+<td valign="top" width="41">
+<div align="center">:</div>
+</td>
+<td valign="top">Diamond indenter (Vickers, spherical, Knoop)</td>
+</tr>
+<tr>
+<td valign="top">High temperature(450 C)</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Zircon (Vickers, Spherical)</td>
+</tr>
+<tr>
+<td valign="top">Maximum load</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">30 N</td>
+</tr>
+<tr>
+<td valign="top">Load resolution</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">100 micro N</td>
+</tr>
+<tr>
+<td valign="top">Depth resolution</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">0.3 nm</td>
+</tr>
+<tr>
+<td valign="top">Independent users</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Eswar Prasad, Pradipta Ghosh, Jaya Nagamani, P. Padaikathan</td>
+</tr>
+<tr>
+<td valign="top">In-Charge</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">U. Ramamurty(ramu@iisc.ac.in)</td>
+</tr>
+</tbody>
+</table>
 
 ## Materials Processing
 <h3>Solid state processing</h3>
