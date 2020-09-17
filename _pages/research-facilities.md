@@ -869,7 +869,7 @@ High load: 10 mN-1 N</td>
 <tr>
 <td colspan="3" valign="top">
 <div align="left">
-<strong>Size exclusion chromatography (GPC/SEC) from Waters (For macromolecules/polymers molecular weight distribution analysis)</<strong>>
+<strong>Size exclusion chromatography (GPC/SEC) from Waters (For macromolecules/polymers molecular weight distribution analysis)</<strong>
 </div>
 </td>
 </tr>
