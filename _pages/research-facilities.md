@@ -407,6 +407,153 @@ High load: 10 mN-1 N</td>
 </tbody>
 </table>
 
+<h3>Thin film residual stress</h3>
+<table>
+<tbody>
+<tr>
+<td valign="top" width="189">Model</td>
+<td valign="top" width="41">
+<div align="center">:</div>
+</td>
+<td valign="top" width="568">KLA Tencor FLX 2320</td>
+</tr>
+<tr>
+<td valign="top">Specifications</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">
+<p align="justify">Measures curvature of plates and beams using laser. Heating stage upto 500C in ambient atmospheres or under inert gas shrouding . Liquid nitrogen can circulated to reach temperatures down to 0 C. Dual beam enables stresses measurements for transparent coatings as well.</p>
+</td>
+</tr>
+<tr>
+<td valign="top">Procedure</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Measure the curvature of substrate before and after the deposition and, knowing the substrate and film thickness and substrate elastic modulus, use Stoney&#8217;s equation to find the stress.</td>
+</tr>
+<tr>
+<td valign="top">Statical Strain</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Maximum size is 8 inches wafer. Plates, disks, beams with longest measurable length less than 8 inches dia. can also be used.</td>
+</tr>
+<tr>
+<td valign="top">Faculty in charge</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Vikram Jayaram</td>
+</tr>
+<tr>
+<td valign="top">Contact person</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Students trained to use the instrument: Sumanth G, Nisha Verma</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Mechanical Testing Lab</h3>
+<table>
+<tbody>
+<tr>
+<td valign="top" width="42"><b>No.</b></td>
+<td valign="top" width="144"><b>Equipment</b></td>
+<td valign="top" width="132"><b>Nature of tests</b></td>
+<td valign="top" width="260"><b>Specs</b></td>
+<td valign="top" width="169"><b>Contact</b></td>
+</tr>
+<tr>
+<td colspan="5" valign="top" width="747"><b><i>Universal Testing Machines</i></b></td>
+</tr>
+<tr>
+<td valign="top" width="42">1</td>
+<td valign="top" width="144">Dartec Servo-hydraulic UTM</td>
+<td valign="top" width="132">Compression,Tension</td>
+<td valign="top" width="260">Max Load(KN):100Strain rate(/sec):10<sup>-4</sup> to 10Temperature (<sup>o</sup>C) &lt;1000</td>
+<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
+</tr>
+<tr>
+<td valign="top" width="42">2</td>
+<td valign="top" width="144">Instron 8032 Servo-hydraulicUTM</td>
+<td valign="top" width="132">Tension, Compression, Bending, Fracture, Low Cycle Fatigue</td>
+<td valign="top" width="260">Max Load(KN): 100Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
+<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
+</tr>
+<tr>
+<td valign="top" width="42">3</td>
+<td valign="top" width="144">Instron 8502 Servo-hydraulicUTM</td>
+<td valign="top" width="132">Stress CorrosionStudies</td>
+<td valign="top" width="260">Max Load(KN): 100Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
+<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
+</tr>
+<tr>
+<td valign="top" width="42">4</td>
+<td valign="top" width="144">Zwick/RoellScrew driven UTM</td>
+<td valign="top" width="132">Tension,Compression, Bending</td>
+<td valign="top" width="260">Max Load(KN): 100Crosshead speed(mm/min):0.0005 to 200Temperature (<sup>o</sup>C) &lt;300<sup>o</sup>C</td>
+<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
+</tr>
+<tr>
+<td valign="top" width="42">5</td>
+<td valign="top" width="144">Instron 5567 Screw driven UTM</td>
+<td valign="top" width="132">Tension,Compression</td>
+<td valign="top" width="260">Max Load(KN):30Cross head speed(mu/sec):0.1 to 500Temperature (<sup>o</sup>C) &lt;600<sup>o</sup>C</td>
+<td valign="top" width="169"><a href="mailto:achokshi@iisc.ac.in">Prof. A.H. Chokshi</a></td>
+</tr>
+<tr>
+<td colspan="5" valign="top" width="747"><b><i>Impact and high strain rate testing machines</i></b></td>
+</tr>
+<tr>
+<td valign="top" width="42">6</td>
+<td valign="top" width="144">Split-HopkinsonPressure Bar (SHPB) apparatus</td>
+<td valign="top" width="132">High strain rate Compression</td>
+<td valign="top" width="260">Max Load (KN):20Strain rate(/sec):1000 to 4000Temperature (<sup>o</sup>C)&lt;600</td>
+<td valign="top" width="169"><a href="mailto:karthik@iisc.ac.in">Prof. S.Karthikeyan</a></td>
+</tr>
+<tr>
+<td valign="top" width="42">7</td>
+<td valign="top" width="144">Instron Dynatup8250 Impact tester</td>
+<td valign="top" width="132">Instrumented Drop Weight Test</td>
+<td valign="top" width="260">Velocity (m/sec): 0.61 to 4.8Energy(Joules): 0.67 to 302Weight(kg): 2.5, 4.5,11.3,22.7, 34, 45.3Data Acquisition: Instron 930-I</td>
+<td valign="top" width="169"></td>
+</tr>
+<tr>
+<td valign="top" width="42">8</td>
+<td valign="top" width="144">Tinius-Olsen Model T 84 Pendulum Impact tester</td>
+<td valign="top" width="132">InstrumentedCharpy and IzodImpact Test</td>
+<td valign="top" width="260">Velocity(m/sec): 0.1 to 5.1Energy(Joules): 0.2 to 359Data Acquisition: Instron 930-I</td>
+<td valign="top" width="169"></td>
+</tr>
+<tr>
+<td colspan="5" valign="top" width="747"><b><i>Macro and Micro hardness testing machines</i></b></td>
+</tr>
+<tr>
+<td valign="top" width="42">9</td>
+<td valign="top" width="144">Indentec Macro hardness tester</td>
+<td valign="top" width="132">Vickers, Brinell, Rockwell hardness</td>
+<td valign="top" width="260">Load Range(kgf)Vickers: 3, 5, 10, 100Brinell: 5, 10, 62.5, 187.5Rockwell: 60, 100, 150Holding time(sec): 1 to 60</td>
+<td valign="top" width="169"></td>
+</tr>
+<tr>
+<td valign="top" width="42">10</td>
+<td valign="top" width="144">Zwick/Roell ZHVmicrohardnesstester</td>
+<td valign="top" width="132">Vickersmicrohardness</td>
+<td valign="top" width="260">Load Range(kgf): 3, 5, 10, 100Holding time(sec): 5 to 60Objective lenses: 10x, 40x</td>
+<td valign="top" width="169"></td>
+</tr>
+</tbody>
+</table>
+<p>For availability of different equipment for usage, please contact the respective contacts, while ccing <a href="mailto:karthik@materials.iisc.ernet.in">Prof. S. Karthikeyan</a>. Kindly provide details on the type of test, material to be tested, number of samples and your affiliation.</p>
+<p><b>Members of the facility:</b></p>
+<p><b></b><b><span style="text-decoration: underline;">Faculty:</span></b><span style="text-decoration: underline;"> </span><a href="mailto:achokshi@iisc.ac.in">A.H. Chokshi</a> (Facility Incharge), <a href="mailto:karthik@iisc.ac.in">Prof S. Karthikeyan</a>, <a href="mailto:skumar@iisc.ac.in">Prof. Subodh Kumar</a>, <a href="mailto:satyamsuwas@iisc.ac.in">Prof Satyam Suwas</a> and <a href="mailto:ramu@iisc.ac.in">Prof. U. Ramamurty</a></p>
+<p><b><span style="text-decoration: underline;">Staff:</span></b> <a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a> and <a href="mailto:rajakumaran.iisc@gmail.com">Mr. V. Rajakumaran</a></p>
+<p>The department also has facilities for <a href="http://localhost/webmet?page_id=999">Instrumented Indentation</a>, <a href="http://localhost/webmet?page_id=988">Dynamic Mechanical Analysis (DMA)</a> and <a href="http://localhost/webmet?page_id=1016">Thin Film Stress measurement</a>.</p>
+
 ## Materials Processing
 <h3>Solid state processing</h3>
 
@@ -414,19 +561,375 @@ High load: 10 mN-1 N</td>
 
 ## Particle characterization
 <h3>Particle size analyser</h3>
+<table>
+<tbody>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066"><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>Particle Size Analyzer</strong></span></td>
+</tr>
+<tr>
+<td valign="top" width="211">Machine Model</td>
+<td valign="top" width="30">
+<div align="center">:</div>
+</td>
+<td valign="top" width="557">Mastersizer</td>
+</tr>
+<tr>
+<td valign="top">Make</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Malvern Instruments</td>
+</tr>
+<tr>
+<td valign="top">Size range</td>
+<td valign="top" width="30">
+<div align="center">:</div>
+</td>
+<td valign="top">0.05 to 900 µm</td>
+</tr>
+<tr>
+<td valign="top">Faculty In-Charge</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">S.Subramanian</td>
+</tr>
+<tr>
+<td valign="top">Contact Person</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">R.J.Deshpande, x 3237 (rjd@iisc.ac.in)</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066"><strong><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;">Zetasizer</span></strong></td>
+</tr>
+<tr>
+<td valign="top" width="211">Machine Model</td>
+<td valign="top" width="30">
+<div align="center">:</div>
+</td>
+<td valign="top">Zetasizer Nanoseries-ZEN 3690</td>
+</tr>
+<tr>
+<td valign="top">Make</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Malvern Instruments</td>
+</tr>
+<tr>
+<td valign="top">Particle Size range</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">1nm to 3µm</td>
+</tr>
+<tr>
+<td valign="top">Size range for zeta potential</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">5nm to 10 µm</td>
+</tr>
+<tr>
+<td valign="top">Faculty In-Charge</td>
+<td valign="top" width="30">
+<div align="center">:</div>
+</td>
+<td valign="top">S.Subramanian</td>
+</tr>
+<tr>
+<td valign="top">Contact Person</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">R. J. Deshpande, x 3237 (rjd@iisc.ac.in)</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066"><strong><strong><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;">Automatic Micropore Physisorption Analyzer</span></strong></strong></td>
+</tr>
+<tr>
+<td colspan="3" valign="top">(Determining surface area and pore size distribution from 3.5 to 5000 Angstroms)</td>
+</tr>
+<tr>
+<td valign="top">Make and model</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Micromeritics ASAP 2020</td>
+</tr>
+<tr>
+<td valign="top">Analysis Gases</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">N 2 , Ar, CO 2 , O 2 , Kr, CO, Butane or any non-corrosive gas</td>
+</tr>
+<tr>
+<td valign="top">Analytical Techniques</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">
+<p align="justify">Single-point BET surface area, Multi-point BET surface area, Adsorption isotherm, Desorption isotherms, Langmuir surface area, BJH Mesopore volume, BJH Mesopore area, Total pore volume, deBoer t-Plot &amp; others, MP-Method, Micropore Volume, Micropore Surface Area, Micropore Size Distribution, a s Plot, f-Ratio plot, Heat of adsorption, Freundlich &amp; Temkin, Density Functional Theory, Reference isotherms, Horvath-Kawazoe, Dubinin-Radushkevich, Dubinin-Astakhov and  Graph Overlays</p>
+</td>
+</tr>
+<tr>
+<td valign="top">Operating Specifications</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Surface Area Range 0.0005 m 2 /g and upPore Diameter Range : 3.5 &#8211; 5000 AngstromsMicropore Volume: Detectable within 0.0001 cc/g</td>
+</tr>
+<tr>
+<td valign="top">Pressure Measurement Resolution:</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">0 to 1 mmHg Transducer 0.000001 mmHg0 to 10 mmHg Transducer: 0.00001 mmHg0 to 1000 mmHg Transducer: 0.001 mmHg</td>
+</tr>
+<tr>
+<td valign="top">Typical Relative Pressures:</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">N 2 / Liquid N 2 : 10 -7 Ar / Liquid Ar: 10 -7 CO 2 at 25 o C: 10 -9</td>
+</tr>
+<tr>
+<td valign="top">Faculty In-Charge</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">S.Subramanian(ssmani@iisc.ac.in)</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Chemical Analysis
-<h3>ICP</h3>
-
-<h3>Atomic absorption spectrometer</h3>
-
+<table>
+<tbody>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066">
+<div align="center"><span style="color: #ffffff; font-family: Arial;">ICP Spectrometer</span></div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163">Model</td>
+<td valign="top" width="19">
+<div align="center">:</div>
+</td>
+<td valign="top" width="610">JY 24</td>
+</tr>
+<tr>
+<td valign="top">Make</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Jobin-Yvon, France, Sequential ICP Analyzer</td>
+</tr>
+<tr>
+<td valign="top">Elements analyzed</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">can analyze ~ 72 elements in the periodic table including those such as boron, silicon etc.,</td>
+</tr>
+<tr>
+<td valign="top">Monochromator</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">HR 640 monochromator incorporating a holographic grating with 2400 grooves/mm with a linear dispersion of 0.6nm/mm</td>
+</tr>
+<tr>
+<td valign="top">Instrument Resolution</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">0.010 nm</td>
+</tr>
+<tr>
+<td valign="top">Sample intake</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">About 1 ml/min Min</td>
+</tr>
+<tr>
+<td valign="top">Detection Limits</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Varies according to the element. Can be as low as 0.07 ppb for Mg to 20ppb for some of the rare earth elements</td>
+</tr>
+<tr>
+<td valign="top">Contact Person</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">B.V.Narayana (bvn@materials&#8230;)</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066">
+<div align="center"><span style="color: #ffffff; font-family: Arial;">Atomic Absorption Spectrometer</span></div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163">Model</td>
+<td valign="top" width="19">
+<div align="center">:</div>
+</td>
+<td valign="top">Series AA Spectrometer</td>
+</tr>
+<tr>
+<td valign="top">Make</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Thermo Electron Corporation</td>
+</tr>
+<tr>
+<td valign="top">Elements analyzed</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Common elements including base metals and alkaline earth metals</td>
+</tr>
+<tr>
+<td valign="top">Range</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">upto 5 ppm</td>
+</tr>
+<tr>
+<td valign="top">Sensitivity</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">~ 0.05 ppm</td>
+</tr>
+<tr>
+<td valign="top">Faculty Incharge</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">S.Subramanian</td>
+</tr>
+<tr>
+<td valign="top">Contact Person</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">R.J.Deshpande (rjd@iisc.ac.in)</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066">
+<div align="center">
+<p><span style="color: #ffffff;">High performance liquid chromatography (HPLC) from Waters (Identification, estimation and purification of macromolecules/oligomers/polymers)</span></p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163">Pump</td>
+<td valign="top" width="19">
+<div align="center">:</div>
+</td>
+<td valign="top">Model 515</td>
+</tr>
+<tr>
+<td valign="top">Column</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Sunfire (TM) Reversed-phase HPLC column C18, 5 µ m (4.6 x 250 mm column), Operating range &#8211; pH: 2-8, columns stable upto 6000 psi. Best for purification and impurity profile assays, (Solvents-Acetonitrile)</td>
+</tr>
+<tr>
+<td valign="top">Detectors</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Waters 2414 (RI Detector), Waters 2489 (UV/Vis Detector)</td>
+</tr>
+<tr>
+<td valign="top">Faculty Incharge</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">S.Subramanian (ssmani@iisc.ac.in)</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000066">
+<div align="center">
+<p><span style="color: #ffffff;">Size exclusion chromatography (GPC/SEC) from Waters (For macromolecules/polymers molecular weight distribution analysis)</span></p>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="163">Pump</td>
+<td valign="top" width="19">
+<div align="center">:</div>
+</td>
+<td valign="top">Model 515</td>
+</tr>
+<tr>
+<td valign="top">Column</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Styragel HT 6E THF (7.8 x 300 mm), measuring MW range from 5000-10 7 . Equipped with Waters temperature control module II, working range from ambient to high temperature (140 °C) analysis (Solvents-TCB, THF).</td>
+</tr>
+<tr>
+<td valign="top">Detectors</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Waters 2414 (RI Detector).</td>
+</tr>
+<tr>
+<td valign="top">Faculty Incharge</td>
+<td valign="top">
+<div align="center">:</div>
+</td>
+<td valign="top">Praveen C R (praveen@iisc.ac.in)</td>
+</tr>
+</tbody>
+</table>
 
 ##Electrical behaviour
 
 ##Heat treatment
 <h3>Hot air ovens</h3>
+<ul>
+<li>200 deg. C &#8211; 3 racks</li>
+<li>250 deg. C &#8211; 3 racks</li>
+</ul>
+<h3><strong>Tube furnaces:</h3>
+<ul>
+<li>Two small tube furnaces- 80 mm dia &#8211; 1050 deg. C</li>
+<li>One tube furnace &#8211; 50 mm dia-1300 deg C</li>
+<li>One tube furnace &#8211; 100 mm dia 1700 deg. C</li>
+</ul>
+<p><strong>Box furnaces:</strong></p>
+<ul>
+<li>One box furnace &#8211; chamber size 6&#8243;x1.5&#8242;- 1100 deg. C</li>
+<li>One box furnace- chamber size 6&#8243;x1&#8243;- 1350 deg C</li>
+<li>One box furnace &#8211; chamber size 6&#8243;x6&#8243; &#8211; 1700 deg. C</li>
+</ul>
+<p align="justify"><strong>Note:</strong><br />
+For temperature precision to better than 5 deg. C, you need to take additional steps for calibration. If you want to heat below 300 deg.C, you can find first the difference between the actual and set temperatures by using a thermometer, which can go up to 250 deg. C. These thermometers are available in stores or local companies. Relatively high temperature furnaces should be calibrated with the help of melting point of gold (ask any PhD students in Prof. Aloke Paul&#8217;s lab for help). Note that this procedure is relatively more reliable than other methods.</p>
+<p align="justify">For reliable results, perform your own calibration, especially after changing the tube or thermocouple. For one set of experiments use the same furnace to minimise errors. It is very difficult to calibrate 1700 deg. C furnace running in air. However, we have seen that above 1500 deg. C, furnaces are reliable even without any additional calibration.</p>
 
-<h3>Tube furnaces</h3>
 
 ##Computating clusters
 <h3>List of clusters available</h3>
