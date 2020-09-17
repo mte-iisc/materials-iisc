@@ -914,7 +914,7 @@ High load: 10 mN-1 N</td>
 <li>200 deg. C &#8211; 3 racks</li>
 <li>250 deg. C &#8211; 3 racks</li>
 </ul>
-<h3><strong>Tube furnaces:</h3>
+<h3>Tube furnaces:</h3>
 <ul>
 <li>Two small tube furnaces- 80 mm dia &#8211; 1050 deg. C</li>
 <li>One tube furnace &#8211; 50 mm dia-1300 deg C</li>
