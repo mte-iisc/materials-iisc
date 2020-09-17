@@ -41,7 +41,8 @@ Sturers dual disc grinding and polishing carried out using SiC emery sheets betw
 
 Abrasive wheel cutting machine and Diamond wheel cutting machine.
 Hot compaction facility for sample mounting using Bakelite powder.
-Booking Details
+
+<u>Booking Details</u>
 
 Booking is not required for the department users. After working hours and holidays users should sign the register in the department office to collect the keys (must be returned after use) and outside users must take prior permission from the Chairman and faculty in-charge Prof. Subodh Kumar.
 
