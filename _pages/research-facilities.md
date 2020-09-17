@@ -269,8 +269,8 @@ For tensile and 3 point bending &#8211; Thickness: 2mm, Width: 5mm and Length: 4
 <table>
 <tbody>
 <tr>
-<td colspan="3" valign="top" bgcolor="#000066">
-<div align="center"><span style="color: #cccccc; font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>Hysitron Nano Indentor (located in Department of Mechanical Engineering)</strong></span></div>
+<td colspan="3" valign="top">
+<div align="center"><strong>Hysitron Nano Indentor (located in Department of Mechanical Engineering)</strong></div>
 </td>
 </tr>
 <tr>
@@ -312,7 +312,7 @@ High load: 10 mN-1 N</td>
 <tr>
 <td valign="top">Modes of operation</td>
 <td valign="top">
-<div align="center"><span style="font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>:</strong></span></div>
+<div align="center"><strong>:</strong></div>
 </td>
 <td valign="top">
 <ul>
@@ -327,7 +327,7 @@ High load: 10 mN-1 N</td>
 <tr>
 <td valign="top">Regular Operator</td>
 <td valign="top">
-<div align="center"><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small;"><strong>:</strong></span></div>
+<div align="center"><strong>:</strong></div>
 </td>
 <td valign="top">Rashmi</td>
 </tr>
@@ -341,7 +341,7 @@ High load: 10 mN-1 N</td>
 <tr>
 <td valign="top">Contact Person</td>
 <td valign="top">
-<div align="center"><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small;"><strong>:</strong></span></div>
+<div align="center"><strong>:</strong></div>
 </td>
 <td valign="top">Vikram Jayaram (3243) / Shamsundar (2351)</td>
 </tr>
@@ -352,7 +352,7 @@ High load: 10 mN-1 N</td>
 </tr>
 <tr>
 <td colspan="3" valign="top" bgcolor="#000066">
-<div align="center"><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>CSM instrumented microindentation system</strong></span></div>
+<div align="center"><strong>CSM instrumented microindentation system</strong></div>
 </td>
 </tr>
 <tr>
