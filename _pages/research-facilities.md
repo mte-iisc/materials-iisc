@@ -47,7 +47,46 @@ Hot compaction facility for sample mounting using Bakelite powder.
 Booking is not required for the department users. After working hours and holidays users should sign the register in the department office to collect the keys (must be returned after use) and outside users must take prior permission from the Chairman and faculty in-charge Prof. Subodh Kumar.
 
 <h3>Scanning electron microscope</h3>
-Description
+<u>ESEM Quanta 200, FEI</u>
+W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state backscattered electron detector,Ultra thin window EDS System(EDAX), Resolution at 20 kV:3nm in high vacuum.
+
+<h3>JEOL JXA-8530F Electron Probe Micro analyzer</h3>
+<p>The JXA-8530F is a thermal field emission electron probe micro analyzer combining high SEM resolution with high quality composition analysis of submicron areas. The JEOL JXA-8530F instrument is equipped with 6 WDS detectors (3 for heavy elements and 3 for light elements) and an energy dispersive X-ray spectrometer (EDS). This combination can simultaneously analyse 3 elements WDS + 16 elements EDS plus collect image signals from backscatter and secondary electron detectors.</p>
+<ul>
+<li>High detection sensitivity for trace elements</li>
+<li>High accuracy of quantitative analysis</li>
+<li>High resolving power for adjacent X-ray spectra</li>
+<li>High accuracy of light elements analysis</li>
+</ul>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>Detectable element range : 4Be to 92U Detectable X-ray range:</li>
+<li>Detectable wavelength range with WDS: 0.087 to 9.3 nm</li>
+<li>Detectable energy range with EDS : 20 kev</li>
+<li>Number of Spectrometers: 6 WDS detectors, 1 EDS</li>
+<li>Acc.Voltage: 1 to 30 kV (0.1 kV steps)</li>
+<li>Scanning Magnification: X 40 to 300.000 (W.D.11mm)</li>
+<li>Probe current: 1&#215;10<sup>-12</sup> to 5&#215;10<sup>-7</sup> A</li>
+<li>Probe Current stability: +(-)0.3%/h</li>
+<li>Secondary electron image resolution (SEI): 3.0 nm (WD11mm, 30 kV)</li>
+<li>Backscattered electron image (BEI) : Topo and composition image</li>
+</ul>
+<p><strong>Minimum Probe Size</strong></p>
+<ul>
+<li>40nm (10 kV, 1X 10<sup>-8</sup> A)</li>
+<li>100nm (10 kV, 1X 10<sup>-7</sup> A)</li>
+</ul>
+<p><strong>Specimen size:</strong></p>
+<ul>
+<li>32 mm dia. X 25 mmH</li>
+<li>36 mm dia. X 20 mmH X 4 pcs</li>
+<li>25.5 mm dia X 20 mmH X 9 pcs</li>
+</ul>
+<p><strong>Booking details:</strong></p>
+<ul>
+<li><a href="https://materials.iisc.ac.in/wp-content/uploads/2019/12/central-facility.pdf">Click Here</a> to download user request form.</li>
+<li>R.Ravi(rravi@iisc.ac.in) / Subho Dasgupta(dasgupta@iisc.ac.in) / Satyam Suwas(satyamsuwas@iisc.ac.in)</li>
+</ul>
 
 ## Thermal analysis
 <b><a href="http://afmmslots.afmm.iisc.ac.in:8080/Thermal/" target="_blank">Online booking of thermal analysis facilities</a></b><br>
