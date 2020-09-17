@@ -564,7 +564,7 @@ High load: 10 mN-1 N</td>
 <table>
 <tbody>
 <tr>
-<td colspan="3" valign="top" bgcolor="#000066"><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;"><strong>Particle Size Analyzer</strong></span></td>
+<td colspan="3" valign="top"><strong>Particle Size Analyzer</strong></td>
 </tr>
 <tr>
 <td valign="top" width="211">Machine Model</td>
@@ -602,7 +602,7 @@ High load: 10 mN-1 N</td>
 <td valign="top">R.J.Deshpande, x 3237 (rjd@iisc.ac.in)</td>
 </tr>
 <tr>
-<td colspan="3" valign="top" bgcolor="#000066"><strong><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;">Zetasizer</span></strong></td>
+<td colspan="3" valign="top"><strong>Zetasizer</strong></td>
 </tr>
 <tr>
 <td valign="top" width="211">Machine Model</td>
@@ -647,7 +647,7 @@ High load: 10 mN-1 N</td>
 <td valign="top">R. J. Deshpande, x 3237 (rjd@iisc.ac.in)</td>
 </tr>
 <tr>
-<td colspan="3" valign="top" bgcolor="#000066"><strong><strong><span style="color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif;">Automatic Micropore Physisorption Analyzer</span></strong></strong></td>
+<td colspan="3" valign="top"><strong>Automatic Micropore Physisorption Analyzer</strong></td>
 </tr>
 <tr>
 <td colspan="3" valign="top">(Determining surface area and pore size distribution from 3.5 to 5000 Angstroms)</td>
@@ -712,7 +712,7 @@ High load: 10 mN-1 N</td>
 <tbody>
 <tr>
 <td colspan="3" valign="top" bgcolor="#000066">
-<div align="center"><span style="color: #ffffff; font-family: Arial;">ICP Spectrometer</span></div>
+<div align="center">ICP Spectrometer</div>
 </td>
 </tr>
 <tr>
@@ -773,7 +773,7 @@ High load: 10 mN-1 N</td>
 </tr>
 <tr>
 <td colspan="3" valign="top" bgcolor="#000066">
-<div align="center"><span style="color: #ffffff; font-family: Arial;">Atomic Absorption Spectrometer</span></div>
+<div align="center">Atomic Absorption Spectrometer</div>
 </td>
 </tr>
 <tr>
@@ -830,9 +830,9 @@ High load: 10 mN-1 N</td>
 <table>
 <tbody>
 <tr>
-<td colspan="3" valign="top" bgcolor="#000066">
+<td>
 <div align="center">
-<p><span style="color: #ffffff;">High performance liquid chromatography (HPLC) from Waters (Identification, estimation and purification of macromolecules/oligomers/polymers)</span></p>
+<p>High performance liquid chromatography (HPLC) from Waters (Identification, estimation and purification of macromolecules/oligomers/polymers)</p>
 </div>
 </td>
 </tr>
