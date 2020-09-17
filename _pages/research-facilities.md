@@ -12,7 +12,7 @@ permalink: /facilities
 ## Structural characterisation
 <h3>Optical microscope</h3>
 Optical Microscope
-Carl Zeiss (INVERTED): MAT 200 MOTORISED AXIO VISION 4.7.2 VERSION
+<u>Carl Zeiss (INVERTED): MAT 200 MOTORISED AXIO VISION 4.7.2 VERSION</u>
 
 Plan Achromatic objective lenses: 2.5x/5x/10x/20x/50x/100x
 Phase contrast objectives are 10x and 20x,
