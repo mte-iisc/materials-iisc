@@ -9,7 +9,7 @@ toc_icon: calendar-alt
 ---
 List of students on this page sorted in reverse chronology and according to the program in which they are enrolled. <br>
 
-## PhD Students
+## Ph.D Students
 ### 2020
 <table>
 <tbody>
@@ -176,7 +176,7 @@ List of students on this page sorted in reverse chronology and according to the 
 </tbody>
 </table>
 
-## M.Tech Course students
+## M.Tech Students
 ### 2020
 <table>
 <tbody>
