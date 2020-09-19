@@ -3,6 +3,8 @@
   bullets: false
   captions: true
   images:
+    - src: /assets/images/slider/department.jpg
+      alt: Materials Engineering @ IISc
     - src: /assets/images/slider/33AnnualSymposium.jpg
       alt: 33rd Annual Students' Symposium January 2020
     - src: /assets/images/slider/openday2020.jpg
