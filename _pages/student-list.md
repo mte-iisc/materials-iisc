@@ -119,7 +119,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Abhay Gupta</td><td>Chandan Srivastava
+<tr><td>Abhay Gupta</td><td>Chandan Srivastava</td><td></td></tr>
 <tr><td>Amith G Anil</td><td>S. Subramanian & Praveen C Ramamurthy</td><td></td></tr>
 <tr><td>Anwesha Kanjilal</td><td>Praveen Kumar</td><td></td></tr>  
 <tr><td>Goutam Kumar Majhi</td><td>A.H. Chokshi</td><td></td></tr>
@@ -154,7 +154,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Arnab D.E</td><td>Rajeev Ranjan </td><td></td></tr>
 <tr><td>Gobinda Das Adhikari</td><td>Rajeev Ranjan</td><td></td></tr>
 <tr><td>Yazar KU</td><td>Satyam Suwas</td><td></td></tr>
-<tr><td>Kundankumar Verma (ERP)	Subodh Kumar</td><td></td></tr>
+<tr><td>Kundankumar Verma (ERP)</td><td>	Subodh Kumar</td><td></td></tr>
 <tr><td>Levie Mweene(International)</td><td>Subramanian. S</td><td></td></tr>
 <tr><td>Ananya Tripathi</td><td>Vikram Jayaram & Praveen Kumar</td><td></td></tr>
 <tr><td>Sujata Singh</td><td>Vijay  Sethuraman</td><td></td></tr>
