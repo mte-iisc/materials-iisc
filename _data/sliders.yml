@@ -3,7 +3,13 @@
   bullets: false
   captions: true
   images:
+    - src: /assets/images/slider/AbiToSatyam.jpg
+      alt: Prof. T A Abinandanan handing over charge to Prof. Satyam Suwas as department Chair on 17 August 2020.
+    - src: /assets/images/slider/33AnnualSymposium.jpg
+      alt: 33rd Annual Students' Symposium January 2020
     - src: /assets/images/slider/openday2020.jpg
+      alt: Open Day 2020
+    - src: /assets/images/slider/openday2020-1.jpg
       alt: Open Day 2020
     - src: /assets/images/slider/reunion2019.jpg
       alt: Alumni Reunion 2019
