@@ -176,7 +176,7 @@ List of students on this page sorted in reverse chronology and according to the 
 </tbody>
 </table>
 
-## MTech
+## M.Tech Course students
 ### 2020
 <table>
 <tbody>
