@@ -37,9 +37,9 @@ classes: wide
 
 
 | --------         | ------    | ------------------------------------------------------------ |                         
-| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in     | Bio-materials <br> 3-D printing        |
-| <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Brahm Prakash Chair Professor    | Research interest        |
-| <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.jpg" width=120px>    |  Prof. Prasad KDV Yarlagadda <br> SERB-VAJRA Professor     | Research interest        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in     | 3D Bioprinting and Biomaterials <br> Data analytics forc linical research        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Brahm Prakash Chair Professor    | Basic, translational and clinical research        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.jpg" width=120px>    |  Prof. Prasad KDV Yarlagadda <br> SERB-VAJRA Professor     | Manufacturing <br> Smart systems        |
 
 <br>
 
