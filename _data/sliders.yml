@@ -5,18 +5,8 @@
   images:
     - src: /assets/images/slider/department.jpg
       alt: Materials Engineering @ IISc
-    - src: /assets/images/slider/31stSymposium.png
-      alt: 31st Annual Students' Symposium Logo
-    - src: /assets/images/slider/33AnnualSymposium.jpg
-      alt: 33rd Annual Students' Symposium January 2020
-    - src: /assets/images/slider/openday2020.jpg
-      alt: Open Day 2020
     - src: /assets/images/slider/openday2020-1.jpg
       alt: Open Day 2020
-    - src: /assets/images/slider/reunion2019.jpg
-      alt: Alumni Reunion 2019
-    - src: /assets/images/slider/research.png
-      alt: Research Highlight
     - src: /assets/images/slider/abhik-research-highlight.jpg
       alt: Research Highlight
   settings:

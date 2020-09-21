@@ -241,7 +241,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Ankur Srivastava  </td><td> 	Aloke Paul</td><td></td></tr>
 <tr><td>Kukkala Prasanna Kumar Reddy </td><td>	Satyam Suwas</td><td></td></tr>
 <tr><td>Vyshnavi Ramanadham</td><td> 	T.A. Abinandanan (VJ)</td><td></td></tr>
-<tr><td>Sagar Gupta </td><td>	G.S. Avadhni</td><td></td></tr>
+<tr><td>Sagar Gupta </td><td>	G.S. Avadhani</td><td></td></tr>
 <tr><td>Hitardha Rama </td><td>	Dipanka Banerjee</td><td></td></tr>
 <tr><td>Chitra Wagh  </td><td> 	Chandan Srivastava</td><td></td></tr>
 <tr><td>Aksha Godha </td><td>	Surendra K</td><td></td></tr>
