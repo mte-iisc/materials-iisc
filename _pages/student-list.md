@@ -235,5 +235,27 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>Deepayan Roy</td><td> 	Abhik N Choudhury</td><td></td></tr>
+<tr><td>Rahul Gangwar </td><td>	Vikram Jayaram</td><td></td></tr>
+<tr><td>Ankur Srivastava  </td><td> 	Aloke Paul</td><td></td></tr>
+<tr><td>Kukkala Prasanna Kumar Reddy </td><td>	Satyam Suwas</td><td></td></tr>
+<tr><td>Vyshnavi Ramanadham</td><td> 	T.A. Abinandanan (VJ)</td><td></td></tr>
+<tr><td>Sagar Gupta </td><td>	G.S. Avadhni</td><td></td></tr>
+<tr><td>Hitardha Rama </td><td>	Dipanka Banerjee</td><td></td></tr>
+<tr><td>Chitra Wagh  </td><td> 	Chandan Srivastava</td><td></td></tr>
+<tr><td>Aksha Godha </td><td>	Surendra K</td><td></td></tr>
+<tr><td>Anjali Gawande</td><td> 	Praveen Kumar</td><td></td></tr>
+<tr><td>Purnendu Biswal </td><td>	Karthikeyan S</td><td></td></tr>
+<tr><td>Ajay Sagar  </td><td>	Subodh Kumar</td><td></td></tr>
+<tr><td>Borra Phani Shankar</td><td> 	Kaushik Chatterjee</td><td></td></tr>
+<tr><td>Sangeeta Paul</td><td> 	Chandan Srivastava</td><td></td></tr>
+<tr><td>Hemanta Kumar Meher</td><td> 	R Ravi</td><td></td></tr>
+<tr><td>Santosh Kumar </td><td> 	Subho Dasgupta</td><td></td></tr>
+<tr><td>Nagireddy Vani Pramodh</td><td> 	Praveen C Ramamurthy</td><td></td></tr>
+<tr><td>Panchal Ashutosh Chetan </td><td>	Praveen C Ramamurthy</td><td></td></tr>
+<tr><td>Selva Bala V </td><td>	Praveen C Ramamurthy</td><td></td></tr>
+<tr><td>Akash Wahane Rambhau</td><td> 	Govind S Gupta</td><td></td></tr>
+<tr><td>Abhishek Kumar Singh </td><td>	Suryasarathi Bose</td><td></td></tr>
+<tr><td>Kondeti Prabhu Srikanth </td><td>	Kaushik Chatterjee</td><td></td></tr>
 </tbody>
 </table>
