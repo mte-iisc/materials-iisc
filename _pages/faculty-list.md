@@ -37,7 +37,7 @@ classes: wide
 
 
 | --------         | ------    | ------------------------------------------------------------ |                         
-| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in  <br> <a href="https://materials.iisc.ac.in/faculty/sonal-asthana/" target="_blank">Personal Website</a>   | 3D Bioprinting and Biomaterials <br> Data analytics forc linical research        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in  <br> <a href="https://materials.iisc.ac.in/faculty/sonal-asthana/" target="_blank">Personal Website</a>   | 3D Bioprinting and Biomaterials <br> Data analytics for clinical research        |
 | <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Brahm Prakash Chair Professor <br> <a href="https://materials.iisc.ac.in/wp-content/uploads/2020/09/shervanthi.pdf" target="_blank">Personal Website</a>   | Basic, translational and clinical research        |
 | <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.jpg" width=120px>    |  Prof. Prasad KDV Yarlagadda <br> SERB-VAJRA Professor  <br> <a href="https://staff.qut.edu.au/staff/y.prasad" target="_blank">Personal Website</a>   | Manufacturing <br> Smart systems        |
 
