@@ -3,6 +3,7 @@ title: "Students"
 layout: single
 permalink: /students
 toc: true
+toc_sticky: true
 toc_label: Year of Joining
 toc_icon: calendar-alt
 #classes: wide
