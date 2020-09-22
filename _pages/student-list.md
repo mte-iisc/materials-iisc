@@ -30,11 +30,11 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Sumit Katiyar</td><td></td><td></td></tr>
 <tr><td>Sunando Banerjee</td><td></td><td></td></tr>
 <tr><td>Rishi Raj</td><td>Subodh Kumar</td><td></td></tr>
-<tr><td>Bhure Swapnil Shadanan</td><td>Abhik N. Choudhury</td><td></td></tr>
-<tr><td>Abhijeet Anand</td><td>Subodh Kumar</td><td></td></tr>
-<tr><td>Srilekshmi M.</td><td>Govind S. Gupta</td><td></td></tr>
-<tr><td>Hemant Kumar</td><td>Surendra Kumar M.</td><td></td></tr>
-<tr><td>Gugulothu Sriram Bharath</td><td>Kaushik Chatterjee</td><td></td></tr>
+<tr><td>Bhure Swapnil Shadanan</td><td>Abhik N. Choudhury</td><td>swapnilbhure</td></tr>
+<tr><td>Abhijeet Anand</td><td>Subodh Kumar</td><td>abhijeetanan</td></tr>
+<tr><td>Srilekshmi M.</td><td>Govind S. Gupta</td><td>srilekshmim</td></tr>
+<tr><td>Hemant Kumar</td><td>Surendra Kumar M.</td><td>hemantkumar12</td></tr>
+<tr><td>Gugulothu Sriram Bharath</td><td>Kaushik Chatterjee</td><td>bharathg</td></tr>
 </tbody>
 </table>
 
@@ -42,26 +42,26 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Agarwal Piyush Sunil</td><td>	Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Akhand Pratap Singh</td><td>	Chandan Srivastava</td><td></td></tr>
-<tr><td>Deepak Sharma</td><td>	Rajeev Ranjan</td><td></td></tr>
-<tr><td>Guttula Mohan Kumar</td><td>	Chandan Srivastava</td><td></td></tr>
-<tr><td>Pooja Punetha</td><td>	Rajeev Ranjan</td><td></td></tr>
-<tr><td>Prantosh Das</td><td>	Subodh Kumar</td><td></td></tr>
-<tr><td>Punam Pragya</td><td>	Karthikeyan S</td><td></td></tr>
-<tr><td>Ria Sen Gupta</td><td>	Suryasarathi Bose </td><td></td></tr>
-<tr><td>Shivangi Srivastava</td><td>	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Sureddy Tejanath Reddy</td><td>Satyam Suwas</td><td></td></tr>
-<tr><td>Arijit Jana</td><td>Subho Dasgupta</td><td></td></tr>
-<tr><td>AVIK MONDAL (ERP)</td><td>	Aloke Paul </td><td></td></tr>
-<tr><td>JIVAN KUMAR (ERP)</td><td>	Satyam Suwas</td><td></td></tr>
-<tr><td>BASAVARAJU UPPARA (ERP)</td><td>	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Ankit Malik</td><td>	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Jagadeshvaran P L </td><td>	Suryasarathi Bose</td><td></td></tr>
-<tr><td>Sushree Sangita Priyadarsini</td><td> 	Subho Dasgupta</td><td></td></tr>
-<tr><td>Sazid Khan </td><td>	Karthikeyan S</td><td></td></tr>
-<tr><td>Vijaykumar Hiremath </td><td>	Govind S Gupta</td><td></td></tr>
-<tr><td>Mrityunjay Shukla</td><td>	T.A. Abinandanan </td><td></td></tr>
+<tr><td>Agarwal Piyush Sunil</td><td>	Kaushik Chatterjee</td><td>apiyush</td></tr>
+<tr><td>Akhand Pratap Singh</td><td>	Chandan Srivastava</td><td>akhandsingh</td></tr>
+<tr><td>Deepak Sharma</td><td>	Rajeev Ranjan</td><td>deepaksharma</td></tr>
+<tr><td>Guttula Mohan Kumar</td><td>	Chandan Srivastava</td><td>mohankg</td></tr>
+<tr><td>Pooja Punetha</td><td>	Rajeev Ranjan</td><td>poojapunetha</td></tr>
+<tr><td>Prantosh Das</td><td>	Subodh Kumar</td><td>prantoshdas</td></tr>
+<tr><td>Punam Pragya</td><td>	Karthikeyan S</td><td>punampragya</td></tr>
+<tr><td>Ria Sen Gupta</td><td>	Suryasarathi Bose </td><td>riagupta</td></tr>
+<tr><td>Shivangi Srivastava</td><td>	Praveen C Ramamurthy</td><td>shivangisriv</td></tr>
+<tr><td>Sureddy Tejanath Reddy</td><td>Satyam Suwas</td><td>tejanaths</td></tr>
+<tr><td>Arijit Jana</td><td>Subho Dasgupta</td><td>arijitjana</td></tr>
+<tr><td>AVIK MONDAL (ERP)</td><td>	Aloke Paul </td><td>avikmondal</td></tr>
+<tr><td>JIVAN KUMAR (ERP)</td><td>	Satyam Suwas</td><td>jivankumar</td></tr>
+<tr><td>BASAVARAJU UPPARA (ERP)</td><td>	Praveen C Ramamurthy</td><td>basavarajuu</td></tr>
+<tr><td>Ankit Malik</td><td>	Praveen C Ramamurthy</td><td>ankitmalik</td></tr>
+<tr><td>Jagadeshvaran P L </td><td>	Suryasarathi Bose</td><td>jagadeshvaranl</td></tr>
+<tr><td>Sushree Sangita Priyadarsini</td><td> 	Subho Dasgupta</td><td>sushreep</td></tr>
+<tr><td>Sazid Khan </td><td>	Karthikeyan S</td><td>sazidkhan</td></tr>
+<tr><td>Vijaykumar Hiremath </td><td>	Govind S Gupta</td><td>vijayh</td></tr>
+<tr><td>Mrityunjay Shukla</td><td>	T.A. Abinandanan </td><td>mrityunjays</td></tr>
 </tbody>
 </table>
 
@@ -69,31 +69,31 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Poulami Banerjee</td><td>Suryasarathi Bose & Subodh Kumar</td><td></td></tr>
-<tr><td>Pritiranjan Mondal</td><td>Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Avasarala Sankeerthana</td><td>Suryasarathi Bose</td><td></td></tr>
-<tr><td>Sruthi C S</td><td>	Ashok M Raichur </td><td></td></tr>
-<tr><td>Sahibzada Roohan Farooq Lala</td><td>Chandan Srivastava </td><td></td></tr>
-<tr><td>Sachin Kumar</td><td>	Vikram Jayaram</td><td></td></tr>
-<tr><td>Jinu Joji</td><td>	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Shavi Agrawal</td><td>	Satyam Suwas & Avadhani G S</td><td></td></tr>
-<tr><td>Madhavi Tripathi </td><td> 	Ashok M Raichur</td><td></td></tr>
-<tr><td>Sandeep Kumar Mondal</td><td>	Subho Dasgupta</td><td></td></tr>
-<tr><td>Sushma I</td><td>	Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Saurabh Kumar Gupta </td><td>	Satyam Suwas</td><td></td></tr>
-<tr><td>Faizan Hijazi </td><td>Praveen Kumar</td><td></td></tr>
-<tr><td>Telpande Swanand Prashant</td><td>Praveen Kumar</td><td></td></tr>
-<tr><td>Ram Prakash Singh</td><td>Rajeev Ranjan</td><td></td></tr>
-<tr><td>Ajisafe Victor Ayobami International</td><td>Ashok M Raichur </td><td></td></tr>
-<tr><td>Raj Jung Mahat  International (MSc)</td><td>	Praveen Kumar </td><td></td></tr>
-<tr><td>Aashranth (ERP)</td><td>	Satyam Suwas </td><td></td></tr>
-<tr><td>Nair Jitin Satyakumar </td><td>	T.A. Abinandanan</td><td></td></tr>
-<tr><td>Kompella Sai Jyotheender </td><td>	Chandan Srivastava</td><td></td></tr>
-<tr><td>Anuj Dash (GN)</td><td> 	T.A. Abinandanan</td><td></td></tr>
-<tr><td>Gadi Venkat Arunchatanya </td><td>	Govind S Gupta </td><td></td></tr>
-<tr><td>Jyoti Ranjan Pradhan</td><td> 	Subho Dasgupta</td><td></td></tr>
-<tr><td>Sandeep B.S </td><td>	Praveen C Ramamurthy </td><td></td></tr>
-<tr><td>Devansh Sharma </td><td>	Suryasarathi Bose</td><td></td></tr>
+<tr><td>Poulami Banerjee</td><td>Suryasarathi Bose & Subodh Kumar</td><td>poulamib</td></tr>
+<tr><td>Pritiranjan Mondal</td><td>Kaushik Chatterjee</td><td>pritiranjanm</td></tr>
+<tr><td>Avasarala Sankeerthana</td><td>Suryasarathi Bose</td><td>sankeerthanaa</td></tr>
+<tr><td>Sruthi C S</td><td>	Ashok M Raichur </td><td>sruthic</td></tr>
+<tr><td>Sahibzada Roohan Farooq Lala</td><td>Chandan Srivastava </td><td>roohanfarooq</td></tr>
+<tr><td>Sachin Kumar</td><td>	Vikram Jayaram</td><td>ksachin</td></tr>
+<tr><td>Jinu Joji</td><td>	Praveen C Ramamurthy</td><td>jinujoji</td></tr>
+<tr><td>Shavi Agrawal</td><td>	Satyam Suwas & Avadhani G S</td><td>shaviagrawal</td></tr>
+<tr><td>Madhavi Tripathi </td><td> 	Ashok M Raichur</td><td>madhavit</td></tr>
+<tr><td>Sandeep Kumar Mondal</td><td>	Subho Dasgupta</td><td>sandeepkm</td></tr>
+<tr><td>Sushma I</td><td>	Kaushik Chatterjee</td><td>sushmakumari</td></tr>
+<tr><td>Saurabh Kumar Gupta </td><td>	Satyam Suwas</td><td>saurabhkg</td></tr>
+<tr><td>Faizan Hijazi </td><td>Praveen Kumar</td><td>faizanh</td></tr>
+<tr><td>Telpande Swanand Prashant</td><td>Praveen Kumar</td><td>swanandt</td></tr>
+<tr><td>Ram Prakash Singh</td><td>Rajeev Ranjan</td><td>rams</td></tr>
+<tr><td>Ajisafe Victor Ayobami International</td><td>Ashok M Raichur </td><td>ajisafea</td></tr>
+<tr><td>Raj Jung Mahat  International (MSc)</td><td>	Praveen Kumar </td><td>rajmahat</td></tr>
+<tr><td>Aashranth (ERP)</td><td>	Satyam Suwas </td><td>aashranthb</td></tr>
+<tr><td>Nair Jitin Satyakumar </td><td>	T.A. Abinandanan</td><td>jitins</td></tr>
+<tr><td>Kompella Sai Jyotheender </td><td>	Chandan Srivastava</td><td>kompellaj</td></tr>
+<tr><td>Anuj Dash (GN)</td><td> 	T.A. Abinandanan</td><td>anujdash</td></tr>
+<tr><td>Gadi Venkat Arunchatanya </td><td>	Govind S Gupta </td><td>gadia</td></tr>
+<tr><td>Jyoti Ranjan Pradhan</td><td> 	Subho Dasgupta</td><td>jyotipradhan</td></tr>
+<tr><td>Sandeep B.S </td><td>	Praveen C Ramamurthy </td><td>ssandeep</td></tr>
+<tr><td>Devansh Sharma </td><td>	Suryasarathi Bose</td><td>devanshs</td></tr>
 </tbody>
 </table>
 
@@ -101,18 +101,18 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Akshay Pratap Singh</td><td>	Abhik N Chowdhury</td><td></td></tr>
-<tr><td>Avinash Kumar</td><td>	Rajeev Ranjan</td><td></td></tr>
-<tr><td>Aninda Roy</td><td>	Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Bandla Divya Sri</td><td>	Chokshi.A.H</td><td></td></tr>
-<tr><td>Deepak Kumar</td><td>	Satyam Suwas  </td><td></td></tr>
-<tr><td>Keerti Pandey</td><td>	A.H. Chokshi </td><td></td></tr>
-<tr><td>Muni Kumar K.</td><td>	 K. Chattopadhyay & Prof. Aloke Paul)</td><td></td></tr>
-<tr><td>Shweta Shekhar</td><td>	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Soumita Mondal</td><td>	Satyam Suwas  </td><td></td></tr>
-<tr><td>Subhasish Maiti</td><td>	Suryasarathi Bose</td><td></td></tr>
-<tr><td>Ajaj  Rijal (International - MSc)</td><td>	Praveen Kumar </td><td></td></tr>
-<tr><td>Ahmed Aliyu (International)</td><td> 	Chandan Srivastava </td><td></td></tr>
+<tr><td>Akshay Pratap Singh</td><td>	Abhik N Chowdhury</td><td>akshaysingh</td></tr>
+<tr><td>Avinash Kumar</td><td>	Rajeev Ranjan</td><td>avinashkumar</td></tr>
+<tr><td>Aninda Roy</td><td>	Kaushik Chatterjee</td><td>anindoroy</td></tr>
+<tr><td>Bandla Divya Sri</td><td>	Chokshi.A.H</td><td>divyabandla</td></tr>
+<tr><td>Deepak Kumar</td><td>	Satyam Suwas  </td><td>deepakk</td></tr>
+<tr><td>Keerti Pandey</td><td>	A.H. Chokshi </td><td>keertipandey</td></tr>
+<tr><td>Muni Kumar K.</td><td>	 K. Chattopadhyay & Prof. Aloke Paul)</td><td>kandulakumar</td></tr>
+<tr><td>Shweta Shekhar</td><td>	Praveen C Ramamurthy</td><td>shwetashekar</td></tr>
+<tr><td>Soumita Mondal</td><td>	Satyam Suwas  </td><td>soumitam</td></tr>
+<tr><td>Subhasish Maiti</td><td>	Suryasarathi Bose</td><td>subhasishm</td></tr>
+<tr><td>Ajaj  Rijal (International - MSc)</td><td>	Praveen Kumar </td><td>ajayrijal</td></tr>
+<tr><td>Ahmed Aliyu (International)</td><td> 	Chandan Srivastava </td><td>ahmedaliyu</td></tr>
 </tbody>
 </table>
 
@@ -120,22 +120,22 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Abhay Gupta</td><td>Chandan Srivastava</td><td></td></tr>
-<tr><td>Amith G Anil</td><td>S. Subramanian & Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Anwesha Kanjilal</td><td>Praveen Kumar</td><td></td></tr>  
-<tr><td>Goutam Kumar Majhi</td><td>A.H. Chokshi</td><td></td></tr>
-<tr><td>Khanna Sumeet Rajesh</td><td>Abhik N Choudhury</td><td></td></tr>  
-<tr><td>Nilawar Sagar Ram</td><td>Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Priya Goel</td><td>Vikram Jayaram </td><td></td></tr>
-<tr><td>Radhika Wazalwar</td><td>Ashok M Raichur</td><td></td></tr>
-<tr><td>Soumya Mishra</td><td>T.A. Abinandanan</td><td></td></tr>
-<tr><td>Ujjval Bansal</td><td>Aloke Paul /K. Chattopadhyay </td><td></td></tr>
-<tr><td>Yudhajit Bhattacharjee</td><td>	Suryasarathi Bose </td><td></td></tr>
-<tr><td>Devabharathi N</td><td>	Subho Dasgupta</td><td></td></tr>
-<tr><td>Mitta Divya</td><td>Subho Dasgupta</td><td></td></tr>
-<tr><td>Tanyaradzwa Sympathy Muzata</td><td>Suryasarathi Bose</td><td></td></tr>
-<tr><td>Naveen Kumar</td><td>Naveen Kumar </td><td></td></tr>
-<tr><td>Shrutee L</td><td>Govind S Gupta</td><td></td></tr>
+<tr><td>Abhay Gupta</td><td>Chandan Srivastava</td><td>abhaygupta</td></tr>
+<tr><td>Amith G Anil</td><td>S. Subramanian & Praveen C Ramamurthy</td><td>amithanil</td></tr>
+<tr><td>Anwesha Kanjilal</td><td>Praveen Kumar</td><td>anweshak</td></tr>  
+<tr><td>Goutam Kumar Majhi</td><td>A.H. Chokshi</td><td>goutammajhi</td></tr>
+<tr><td>Khanna Sumeet Rajesh</td><td>Abhik N Choudhury</td><td>sumeetkhanna</td></tr>  
+<tr><td>Nilawar Sagar Ram</td><td>Kaushik Chatterjee</td><td>sagarnilawar</td></tr>
+<tr><td>Priya Goel</td><td>Vikram Jayaram </td><td>priyagoel</td></tr>
+<tr><td>Radhika Wazalwar</td><td>Ashok M Raichur</td><td>radhikaw</td></tr>
+<tr><td>Soumya Mishra</td><td>T.A. Abinandanan</td><td>soumyamishra</td></tr>
+<tr><td>Ujjval Bansal</td><td>Aloke Paul /K. Chattopadhyay </td><td>ujjvalbansal</td></tr>
+<tr><td>Yudhajit Bhattacharjee</td><td>	Suryasarathi Bose </td><td>yudhajitb</td></tr>
+<tr><td>Devabharathi N</td><td>	Subho Dasgupta</td><td>devabharathi</td></tr>
+<tr><td>Mitta Divya</td><td>Subho Dasgupta</td><td>mittadivya</td></tr>
+<tr><td>Tanyaradzwa Sympathy Muzata</td><td>Suryasarathi Bose</td><td>tanyaradzwam</td></tr>
+<tr><td>Naveen Kumar</td><td>Rajeev Ranjan </td><td>kumarnaveen</td></tr>
+<tr><td>Shrutee L</td><td>Govind S Gupta</td><td>shruteel</td></tr>
 </tbody>
 </table>
 
@@ -143,23 +143,23 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Aramanda Shanmukha Kiran</td><td>Abhik N.Chowdhury & K. Chattopadhyay</td><td></td></tr>
-<tr><td>Vura Sirisha</td><td>Ashok M. Raichur</td><td></td></tr>
-<tr><td>Sweety Arora</td><td>Chandan Srivastava</td><td></td></tr>
-<tr><td>Sarvesh Kumar</td><td>Chattopadhyay. K & Satyam Suwas </td><td></td></tr>
-<tr><td>Abhinav Arya</td><td>A.H. Chokshi</td><td></td></tr>
-<tr><td>Fiyanshu Kaka</td><td>Praveen C Ramamurthy </td><td></td></tr>
-<tr><td>Angappan M (ERP)</td><td>Praveen C Ramamurthy </td><td></td></tr>
-<tr><td>Shobhit Pratap Singh</td><td>Praveen Kumar</td><td></td></tr>
-<tr><td>Anupam Mishra</td><td>	Rajeev Ranjan & Aloke Paul </td><td></td></tr>
-<tr><td>Arnab D.E</td><td>Rajeev Ranjan </td><td></td></tr>
-<tr><td>Gobinda Das Adhikari</td><td>Rajeev Ranjan</td><td></td></tr>
-<tr><td>Yazar KU</td><td>Satyam Suwas</td><td></td></tr>
-<tr><td>Kundankumar Verma (ERP)</td><td>	Subodh Kumar</td><td></td></tr>
-<tr><td>Levie Mweene(International)</td><td>Subramanian. S</td><td></td></tr>
-<tr><td>Ananya Tripathi</td><td>Vikram Jayaram & Praveen Kumar</td><td></td></tr>
-<tr><td>Sujata Singh</td><td>Vijay  Sethuraman</td><td></td></tr>
-<tr><td>Gyan Shankar</td><td>Satyam Suwas</td><td></td></tr>
+<tr><td>Aramanda Shanmukha Kiran</td><td>Abhik N.Chowdhury & K. Chattopadhyay</td><td>shanmukhaa</td></tr>
+<tr><td>Vura Sirisha</td><td>Ashok M. Raichur</td><td>sirishavura</td></tr>
+<tr><td>Sweety Arora</td><td>Chandan Srivastava</td><td>arorasweety</td></tr>
+<tr><td>Sarvesh Kumar</td><td>Chattopadhyay. K & Satyam Suwas </td><td>sarveshkumar</td></tr>
+<tr><td>Abhinav Arya</td><td>A.H. Chokshi</td><td>abhinavarya</td></tr>
+<tr><td>Fiyanshu Kaka</td><td>Praveen C Ramamurthy </td><td>fiyanshukaka</td></tr>
+<tr><td>Angappan M (ERP)</td><td>Praveen C Ramamurthy </td><td>angappanm</td></tr>
+<tr><td>Shobhit Pratap Singh</td><td>Praveen Kumar</td><td>shobhitsingh</td></tr>
+<tr><td>Anupam Mishra</td><td>	Rajeev Ranjan & Aloke Paul </td><td>anupammishra</td></tr>
+<tr><td>Arnab D.E</td><td>Rajeev Ranjan </td><td>arnabde</td></tr>
+<tr><td>Gobinda Das Adhikari</td><td>Rajeev Ranjan</td><td>gobindaa</td></tr>
+<tr><td>Yazar KU</td><td>Satyam Suwas</td><td>yazark</td></tr>
+<tr><td>Kundankumar Verma (ERP)</td><td>	Subodh Kumar</td><td>kundankv</td></tr>
+<tr><td>Levie Mweene(International)</td><td>Subramanian. S</td><td>leviemweene</td></tr>
+<tr><td>Ananya Tripathi</td><td>Vikram Jayaram & Praveen Kumar</td><td>ananyat</td></tr>
+<tr><td>Sujata Singh</td><td>Vijay  Sethuraman</td><td>sujatasingh</td></tr>
+<tr><td>Gyan Shankar</td><td>Satyam Suwas</td><td>gyanshankar</td></tr>
 </tbody>
 </table>
 
@@ -167,13 +167,13 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Srijan Acharya</td><td>Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Mousumi Beto</td><td>Ashok M. Raichur</td><td></td></tr>
-<tr><td>Esakki Raja N.</td><td>Alok Paul & Vikram Jayaram</td><td></td></tr>
-<tr><td>Bhalchandra Bhadak Vikram</td><td>Abhik N. Chowdhury</td><td></td></tr>
-<tr><td>Sonawane Dipali Shivaji</td><td>Praveen Kumar</td><td></td></tr>
-<tr><td>Krishna Kamlesh Verma</td><td>Subodh Kumar</td><td></td></tr>
-<tr><td>Syed Idrees Afzal Jalali</td><td>Vikram Jayaram</td><td></td></tr>
+<tr><td>Srijan Acharya</td><td>Kaushik Chatterjee</td><td>srijana</td></tr>
+<tr><td>Mousumi Beto</td><td>Ashok M. Raichur</td><td>mousumibeto</td></tr>
+<tr><td>Esakki Raja N.</td><td>Alok Paul & Vikram Jayaram</td><td>esakkirajan</td></tr>
+<tr><td>Bhalchandra Bhadak Vikram</td><td>Abhik N. Chowdhury</td><td>bhalchandrab</td></tr>
+<tr><td>Sonawane Dipali Shivaji</td><td>Praveen Kumar</td><td>dipalis</td></tr>
+<tr><td>Krishna Kamlesh Verma</td><td>Subodh Kumar</td><td>krishnakv</td></tr>
+<tr><td>Syed Idrees Afzal Jalali</td><td>Vikram Jayaram</td><td>syedjalali</td></tr>
 </tbody>
 </table>
 
@@ -236,27 +236,27 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Deepayan Roy</td><td> 	Abhik N Choudhury</td><td></td></tr>
-<tr><td>Rahul Gangwar </td><td>	Vikram Jayaram</td><td></td></tr>
-<tr><td>Ankur Srivastava  </td><td> 	Aloke Paul</td><td></td></tr>
-<tr><td>Kukkala Prasanna Kumar Reddy </td><td>	Satyam Suwas</td><td></td></tr>
-<tr><td>Vyshnavi Ramanadham</td><td> 	T.A. Abinandanan (VJ)</td><td></td></tr>
-<tr><td>Sagar Gupta </td><td>	G.S. Avadhani</td><td></td></tr>
-<tr><td>Hitardha Rama </td><td>	Dipanka Banerjee</td><td></td></tr>
-<tr><td>Chitra Wagh  </td><td> 	Chandan Srivastava</td><td></td></tr>
-<tr><td>Aksha Godha </td><td>	Surendra K</td><td></td></tr>
-<tr><td>Anjali Gawande</td><td> 	Praveen Kumar</td><td></td></tr>
-<tr><td>Purnendu Biswal </td><td>	Karthikeyan S</td><td></td></tr>
-<tr><td>Ajay Sagar  </td><td>	Subodh Kumar</td><td></td></tr>
-<tr><td>Borra Phani Shankar</td><td> 	Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Sangeeta Paul</td><td> 	Chandan Srivastava</td><td></td></tr>
-<tr><td>Hemanta Kumar Meher</td><td> 	R Ravi</td><td></td></tr>
-<tr><td>Santosh Kumar </td><td> 	Subho Dasgupta</td><td></td></tr>
-<tr><td>Nagireddy Vani Pramodh</td><td> 	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Panchal Ashutosh Chetan </td><td>	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Selva Bala V </td><td>	Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Akash Wahane Rambhau</td><td> 	Govind S Gupta</td><td></td></tr>
-<tr><td>Abhishek Kumar Singh </td><td>	Suryasarathi Bose</td><td></td></tr>
-<tr><td>Kondeti Prabhu Srikanth </td><td>	Kaushik Chatterjee</td><td></td></tr>
+<tr><td>Deepayan Roy</td><td> 	Abhik N Choudhury</td><td>deepayanroy</td></tr>
+<tr><td>Rahul Gangwar </td><td>	Vikram Jayaram</td><td>rahulgangwar</td></tr>
+<tr><td>Ankur Srivastava  </td><td> 	Aloke Paul</td><td>sankur</td></tr>
+<tr><td>Kukkala Prasanna Kumar Reddy </td><td>	Satyam Suwas</td><td>prasannakr</td></tr>
+<tr><td>Vyshnavi Ramanadham</td><td> 	T.A. Abinandanan (VJ)</td><td>vyshnavir</td></tr>
+<tr><td>Sagar Gupta </td><td>	G.S. Avadhni</td><td>sagargupta</td></tr>
+<tr><td>Hitardha Rama </td><td>	Dipanka Banerjee</td><td>hitardharama</td></tr>
+<tr><td>Chitra Wagh  </td><td> 	Chandan Srivastava</td><td>chitrawagh</td></tr>
+<tr><td>Akshat Godha </td><td>	Surendra K</td><td>akshatgodha</td></tr>
+<tr><td>Anjali Gawande</td><td> 	Praveen Kumar</td><td>anjali17158</td></tr>
+<tr><td>Purnendu Biswal </td><td>	Karthikeyan S</td><td>purnendub</td></tr>
+<tr><td>Ajay Sagar  </td><td>	Subodh Kumar</td><td>ajaysagar</td></tr>
+<tr><td>Borra Phani Shankar</td><td> 	Kaushik Chatterjee</td><td>phaniborra</td></tr>
+<tr><td>Sangeeta Paul</td><td> 	Chandan Srivastava</td><td>sangeetapaul</td></tr>
+<tr><td>Hemanta Kumar Meher</td><td> 	R Ravi</td><td>hemantameher</td></tr>
+<tr><td>Santosh Kumar </td><td> 	Subho Dasgupta</td><td>ksantosh </td></tr>
+<tr><td>Nagireddy Vani Pramodh</td><td> 	Praveen C Ramamurthy</td><td>nagireddyp</td></tr>
+<tr><td>Panchal Ashutosh Chetan </td><td>	Praveen C Ramamurthy</td><td>ashutoshpanc</td></tr>
+<tr><td>Selva Bala V </td><td>	Praveen C Ramamurthy</td><td>selvav</td></tr>
+<tr><td>Akash Wahane Rambhau</td><td> 	Govind S Gupta</td><td>akashwahane</td></tr>
+<tr><td>Abhishek Kumar Singh </td><td>	Suryasarathi Bose</td><td>abhishekks</td></tr>
+<tr><td>Kondeti Prabhu Srikanth </td><td>	Kaushik Chatterjee</td><td>prabhus</td></tr>
 </tbody>
 </table>
