@@ -182,6 +182,53 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<TR><TD> Abhipshit Kumar</td><td></td><td></td></tr>
+<TR><TD> Ajay Kumar Chaurasia</td><td></td><td></td></tr>
+<TR><TD> Amerjit</td><td></td><td></td></tr>
+<TR><TD> Anant Kunar</td><td></td><td></td></tr>
+<TR><TD> Anvesh Nathani</td><td></td><td></td></tr>
+<TR><TD> Arjun Kumar</td><td></td><td></td></tr>
+<TR><TD> Arkala Anuvrath</td><td></td><td></td></tr>
+<TR><TD> Arnob Samui</td><td></td><td></td></tr>
+<TR><TD> Chandan Rao K</td><td></td><td></td></tr>
+<TR><TD> Cheathan G</td><td></td><td></td></tr>
+<TR><TD> Deepika Kumari Sahu</td><td></td><td></td></tr>
+<TR><TD> Dineshkumar M</td><td></td><td></td></tr>
+<TR><TD> Favas K</td><td></td><td></td></tr>
+<TR><TD> Gangavarapu Shashidhar</td><td></td><td></td></tr>
+<TR><TD> Hariom Prakash</td><td></td><td></td></tr>
+<TR><TD> Harshavardhan Sanjay Patil</td><td></td><td></td></tr>
+<TR><TD> Himanshu Kumar</td><td></td><td></td></tr>
+<TR><TD> Ingale tirthesh Ravindra</td><td></td><td></td></tr>
+<TR><TD> Jayant Kumar</td><td></td><td></td></tr>
+<TR><TD> Jyoti Meena</td><td></td><td></td></tr>
+<TR><TD> Kiruthika A</td><td></td><td></td></tr>
+<TR><TD> Kolipyak Sravan</td><td></td><td></td></tr>
+<TR><TD> Kolluru Naveen</td><td></td><td></td></tr>
+<TR><TD> Kunapuli Susmitha</td><td></td><td></td></tr>
+<TR><TD> Laxmidhar Majhi</td><td></td><td></td></tr>
+<TR><TD> Navneet Choudhary</td><td></td><td></td></tr>
+<TR><TD> Pagadala Vikram Reddy</td><td></td><td></td></tr>
+<TR><TD> Palagiri Uday Kumar</td><td></td><td></td></tr>
+<TR><TD> Pankaj Kumar</td><td></td><td></td></tr>
+<TR><TD> Prashant K</td><td></td><td></td></tr>
+<TR><TD> Prasoon Pathak</td><td></td><td></td></tr>
+<TR><TD> Rashmi Ranjan Sethi</td><td></td><td></td></tr>
+<TR><TD> Rohini Haribhau Bhoyar</td><td></td><td></td></tr>
+<TR><TD> Saaqib Raahi</td><td></td><td></td></tr>
+<TR><TD> Sagar Kulkarni</td><td></td><td></td></tr>
+<TR><TD> Sanyam Nitin Totade</td><td></td><td></td></tr>
+<TR><TD> Satyam Kumar</td><td></td><td></td></tr>
+<TR><TD> Saurabh Kumar</td><td></td><td></td></tr>
+<TR><TD> Sradha suman Khuntia</td><td></td><td></td></tr>
+<TR><TD> Sreya S</td><td></td><td></td></tr>
+<TR><TD> Sridivya Chintha</td><td></td><td></td></tr>
+<TR><TD> Sunil Bhagtani</td><td></td><td></td></tr>
+<TR><TD> Sushil Kumar ram</td><td></td><td></td></tr>
+<TR><TD> Tanneer Niranjan </td><td></td><td></td></tr>
+<TR><TD> Tharun Kumar</td><td></td><td></td></tr>
+<TR><TD> Vishal Kumar rana</td><td></td><td></td></tr>
+<TR><TD> Yalala Akshith</td><td></td><td></td></tr>
 <tr><td>ABHIPSHIT KUMAR</td><td></td><td></td></tr>
 <tr><td>AJAY KUMAR CHAURASIA</td><td></td><td></td></tr>
 <tr><td>AMERJIT</td><td></td><td></td></tr>
