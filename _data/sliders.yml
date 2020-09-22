@@ -10,7 +10,7 @@
     - src: /assets/images/slider/abhik-research-highlight.jpg
       alt: Research Highlight
   settings:
-    height: 400
+    height: 450
     effect: "'fade'"
     interval: 4000
     effect: "'fade'"

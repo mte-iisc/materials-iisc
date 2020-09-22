@@ -1,15 +1,13 @@
 # main links
 main:
+  - title: "About Us"
+    url: /about-us
   - title: "News"
     url: /news
   - title: "Events"
     url: /events
   - title: "Courses"
     url: /courses
-  - title: "Gallery"
-    url: /gallery
-  - title: "Contact"
-    url: /contact
 sidelinks:
   - title: "Research"
     children:
@@ -27,13 +25,13 @@ sidelinks:
               url: /students
             - title: "Staff"
               url: /staff
-  - title: "Join Us"
+            - title: "Alumni"
+              url: /alumni
+  - title: "Engage"
     children:
-            - title: "As faculty"
+            - title: "Join as faculty"
               url: /prospective-faculty
-            - title: "As student"
+            - title: "Prospective students"
               url: /prospective-student
-  - title: "Locate Us"
-    children:
-            - title: "Indian Institute of Science<br>Javanica Marg<br>Bengaluru 560012<br>India"
-              url: /maps
+            - title: "Support us"
+              url: /donate

@@ -1,8 +1,9 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+      <!--li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li-->
     {% endif %}
+          <li><a href="{{ site.baseurl }}/contact"><i class="far fa-address-card" aria-hidden="true"></i> Contact</a></li>
 
     {% if site.footer.links %}
       {% for link in site.footer.links %}
@@ -12,7 +13,7 @@
       {% endfor %}
     {% endif %}
 
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <!--li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li-->
   </ul>
 </div>
 
