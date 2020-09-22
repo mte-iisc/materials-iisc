@@ -1,7 +1,7 @@
 ---
 title: "Chair"
 layout: single
-permalink: faculty/chair
+permalink: /chair
 classes: wide
 ---
 
