@@ -4,4 +4,6 @@ layout: archive
 classes: wide
 permalink: /courses
 ---
-<a href="/courses/list-of-coursees.pdf">List of courses</a>
+<a href="/pdfs/list-of-coursees.pdf">List of courses</a>
+<a href="/Scheme-of-Instruction-2020-21.pdf">Scheme of Instruction 2020</a>
+<a href="https://indianinstituteofscience.sharepoint.com/sites/MTE"> MTE Bulletin Board</a>
