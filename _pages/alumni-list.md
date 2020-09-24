@@ -11,7 +11,7 @@ toc_icon: calendar-alt
 List of alumnus on this page sorted in reverse chronology and according to the program in which they were graduated. <br>
 
 ## Ph.D
-###2019
+### 2019
 <p>Biswaranjan Dash<br>
 Prof. Karthikeyan S<br>
 Strain hardening in extruded pure Magnesium</p>
@@ -25,7 +25,7 @@ Modelling Chemistry and  Structure of Concentrated Alloys at the Atomic Scale</p
 Prof. Rajeev Ranjan<br>
 Novel Phenomena Associated with giant tetragonality in the ferroelectric BiFeO3 – PbtTiO3 system</p>
 
-###2018
+### 2018
 <p>Agrawal Priyanka Kantibhai<br>
 Prof. Dipankar Banerjee<br>
 Dynamic Strain Aging and Creep in near-a ti Alloy, IMI834</p>
@@ -108,7 +108,7 @@ Architecting conjugated molecules for band gap engineering and photostability </
 Prof. Subodh Kumar &#038; Prof. Satyam Suwas<br>
 Development of wrough Mg-Li based alloys with improved strength and ductility</p>
 
-###2017
+### 2017
 <p>Suman Sarkar<br>
 Prof. K Chattopadhyay (Retired) Prof. Chandan Srivastava<br>
 Development of New High Strength Alloy in Cu-Fe-Si System through rapid solidification</p>
@@ -152,7 +152,7 @@ Effect of humidity and temperature on wear of TiN and TiAIN coatings </p>
 Prof. Ashok M Raichur<br>
 Nanostructured toughening agents for tetrafunctional epoxy composites </p>
 
-###2016
+### 2016
 <p>Lalitha K.V.<br>
 (Prof. Rajeev Ranjan)<br>
 Correlattion Between Structure, Microstructure and Enhanced piezoresponse around the Morohotropic phase Boundary of Bismuth Scandate – Lead Titanate piezoceramic</p>
@@ -235,7 +235,7 @@ Microstructural. Mechanical and Oxidation behavior of Ni-Al-Zr intermetallic Eut
 Prof.  Subodh Kumar<br>
 Corrosion and wear behavior of plasma electrolytic oxidation and laser surface alloy coatings</p>
 
-###2015
+### 2015
 <p>Chadra Sekhar Tiwar<br>
 (Prof. K. Chattopadhyay)<br>
 Microstructural, Mechanical and Oxidation behavior of Ni-Al-Zr Ternary Alloy</p>
@@ -267,7 +267,7 @@ Improving high temperature strength of 2219 Al alloy by minor alloying additions
 (Prof. K. Chattopahdyay&#038; (Retired) Prof. N Ravishankar<br>
 Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl-Sb-Te System.</p>
 
-###2014
+### 2014
 <p>Praveena M<br>
 (Prof. Vikram Jayaram)<br>
 Design, Fabrication and Application of In situ Total Internal Reflection (TIR) Raman Tribometer  For the Chemical analysis of Tribological Systems</p>
@@ -335,7 +335,7 @@ Synthesis and Characterization of Functionalized Electroactive Polymers for Meta
 (Prof. Satyam Suwas)<br>
 Role of  stacking fault energy on texture evolution in micro and nano-crystalline Nickel –Cobalt alloys</p>
 
-###2013
+### 2013
 <p>PrasathBabu R.<br>
 (KarthikeyamS. )<br>
 Microstructural stability of fully lamellar and Duplex γ TiAl alloys during creep </p>
@@ -361,7 +361,7 @@ Evolution of Texture and its Correlation with Microstructure and Mechanical Prop
 (Prof. Praveen C Ramamurthy)<br>
 Thiophene Derivative Photovoltaics: Device Frabrication, Optimization and Study of Charge Transport Characteristics</p>
 
-###2012
+### 2012
 <p>S. Anandhakumar<br>
 (Prof. Ashok M Raichur)<br>
 Intelligent Microcontainers: Fabrication, Characterization and Tunable Release Properties for Drug Delivery</p>
@@ -390,7 +390,7 @@ Characterization of elemental boron synthesized byElectrolytic method</p>
 (Prof. Satyam Suwas)<br>
 Evolution of Texture and Microstructure in Some NiTi Based Alloys and Their Impact on Shape Memory Behavior</p>
 
-###2011
+### 2011
 <p>P. Rames Narayanan(ERP)<br>
 (Prof. Vikram Jayaram)<br>
 A Study of Crystallographic Texture, Residual Stresses and Mechanical Property Anisotropy in aluminium Alloys for Space Applications </p>
@@ -413,7 +413,7 @@ Interdiffusion Studies in Metal –Silicon Systems</p>
 (Prof. Aloke Paul &#038; U. Ramamurty)<br>
 Diffusion studies on systems related to Nickel based syperalloys</p>
 
-###2010
+### 2010
 <p>Santonu Ghosh<br>
 (Prof. A.H Chokshi)<br>
 Grain boundary processes in high temperature densification and deformation of nanocrystalline Zirconia</p>
@@ -436,7 +436,7 @@ Evolution of Texture and Microstructure during processing of Pure Magnesium and 
 (Prof. Vikram Jayaram)<br>
 The Processing, Consolidation the Deformation Behavior of Bulk Amorphous Al2O3-Y2O3 Ceramics</p>
 
-###2009
+### 2009
 <p>Gopinath Kakkoprath (ERP)<br>
 (Prof. U. Ramamurty)<br>
 Tensile and Low Cycle Fatigue Behavior of a Ni-Base Superalloy</p>
@@ -450,7 +450,7 @@ Creep, Wear and Corrosion Behaviour of Novel Magnesium Alloys and Composites</p>
 (Prof. Vikram Jayaram)<br>
 Processomg of Zirconia based honeycombs and Evaluation of thermo mechanical properties </p>
 
-###2008
+### 2008
 <p>Pradeep Lancy Menezes<br>
 (Prof. Kishore and Satish V. Kailash (ME))<br>
 Role of Surface Texture on Friction and Transfer Layer Formation – A study using pin-On-Plate Sliding Tester</p>
@@ -476,7 +476,7 @@ First Principles Study of Structure and Stacking Fault during a summer monsoon</
 (Prof. U. Ramamurty)<br>
 Effect of Free-Volume on the Fracture and Fatigue of Amorphous Alloys</p>
 
-###2007
+### 2007
 <p>Vikrant Singh<br>
 (Govind S. Gupta)<br>
 Modeling of liquid flow in a packed bed under influence of gas flow</p>
@@ -496,7 +496,7 @@ Studies on acid production potential of some sulphide minerals and bioremediatio
 (K.A. Natarajan and Jayant M. Modak (Ch.E.)<br>
 Surface studies on sulphide minerals and Acidithiobacillus bacteria with respect to biobeneficiation and bioremediation</p>
 
-###2006
+### 2006
 <p>M. Jeyakumar<br>
 (Subodh Kumar and Govind S. Gupta)<br>
 Optimization of Process Parameters for Spray Deposition and Analyses of Spray Deposits for 7075 Al Alloy</p>
@@ -519,7 +519,7 @@ Microstructural Evolution in Elastically Inhomogeneous Systems</p>
 (K. Chattopadhyay)<br>
 Synthesis and Phase Transformation Behavior of Nano Alloys Embedded in Al</p>
 
-###2005
+### 2005
 <p>Kay Thi Lwin<br>
 (K.T. Jacob)<br>
 Structure, Thermodynamics and Phase Relations in Selected Oxide Systems</p>
@@ -554,7 +554,7 @@ Surface Chemical Studies on Oxide and Carbide Suspensions in the Presence of Pol
 (A.H. Chokshi)<br>
 Creep and Grain Boundary Sliding in a Mg – 0.7% Alloy</p>
 
-###2004
+### 2004
 <p>Rajashekhar Shabadi<br>
 (E.S. Dwarakadasa &#038; Subodh Kumar)<br>
 Portevin Le- Chaterlier Effect and Formability  Studies in Alluminium Alloys. </p>
@@ -571,7 +571,7 @@ Grain Boundary Effects on Spinodal Decomposition</p>
 (Vikram Jayaram &#038; S.K. Biswas, M.E.)<br>
 The Nature of Contact-Induced Deformation and Fracture in TiN Films on Steel</p>
 
-###2003
+### 2003
 <p>Lakshmi Narayan Satapathy<br>
 (A.H. Chokshi and B.K. Chandrasekhar.(Orgn)<br>
 Role of Second Phase in the Microstructural Development and Creep Deformation in Alumina based Composites </p>
@@ -582,7 +582,7 @@ Re-examination of the Formation of Porosity during solidification of Aluminium A
 (S. Ranganathan)<br>
 Synthesis and Characterization of Nanostructured Materials: TiO2, TiN &#038; BaTiO3.</p>
 
-###2002
+### 2002
 <p>Viji Varghese<br>
 (K. Chattopadhyay)<br>
 A study of the role of mechanical energy on the kinetics of reactions and transformations in the solid state</p>
@@ -608,7 +608,7 @@ Experimental and Computational Studies of Laser Processing of Dissimilar Metals<
 (K.A. Natarajan)<br>
 Electrochemical and Microbilogical Processing of Ocean Manganese Nodules to Recover Valuable Metals</p>
 
-###2001
+### 2001
 <p>P. Shankar<br>
 (S. Ranganathan and Baldev Raj, IGCAR)<br>
 Thermal aging effects in nuclear grade 316LN austenitic stainless steels</p>
@@ -637,7 +637,7 @@ The processing of bulk metastable amorphous and nanocrystalline ZrO2 – Al2O3 c
 (S. Ranganathan and V.S. Raghunathan, IGCAR)<br>
 Interfaces in quasicrystalline and nanocrystalline materials: Quasicrystalline, Al-cu-Fe and Al-Pd-Mn alloys and nanocrystalline titanium, palladium and thorium dioxide</p>
 
-###2000
+### 2000
 <p>B. Srinivasa Rao<br>
 (Vikram Jayaram)<br>
 Pressureless infiltration of A1-Mg based alloys into Al2O3 preforms</p>
@@ -646,7 +646,7 @@ Pressureless infiltration of A1-Mg based alloys into Al2O3 preforms</p>
 Symmetry – breaking transitions in equilibrium shapes of coherent precipitates</p>
 
 
-###1999
+### 1999
 <p>S. Prakash Narayan<br>
 (Vikram Jayaram and Kunal Basu, RRL, Bhopal)<br>
 The  effect  of strain rate and temperature on the development of magnetic properties in nanocrystalline Nd-Fe-B alloy </p>
@@ -666,7 +666,7 @@ Phase evolution, thermal stability and hardness of melt spun nanocrystalline Al-
 (E.S. Dwarakadasa and R. Mahadevan, IPL)<br>
 Study of the properties and particle / matrix interface in Al-12Si-10% SiCp  composite</p>
 
-###1998
+### 1998
 <p>N. Nagendra<br>
 (Vikram Jayaram)<br>
 Processing, microstructure and fracture characteristics of high volume fraction (Al2O3/Al-AlN) matrix composites</p>
@@ -704,7 +704,7 @@ Near threshold fatigue crack growth and fracture toughness studies in zirconium,
 (K. Chattopadhyay and  Vikram Jayaram)<br>
 Phase evolution in MgO-MgAl2O4 under non-equilibrium processing conditions</p>
 
-###1997
+### 1997
 <p>K.V. Sudhakar<br>
 (E.S. Dwarakadasa)<br>
 Crack growth, fracture and fracture toughness behaviour of a dual phase martensite steel</p>
@@ -722,7 +722,7 @@ some ceramic oxide systems</p>
 (A.K. Lahiri and M.N. Srinivasan, ME )<br>
 Modelling of Cupola &#8211; Design and operation for minimum fuel rate and emission levels</p>
 
-###1996
+### 1996
 <p>Bhaskar Majumdar<br>
 (K. Chattopadhyay and J.P. Hajra)<br>
 Thermodynamics and microstructural development in immiscible systems processed through different routes</p>
@@ -751,7 +751,7 @@ Microstructure, hot hardness and indentation creep of Al-U &#038; Al-U-Zr alloys
 (M.K. Surappa)<br>
 Studies on particle distribution and matrix microstructure evolution during processing of Al-Cu-SiCp composites</p>
 
-###1995
+### 1995
 <p>D.K. Bhattacharya<br>
 (E.S. Dwarakadasa and Placid Rodriguez, IGCAR )<br>
 Characterization of microstructures in steels by magnetic and ultrasonic techniques</p>
@@ -777,7 +777,7 @@ Studies on induction pressure welded steel joints</p>
 (K.Chattopadhyay and S. Ranganathan)<br>
 Metastable and nanostructured titanium-nickel and titanium- nickel-aluminium alloys</p>
 
-###1994
+### 1994
 <p>N. Srinivasan<br>
 (Y.V.R.K. Prasad)<br>
 Influence of impurities and alloying additions on the processing maps for hot working of nickel and nickel-base superalloys Ni, Ni-C, Ni-C-S, Ni-20Cr, IN 600, IN 718, Nimonic-75, 80A and 90 </p>
@@ -794,7 +794,7 @@ Phase equilibria and thermodynamic studies on selected ceramic oxide systems</p>
 (K.S. Raman and K.S.S. Murthy, ME )<br>
 Influence of trace additions on the microstructure, mechanical  properties and age hardening characteristics of Al-7Si-0.3 Mg cast alloy with iron impurity</p>
 
-###1993
+### 1993
 <p>D. Padmavardhani<br>
 (Y.V.R.K. Prasad)<br>
 Influence of the constitutive behaviour of a and ß phases on the mechanisms of hot working in a &#8211; b brasses and nickel silvers: A study using processing maps</p>
@@ -802,7 +802,7 @@ Influence of the constitutive behaviour of a and ß phases on the mechanisms of 
 (Y.V.R.K. Prasad, M.K.Asundi and S. Banerjee, BARC)<br>
 Optimization of hot workability and control of microstructure in zirconium alloys using processing maps : Zirconium,  Zircalloy-2, Zr-2.5Nb and Zr-2.5 Nb-0.5 Cu</p>
 
-###1992
+### 1992
 <p>K. Raviprasad<br>
 (K. Chattopadhyay)<br>
 Microstrucutral evolution during ordering and magnetic properties of rapidly solidified Fe-Si alloys</p>
@@ -816,12 +816,12 @@ Effect of impurities and hard particles on the characteristics of dynamic recrys
 (S. Ranganathan and M. Mohan Rao)<br>
 Study of amorphous phase formation by mechanical alloying in Ti based systems</p>
 
-###1991
+### 1991
 <p>R. Seshadri<br>
 (R.M. Mallya and R.V. Krishnan, NAL)<br>
 Centrifugal splat quenching and secondary atomization of titanium alloys (Ti-6Ai-4V &#038; Ti-6.5Al-3.3Mo-1.6Zr-0.3S)</p>
 
-###1990
+### 1990
 <p>N.K.Mukhopadhya<br>
 (S.Ranganathan and K.Chattopadhyay )<br>
 Some aspects of synthesis, structure and stability of quasicrystals</p>
@@ -854,7 +854,7 @@ Non equilibirum solidification of pure metals (Al, Cu, Ni), bismuth, eutectic Al
 Microstructural studies of rapidly solidified titanium eutectoid alloys</p>
 
 
-###1989
+### 1989
 <p>Gouthama<br>
 (Kishore)<br>
 Electron microscopic study of precipitation in an Al-Ge alloy analysis using near-CSL/DSC lattice model</p>
@@ -885,7 +885,7 @@ Solid state galvanic sensors &#8211; Some studies on concepts and materials</p>
 (E.S.Dwarakadasa and Kishore)<br>
 Microstructural aspects of near threshold fatigue crack growth and crack closure in HSLA steel and Ti-6Al-4V alloy</p>
 
-###1987
+### 1987
 <p>I.Sambasiva Rao<br>
 (Y.V.R.K.Prasad and E.S.Dwarakadasa)<br>
 Constitutive flow behaviour and processing maps for magnesium and magnesium -1.5 zirconium</p>
@@ -896,7 +896,7 @@ Developmental studies on ZnO based composites for surge arrester applications</p
 (S.Ranganathan and Kishore)<br>
 Thermal and chemical stabilities of three Fe-Ni base metallic glasses</p>
 
-###1986
+### 1986
 <p>S.Ramesh Babu<br>
 (A.K.Lahiri and M.Mohan Rao)<br>
 Studies on drop formation at conical and capillary tips</p>
@@ -904,7 +904,7 @@ Studies on drop formation at conical and capillary tips</p>
 (R.M.Mallya and M.S.Hegde, SSCU )<br>
 Electron spectroscopic studies of surface segregation and oxidation of Cu and Ni based alloys and low temperaturepreparation and characterisation of intermetallics based on the system Fe-W-Mo</p>
 
-###1985
+### 1985
 <p>Saradindukumar Ray<br>
 (D.H.Sastry and P.Rodriguez, IGCAR )<br>
 Some aspects of the deformation characteristics of austenitic stainless steel 316 and high purity aluminium in tension, creep and stress relaxation</p>
@@ -912,7 +912,7 @@ Some aspects of the deformation characteristics of austenitic stainless steel 31
 (R.M.Mallya, D.H.Sastry and V.S.Arunachalam, DMRL )<br>
 Studies on mechanical alloying of Ni-20Cr-2ThO2</p>
 
-###1984
+### 1984
 <p>R.K.Dayal<br>
 (Y.V.R.K.Prasad, M.V.Bhat and J.B.Gnanamurthy, IGCAR )<br>
 Effect of texture, grainsize and carbide precipitation on the crevice corrosion behaviour of austenitic stainless steels in acqueous medium: Metallurgical, chemical and electrochemical aspects </p>
@@ -926,7 +926,7 @@ Kinetics sintering in beta titanium systems: A model for enhanced diffusional ma
 (A.K.Lahiri)<br>
 Central atoms: Models for silicate and aluminate melts</p>
 
-###1983
+### 1983
 <p>A.M.Sriram Murthy<br>
 (Y.V.R.K.Prasad and S.N.Tewari, DMRL )<br>
 Influence of microstructure  on the deformation and fracture behaviour of a nickel-33% molydbenum-5.7%  aluminium in situ composite</p>
@@ -940,7 +940,7 @@ Thermodynamics of Ni-Mn and Ni-Mn-Co alloys</p>
 (M.Mohan Rao and D.P.Lahiri, DMRL )<br>
 Ternary diffusion studies in iron-cobalt-vanadium alloys</p>
 
-###1982
+### 1982
 <p>Sardari Lal Mannan<br>
 (Y.V.R.K.Prasad, K.I.Vasu and P.Rodriguez, IGCAR)<br>
 Influence of grain size on the flow and fracture in AISI Type 316 stainless steel at elevated temperature.</p>
@@ -954,7 +954,7 @@ Influence of internal chills on the structure and properties of aluminium alloy 
 (R.M. Mallya and M.Mohan Rao)<br>
 Studies on ion nitriding</p>
 
-###1981
+### 1981
 <p>M.V. Bhat<br>
 (K.I. Vasu)<br>
 Stress-corrosion characteristics of Al-5%Zn and Al-5%Cu alloys and effect of Ti addition</p>
@@ -968,7 +968,7 @@ Corrosion behaviour of nickel silver and cupro-nickel in sea water</p>
 (Y.V.R.K. Prasad)<br>
 Influence of texture on the grain boundary strengthening and fracture in hot rolled Mg and Mg alloys</p>
 
-###1980
+### 1980
 <p>H.V. Sudhaker Nayak<br>
 (Y.V.R.K. Prasad and K.I. Vasu)<br>
 Texture-dependent stress corrosion failure of commercial titanium and Ti-6Al-4V alloy sheets in methanol bromine solution</p>
@@ -979,7 +979,7 @@ Chemical vapour deposition of titanium carbide from titanium tetrachloride-tolue
 (Y.V.R.K. Prasad and K.P. Abraham)<br>
 Effect of electroslag refining on hot workability, fracture toughness and fatigue crack propagation in EN24 and EN52 steels</p>
 
-###1979
+### 1979
 <p>D. Banerjee<br>
 (K.I. Vasu)<br>
 Phase equilibria and transformations : A microstructural characteri-sation of some Ti-Al-Mo alloys containing the g &#8211; phase</p>
@@ -999,7 +999,7 @@ Preparation and properties of cast aluminium alloy-mica particle composite</p>
 (Y.V.R.K. Prasad and K.P. Abraham)<br>
 Hot working and deformation mechanism in electroslag refined materials (En 36A steel and RR 58 aluminium alloy)</p>
 
-###1977
+### 1977
 <p>A.K. Bhutani<br>
 (K.P. Abraham)<br>
 Studies on electroslag remelting</p>
@@ -1016,7 +1016,7 @@ Thermodynamic investigations on binary metal oxide solutions by the solid electr
 (K.I. Vasu and V.G. Kubair,CH )<br>
 Heat transfer of liquid metals</p>
 
-###1976
+### 1976
 <p>T. Hanumantha Rao<br>
 (K.I. Vasu)<br>
 Oxide-dispersed copper nickel composites and kinetics</p>
@@ -1033,7 +1033,7 @@ Studies on the reduction of iron oxides by carbon</p>
 (K.I. Vasu &#038; B.B. Sharma)<br>
 Diffusion in transition metals alloys</p>
 
-###1975
+### 1975
 <p>T.C. Kasiviswanathan<br>
 (K.I. Vasu)<br>
 Corrosion and related electrochemical studies on zirconium (in nitrate melts, nitrate fluoride melts and aqueous nitrate solutions)</p>
@@ -1044,7 +1044,7 @@ Superplasticity and stress corrosion cracking behaviour of zinc- aluminium and c
 (G.N.K. Iyengar)<br>
 Kinetic studies on gas solid reactions of metallurgical interest</p>
 
-###1974
+### 1974
 <p>V.V.V.N.S. Ramakrishna Rao<br>
 (K.P.Abraham)<br>
 Kinetic aspects of gas/solid reactions of metallurgical interest</p>
@@ -1058,7 +1058,7 @@ On the nature of clustering and strengthening in a quenched and aged aluminium 2
 (K.I. Vasu)<br>
 Stress corrosion of aluminium 8% magnesium alloy (effect of nature of stress, heat treatment and trace additions of B and Be)</p>
 
-###1972
+### 1972
 <p>Y.M. Faruq Marikar<br>
 (K.I. Vasu)<br>
 Electrometallurgy of the iron group metals and alloys: Studies in the fluoborate bath</p>
@@ -1069,7 +1069,7 @@ Thermodynamic properties of some binary metal oxide systems</p>
 (K.I. Vasu)<br>
 Resistometric studies of precipitation kinetics in aluminium-silver alloys (Al-0.2 to 0.3 Ag alloys, and Al-0.64Ag alloy with Nb, Si, Ge, Ti, Gd, Sn or Pb)</p>
 
-###1971
+### 1971
 <p>K.S. Raman<br>
 (K.I. Vasu)<br>
 Resistometric studies of solute vacancy interactions and clustering kinetics in an FCC matrix (Al-Zn alloy with Ag, Co, Dy, Li, Nb, Pt, Sn, Y or Yb)</p>
