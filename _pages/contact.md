@@ -11,5 +11,5 @@ Javanica Marg<br>
 Indian Institute of Science<br>
 Bengaluru 560012<br>
 Karnataka, India<br>
-<i class="fa fa-envelope fa-1x" aria-hidden="true"></i> <a href="mailto:">common-email</a><br>
-<i class="fa fa-phone fa-1x" aria-hidden="true"></i> <a href="tel:">office phone</a>
+<i class="fa fa-envelope fa-1x" aria-hidden="true"></i> <a href="mailto:"> common-email@iisc.ac.in</a><br>
+<i class="fa fa-phone fa-1x" aria-hidden="true"></i> <a href="tel:"> +91-80-office phone</a>
