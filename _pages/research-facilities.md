@@ -1,5 +1,5 @@
 ---
-title: "Facilities available"
+title: "Facilities Available"
 #layout: archive
 toc: true
 toc_label: "Facilities list"

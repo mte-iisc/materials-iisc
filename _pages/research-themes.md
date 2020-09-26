@@ -1,5 +1,5 @@
 ---
-title: "Research Topics @Materials Engineering"
+title: "Research Topics"
 layout: archive
 classes: wide
 permalink: /themes

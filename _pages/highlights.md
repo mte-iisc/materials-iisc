@@ -1,5 +1,5 @@
 ---
-title: Highlights
+title: Latest Research
 layout: collection
 permalink: /highlights
 collection: highlights
