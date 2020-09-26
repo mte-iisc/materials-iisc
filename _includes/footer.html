@@ -4,15 +4,17 @@
       <!--li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li-->
     {% endif %}
           <li><a href="{{ site.baseurl }}/contact"><i class="far fa-address-card" aria-hidden="true"></i> Contact</a></li>
+          <li><a href="{{ site.baseurl }}/credits"><i class="fas fa-laptop-code" aria-hidden="true"></i> Credits</a></li>
 
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer" target="_blank"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
     {% endif %}
 
+          <li><a href="https://iisc.ac.in" rel="nofollow noopener noreferrer" target="_blank"><i class="fas fa-university" aria-hidden="true"></i> IISc</a></li>
     <!--li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li-->
   </ul>
 </div>
