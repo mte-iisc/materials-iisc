@@ -30,7 +30,12 @@ a {
 a:hover,
 a:focus {
   color: #005580;
-  text-decoration: underline;
+  text-decoration: none;
+}
+
+a.event-item:hover,
+a.event-item:focus {
+	text-decoration: underline;
 }
 
 small {
@@ -317,15 +322,15 @@ ol ul {
   margin-bottom: 0;
 }
 
-li {
-  line-height: 20px;
+li.calendar-event {
+	line-height: 20px;
 }
 
 ul.unstyled,
 ol.unstyled {
   margin-left: 0;
   list-style: none;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 ul.inline,
