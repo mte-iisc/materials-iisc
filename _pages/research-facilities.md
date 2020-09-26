@@ -51,8 +51,8 @@ Booking is not required for the department users. After working hours and holida
 <u>ESEM Quanta 200, FEI</u>
 W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state backscattered electron detector,Ultra thin window EDS System(EDAX), Resolution at 20 kV:3nm in high vacuum.
 
-### JEOL JXA-8530F Electron Probe Micro analyzer
-<p>The JXA-8530F is a thermal field emission electron probe micro analyzer combining high SEM resolution with high quality composition analysis of submicron areas. The JEOL JXA-8530F instrument is equipped with 6 WDS detectors (3 for heavy elements and 3 for light elements) and an energy dispersive X-ray spectrometer (EDS). This combination can simultaneously analyse 3 elements WDS + 16 elements EDS plus collect image signals from backscatter and secondary electron detectors.</p>
+### Electron Probe Micro Analyzer
+<p>The JXA-8530F Electron Probe Micro Analyzer is a thermal field emission electron probe micro analyzer combining high SEM resolution with high quality composition analysis of submicron areas. The JEOL JXA-8530F instrument is equipped with 6 WDS detectors (3 for heavy elements and 3 for light elements) and an energy dispersive X-ray spectrometer (EDS). This combination can simultaneously analyse 3 elements WDS + 16 elements EDS plus collect image signals from backscatter and secondary electron detectors.</p>
 <ul>
 <li>High detection sensitivity for trace elements</li>
 <li>High accuracy of quantitative analysis</li>
@@ -89,7 +89,8 @@ W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state bac
 <li>R.Ravi(rravi@iisc.ac.in) / Subho Dasgupta(dasgupta@iisc.ac.in) / Satyam Suwas(satyamsuwas@iisc.ac.in)</li>
 </ul>
 
-### Atomic Force Microscopy(AFM) and Scanning Tunneling Microscopy(STM)
+### Atomic Force Microscope
+<p><strong>Specifications</strong></p>
 <ul>
 <li>Scan head: Maximum scan range: 70micron</li>
 <li>Drive resolution Z: 0.21 nm and XY: 1.0 nm (based on 16 bits)</li>
@@ -97,7 +98,10 @@ W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state bac
 <li>Cantilevers: CONTR/NCLR (FREQUENCY: 15-300 kHz)</li>
 <li>Imaging Modes: Phase contrast, Force Modulation, Spreading Resistance</li>
 </ul>
-<p><strong>Specifications: STM system</strong></p>
+<p>Faculty member in charge: Ashok M. Raichur</p>
+
+### Scanning Tunneling Microscope
+<p><strong>Specifications</strong></p>
 <ul>
 <li>Scan head: Maximum scan range: 1.0micron</li>
 <li>Maximum Z-range: 200 nm</li>
@@ -107,7 +111,7 @@ W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state bac
 <li>Sample size: Max. 10 mm diameter</li>
 <li>Calibrated using: HOPG</li>
 </ul>
-<p>Faculty member in charge: A.M.Raichur</p>
+<p>Faculty member in charge: Ashok M.Raichur</p>
 
 ### X-ray Diffraction Laboratory
 
@@ -254,7 +258,7 @@ For tensile and 3 point bending &#8211; Thickness: 2mm, Width: 5mm and Length: 4
 &#42;Maximum strain depends on the sample, clamping device and frequency</td>
 
 
-### Depth sensing indentation
+### Depth Sensing Indentation
 <table>
 <tbody>
 <tr>
@@ -372,7 +376,7 @@ High load: 10 mN-1 N</td>
 </tbody>
 </table>
 
-<h3>Thin film residual stress</h3>
+### Thin Film Residual Stress
 <table>
 <tbody>
 <tr>
@@ -422,7 +426,7 @@ High load: 10 mN-1 N</td>
 </tbody>
 </table>
 
-<h3>Mechanical Testing Lab</h3>
+### Mechanical Testing Lab
 <table>
 <tbody>
 <tr>
@@ -520,13 +524,13 @@ High load: 10 mN-1 N</td>
 <p>The department also has facilities for <a href="http://localhost/webmet?page_id=999">Instrumented Indentation</a>, <a href="http://localhost/webmet?page_id=988">Dynamic Mechanical Analysis (DMA)</a> and <a href="http://localhost/webmet?page_id=1016">Thin Film Stress measurement</a>.</p>
 
 ## Materials Processing
-### Solid state processing
-
-### Liquid state processing
+**Solid state processing**
+<br>
+<br>
+**Liquid state processing**
 
 
 ## Particle characterization
-### Particle size analyser
 <table>
 <tbody>
 <tr>
@@ -873,20 +877,20 @@ High load: 10 mN-1 N</td>
 ## Electrical behaviour
 
 ## Heat treatment
-### Hot air ovens
+**Hot air ovens**
 <ul>
 <li>200 deg. C &#8211; 3 racks</li>
 <li>250 deg. C &#8211; 3 racks</li>
 </ul>
 
-### Tube furnaces
+**Tube furnaces**
 <ul>
 <li>Two small tube furnaces- 80 mm dia &#8211; 1050 deg. C</li>
 <li>One tube furnace &#8211; 50 mm dia-1300 deg C</li>
 <li>One tube furnace &#8211; 100 mm dia 1700 deg. C</li>
 </ul>
 
-### Box furnaces
+**Box furnaces**
 <ul>
 <li>One box furnace &#8211; chamber size 6&#8243;x1.5&#8242;- 1100 deg. C</li>
 <li>One box furnace- chamber size 6&#8243;x1&#8243;- 1350 deg C</li>
@@ -898,7 +902,7 @@ For temperature precision to better than 5 deg. C, you need to take additional s
 
 
 ## Computation
-### List of clusters available
+**List of clusters available**
 
 
 
