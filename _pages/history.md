@@ -1,5 +1,5 @@
 ---
-title: "History of the department"
+title: "Departmental History"
 layout: single
 permalink: /history
 classes: wide
