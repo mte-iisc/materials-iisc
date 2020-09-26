@@ -48,7 +48,7 @@ Please refer to [documentation](https://mmistakes.github.io/minimal-mistakes/) o
 
 The MIT License (MIT)
 
-Copyright (c) 2020-present Department of Materials Engineering, Indian Institute of Science. Website theme adopted from Michael Rose and contributors
+Copyright (c) 2020-present Department of Materials Engineering, Indian Institute of Science. Website theme adopted from Michael Rose and contributors.
 Theme Copyright (c) 2013-2020 Michael Rose and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
