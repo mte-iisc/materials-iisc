@@ -4,6 +4,7 @@ layout: archive
 classes: wide
 permalink: /donate
 ---
-Content coming soon.
-
-Set of links of various memorial funds that have been setup and their status.
+<ul>
+<li><a href="https://materials.iisc.ac.in/blog/2018/03/01/k-p-abraham-memorial-fund/">Prof K P Abraham Memorial Fund</a></li>
+<li><a href="https://materials.iisc.ac.in/manish-fund-history/">Manish Narayan Fund</a></li>
+</ul>
