@@ -1,5 +1,5 @@
 ---
-title: "Prospective students"
+title: "Prospective Students"
 layout: archive
 classes: wide
 permalink: /prospective-student

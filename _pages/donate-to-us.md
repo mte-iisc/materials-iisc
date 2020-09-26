@@ -1,5 +1,5 @@
 ---
-title: "Support our department"
+title: "Support our Department"
 layout: archive
 classes: wide
 permalink: /donate
