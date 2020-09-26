@@ -1,4 +1,4 @@
-# example slider
+# home page slider
 - selector: slider1
   bullets: false
   captions: true
@@ -7,8 +7,29 @@
       alt: Materials Engineering @ IISc
     - src: /assets/images/slider/machining.jpg
       alt: Machining thin metallic foils
+      href: /materials-iisc/highlights
     - src: /assets/images/slider/abhik-research-highlight.jpg
       alt: Research Highlight
+  settings:
+    height: 450
+    effect: "'fade'"
+    interval: 4000
+    effect: "'fade'"
+    disableNav: false
+#research highlights slider
+- selector: highlights
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/research/machining.jpg
+      alt: Research Highlight 1
+      href: /materials-iisc/highlights
+    - src: /assets/images/research/mechanicaltesting.jpg
+      alt: Research Highlight 2
+    - src: /assets/images/research/stemcells1.jpg
+      alt: Research Highlight 3
+    - src: /assets/images/research/thinfilm.jpg
+      alt: Research Highlight 4
   settings:
     height: 450
     effect: "'fade'"

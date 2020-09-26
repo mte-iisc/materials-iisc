@@ -30,6 +30,9 @@
 	    {% if page.url == "/" %}
 	    {% include slider.html selector="slider1" %}
 	    {% endif %}
+	    {% if page.url == "/highlights" %}
+	    {% include slider.html selector="highlights" %}
+	    {% endif %}
 
 	    {{ content }}
     </div>

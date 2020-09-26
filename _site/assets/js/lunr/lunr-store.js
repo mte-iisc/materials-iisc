@@ -3,7 +3,7 @@ var store = [{
         "excerpt":"Check out the new facilities  ","categories": [],
         "tags": [],
         "url": "https://mte-iisc.github.io/materials-iisc/highlights/new-facilities/",
-        "teaser": "https://mte-iisc.github.io/materials-iisc/assets/images/slider/reunion2019.jpg"
+        "teaser": "https://mte-iisc.github.io/materials-iisc/assets/images/IISclogo.png"
       },{
         "title": "New website up",
         "excerpt":"Revamped departmental website is now up!  ","categories": [],

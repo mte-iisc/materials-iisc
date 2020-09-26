@@ -104,7 +104,8 @@
     <!-- Jekyll Ideal Image Slider Include -->
 <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
 <!-- v1.8 -->
-
+<link rel="stylesheet" href="/materials-iisc/assets/css/slider/ideal-image-slider.css">
+<link rel="stylesheet" href="/materials-iisc/assets/css/slider/themes/default.css">
     
   </head>
 
@@ -164,6 +165,16 @@
 
 
     <div class="initial-content">
+	    
+	    
+	    <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 --><div id="highlights">
+  <a href="/materials-iisc/highlights"><img data-src="" data-src-2x="" src="/materials-iisc/assets/images/research/machining.jpg" title="" alt="Research Highlight 1"></a>
+  <img data-src="" data-src-2x="" src="/materials-iisc/assets/images/research/mechanicaltesting.jpg" title="" alt="Research Highlight 2">
+  <img data-src="" data-src-2x="" src="/materials-iisc/assets/images/research/stemcells1.jpg" title="" alt="Research Highlight 3">
+  <img data-src="" data-src-2x="" src="/materials-iisc/assets/images/research/thinfilm.jpg" title="" alt="Research Highlight 4">
+  </div>
 	    
 
 	    
@@ -295,7 +306,7 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/materials-iisc/assets/images/slider/reunion2019.jpg" alt="">
+        <img src="/materials-iisc/assets/images/IISclogo.png" alt="">
       </div>
     
     <h4 class="archive__item-title no_toc" itemprop="headline">
@@ -415,6 +426,19 @@
     <!-- Jekyll Ideal Image Slider Include -->
 <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
 <!-- v1.8 -->
+  <script src="/materials-iisc/assets/js/slider/ideal-image-slider.min.js"></script>
+  <script src="/materials-iisc/assets/js/slider/iis-bullet-nav.js"></script>
+  <script src="/materials-iisc/assets/js/slider/iis-captions.js"></script>
+  <script>
+  var highlights = new IdealImageSlider.Slider({
+      selector: '#highlights',
+      height: 450,
+      interval: 4000,
+      effect: 'fade',
+      });
+    highlights.addCaptions();
+    highlights.start();
+  </script>
 
   </body>
 </html>
