@@ -72,4 +72,9 @@ List of all students who have graduated from the various programs of the departm
 ### M. Tech.
 <ul>
 <li><a href="{{ site.baseurl }}/alumni-archive/#2019-2010">2019-2010</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive/#2009-2000">2009-2000</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive/#1999-1990">1999-1990</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive/#1989-1980">1989-1980</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive/#1989-1980">1979-1970</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive/#2019-2010">1969-1960</a></li>
 </ul>
