@@ -1264,11 +1264,12 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tr>
 <tr>
 <td>Sankarasubramanian R.</td>
-<td>Abinandanan T. A</td>
+<td>Abinandanan T.A.</td>
 <td>Symmetry – breaking transitions in equilibrium shapes of coherent precipitates</td>
 </tr>
 </tbody>
 </table>
+<br>
 
 ### 1999-1990
 <br>
