@@ -1313,7 +1313,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <td>(E.S. Dwarakadasa and R. Mahadevan, IPL)</td>
 <td>Study of the properties and particle or matrix interface in Al-12Si-10% SiCp  composite</td>
 </tr>
-</body>
+</tbody>
 </table>
 
 <br>
@@ -1386,8 +1386,9 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <td>(K. Chattopadhyay and  Vikram Jayaram)</td>
 <td>Phase evolution in MgO-MgAl2O4 under non-equilibrium processing conditions</td>
 </tr>
-</body>
+</tbody>
 </table>
+
 <br>
 <b>1997</b>
 <br>
@@ -1422,7 +1423,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <td>(A.K. Lahiri and M.N. Srinivasan, ME )</td>
 <td>Modelling of Cupola &#8211; Design and operation for minimum fuel rate and emission levels</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1996</b>
@@ -1480,7 +1481,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <td>(M.K. Surappa)</td>
 <td>Studies on particle distribution and matrix microstructure evolution during processing of Al-Cu-SiCp composites</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1995</b>
@@ -1531,7 +1532,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <td>(K.Chattopadhyay and S. Ranganathan)</td>
 <td>Metastable and nanostructured titanium-nickel and titanium- nickel-aluminium alloys</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1994</b>
@@ -1567,7 +1568,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <td>(K.S. Raman and K.S.S. Murthy, ME )</td>
 <td>Influence of trace additions on the microstructure, mechanical  properties and age hardening characteristics of Al-7Si-0.3 Mg cast alloy with iron impurity</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1993</b>
@@ -1588,7 +1589,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <td>(Y.V.R.K. Prasad, M.K.Asundi and S. Banerjee, BARC)</td>
 <td>Optimization of hot workability and control of microstructure in zirconium alloys using processing maps : Zirconium,  Zircalloy-2, Zr-2.5Nb and Zr-2.5 Nb-0.5 Cu</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1992</b>
@@ -1620,7 +1621,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <td>
 Study of amorphous phase formation by mechanical alloying in Ti based systems</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1991</b>
@@ -1637,7 +1638,7 @@ Study of amorphous phase formation by mechanical alloying in Ti based systems</t
 <td>(R.M. Mallya and R.V. Krishnan, NAL)</td>
 <td>Centrifugal splat quenching and secondary atomization of titanium alloys (Ti-6Ai-4V &#038; Ti-6.5Al-3.3Mo-1.6Zr-0.3S)</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1990</b>
@@ -1699,7 +1700,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <td>(S. Ranganathan and R.V. Krishnan, NAL)</td>
 <td>Microstructural studies of rapidly solidified titanium eutectoid alloys</td>
 </tr>
-</body>
+</tbody>
 </table>
 
 ### 1989-1980
@@ -1728,7 +1729,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <td>(E.S.Dwarakadasa)</td>
 <td>Effect of 1 wt% Al/Si addition on the phase transformation, tensile and fracture behaviour of Cu- 9Ni-6Sn spinodal alloy</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1988</b>
@@ -1770,7 +1771,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <td>(E.S.Dwarakadasa and Kishore)</td>
 <td>Microstructural aspects of near threshold fatigue crack growth and crack closure in HSLA steel and Ti-6Al-4V alloy</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1987</b>
@@ -1797,7 +1798,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <td>(S.Ranganathan and Kishore)</td>
 <td>Thermal and chemical stabilities of three Fe-Ni base metallic glasses</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1986</b>
@@ -1819,7 +1820,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <td>(R.M.Mallya and M.S.Hegde, SSCU )</td>
 <td>Electron spectroscopic studies of surface segregation and oxidation of Cu and Ni based alloys and low temperaturepreparation and characterisation of intermetallics based on the system Fe-W-Mo</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1985</b>
@@ -1841,7 +1842,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <td>(R.M.Mallya, D.H.Sastry and V.S.Arunachalam, DMRL )</td>
 <td>Studies on mechanical alloying of Ni-20Cr-2ThO2</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1984</b>
@@ -1873,7 +1874,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <td>(A.K.Lahiri)</td>
 <td>Central atoms: Models for silicate and aluminate melts</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1983</b>
@@ -1905,7 +1906,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>(M.Mohan Rao and D.P.Lahiri, DMRL )</td>
 <td>Ternary diffusion studies in iron-cobalt-vanadium alloys</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1982</b>
@@ -1937,7 +1938,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>(R.M. Mallya and M.Mohan Rao)</td>
 <td>Studies on ion nitriding</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1981</b>
@@ -1970,7 +1971,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>(Y.V.R.K. Prasad)</td>
 <td>Influence of texture on the grain boundary strengthening and fracture in hot rolled Mg and Mg alloys</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1980</b>
@@ -1997,7 +1998,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>(Y.V.R.K. Prasad and K.P. Abraham)</td>
 <td>Effect of electroslag refining on hot workability, fracture toughness and fatigue crack propagation in EN24 and EN52 steels</td>
 </tr>
-</body>
+</tbody>
 </table>
 
 ### 1979-1970
@@ -2041,7 +2042,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>(Y.V.R.K. Prasad and K.P. Abraham)</td>
 <td>Hot working and deformation mechanism in electroslag refined materials (En 36A steel and RR 58 aluminium alloy)</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1977</b>
@@ -2077,7 +2078,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>(K.I. Vasu and V.G. Kubair,CH )</td>
 <td>Heat transfer of liquid metals</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1976</b>
@@ -2097,8 +2098,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tr>
 <td>Uppala Ratnam</td>
 <td>(K.P. Abraham and J.P. Hajra)</td>
-<td>
-Studies on electroslag melting of quality steels and nickel base alloys</td>
+<td>Studies on electroslag melting of quality steels and nickel base alloys</td>
 </tr>
 <tr>
 <td>Placid Rodriguez</td>
@@ -2115,7 +2115,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <td>(K.I. Vasu &#038; B.B. Sharma)</td>
 <td>Diffusion in transition metals alloys</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1975</b>
@@ -2142,7 +2142,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <td>(G.N.K. Iyengar)</td>
 <td>Kinetic studies on gas solid reactions of metallurgical interest</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1974</b>
@@ -2174,7 +2174,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <td>(K.I. Vasu)</td>
 <td>Stress corrosion of aluminium 8% magnesium alloy (effect of nature of stress, heat treatment and trace additions of B and Be)</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1972</b>
@@ -2201,7 +2201,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <td>(K.I. Vasu)</td>
 <td>Resistometric studies of precipitation kinetics in aluminium-silver alloys (Al-0.2 to 0.3 Ag alloys, and Al-0.64Ag alloy with Nb, Si, Ge, Ti, Gd, Sn or Pb)</td>
 </tr>
-</body>
+</tbody>
 </table>
 <br>
 <b>1971</b>
@@ -2237,7 +2237,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <td>(K.P. Abraham)</td>
 <td>Thermodynamic properties of some binary metal oxide solid solutions</td>
 </tr>
-</body>
+</tbody>
 </table>
 
 ## M.Tech.
