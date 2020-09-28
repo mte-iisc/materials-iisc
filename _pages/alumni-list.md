@@ -12,6 +12,7 @@ List of student alumni on this page is sorted in reverse chronology and accordin
 
 ## Ph.D.
 ### 2019-2010
+
 <br>
 <b>2019</b>
 <br>
@@ -1247,7 +1248,29 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tbody>
 </table>
 
-
+<br>
+<b>2000</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisor(s)</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Srinivasa Rao B.</td>
+<td>Vikram Jayaram</td>
+<td>Pressureless infiltration of Al-Mg based alloys into Al<sub>2</sub>O<sub>3</sub> preforms</td>
+</tr>
+<tr>
+<td>Sankarasubramanian R.</td>
+<td>Abinandanan T.A.</td>
+<td>Symmetry breaking transitions in equilibrium shapes of coherent precipitates</td>
+</tr>
+</tbody>
+</table>
+<br>
 
 ### 1999-1990
 <br>
