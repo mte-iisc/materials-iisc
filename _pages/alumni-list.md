@@ -8,13 +8,12 @@ toc_label: Year of Graduation
 toc_icon: calendar-alt
 #classes: wide
 ---
-List of student alumni on this page is sorted in reverse chronology and according to the program in which they were graduated. <br>
-
+List of student alumni on this page is sorted in reverse chronology and according to the program in which they were graduated.
 ## Ph.D.
 ### 2019-2010
-
+<br>
 <b>2019</b>
-
+<br>
 <table>
 <tbody>
 <tr>
@@ -44,9 +43,9 @@ List of student alumni on this page is sorted in reverse chronology and accordin
 </tr>
 </tbody>
 </table>
-
+<br>
 <b>2018</b>
-
+<br>
 <table>
 <tbody>
 <tr>
