@@ -1265,7 +1265,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tr>
 <td>Sankarasubramanian R.</td>
 <td>Abinandanan T.A.</td>
-<td>Symmetry – breaking transitions in equilibrium shapes of coherent precipitates</td>
+<td>Symmetry breaking transitions in equilibrium shapes of coherent precipitates</td>
 </tr>
 </tbody>
 </table>
@@ -1310,7 +1310,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tr>
 <td>S. Sundararajan</td>
 <td>(E.S. Dwarakadasa and R. Mahadevan, IPL)</td>
-<td>Study of the properties and particle / matrix interface in Al-12Si-10% SiCp  composite</td>
+<td>Study of the properties and particle or matrix interface in Al-12Si-10% SiCp  composite</td>
 </tr>
 </body>
 </table>
