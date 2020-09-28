@@ -819,8 +819,6 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 </tr>
 </tbody>
 </table>
-<br>
-
 ### 2009-2000
 <br>
 <b>2009</b>
@@ -1267,8 +1265,6 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tr>
 </tbody>
 </table>
-<br>
-
 ### 1999-1990
 <br>
 <b>1999</b>
@@ -1699,7 +1695,6 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
-
 ### 1989-1980
 <br>
 <b>1989</b>
@@ -1997,7 +1992,6 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
-
 ### 1979-1970
 <br>
 <b>1979</b>
