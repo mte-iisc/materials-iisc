@@ -19,7 +19,7 @@ List of student alumni on this page is sorted in reverse chronology and accordin
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ List of student alumni on this page is sorted in reverse chronology and accordin
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ Aloke Paul &#038; Praveen Kumar</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -284,7 +284,7 @@ Aloke Paul &#038; Praveen Kumar</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ Corrosion and wear behavior of plasma electrolytic oxidation and laser surface a
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -498,7 +498,7 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -621,7 +621,7 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -674,7 +674,7 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -733,7 +733,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -781,7 +781,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -831,7 +831,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -864,7 +864,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -917,7 +917,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -961,7 +961,7 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1009,7 +1009,7 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1076,7 +1076,7 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1114,7 +1114,7 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1143,7 +1143,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1196,7 +1196,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1247,30 +1247,51 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tbody>
 </table>
 
+
+
+### 1999-1990
 <br>
-<b>2000</b>
+<b>1999</b>
 <br>
 <table>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Srinivasa Rao B.</td>
-<td>Vikram Jayaram</td>
-<td>Pressureless infiltration of Al-Mg based alloys into Al<sub>2</sub>O<sub>3</sub> preforms</td>
+<td>S. Prakash Narayan</td>
+<td>(Vikram Jayaram and Kunal Basu, RRL, Bhopal)</td>
+<td>The  effect  of strain rate and temperature on the development of magnetic properties in nanocrystalline Nd-Fe-B alloy </td>
 </tr>
 <tr>
-<td>Sankarasubramanian R.</td>
-<td>Abinandanan T.A.</td>
-<td>Symmetry breaking transitions in equilibrium shapes of coherent precipitates</td>
+<td>Rajendra Kumar Rath</td>
+<td>(S. Subramanian)</td>
+<td>Polysaccharide-based investigations into the surface chemistry of some sulphide and hydrophobic minerals and processing of a complex sulphide ore</td>
 </tr>
-</tbody>
+<tr>
+<td>Kinkar Laha (ER)</td>
+<td>(D.H. Sastry and S.L. Mannan, IGCAR)</td>
+<td>Tensile and creep behaviour of  similar and dissimilar weld joints of Cr-Mo steels</td>
+</tr>
+<tr>
+<td>M. Divakar</td>
+<td>(J.P. Hajra and  K.T. Jacob)</td>
+<td>Thermodynamics of surfaces and adsorption in dilute iron based systems</td>
+</tr>
+<tr>
+<td>Dheepa Srinivasan</td>
+<td>(K. Chattopadhyay)</td>
+<td>Phase evolution, thermal stability and hardness of melt spun nanocrystalline Al-Zr based alloys</td>
+</tr>
+<tr>
+<td>S. Sundararajan</td>
+<td>(E.S. Dwarakadasa and R. Mahadevan, IPL)</td>
+<td>Study of the properties and particle or matrix interface in Al-12Si-10% SiCp  composite</td>
+</tr>
+</body>
 </table>
-
-### 1999-1990
 
 <br>
 <b>1998</b>
@@ -1279,7 +1300,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1350,7 +1371,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1387,7 +1408,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1444,7 +1465,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1495,7 +1516,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1531,7 +1552,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1552,7 +1573,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1585,7 +1606,7 @@ Study of amorphous phase formation by mechanical alloying in Ti based systems</t
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1601,7 +1622,7 @@ Study of amorphous phase formation by mechanical alloying in Ti based systems</t
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1666,7 +1687,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1693,7 +1714,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1735,7 +1756,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1762,7 +1783,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1784,7 +1805,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1806,7 +1827,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1838,7 +1859,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1870,7 +1891,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1902,7 +1923,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1935,7 +1956,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -1964,7 +1985,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2006,7 +2027,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2042,7 +2063,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2080,7 +2101,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2107,7 +2128,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2139,7 +2160,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2166,7 +2187,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s)</th>
+<th>Advisor(s))</th>
 <th>Thesis title</th>
 </tr>
 <tr>
