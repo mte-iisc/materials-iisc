@@ -1317,7 +1317,8 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <b>1998</b>
 <br>
 <table>
-<tbody><tr>
+<tbody>
+<tr>
 <th>Student</th>
 <th>Advisor(s)</th>
 <th>Thesis title</th>
@@ -1424,7 +1425,8 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <b>1996</b>
 <br>
 <table>
-<tbody><tr>
+<tbody>
+<tr>
 <th>Student</th>
 <th>Advisor(s)</th>
 <th>Thesis title</th>
