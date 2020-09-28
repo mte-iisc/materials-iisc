@@ -1271,48 +1271,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </table>
 
 ### 1999-1990
-<br>
-<b>1999</b>
-<br>
-<table>
-<tbody>
-<tr>
-<th>Student</th>
-<th>Advisor(s)</th>
-<th>Thesis title</th>
-</tr>
-<tr>
-<td>S. Prakash Narayan</td>
-<td>(Vikram Jayaram and Kunal Basu, RRL, Bhopal)</td>
-<td>The  effect  of strain rate and temperature on the development of magnetic properties in nanocrystalline Nd-Fe-B alloy </td>
-</tr>
-<tr>
-<td>Rajendra Kumar Rath</td>
-<td>(S. Subramanian)</td>
-<td>Polysaccharide-based investigations into the surface chemistry of some sulphide and hydrophobic minerals and processing of a complex sulphide ore</td>
-</tr>
-<tr>
-<td>Kinkar Laha (ER)</td>
-<td>(D.H. Sastry and S.L. Mannan, IGCAR)</td>
-<td>Tensile and creep behaviour of  similar and dissimilar weld joints of Cr-Mo steels</td>
-</tr>
-<tr>
-<td>M. Divakar</td>
-<td>(J.P. Hajra and  K.T. Jacob)</td>
-<td>Thermodynamics of surfaces and adsorption in dilute iron based systems</td>
-</tr>
-<tr>
-<td>Dheepa Srinivasan</td>
-<td>(K. Chattopadhyay)</td>
-<td>Phase evolution, thermal stability and hardness of melt spun nanocrystalline Al-Zr based alloys</td>
-</tr>
-<tr>
-<td>S. Sundararajan</td>
-<td>(E.S. Dwarakadasa and R. Mahadevan, IPL)</td>
-<td>Study of the properties and particle or matrix interface in Al-12Si-10% SiCp  composite</td>
-</tr>
-</body>
-</table>
+
 <br>
 <b>1998</b>
 <br>
@@ -2036,8 +1995,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tr>
 <td>N.K. Jain</td>
 <td>(Y.V.R.K. Prasad and K.P. Abraham)</td>
-<td>
-Hot working and deformation mechanism in electroslag refined materials (En 36A steel and RR 58 aluminium alloy)</td>
+<td>Hot working and deformation mechanism in electroslag refined materials (En 36A steel and RR 58 aluminium alloy)</td>
 </tr>
 </body>
 </table>
@@ -2155,8 +2113,7 @@ Studies on electroslag melting of quality steels and nickel base alloys</td>
 <tr>
 <td>V.V.V.N.S. Ramakrishna Rao</td>
 <td>(K.P.Abraham)</td>
-<td>
-Kinetic aspects of gas/solid reactions of metallurgical interest</td>
+<td>Kinetic aspects of gas/solid reactions of metallurgical interest</td>
 </tr>
 <tr>
 <td>Tarasankar Deb Roy</td>
@@ -2166,8 +2123,7 @@ Kinetic aspects of gas/solid reactions of metallurgical interest</td>
 <tr>
 <td>Kishore</td>
 <td>(K.I. Vasu)</td>
-<td>
-On the nature of clustering and strengthening in a quenched and aged aluminium 2% germanium alloy-resistometric, microscopic and low temperature deformation studies.</td>
+<td>On the nature of clustering and strengthening in a quenched and aged aluminium 2% germanium alloy-resistometric, microscopic and low temperature deformation studies.</td>
 </tr>
 <tr>
 <td>R. Chandrashekar</td>
@@ -2240,7 +2196,7 @@ On the nature of clustering and strengthening in a quenched and aged aluminium 2
 </body>
 </table>
 
-## M. Tech.
+## M.Tech.
 
 ### 2019-2010
 
