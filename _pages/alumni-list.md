@@ -3324,6 +3324,8 @@ Sandeep R. Shah</td>
 <td>(K. P. Abraham)</td>
 <td>Studies on the chloridisation of low grade ferruginous manganese ores</td>
 </tr>
+</tbody>
+</table>
 <br>
 <b>1966</b>
 <br>
@@ -3424,6 +3426,14 @@ Sandeep R. Shah</td>
 ### 1956-1951
 <br>
 <b>1956</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisor(s)</th>
+<th>Thesis title</th>
+</tr>
 <tr>
 <td>M. Mohan Rao</td>
 <td>(Brahm Prakash)</td>
