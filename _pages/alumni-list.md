@@ -3295,6 +3295,13 @@ Sandeep R. Shah</td>
 ### 1961-1970
 <br>
 <b>1968</b>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisor(s)</th>
+<th>Thesis title</th>
+</tr>
 <tr>
 <td>S. Sreenivasa Rao</td>
 <td>(T. R. Anantharaman)</td>
