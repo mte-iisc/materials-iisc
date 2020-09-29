@@ -3457,7 +3457,8 @@ Sandeep R. Shah</td>
 <tr>
 <td>K. G. Udupa</td>
 <td>(J. Balachandra)</td>
-<td>Electrowinning of zinc from Zawar concentrates
+<td>Electrowinning of zinc from Zawar concentrates</td>
+</tr>
 </tbody>
 </table>
 <br>
