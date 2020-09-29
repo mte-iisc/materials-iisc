@@ -3292,7 +3292,7 @@ Sandeep R. Shah</td>
 </tbody>
 </table>
 <br>
-### 1961-1970
+### 1960-1970
 <br>
 <b>1968</b>
 <table>
@@ -3402,8 +3402,6 @@ Sandeep R. Shah</td>
 </tr>
 </tbody>
 </table>
-<br>
-### 1960-1951
 <br>
 <b>1960</b>
 <br>
