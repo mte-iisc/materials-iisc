@@ -3479,6 +3479,12 @@ Sandeep R. Shah</td>
 </tbody>
 </table>
 <br>
+## M.E.(Integrated)
+### 2000-1991
+<br>
+## M.E.(Manufacturing Engineering)
+### 2000-2002
+<br>
 ## B.E.
 <br>
 ## D.I.I.Sc.
