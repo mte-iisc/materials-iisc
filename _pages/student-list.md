@@ -26,7 +26,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Reshma Devi P.</td><td>Sai Gautam Gopalakrishnan</td><td></td></tr>
 <tr><td>Rishaba Soni</td><td>Kaushik Chatterjee</td><td></td></tr>
 <tr><td>Shashwat Kumar Mishra</td><td>Praveen Kumar</td><td></td></tr>
-<tr><td>Suman Sadhu</td>Aloke Paul<td></td><td></td></tr>
+<tr><td>Suman Sadhu</td><td>Aloke Paul</td><td></td></tr>
 <tr><td>Sumit Katiyar</td><td>Vikram Jayaram</td><td></td></tr>
 <tr><td>Sunando Banerjee</td><td>Chandan Srivastava</td><td></td></tr>
 <tr><td>Rishi Raj</td><td>Subodh Kumar</td><td></td></tr>
