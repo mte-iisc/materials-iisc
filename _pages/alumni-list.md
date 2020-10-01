@@ -2740,7 +2740,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tbody>
 </table>
 <br>
-<td>2013</b>
+<b>2013</b>
 <br>
 <table>
 <tbody>
