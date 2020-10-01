@@ -4595,7 +4595,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Sivaraman M.V.S.</td>
+<td>Sivaraman M.V.S.</td>
 <td>Vikram Jayaram</td>
 <td>Design and fabrication of a HFCVD reactor for synthesis of diamond thin films</td>
 </tr>
@@ -4630,7 +4630,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Studies on electro-thermal ageing of commercial ZnO varistors</td>
 </tr>
 <tr>
-<td>D. Sunanda</td>
+<td>Sunanda D.</td>
 <td>Sastry D.H.</td>
 <td>Superplasticity in intermetallics – A study in Ti-24 Al-15Nb alloy</td>
 </tr>
@@ -4644,8 +4644,10 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Chattopadhyay K.</td>
 <td>Preparation, characterisation and hardness studies on nanodispersed Zn-10 wt% Bi alloy</td>
 </tr>
-<tr>
-<td>1991</b>
+</tbody>
+</table>
+<br>
+<b>1991</b>
 <br>
 <table>
 <tbody>
