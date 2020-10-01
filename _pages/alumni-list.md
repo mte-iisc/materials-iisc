@@ -4574,8 +4574,8 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td> Srinivasa Rao P.</td>
-<td>Effect of trace element additions on processing and thermal behaviour of aluminium lithium alloys</td>
 <td></td>
+<td>Effect of trace element additions on processing and thermal behaviour of aluminium lithium alloys</td>
 </tr>
 <tr>
 <td>Ravi Kumar Tolety</td>
