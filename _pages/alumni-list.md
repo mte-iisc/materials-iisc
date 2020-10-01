@@ -2233,15 +2233,3785 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 
 ## M.Tech.
 
-### 2019-2010
-
-### 2009-2000
-
-### 1999-1990
-
-### 1989-1980
-
-### 1979-1971
+### 2018-2011
+<br>
+<b>2018</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Faizan Hijazi</td>
+<td>Praveen Kumar</td>
+<td>Bending Creep: Experimental Investigation of Creep in Beams Under Flexure</td>
+</tr>
+<tr>
+<td>Priyanjali Markam</td>
+<td>Atul H. Chokshi</td>
+<td>Creep Behaviour In Concentrated Solid Solution of Ni-Co Alloy</td>
+</tr>
+<tr>
+<td>Sanket Kurli</td>
+<td>Vikram Jayaram</td>
+<td>Creep Studies Of Lead By Indentation</td>
+</tr>
+<tr>
+<td>Manaswini Chinara</td>
+<td>Dipankar Banerjee</td>
+<td>Structure, Plasticity and Strength 0f Ti-5553 Alloy</td>
+</tr>
+<tr>
+<td>Chandan Kumar</td>
+<td>Abinandanan T.A.</td>
+<td>Phase Field Study Of Precipitate Coarsening In Ternary Alloys</td>
+</tr>
+<tr>
+<td>Vaskuri Chandra Sekhara Theja</td>
+<td>Satyam Suwas & Avadhani G.S.</td>
+<td>Mechanical Behavior 0f Medium Mn-Twip Steels for Automotive Applications</td>
+</tr>
+<tr>
+<td>Pramod Kumar Singh</td>
+<td>Satyam Suwas</td>
+<td>The Effect Of Alloying Addition On The Microstructure and Mechanical Properties Of Ferritic-Pearlitic Steels And The Study Of Hot Deformation Behavior</td>
+</tr>
+<tr>
+<td>Yogesh Kumar Bhandari</td>
+<td>Subramanian S.</td>
+<td>Beneficiation Of Chromite Ore By Flotation Studies</td>
+</tr>
+<tr>
+<td>Natasha Prasad</td>
+<td>Avadhani G.S.</td>
+<td>Deformation And Recrystallization Behaviour Of High Entropy Alloy.</td>
+</tr>
+<tr>
+<td>Kola Immanuel Raju</td>
+<td>Kaushik Chatterjee</td>
+<td>Characterisation Of 3d Printed 316l Stainless Steel For Biomedical Applications</td>
+</tr>
+<tr>
+<td>Chavan Prasad M</td>
+<td>Chandan Srivastava</td>
+<td>Towards The Synthesis Of Graphene Foams By Powder Metallurgical Route</td>
+</tr>
+<tr>
+<td>Jagadeshvaran P L</td>
+<td>Suryasarathi Bose</td>
+<td>Effects Of Graphene Oxide On Miscibility And Morphology Evolution Of Polymer Blends With Weak Dynamic Asymmetry</td>
+</tr>
+<tr>
+<td>Sandeep Kumar Mondal</td>
+<td>Subho Dasgupta</td>
+<td>Effect Of Crystallite Size And Spatial Homogeneity On Channel Length Sensitivity Of Printed Oxide Thin Film Transistors</td>
+</tr>
+<tr>
+<td>Sunil Kumar Behera</td>
+<td>Subho Dasgupta</td>
+<td>Inkjet Printed Amorphous Indium – Zinc – Oxide / Silver Hybrid Channel Thin Film Transistors </td>
+</tr>
+<tr>
+<td>Daidi Surya Teja</td>
+<td>Karthikeyan S.</td>
+<td>High Strain Rate Plasticity And Damage Model Parameters For A Cast Austenitic Stainless Steel</td>
+</tr>
+<tr>
+<td>Om Puri Gosain</td>
+<td>Chattopadhyay K.</td>
+<td>Optimization Of Chromium And Titanium Content In Tungsten-Free Γ’- Strengthened Cobalt Based Superalloys For Thermo-Physico-Mechanical And Oxidation Properties</td>
+</tr>
+<tr>
+<td>Shasanka Sekhar Behera</td>
+<td>Suryasarathi Bose</td>
+<td>Hybrid Grapheme Oxide Membranes Interlocked With Grapheme Oxide Quantum Dots For Effective Water Remediation</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2017</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Ajaya Pratap Jena</td>
+<td>Abhik N. Choudhury</td>
+<td>Influence Of Interface Diffusion On Pearlite Growth: A Phase-Field Study</td>
+</tr>
+<tr>
+<td>Ankita Dashrath Maske</td>
+<td>Chattopadhyay K.</td>
+<td>Inkjet Printing Of Germanium Film Via Nanoparticle Ink Formations</td>
+</tr>
+<tr>
+<td>Ankush Raina</td>
+<td>Govind S. Gupta</td>
+<td>Experimental Study Of Three Phase Flow In A Moving Bed With Lateral Gas Injection</td>
+</tr>
+<tr>
+<td>Anshu Shankar Prasad</td>
+<td>Aloke Paul</td>
+<td>Effect Of Ti Addition On Tungsten Free Γ- Γ’ Co Based Superalloys</td>
+</tr>
+<tr>
+<td>Priyanshi Agrawal</td>
+<td>Atul H. Chokshi</td>
+<td>Mechanical Properties Of Electrodeposited Nanocrystalline Ni</td>
+</tr>
+<tr>
+<td>Himanshu Singh</td>
+<td>Satyam Suwas</td>
+<td>Severe Plastic Deformation Of Al-Li-Cu Alloys By Accumulative Roll Bonding Arb</td>
+</tr>
+<tr>
+<td>Mangesh Vyankat Pantawane</td>
+<td>Ravi R.</td>
+<td>Study On Effect Of Chromium Addition On Tungsten-Free Cobalt Based Superalloy</td>
+</tr>
+<tr>
+<td>Gollapalli Prince</td>
+<td>Surappa M.K.</td>
+<td>Microstructure, Mechanical, And Damping Properties Of Magnesium AlloyAz91/Sicp/Fly Ash Hybrid Composite</td>
+</tr>
+<tr>
+<td>Mridul Pant</td>
+<td>Surappa M.K.</td>
+<td>Wear Studies On Az91-3%Sicp-3%Fly Ash Magnesium Hybrid Composites</td>
+</tr>
+<tr>
+<td>Anuj Dash</td>
+<td>Chandan Srivastava</td>
+<td>Heat Treatment And Hot Deformation Behaviour Of Nano Precipitate Strengthened Steels</td>
+</tr>
+<tr>
+<td>Sarbajit Manna</td>
+<td>Rajeev Ranjan</td>
+<td>Photoluminescence Behavior Study Of Bismuth Ferrite-Lead Titanate Rare Earth Eu3+Er3+ Doped System With Particle Size Reduction</td>
+</tr>
+<tr>
+<td>Bhavya Tulasi Aleti</td>
+<td>Kaushik Chatterjee</td>
+<td>Surface Nanocrystallization Of Cp- Titanium By Smat To Enhance The Corrosion- Fatigue Resistance And Biological Response For Orthopedic Applications</td>
+</tr>
+<tr>
+<td>Mir Ishfaq</td>
+<td>Subramanian S.</td>
+<td>Bioleaching Of Chalcopyrite Ore By Using Acidithiobacillus Ferrooxidans</td>
+</tr>
+<tr>
+<td>Pakhare Akshay Shailendra</td>
+<td>Vijay Sethuraman</td>
+<td>Electrochemical Hysteresis In Sno2 Electrode For Lithium Ion Batteries</td>
+</tr>
+<tr>
+<td>Basavaraj P. Kalinganavar</td>
+<td>Avadhani G.S.</td>
+<td>The Effect Of Alloying Additions And Heat-Treatment On The Mechanical Properties Of Nano-Pearlitic Steel And Optimization Of Hot Workability By Developing A Processing Map</td>
+</tr>
+<tr>
+<td>Shubham Netam</td>
+<td>Chandan Srivastava</td>
+<td>Morphology ,Microstructure And Electrochemical Corrosion Behaviour Of Zn And Zn-Graphene Oxide Nanocomposite Coatings Electrodeposited On Mild Steel</td>
+</tr>
+<tr>
+<td>Sneha Pandurang Patil</td>
+<td>Suryasarathi Bose</td>
+<td>Development Of Efficient Emi Shielding Material Using Pvdf, Alloyed Nanoparticles And Carbon Nanotubes</td>
+</tr>
+<tr>
+<td>Harish Kumar S.</td>
+<td>Ashok M. Raichur</td>
+<td>Improving The Mechanical And Thermal Properties Of Epoxy Nanocomposites Using Graphene Oxide Go</td>
+</tr>
+<tr>
+<td>Soudip Basu</td>
+<td>Praveen Kumar</td>
+<td>A Critical Examination Of Mechanical And Actuation Behavior Of Carbon Nanotube And Reduced Graphene Oxide Foams Under electric Fields</td>
+</tr>
+<tr>
+<td>Saurabh Kesarwani</td>
+<td>Karthikeyan S.</td>
+<td>Constitutive Equations For Plasticity And Fracture Inductile Metals Under High Strain Rates</td>
+</tr>
+<tr>
+<td>Soham Chattopadhyay</td>
+<td>Rajeev Ranjan</td>
+<td>Ab-Initio Investigation Of Van Der Waals Heterostructures Of Polar Sc2co2 Mxene With Mose2 And Wse2 Transition Metal Dichalcogenides</td>
+</tr>
+<tr>
+<td>Rathod Hemant Janardhan</td>
+<td>Ramamurty U.</td>
+<td>Mechanical And Tribological Properties Of Selective Laser Melted Alloy</td>
+</tr>
+<tr>
+<td>Abhijeet Nayak</td>
+<td>Abinandanan T.A.</td>
+<td>Effect Of Finite Precipitate Volume Fraction On The Coarsening Behavior : A Phase Field Study</td>
+</tr>
+<tr>
+<td>Ayyaluru Tulasi Shashidhar Reddy</td>
+<td>Praveen C. Ramamurthy</td>
+<td>Silicon Hybrid Molecular Electronic Devices Based on Porphyrin</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2016</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Pramod Kumar Sharma</td>
+<td>Abinandanan T.A.</td>
+<td>A Phase-Field Model For Simulating Pitting Corrosion</td>
+</tr>
+<tr>
+<td>Supriyo Chakraborty</td>
+<td>Abhik N Chowdhury</td>
+<td>Phase Field Study Of The Electric Current Induced Void Evolution And Grain-Boundary Grooving</td>
+</tr>
+<tr>
+<td>Indrani Biswas</td>
+<td>Karthikeyan S.</td>
+<td>Design And Experimental Validation Of A Novel Ultra High Strength Steel For Landing Gear Applications</td>
+</tr>
+<tr>
+<td>Bawane Kaustubh Krishna</td>
+<td>Dipankar Banerjee</td>
+<td>Microstructural Evolution And Tensile Properties Of Direct Metal Laser Sintered Dmls Cocrmo And Direct Metal Laser Deposited DmldFsx-414 Cobalt Based Superalloys</td>
+</tr>
+<tr>
+<td>Patil Chaitali Shridhar</td>
+<td>Chattopadhyay K.</td>
+<td>Study Of Precipitation Hardened Niobium-Silicon – Aluminium Alloys</td>
+</tr>
+<tr>
+<td>Rakesh R. Kamath</td>
+<td>Atul H. Chokshi</td>
+<td>Size-Effect Study On Mechanical Behaviour Of Niobium Micro-Wires</td>
+</tr>
+<tr>
+<td>Antareep Sharma</td>
+<td>Kaushik Chatterjee</td>
+<td>Preparation And Characterization Of A Multifunctional Bioactive Surface On Titanium For Orthopedic Applications</td>
+</tr>
+<tr>
+<td>Anwesha Kanjilal</td>
+<td>Praveen Kumar</td>
+<td>Mechanical Reliability Of Pb-Free Solders And Solder Joints</td>
+</tr>
+<tr>
+<td>Rahul G. R.</td>
+<td>Vikram Jayaram</td>
+<td>Dependence Of Crack Velocity On Stress Intensity Factor In Pmma Using Single Edge Notched Clamped Beams</td>
+</tr>
+<tr>
+<td>Prachi Pragnya</td>
+<td>Vijay Sethuraman</td>
+<td>Study Of Aluminium As A Potential Negative Electrode For Lithium Ion Batteries</td>
+</tr>
+<tr>
+<td>Urvashi Bothra</td>
+<td>Praveen C Ramamurthy</td>
+<td>Fabrication Of Organic Solar Cells On Flexible Glass</td>
+</tr>
+<tr>
+<td>Abhishek Agarwal</td>
+<td>Rajeev Ranajan</td>
+<td>Effect Of Poling On Photoluminescence, Structural And Electrical Properties Of Erbium Doped Na0.5bi0.5tio3 And 0.94na0.5bi0.5tio3-0.06batio3</td>
+</tr>
+<tr>
+<td>Bachu Saiphaneendra</td>
+<td>Chandan Srivastava</td>
+<td>Synthesis And Characterization Of Graphene – Nanoparticle Composites For Environmental And Catalytic Applications</td>
+</tr>
+<tr>
+<td>Subhash Kumar</td>
+<td>Satyam Suwas</td>
+<td>Study Of Texture And Microstructure Evolution During High Temperature – High Strain Rate Deformation Of hcp Materials</td>
+</tr>
+<tr>
+<td>Awadh Kishor Gupta</td>
+<td>Satyam Suwas / Avadhani G.S.</td>
+<td>Effect Of Alloying Addition On Interlamellar Spacing In Pearlitic Grade Steel</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2015</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Akash Ashis Bhattacharjee</td>
+<td>Abhik N Choudhury</td>
+<td>Phase Field Modelling Of Mode Iii Dynamic Fracture</td>
+</tr>
+<tr>
+<td>Arunima Banerjee</td>
+<td>Dipankar Banerjee</td>
+<td>Deformation And Analysis Of Slip In Ti-6al-2sn-4zr-2mo-0.1si And Ti-6al-2sn-4zr-6mo</td>
+</tr>
+<tr>
+<td>Manoj Kumar Yadav</td>
+<td>Atul H. Chokshi</td>
+<td>High Temperature Deformation Behavior Of Lutetium Doped Alumina</td>
+</tr>
+<tr>
+<td>Nikki Ramesh Kamble</td>
+<td>Avadhani G.S. & Satyam Suwas</td>
+<td>Hot Deformation Processing Of Magnesium Alloys, Am30 And Am50</td>
+</tr>
+<tr>
+<td>Pund Tushar Shivaji</td>
+<td>Satyam Suwas</td>
+<td>Processing-Microstructure-Property Correlation In Low Density Steels, Aisi 1040 Steel And Pearlitic Steel</td>
+</tr>
+<tr>
+<td>Pushpendra Singh</td>
+<td>Subodh Kumar</td>
+<td>Development Of Wrought Mg-Sn-Zn Alloys With Improved Strength And Ductility</td>
+</tr>
+<tr>
+<td>Rishi Ramdas Shivhare</td>
+<td>Praveen C Ramamurthy</td>
+<td>Comparative Analysis Of Ageing Induced Performance Degradation Between P-I-N And N-I-P Structured Organic Solar Cells</td>
+</tr>
+<tr>
+<td>Rohit Berlia</td>
+<td>Chandan Srivastava</td>
+<td>Synthesis And Characterization Of Isolated Nano-Solids And Nano –Structured Coatings</td>
+</tr>
+<tr>
+<td>Sawant Amitkumar Shripati</td>
+<td>Chattopadhyay K.</td>
+<td>Effect Of Alloying Additions On Newly Developed Tungsten Free Cobalt Based Superalloy</td>
+</tr>
+<tr>
+<td>Shankha Nag</td>
+<td>Ramamurty U.</td>
+<td>Micromechanics And Deformation Behaviour Of Amorphous Systems</td>
+</tr>
+<tr>
+<td>Shobhit Pratap Singh</td>
+<td>Praveen Kumar</td>
+<td>Creep Behavior Of Lif Single Crystal And Cu-Bi Alloy</td>
+</tr>
+<tr>
+<td>Subodh Nath Patel</td>
+<td>Vikram Jayaram</td>
+<td>Controlled Growth Of Thick And Porous Anodic Zro2 Coatings At Low Temperature</td>
+</tr>
+<tr>
+<td>Surya Vanamali</td>
+<td>Ashok M. Raichur</td>
+<td>Arginine Functionalized Mesoporous Silica Nanoparticles As Intravenous Delivery System To Target Intracellular Salmonella Infection</td>
+</tr>
+<tr>
+<td>Urbi Pal</td>
+<td>Aloke Paul</td>
+<td>Effect Of Al And Cr On The Interdiffusion Between Β-Fe,NiCral Bond Coats And P91 Steel & Ni-Based Cmsx-4 Superalloy</td>
+</tr>
+<tr>
+<td>Abhijeet Nandkishor Kalaskar</td>
+<td>Rajeev Ranjan</td>
+<td>Effect Of Poling On Dielectric Properties And Photoluminescence Spectrum Of Europium Doped Na0.5bi0.5tio3 And 0.94na0.5bi0.5tio3-0.06batio3</b>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2014</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Abhishek Goswami</td>
+<td>Atul H. Chokshi</td>
+<td>Structural And Mechanical Studies On Sea Shells</td>
+</tr>
+<tr>
+<td>Amardeep Kumar Burnwal</td>
+<td>Subodh Kumar</td>
+<td>A Processing Route To Improve The Strength And Ductility Of 2219scmg Aluminium Alloy</td>
+</tr>
+<tr>
+<td>Anupam Mishra</td>
+<td>Kaushik Chatterjee</td>
+<td>Polycaprolactone/Organoclay Nanocomposites: Mechanical</td>
+</tr>
+<tr>
+<td>Binay Kumar Deb Barman</td>
+<td>Praveen Kumar</td>
+<td>Mechanical Behaviour Of Bi-Cu Alloy: A Two-Phase Material Suited For Thermal Surge And Energy Storage Applications</td>
+</tr>
+<tr>
+<td>Chandan Kumar</td>
+<td>Chattopadhyay K.</td>
+<td>Synthesis And Phase Transformation Behavior Of Materials At Nano Scale</td>
+</tr>
+<tr>
+<td>Gangineni Pavan Kumar</td>
+<td>Praveen C Ramamurthy</td>
+<td>Current Soaking Studies Of Organic Electronic Devices</td>
+</tr>
+<tr>
+<td>Kadambi Sourabh Bhagwan</td>
+<td>Ramamurty U</td>
+<td>Indentation Studies On Tilted Copper Samples And Ni-Ti Shape Memory Alloys</td>
+</tr>
+<tr>
+<td>Kashiwar Ankush Arun</td>
+<td>Dipankar Banerjee</td>
+<td>3d Microstructural Characterization In Some Alloys Using Serial Sectioning Techniques</td>
+</tr>
+<tr>
+<td>Muhammad Arif</td>
+<td>Govind S Gupta</td>
+<td>Mathematical Modelling Of Iron Ore Sintering Process</td>
+</tr>
+<tr>
+<td>Mahander Pratap Singh</td>
+<td>Chandan Srivastava</td>
+<td>Electrodeposition And Characterization Of Nanowires: Ag, Ag-Co, Ag-Fe, Ag-Co-Ni, Ag-Ni-Fe And Ag-Nio Nanowires</td>
+</tr>
+<tr>
+<td>Pattabhi Ramaiah Kola</td>
+<td>Suryasarathi Bose</td>
+<td>Emi Shielding In Pc/San Blends With Mwnts And Dopamine Decorated Fe3o4 Nanoparticles</td>
+</tr>
+<tr>
+<td>Pusuluri Srimannarayana</td>
+<td>Karthikeyan S</td>
+<td>Phase Field Modelling Of Suzuki Strengthening In Pseudo-Binary Ni3Al,Ti System</td>
+</tr>
+<tr>
+<td>Shyamal Nayak</td>
+<td>Subramanian S</td>
+<td>Studies On The Recovery Of Uranium, Niobium And Rare Earth Elements From A Lean Grade Ore</td>
+</tr>
+<tr>
+<td>Subrata Panda</td>
+<td>Avadhani Gs / Satyam Suwas</td>
+<td>Microstructure, Texture And Mechanical Properties In Metastable Beta Titanium Alloy Ti-5553 </td>
+</tr>
+<tr>
+<td>Sudipta Pramanik</td>
+<td>Satyam Suwas</td>
+<td>Development Of Low Density Steels And Their Processing-Texture-Property Relationship</td>
+</tr>
+<tr>
+<td>Sukriti Manna</td>
+<td>Abinandanan T.A.</td>
+<td>Stress Effects On Composition Profile Of Ordered Precipitates: A Phase Field Study</td>
+</tr>
+<tr>
+<td>Tanaji Paul</td>
+<td>Aloke Paul</td>
+<td>Interdiffusion Studies In Ni-Zr And Mcraly – Cmsx4 Systems</td>
+</tr>
+<tr>
+<td>Senthil Kumar Nadar</td>
+<td>Ashok M Raichur</td>
+<td>Control Of Size, Shape And Crystallographic Phase Of Calcium Carbonate Particles</td>
+</tr>
+</tbody>
+</table>
+<br>
+<td>2013</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Agepati Srinivasa</td>
+<td>Atul H. Chokshi</td>
+<td>Mechanical Behavior Of Nickel Microwires</td>
+</tr>
+<tr>
+<td>Vishal N Soni</td>
+<td>Karthikeyan S.</td>
+<td>Effect Of Texture On High Strain Rate Deformation Of Ti 6al-4v</td>
+</tr>
+<tr>
+<td>Avishek Kumar</td>
+<td>Praveen C Ramamurthy</td>
+<td>Structure Property Relationship Of Polymers For Organic Electronics</td>
+</tr>
+<tr>
+<td>Md Dilkash Azam</td>
+<td>Kaushik Chatterjee</td>
+<td>-Caprolactone-Graphene BasedPoly Nanocomposite For Bone Tissue Engineering</td>
+</tr>
+<tr>
+<td>Poshit Nagmandali</td>
+<td>Satyam Suwas</td>
+<td>Orientation, Intrinsic Stresses And Dielectric Properties Of Yttria Stabilized Zirconia And Barium Strontium Titanate</td>
+</tr>
+<tr>
+<td>Arnab Mukherjee</td>
+<td>Abinandanan T.A.</td>
+<td>Phase Separation In Polymer Blends With Fillers : A Phase Field Study</td>
+</tr>
+<tr>
+<td>Sandeep Vura</td>
+<td>Rajeev Ranjan</td>
+<td>Structure And Magnetic Characterization Of 1-X Bifeo3- X Srtio3 Bulk And Thin Film Ceramics</td>
+</tr>
+<tr>
+<td>Rajesh Kumar Rai</td>
+<td>Chandan Srivastava</td>
+<td>Synthesis And Characterization Of Ag-Ni Nanowires</td>
+</tr>
+<tr>
+<td>Manvendra Kumar Singh</td>
+<td>Subodh Kumar</td>
+<td>Tensile Properties And Corrosion Behaviour Of Mg-Li-Zn Alloys</td>
+</tr>
+<tr>
+<td>Tarang Mungole</td>
+<td>Praveen Kumar</td>
+<td>A Mechanistic View Behind Development Of Microstructure And Mechanical behaviour During High Pressure Torsion On Cast Al-7 % Si Alloys</td>
+</tr>
+<tr>
+<td>Sarfaraj Islam</td>
+<td>Ravi R. & Aloke Paul</td>
+<td>The Phase Evolution In AuCu/Sn System By Solid State Reactive Diffusion And Diffusion Studies In CuNi/Sn</td>
+</tr>
+<tr>
+<td>Sahithya Kandalam</td>
+<td>Avadhani G.S./ Satyam Suwas</td>
+<td>Processing- Microstructure- Property Correlation In We43 Alloy</td>
+</tr>
+<tr>
+<td>Bhingardive Viraj Vishnu</td>
+<td>Subramanian S. & Narayana B.V.</td>
+<td>Studies On The Recovery Of Uranium, Niobium And Ree From A Lean Grade Ore.</td>
+</tr>
+<tr>
+<td>Madhawan Chandra Wanshi</td>
+<td>Chattopadhyay K.</td>
+<td>Development Of Al-Cu-V-Zr Alloy For High Temperature Applications</td>
+</tr>
+<tr>
+<td>Suraj Kumar Das</td>
+<td>Vikram Jayaram</td>
+<td>Electrolytic Oxidation Of Zirconium To Produce Thick Porous Zirconia Film</td>
+</tr>
+<tr>
+<td>Rajesh Kumar Prusty</td>
+<td>Ramamurty U.</td>
+<td>Nanoindentation Of Ni-Gyroids</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2012</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Bhaskar Sravan Vadlamani</td>
+<td>Rajeev Ranjan</td>
+<td>Structural, Dielectric And Ferroelectric Studies In 1-XBiMg0.5ti0.5O3-XPbzro3 Systems</td>
+</tr>
+<tr>
+<td>Harini R.</td>
+<td>Subramanian S.</td>
+<td>Remediation Of Arsenic Form Aqueous Solutions</td>
+</tr>
+<tr>
+<td>Prince Raj</td>
+<td>Gupta G.S.</td>
+<td>Optimisation Of Temperature For The Production Of Silicon Carbide Via Carbothermal Route</td>
+</tr>
+<tr>
+<td>Prafull Pandey</td>
+<td>Chattopadhyay K.</td>
+<td>Effects Of Minute Additions Of Ternary Elements Ni, Cu And Fe On The Morphology And Solidification Behavior Of The Sn-Zn Eutectic Alloy</td>
+</tr>
+<tr>
+<td>Deepak Kumar Mishra</td>
+<td>Praveen C. Ramamurthy</td>
+<td>Fabrication Of Metal Electrodes For Organic Electronic Devices</td>
+</tr>
+<tr>
+<td>Nachiketa Ray</td>
+<td>Stayam Suwas</td>
+<td>Response To Shock Wave Deformation In Aa5086 Aluminium Alloy</td>
+</tr>
+<tr>
+<td>Kamal Nayan Goswami</td>
+<td>Dipankar Banerjee</td>
+<td>A First Principles Study Of The Effect Of Composition On Lattice Parameters In Ni-Base Superalloys</td>
+</tr>
+<tr>
+<td>Subham Mridha</td>
+<td>Karthikeyan S.</td>
+<td>A First Principles Study Of The Effect Of Alloying On Slip In Magnesium</td>
+</tr>
+<tr>
+<td>Nilesh Hansraj Warthi</td>
+<td>Atul H. Chokshi</td>
+<td>Strength In Nickel Microwaves</td>
+</tr>
+<tr>
+<td>Santosh Kumar</td>
+<td>Narayana B.V. & Subramanian S.</td>
+<td>Studies On The Dissolution Of Uranium From A Syenite Ore</td>
+</tr>
+<tr>
+<td>Brij Mohan Mundotiya</td>
+<td>Chandan Srivastava</td>
+<td>Phases And Morphologies In Electodeposited Ag-Ni Film And Nano- Sized Particles</td>
+</tr>
+<tr>
+<td>Krishna Kumar</td>
+<td>Ashok M. Raichur</td>
+<td>Synthesis Of Stable Nano Zero Valent Iron Nzvi Particles And Application For Environmental Remediation</td>
+</tr>
+<tr>
+<td>Prakash Sarkar</td>
+<td>Ashok M. Raichur</td>
+<td>Preparation And Mechanical Properties Of Nanoparticle Embedded Polymer Films</td>
+</tr>
+<tr>
+<td>Varun Arvind Baheti</td>
+<td>Aloke Paul & Ravi R.</td>
+<td>Interdiffusion Stuidesin Binary Co-Ta System And Ternary CoNi-Ta, CoNi-Nb And Fe Ni-Nb Systems</td>
+</tr>
+<tr>
+<td>Zita Zachariah</td>
+<td>Ramamurty U.</td>
+<td>Effect Of State Of Stress On Deformation Mechanisms In The Magnesium Alloy Am30</td>
+</tr>
+<tr>
+<td>Bibhudutta Mishra</td>
+<td>Aloke Paul</td>
+<td>Interdiffusion Study Of Systems Relevant To Microelectronic Industry</td>
+</tr>
+<tr>
+<td>Shekhar Tapase</td>
+<td>Satyam Suwas & Avadhani G.S.</td>
+<td>Processing – Texture Relationship In Magnesium Alloy We 43</td>
+</tr>
+<tr>
+<td>Priyadarshi Behera</td>
+<td>Subodh Kumar</td>
+<td>Development Of Mg-Li Based Alloys With Improved Strength And Ductility</td>
+</tr>
+<tr>
+<td>Kumar Navin</td>
+<td>Vikram Jayaram</td>
+<td>Fabrication And Characterization Of Zirconia Nanotubes On Zirconium Substrage For Thermal Barrier Coating Application Eb-Pvd By Chemical Route</td>
+</tr>
+<tr>
+<td>Supriyo Ghosh</td>
+<td>T. A. Abinandanan</td>
+<td>Effect Of Particles On Spinodal Decomposition: A Phase Filed Study</td>
+</tr>
+<tr>
+<td>Vinay Patel</td>
+<td>T. A. Abinandanan</td>
+<td>Computational Thermodynamics Of Point Defects In L12-Ordered Intermetallic Material g’-Ni3al </td>
+</tr>
+</tbody>
+</table>
+<br
+<b>2011</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Debashish Das</td>
+<td>Atul H. Chokshi</td>
+<td>Electrodeposited Nano And Electropolished Micro Nickel Wires: Synthesis And Mechanical Properties</td>
+</tr>
+<tr>
+<td>Shikhar</td>
+<td>Atul H. Chokshi</td>
+<td>High Temperature Deformation Study Of Ultra Fine Grained Nickel</td>
+</tr>
+<tr>
+<td>Joshi Sri Raghunath</td>
+<td>Karthikeyan S.</td>
+<td>Factors Affecting Extension Twinning In Magnesium Alloys</td>
+</tr>
+<tr>
+<td>Pikee Priya</td>
+<td>Karthikeyan S.</td>
+<td>A First Principles Study Of Al3sc1-Xzrxtype Precipitates In Al Alloys</td>
+</tr>
+<tr>
+<td>Dharm Jeet Gavel</td>
+<td>Subramanian S.</td>
+<td>Effect Of Particle Size On Flotation</td>
+</tr>
+<tr>
+<td>Sajal Hatwal</td>
+<td>Satyam Suwas</td>
+<td>Effect Of Severe Plastic Deformation On Microstructure, Texture And Mechanical Properties Of Pearlitic Steel</td>
+</tr>
+<tr>
+<td>Aviral Madhup</td>
+<td>Rajeev Ranjan</td>
+<td>Processing – Texture – Property Relationship In Some Wrought Mg-Alloys Processed By The Principle Of Accumulative Roll Bonding</td>
+</tr>
+<tr>
+<td>Arka Lahiri</td>
+<td>Abinandanan T.A.</td>
+<td>Spinodal Decomposition In Epitaxially Grown Thin Films</td>
+</tr>
+<tr>
+<td>Joshi Chairanya Amol</td>
+<td>Abinandanan T.A.</td>
+<td>Phase Field Modeling Of Discontinuous Spinodal Decomposition</td>
+</tr>
+<tr>
+<td>Shamiparna Das</td>
+<td>Rajeev Ranjan</td>
+<td>Search For High Curie Temperature Piezoelectric Solid Solution</td>
+</tr>
+<tr>
+<td>Manjesh Kumar Singh</td>
+<td>Vikram Jayaram</td>
+<td>Simulation And Validation Of Roll-Separating Force And Limiting Reduction In Cold Rolling</td>
+</tr>
+<tr>
+<td>Haider Ali</td>
+<td>Vikram Jayarm</td>
+<td>Nickel – Kaolin Composite Coatings For Self-Lubrication</td>
+</tr>
+<tr>
+<td>Abir Bhattacharya</td>
+<td>Ramamurty U.</td>
+<td>Strain Rate Sensitivity Of A Bulk Metallic Glass In Different Structural States And At Different Temperatures</td>
+</tr>
+<tr>
+<td>Prince Shaival Singh</td>
+<td>Ramamurty U.</td>
+<td>Effect Of Processing Routes, Strain Rate And Temperature On Mechanical Properties Of Bulk Metallic Glass Composites</td>
+</tr>
+<tr>
+<td>Jai Prakash</td>
+<td>Chattopadhyay K.</td>
+<td>Study Of Sliding Friction Induced Subsurface Deformation Of Crystalline Al And Quasicrystalline Al65cu15co20 Material</td>
+</tr>
+<tr>
+<td>Kundan Kumar</td>
+<td>Chattopadhyay K.</td>
+<td>Study Of Microstructures And Oxidation Behaviour Of Ni-14a1-10zr Ternary Alloy</td>
+</tr>
+<tr>
+<td>Manu S. Mohan</td>
+<td>Subodh Kumar</td>
+<td>Development Of Mg-Si Based Cast Alloys With Improved Strength</td>
+</tr>
+<tr>
+<td>Sambit Bapari</td>
+<td>Subodh Kumar</td>
+<td>Optimization Of Processing Routes For 2219scmg Developed For High Temperature Applications</td>
+</tr>
+<tr>
+<td>Avik Mondal</td>
+<td>Aloke Paul</td>
+<td>Interdiffusion Study In Fe-Pt System</td>
+</tr>
+<tr>
+<td>Mishra Sumeet Ravishankar</td>
+<td>Praveen C. Ramamurthy</td>
+<td>Organic Device Architecturing By Electrospinning Of Conducting Polymers</td>
+</tr>
+<tr>
+<td>Monalisa Bai</td>
+<td>Praveen C. Ramamurthy</td>
+<td>Structural Characterization Of Electroactive Organic Crystals For Photovoltaic Application</td>
+</tr>
+<tr>
+<td>Sanghita Mridha</td>
+<td>Dipankar Banerjee</td>
+<td>Characterization Of Cast Ni Based Superalloy</td>
+</tr>
+<tr>
+<td> Sajid Hussain M.D.</td>
+<td>Dipankar Banerjee</td>
+<td>Globularization Of A Near Α Titanium Alloy</td>
+</tr>
+</tbody>
+</table>
+<br>
+### 2010-2001
+<br>
+<b>2010</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Aravinda Raja A</td>
+<td>Abinandanan T.A.</td>
+<td>Grain Growth in a System With Anisotropic Grain Boundary Mobility: A Monte Carlo Study</td>
+</tr>
+<tr>
+<td>Ashwin N K Jayaraman</td>
+<td>Ramamurty U.</td>
+<td>Orientation Dependence of Mechanical Properties in Ferromagnetic Shape Memory Alloy NiMnGa</td>
+</tr>
+<tr>
+<td>Hariprasad G.</td>
+<td>Atul H. Chokshi</td>
+<td>A study of the indentation mechanical response of abalone nacre and the effect of the organic phase on its deformation across different length scales</td>
+</tr>
+<tr>
+<td>Sangeeta Santra</td>
+<td>Aloke Paul</td>
+<td>Studies on Growth Mechanism of Nb3Sn Superconductors</td>
+</tr>
+<tr>
+<td>Agrawal Priyanka Kantibhai</td>
+<td>Karthikeyan S.</td>
+<td>Effect of Boron Addition on Microstructure and Mechanical Properties of Cast Ti-6Al-4V alloy</td>
+</tr>
+<tr>
+<td>Proloy Nandi</td>
+<td>Chattopadhyay K.</td>
+<td>Effect of Ni addition to rapidly solidified Al-Sc binary alloy - A study of Microstructural evolution and Mechanical Properties</td>
+</tr>
+<tr>
+<td>G Praveen</td>
+<td>Subodh Kumar</td>
+<td>Effect of Addition of Sc and mg to 2219 Al alloy</td>
+</tr>
+<tr>
+<td>Pankaj Kumar</td>
+<td>Satyam Suwas</td>
+<td>Processing-Microstructure-Texture relationship in Interstitial Free I F steel, Pearlitic steel and Twin Induced Plasticity TWIP steel</td>
+</tr>
+<tr>
+<td>K Mageshwari</td>
+<td>Abinandanan T.A.</td>
+<td>Phase Field Study of Solute Drag Effects on Grain Growth</td>
+</tr>
+<tr>
+<td>G Kannan</td>
+<td>Satyam Suwas</td>
+<td>Processing – Microstructure – Property Relationship in Mg/SiCp and AZ91/SiCp Composites</td>
+</tr>
+<tr>
+<td>Anindya Roy</td>
+<td>Vikram Jayaram</td>
+<td>Oxidation Behaviour of ZrCx-ZrB2-SiC Ultra High Temperature Ceramics</td>
+</tr>
+<tr>
+<td>Nondo Doka</td>
+<td>Gupta G.S.</td>
+<td>Determination of Temperature and Time for the Processing of Boron Carbide Through Carbothermal Route</td>
+</tr>
+<tr>
+<td>P Arun Dinesh</td>
+<td>Satyam Suwas</td>
+<td>Accumulative Roll Bonding of Similar and Dissimilar A1/Zn/Mg</td>
+</tr>
+<tr>
+<td>Appala Raju Kaki</td>
+<td>Rajeev Ranjan</td>
+<td>Structure and Phase Transition of 1-x BiFeO3-xPbTiO3 and 1-xBiFeO3-xPbTi 1-yZryO3</td>
+</tr>
+<tr>
+<td>Deepa J</td>
+<td>Subramanian S.</td>
+<td>Bioremediation of Copper and Zinc</td>
+</tr>
+<tr>
+<td>Rama Krishnan R.</td>
+<td>Praveen C. Ramamurthy</td>
+<td>Simulating Polymers For Best Encapsulant Materials</td>
+</tr>
+<tr>
+<td>Bidhan Chandra Mondal</td>
+<td>Subodh Kumar</td>
+<td>Effect of Plasma Electrolytic Oxidation Coatings and laser Surface Alloying on Microstructure and Wear of MRI 230D Magnesium Alloy</td>
+</tr>
+<tr>
+<td>Agnish Ghosh</td>
+<td>Subramanian S.</td>
+<td>Studies on Bioremediation of Chromium</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2009</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Appa Rao Chintha</td>
+<td>T A Abinandanan</td>
+<td>Grain Growth with Different Types of Grain Boundaries A : Monte Carlo Study</td>
+</tr>
+<tr>
+<td>Ambresha B</td>
+<td>Ashok M Raichur</td>
+<td>Studies on Colloidal Stability of Hematite in the Presence of Biosurfactant</td>
+</tr>
+<tr>
+<td>Ashutosh Jangde</td>
+<td>Surappa M.K.</td>
+<td>Synthesis and Recrystallization Study of AA5182/Al2O3 nanocomposite</td>
+</tr>
+<tr>
+<td>K. Ajay Kumar</td>
+<td>Rajeev Ranjan</td>
+<td>Synthesis and Characterization of BiA103x-PbTiO31-x and Pb1-xPrxTiO</td>
+</tr>
+<tr>
+<td>K. Boopathy</td>
+<td>Ramamurty U.</td>
+<td>Fatigue Crack Growth Behavior in BMG Matrix Composites and Effect of Ion Implantation on Mechanical Behavior of as Cast BMG</td>
+</tr>
+<tr>
+<td>Ganesh Kumar K</td>
+<td>Subramanian S.</td>
+<td>Electro co – deposition of nickel – nano Al2o3 composite coatings on aluminum and study of their wear properties</td>
+</tr>
+<tr>
+<td>Kundanati Lakshminath</td>
+<td>Subodh Kumar</td>
+<td>Characterization of Plasma Electrolytic Oxidation coatings on AM50 magnesium alloy based on phosphate electrolyte</td>
+</tr>
+<tr>
+<td>Nachiappan Chidambaram</td>
+<td>Vikram Jayaram</td>
+<td>Effect of non-stoichiometry on the densification behavior of reactively processed ZrC and its composite</td>
+</tr>
+<tr>
+<td>Maya Kini K</td>
+<td>Atul H. Chokshi</td>
+<td>High temperature deformation behaviour of titania doped 3 mol% yattria stabilized tetragonal zirconia</td>
+</tr>
+<tr>
+<td>Subhasis Sinha</td>
+<td>Satyam Suwas</td>
+<td>Grain Boundary Engineering of Modified Super – 304H Austenitic Steel</td>
+</tr>
+<tr>
+<td>Somasurendra Kumar Balam</td>
+<td>Aloke Paul</td>
+<td>Interdiffusion studies in Co-Nb and Fe-Nb systems</td>
+</tr>
+<tr>
+<td>Vetrivendan E.</td>
+<td>K Chattopadhyay</td>
+<td>Microstructure and Mechanical properties correlation study of rapidly solidified Zn-Al-Cu and Al-Cu-Si ternary eutectic alloys</td>
+</tr>
+<tr>
+<td>Vamsi K.V.</td>
+<td>Karthikeyan S</td>
+<td>Stability of Ni3Al,Ti in Ordered Structures</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2008</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Adepalli Kiran Kumar</td>
+<td>Aloke Paul</td>
+<td>Study on interdiffusion and growth of Nb3Sn superconductor with A15 structure</td>
+</tr>
+<tr>
+<td>Ayan Bhowmik</td>
+<td>Satyam Suwas</td>
+<td>Severe Plastic Deformation in Interstitial-free Steels</td>
+</tr>
+<tr>
+<td>Badri Narayanan</td>
+<td>Abinandanan T.A.</td>
+<td>Microstructural Evolution in Alloy Thin Films</td>
+</tr>
+<tr>
+<td>Chandrahas R.R.</td>
+<td>Subramanian S.</td>
+<td>Synthesis of Aluminum Wollastonite Composite Through Electro Slag Refining Process</td>
+</tr>
+<tr>
+<td>Mithipati Siva Bhaskar</td>
+<td>Surappa M.K.</td>
+<td>Recovery and Recrystallization Behaviour of AA356/SiCp Composites</td>
+</tr>
+<tr>
+<td>Modhura Biswas</td>
+<td>Ashok M Raichur</td>
+<td>Colloidal Stability of Nano Zirconia in the presence of Dispersants</td>
+</tr>
+<tr>
+<td>Mrityunjoy Hazra</td>
+<td>Subodh Kumar</td>
+<td>Corrosion and Wear Studies of ACM 810 alloy and Interrupted Creep Behavior of Heat-Resistant Mg-Alloys ACM 810, ACM 720 and AZ 91D</td>
+</tr>
+<tr>
+<td>Naveen Kumar</td>
+<td>Govind S Gupta</td>
+<td>Optimization of Boron Carbide manufacturing Process by a Carbothermal Route</td>
+</tr>
+<tr>
+<td>Ram Prabhu T</td>
+<td>Ramamurty U</td>
+<td>i Mechanical properties of P/M processed low alloy steel, ii To develop process and characterization low density cenosphere filled steel Cellular steel </td>
+</tr>
+<tr>
+<td>Srinivas V.</td>
+<td>Chokshi A H</td>
+<td>A Study on Strength Dependence of Individual Phases on the Onset of Superplasticity in Al-Cu Eutectic Alloy</td>
+</tr>
+<tr>
+<td>Sumanth G.</td>
+<td>Vikram Jayaram</td>
+<td>Contact Deformation in TiN/Al, TiN Multilayer films on Stainless Steel Substrate</td>
+</tr>
+<tr>
+<td>Udayagiri Sai Babu</td>
+<td>Karthikeyan S.</td>
+<td>Effect of Boron addition on Microstructure and Mechanical Properties of CastTi-6Al-4V Alloy</td>
+</tr>
+<tr>
+<td>Vijay Pal Shivran</td>
+<td>Chattopadhyay K.</td>
+<td>Synthesis, Characterization and Mechanical Testing of AlGaIn30CoCuNiAg.540SnPbSbBi20TiV10 High Entropy Alloy</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<b>2007</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Appala Naidu G.</td>
+<td>Abinandanan T.A.</td>
+<td>Microstructure Evolution during Sintering: A Phase Field Study</td>
+</tr>
+<tr>
+<td>Kaushik Das</td>
+<td>Ramamurthy U.</td>
+<td>Evaluation of Mechanical Properties of Li2B4O7-Bi2O3-Nb2O5 Glass-Ceramics by Instrumented Indentation</td>
+</tr>
+<tr>
+<td>Krishna Reddy Jonnala</td>
+<td>Satytam Suwas</td>
+<td>Processing-Texture-Property Correlation in Materials Processed by Equal Channel Angular Extrusion ECAE </td>
+</tr>
+<tr>
+<td>Manas Kumar Mondal</td>
+<td>Govind S Gupta</td>
+<td>Computer Simulation of RH and REDA Processes Used for the Production of Ultra-Low-Carbon Steel</td>
+</tr>
+<tr>
+<td>Manohar N</td>
+<td>Surappa M.K.</td>
+<td>Grain Refinement and Process ing of Magnesium and Al-10% Mg Alloy Chips in Bulk Form by Conventional Deformation Processes</td>
+</tr>
+<tr>
+<td>Niranjan Behera</td>
+<td>Subramanian S</td>
+<td>Synthesis of Aluminum Titanium diboride composite through Electroslag Refining Process</td>
+</tr>
+<tr>
+<td>Poorwa Bhagwat</td>
+<td>Vikram Jayaram</td>
+<td>Study of Fatigue of TiN Coating on Stainless Steel by Four Point Bending</td>
+</tr>
+<tr>
+<td>Pradipta Ghosh</td>
+<td>Chokshi A.H.</td>
+<td>Room Temperature Mechanical Behavior of Electrodeposited Nickel and Nickel-Alumina composite</td>
+</tr>
+<tr>
+<td>Praveen Kumar</td>
+<td>Chattopadhyay K.</td>
+<td>Development of High Strength Ni-Ti-Ta Ternary Eutectic Alloys</td>
+</tr>
+<tr>
+<td>Shishir Jain</td>
+<td>Satyam Suwas & Ranganathan S. </td>
+<td>Reconstruction of 3D Microstructures Using Serial Sectioning Techniques: Titanium Alloy and Steel</td>
+</tr>
+<tr>
+<td>Sujoy Pal</td>
+<td>Subodh Kumar</td>
+<td>Creep and Wear Behaviour of AE42 Alloy and AE42 Alloy Based Composites</td>
+</tr>
+<tr>
+<td>Vinay Jain</td>
+<td>Karthikeyan S.</td>
+<td>Atomistic Study of Factors Affecting Planar Fault Energies in Ni3Al</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<b>2006</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Manoranjan Mishra</td>
+<td>Surappa M.K.</td>
+<td>Processing of bulk nanostructured materials in 6061-T6 and Al-5%Mg alloy</td>
+</tr>
+<tr>
+<td>Ashwani Kumar</td>
+<td>Jacob K.T.</td>
+<td>Re-evaluation of thermodynamic properties of manganese oxides : MnO, Mn3O4, Mn2O3 and MnO2</td>
+</tr>
+<tr>
+<td>Nilesh Kumar</td>
+<td>Abinandanan T.A.</td>
+<td>A study of the Kirkendall effect by phase field method</td>
+</tr>
+<tr>
+<td>Sugeetha V</td>
+<td>Vikram Jayaram</td>
+<td>A study of contact indentation fatigue damage of TiN thin film on stainless steel substrate</td>
+</tr>
+<tr>
+<td>Santosh Kumar</td>
+<td>Subramanian S.</td>
+<td>Synthesis of aluminium silicon carbide and aluminium boron carbide composites by electroslag refining process</td>
+</tr>
+<tr>
+<td>Chukka Rami Naidu</td>
+<td>Gupta G.S.</td>
+<td>Characterization of boron carbide produced by carbothermal route</td>
+</tr>
+<tr>
+<td>Debdutta Roy</td>
+<td>Ramamurty U.</td>
+<td>Fatigue in Ni-Ti shape memory alloy wires</td>
+</tr>
+<tr>
+<td>Pradeep Agarwal</td>
+<td>Subodh Kumar</td>
+<td>Impression creep study of newly developed magnesium alloys MRI 230D and MRI 153M</td>
+</tr>
+<tr>
+<td>Kailash Chandra Jajam</td>
+<td>Kishore</td>
+<td>Studies on scanning electron microscopic features of impacted and post-impact compression-failed glass/epoxy composites</td>
+</tr>
+<tr>
+<td>Lokesh Kumar Paliwal</td>
+<td>Ranganathan S./Satyam Suwas</td>
+<td>Reconstruction of 3D microstructures using Montage based serial sectioning technique in A356 and A356 with 20% SiC</td>
+</tr>
+<tr>
+<td>Suravarapu Prakasha Rao</td>
+<td>Ashok M. Raichur</td>
+<td>Dispersion studies of nano zirconia</td>
+</tr>
+<tr>
+<td>Hari Srinivas Goripati</td>
+<td>Vikram Jayaram</td>
+<td>Deposition of 8mol% yttria stabilized zirconia by combustion flame pyrolysis and its thermal fatigue study</td>
+</tr>
+<tr>
+<td>Ratnabhupala Reddy P</td>
+<td>Chattopadhyay K.</td>
+<td>Studies on melting temperature depression for Sn-Ag-Cu and Sn-Zn solder alloys by mechanical alloying/milling</td>
+</tr>
+<tr>
+<td>Rajesh K</td>
+<td>Atul H. Chokshi</td>
+<td>Creep and grain boundary sliding studies on coarse grained AZ31 Mg alloy</td>
+</tr>
+<tr>
+<td> Ramana Murthy Kolluri N.V.V.</td>
+<td>Ramamurty U.</td>
+<td>Strain hardening and fatigue in metal foams: The effect of constraint</td>
+</tr>
+<tr>
+<td>Rama Krishna M.</td>
+<td>Subodh Kumar</td>
+<td>Fatigue crack propagation along microstructural gradient in AlZnMgCu alloy</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<b>2005</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Amitesh Madeshia</td>
+<td>Chattopadhyay K.</td>
+<td>Glassy phase embedded in crystalline matrix</td>
+</tr>
+<tr>
+<td>Gaurav Singh</td>
+<td>Abinandanan T.A.</td>
+<td>A phase field model of thermal grooving of grain boundary</td>
+</tr>
+<tr>
+<td>Pradeep Kumar Kraleti</td>
+<td>Vikram Jayaram</td>
+<td>Contact fatigue behaviour of TiN films by indentation technique</td>
+</tr>
+<tr>
+<td>Yashvant Singh</td>
+<td>Subramanian S.</td>
+<td>Surface chemical studies on graphite suspension in aqueous media using different dispersants</td>
+</tr>
+<tr>
+<td>Shakti Pravesh</td>
+<td>Subramanian S.</td>
+<td>Removal of iron from clay using chemical leaching and bioleaching techniques</td>
+</tr>
+<tr>
+<td>Manish Gopal</td>
+<td>Gupta G.S.</td>
+<td>Mathematical modeling of Acheson process</td>
+</tr>
+<tr>
+<td>Lav Maheshwari</td>
+<td>Ramamurty U.</td>
+<td>Micromechanisms of deformation and fracture in Ti-B composites</td>
+</tr>
+<tr>
+<td>Manish Patel</td>
+<td>Ranganthan S. & Subodh Kumar</td>
+<td>Correlation of microstructures and mechanical properties of sand-cast Mg97Zn2Y1 alloy and squeeze-cast AE42 alloy</td>
+</tr>
+<tr>
+<td>Santosh Kumar Meghani</td>
+<td>Vikram Jayaram</td>
+<td>Synthesis of titanium oxide films by flame spray pyrolysis and their characterization</td>
+</tr>
+<tr>
+<td>Yathapu Nithin</td>
+<td>Surappa M.K.</td>
+<td>Characterization of nano-size platelet/fiber reinforced polymer matrix composites</td>
+</tr>
+<tr>
+<td>Vikas Kumar Sinha</td>
+<td>Lahiri A.K.</td>
+<td>Studies on bubble formed by liquid-liquid reaction</td>
+</tr>
+<tr>
+<td>Amit Kiran</td>
+<td>Kishore</td>
+<td>Studies on the erosive behaviour of syntactic foam</td>
+</tr>
+<tr>
+<td>Kanhaiya Kumar</td>
+<td>Surappa M.K.</td>
+<td>Processing of bulk nanocrystalline materials by conventional deformation processes</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2004</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Bhesetti Siva Suri Chandra Rao</td>
+<td>Subodh Kumar</td>
+<td>Creep and wear behaviour of AE42 alloy and AE42+20% saffil composite</td>
+</tr>
+<tr>
+<td>Suresh Kumar M.</td>
+<td>Kishore</td>
+<td>Mechanical behaviour of polymeric systems with varying adhesively bonded area</td>
+</tr>
+<tr>
+<td> Prasad M.J.N.V.</td>
+<td>Atul H. Chokshi</td>
+<td>Work hardening and rate sensitivity of copper at room temperature as a function of grain size</td>
+</tr>
+<tr>
+<td> Vijay Karthik S.</td>
+<td>Vikram Jayaram</td>
+<td>Preparation and characterization of lead zirconate titanate PZT films by flame spray pyrolysis</td>
+</tr>
+<tr>
+<td>Kulbhashkar Singh</td>
+<td>Surappa M.K.</td>
+<td>Processing and characterization of magnesium alloy AZ91 – fly ash composite</td>
+</tr>
+<tr>
+<td>Korimilli Eswara Prasad</td>
+<td>Lahiri A.K.</td>
+<td>Simulation of cooling rate in Al-Mg alloys and structure – property correlations</td>
+</tr>
+<tr>
+<td>Tanay Ray</td>
+<td> </td>
+<td>Thermodynamics and adsorption behaviour of the nano phases in the Bi-Sn system</td>
+</tr>
+<tr>
+<td>Prashant Kumar Kulshreshtha</td>
+<td>Kishore</td>
+<td>Hygrothermal and post-impact effects on mechanical properties of glass-reinforced epoxies</td>
+</tr>
+<tr>
+<td>Prakash Kini M.</td>
+<td>Vikram Jayaram</td>
+<td>Processing of Al2O3 – ZrO2 – SiC nanocomposites by pressure aided densification of bulk amorphous compacts</td>
+</tr>
+<tr>
+<td>Srikant G.</td>
+<td>Ramamurty U.</td>
+<td>Strain distribution underneath a Vickers indenter</td>
+</tr>
+<tr>
+<td>Sushil Kumar Giri</td>
+<td>Ramamurty U.</td>
+<td>Fatigue in Ni-Ti-Fe shape memory alloys</td>
+</tr>
+<tr>
+<td>P. Prakash</td>
+<td>Ashok M. Raichur</td>
+<td>Synthesis and characterization of nickel oxide nanoparticles through microemulsion technique</td>
+</tr>
+<tr>
+<td>Abhijit Pramanik</td>
+<td>Chattopadhyay K.</td>
+<td>Microstructural evolution in laser surface alloyed Al-Sn</td>
+</tr>
+<tr>
+<td>M. Kodandaram</td>
+<td>Abinandanan T.A.</td>
+<td>Effect of anisotropy in interfacial energy on microstructural evolution during spinodal decomposition</td>
+</tr>
+<tr>
+<td>Venugopala Rao E.</td>
+<td>Atul H. Chokshi</td>
+<td>Hot deformation characteristics of extruded magnesium AM20 alloy</td>
+</tr>
+<tr>
+<td>Rowthu Veera Babu</td>
+<td>Subramanian S.</td>
+<td>Processing of aluminium – titanium alloys and aluminium – based metal matrix composites by electroslag refining</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2003</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Swati Biswas</td>
+<td>Surappa M.K.</td>
+<td>Studies on driven systems : The case of Cu-Ag and Cu-Ag-Fe</td>
+</tr>
+<tr>
+<td>B. Shyam Sundar</td>
+<td>Atul H. Chokshi</td>
+<td>Hot working of as-cast dilute magnesium alloys Mg-2.2 Al-0.5Mn and Mg-2.3 Al-1.06 Zn-0.5Mn</td>
+</tr>
+<tr>
+<td>Ashok Kumar Mondal</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamics and phase equilibria in the selected quaternary III-V semiconductor alloys</td>
+</tr>
+<tr>
+<td>Niraj Nayan</td>
+<td>Ramamurty U.</td>
+<td>Mechanical fatigue in Ni-Ti shape memory alloys</td>
+</tr>
+<tr>
+<td>Shivajiv Sinha</td>
+<td>Subodh Kumar</td>
+<td>Effect of thickness, crack orientation and heat treatment on fracture toughness of 7010 aluminium alloy</td>
+</tr>
+<tr>
+<td>Virendra Singh</td>
+<td>Sastry D.H.</td>
+<td>Effect of niobium and titanium on the creep behaviour of Fe3Al</td>
+</tr>
+<tr>
+<td>M.C. Kumaran</td>
+<td>Ramamurty U.</td>
+<td>Energy absorption characteristics of aluminium foam during conical indentation</td>
+</tr>
+<tr>
+<td>Bontha Kiran Kumar</td>
+<td>Kishore</td>
+<td>Dependence of impact properties on the bond area at the interface of neat epoxy slabs</td>
+</tr>
+<tr>
+<td>Somnath Bhattacharyya</td>
+<td>Gupta G.S.</td>
+<td>Measurement of liquid hold-up in presence of gas flow in a packed bed</td>
+</tr>
+<tr>
+<td>Sanjay Agarwal</td>
+<td>Lahiri A.K.</td>
+<td>Effect of ball milling on reduction of iron ore using coal</td>
+</tr>
+<tr>
+<td>Sandip P Harimkar</td>
+<td>Kishore</td>
+<td>Response to impact in epoxy systems containing short fibers and/or oxide particle reinforcements</td>
+</tr>
+<tr>
+<td>Naba Kishore Kalo</td>
+<td>Vikram Jayaram</td>
+<td>High-pressure low-temperature densification behaviour of amorphous Al2O3-20%ZrO2</td>
+</tr>
+<tr>
+<td>Bakshi Srinivasa Rao</td>
+<td>Ranganathan S.</td>
+<td>Crystallization kinetics, thermal stability and microstructural evolution of Fe-Co based metallic glasses</td>
+</tr>
+<tr>
+<td>Prachi Galgalikar</td>
+<td>Surappa M.K.</td>
+<td>Investigation of serrated flow in Al-7Mg-20% SiCp composite</td>
+</tr>
+<tr>
+<td>Nitin P Wasekar</td>
+<td>Subramanian S.</td>
+<td>Effect of processing route on impact toughness and tensile strength of B2 FeAl intermetallics</td>
+</tr>
+<tr>
+<td>Mrigandra Singhai</td>
+<td>Ashok M. Raichur</td>
+<td>Removal of Arsenic from synthetic waste water using fly ash and optimization of parameters using statistical analysis</td>
+</tr>
+<tr>
+<td>Randhir Singh</td>
+<td>Jacob K.T.</td>
+<td>A study on mass/charge transport in mixed conducting solid oxide fuel cell</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<b>2002</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Amitabh Kumar</td>
+<td>Subramanian S.</td>
+<td>Studies on production of FeAl by electroslag remelting process</td>
+</tr>
+<tr>
+<td>Atish Kumar Ray</td>
+<td>Chattopadhyay K.</td>
+<td>Studies on undercooling of copper-phosphorous binary alloy</td>
+</tr>
+<tr>
+<td>Rashmi Ranjan Mohanty</td>
+<td>Abinandanan T.A.</td>
+<td>A diffuse interface model study of spinodal decomposition inside a particle</td>
+</tr>
+<tr>
+<td>Subhash S. Mahajan</td>
+<td>Kishore</td>
+<td>Compression and short beam test on dry and water exposed surface treated ash particulate in epoxy composites</td>
+</tr>
+<tr>
+<td>Ranjan Datta</td>
+<td>Ranganathan S.</td>
+<td>Synthesis, crystallisation and microstructural evolution of iron based metallic glasses</td>
+</tr>
+<tr>
+<td>Arijit Maitra</td>
+<td>Lahiri A.K.</td>
+<td>Mathematical modeling of blast furnace hearth drainage</td>
+</tr>
+<tr>
+<td> Sriramulu Y.</td>
+<td>Subodh Kumar</td>
+<td>Effect of thickness and width on fracture toughness of 7010-T6 aluminium alloy</td>
+</tr>
+<tr>
+<td>Neelapu Ravi Kumar</td>
+<td>Ramamurty U.</td>
+<td>Mechanical characterisation on Mg/SiC composites</td>
+</tr>
+<tr>
+<td>Sudheer Kumar Puvvula</td>
+<td>Ramamurty U.</td>
+<td>Projectile velocity dependent energy adsorption characteristics of a closed-cell aluminum foam</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2001</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Lakshya Kumar</td>
+<td>Dwarakadasa E.S.</td>
+<td>Failure Analysis of valve springs</td>
+</tr>
+<tr>
+<td>Manas Ranjan Nayak</td>
+<td>Lahiri A.K.</td>
+<td>Studies on blast furnace hearth drainage and mixing characteristics inside a packed bed</td>
+</tr>
+<tr>
+<td>Sthitadhi Das</td>
+<td>Kishore</td>
+<td>Effect of absorption in water and NaCl media on the compressive strength of jute fibre reinforced epoxy system</td>
+</tr>
+<tr>
+<td>Pritish Bhattacharya</td>
+<td>Abinandanan T.A.</td>
+<td>A fourier spectral method of studying spinodal decomposition</td>
+</tr>
+<tr>
+<td>Rajiv Ranjan Bhardwaj</td>
+<td>Subodh Kumar</td>
+<td>To study the effect of plate thickness and crack orientation on fracture toughness behaviour of 7010-T6 aluminum alloy</td>
+</tr>
+<tr>
+<td>Suchismita Sanyal</td>
+<td>Chattopadhyay K.</td>
+<td>Microstructural development in laser cladding and remelting of Al-Si-Bi on Al-Si substrate</td>
+</tr>
+<tr>
+<td>Shivkumar Khaple</td>
+<td>Subramanian S.</td>
+<td>Life cycle assessment of lead in a secondary lead smelting plant</td>
+</tr>
+<tr>
+<td>Kaushik Roy</td>
+<td>Ranganathan S.</td>
+<td>Synthesis, crystallisation and characterisation of Mg-TM-RE metastable alloys</td>
+</tr>
+<tr>
+<td>Parveen Sood</td>
+<td>Jacob K.T.</td>
+<td>Thermodynamics of undoped rare earth manganates for CMR applications</td>
+</tr>
+</tbody>
+</table>
+<br>
+### 2000-1991
+<b>2000</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Panvekar Vivek M.</td>
+<td>Ashok M. Raichur</td>
+<td>Arsenic removal from drinking water using rare earth oxides by adsorption process</td>
+</tr>
+<tr>
+<td>Patel Masrur Mubashar</td>
+<td>Subodh Kumar</td>
+<td>Investigation of serrated flow in Al-5% Zn-1%Mg alloy</td>
+</tr>
+<tr>
+<td>Vikram Jayaram T.</td>
+<td>Raman K.S. & Seshan S.</td>
+<td>Production of near net shape castings – through plaster of paris moulds</td>
+</tr>
+<tr>
+<td>Nachiketa Shukla</td>
+<td>Ranganathan S.</td>
+<td>Synthesis, crystallisation and mechanical properties of Mg-based amorphous alloys</td>
+</tr>
+<tr>
+<td>M. Jyoti Basu</td>
+<td>Ashok M. Raichur</td>
+<td>Removal of fluoride from solution by adsorption</td>
+</tr>
+<tr>
+<td>J. Srikanth</td>
+<td>Natarajan K.A.</td>
+<td>Studies on bioprocessing of titania using bacillus polymyxa</td>
+</tr>
+<tr>
+<td>L. Satyavathi</td>
+<td>Sastry D.H.</td>
+<td>Studies on the creep behaviour of powder processed Fe-40 at. % Al alloys</td>
+</tr>
+<tr>
+<td>Sabita Sarkar</td>
+<td>Gupta G.S.</td>
+<td>Conjugate mass transfer around a spherical particle in unsteady state condition</td>
+</tr>
+<tr>
+<td>Subhradeep Chatterjee</td>
+<td>Abinandanan T.A.</td>
+<td>A diffuse interface model simulation of grain boundary grooving</td>
+</tr>
+<tr>
+<td>Suman Kumar Mitra</td>
+<td>Chattopadhyay K.</td>
+<td>Investigation on the synthesis of bulk metallic glass in Zr-Ti-Cu-Ni-Al based alloy system</td>
+</tr>
+<tr>
+<td>Krishanu Biswas</td>
+<td>Chattopadhyay K.</td>
+<td>Development of quasicrystalline coating of Al-Cu-Fe system by laser cladding and detonation gum process</td>
+</tr>
+<tr>
+<td>Sanjit Bhowmick</td>
+<td>Atul H. Chokshi</td>
+<td>High temperature deformation of fine grained equal channel angular extrusion processed 2124 Al alloy</td>
+</tr>
+<tr>
+<td>Anasua Maiti</td>
+<td>Kishore</td>
+<td>Effect of hygrothermal aging on the compressive strength and fractography of glass-epoxy composite</td>
+</tr>
+<tr>
+<td>Debdutt Patro</td>
+<td>Vikram Jayaram</td>
+<td>Phase evolution studies in ZnO-Al2O3 as synthesised by spray pyrolysis and by citrate-gel routes</td>
+</tr>
+<tr>
+<td>S.S.V. Ravikumar</td>
+<td>Abinandanan T.A.</td>
+<td>Modelling of nucleation</td>
+</tr>
+<tr>
+<td>Rajendra Prasad Biswal</td>
+<td>Subramanian S. & Lahiri A.K.</td>
+<td>Novel studies on joining of aluminium and steel using the electroslag technique</td>
+</tr>
+<tr>
+<td>Debajyoti Nayak</td>
+<td>Kishore</td>
+<td>Study of hygrothermal absorption and compression strength in glass-epoxy composite</td>
+</tr>
+<tr>
+<td>Indrajit Charit</td>
+<td>Atul H. Chokshi</td>
+<td>High temperature deformation characteristics of a low purity 3 mol% yttria Stabilized zirconia</td>
+</tr>
+<tr>
+<td>Samaresh Changdar</td>
+<td>Dwarakadasa E.S.</td>
+<td>Influence of spray forming on the wear behaviour of hypereutictic Al-20%Si alloys</td>
+</tr>
+<tr>
+<td>P. Rajani</td>
+<td>Dwarakadasa E.S.</td>
+<td>Effect of processing parameters on ring rolling of Ti-6Al-4V</td>
+</tr>
+<tr>
+<td>Sandeep Kumar Vishwakarma</td>
+<td>Gupta G.S.</td>
+<td>Transient modelling and computer simulation of multiple hearth roaster</td>
+</tr>
+<tr>
+<td>H. Sanjay</td>
+<td>Bhat M.V.</td>
+<td>Studies on corrosion of nodular cast iron in aqueous sodium chloride solution</td>
+</tr>
+<tr>
+<td>Sarmistha Samanta</td>
+<td>Subodh Kumar</td>
+<td>Manufacturing of functionally gradient material in an Al-5Zn-1Mg alloy specimen</td>
+</tr>
+<tr>
+<td>Chandan Mondal</td>
+<td>Surappa M.K.</td>
+<td>Studies on microstructural evolution and recrystallization behavior of Al-10Mg/SiCp composite by EBSP technique</td>
+</tr>
+<tr>
+<td>Ajitesh Narayan</td>
+<td>Raman K.S. & Seshan S.</td>
+<td>Studies on squeeze cast magnesium alloys</td>
+</tr>
+<tr>
+<td>Nirmal Kumar</td>
+<td>Lahiri A.K.</td>
+<td>Partitioning of heat for gas solid reaction</td>
+</tr>
+<tr>
+<td>Samrat Choudhury</td>
+<td>Vikram Jayaram</td>
+<td>High-pressure low-temperature densification behaviour of amorphous Al2O3-37.5 mole% Y2O3</td>
+</tr>
+<tr>
+<td>Partha Patra</td>
+<td>Natarajan K.A.</td>
+<td>Studies on bioprocessing of zirconia</td>
+</tr>
+<tr>
+<td>Niroj Kumar Dash</td>
+<td>Dwarakadasa E.S.</td>
+<td>Development of protective surface coating produced by thermal spray and slurry coating processes</td>
+</tr>
+<tr>
+<td>Chhail Kumar Behera</td>
+<td>Jacob K.T.</td>
+<td>Activities of spinel components in the pre-reduced chrome ore : Modelling and experiment</td>
+</tr>
+<tr>
+<td>Sunil Kumar G.</td>
+<td>Subramanian S. & Lahiri A.K.</td>
+<td>Studies on development of plain carbon steel-alloy bimetallic joints by electroslag remelting process</td>
+</tr>
+<tr>
+<td>Venkatasai Prasad K.</td>
+<td>Sastry D.H.</td>
+<td>Studies on peripheral grain growth in extruded 2014 Al alloy</td>
+</tr>
+<tr>
+<td>Sachin P Deshmukh</td>
+<td>Ranganathan S.</td>
+<td>Oxidation studies of MoSi2 composites</td>
+</tr>
+<tr>
+<td>Yogeshwari Prasad Pandy</td>
+<td>Lahiri A.K.</td>
+<td>Simulation of fluidized bed in corex process</td>
+</tr>
+<tr>
+<td>Pande Aniruddha Suresh</td>
+<td>Surappa M.K.</td>
+<td>Dry sliding wear study of Al-Si-SiCp composites against automobile brake pad</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<b>1999</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>U. Rama Krishna</td>
+<td>Surappa M.K. & Sastry D.H.</td>
+<td>Tribological behaviour of Al-Si-SiCp composites/automobile brake pad system under dry sliding conditions</td>
+</tr>
+<tr>
+<td>Amitava Mukherjee</td>
+<td>Natarajan K.A.</td>
+<td>Biooxidation studies on gold bearing pyrite-arsenopyrite concentrates</td>
+</tr>
+<tr>
+<td>Pankaj Kumar Jain</td>
+<td>Vikram Jayaram</td>
+<td>Processing and characterization of SiCp reinforced Al-AlN matrix composites produced by directed melt nitridation</td>
+</tr>
+<tr>
+<td>N. Sirish</td>
+<td>Atul H. Chokshi</td>
+<td>High temperature deformation behaviour of 3 mol% yttria stabilized tetragonal zirconia</td>
+</tr>
+<tr>
+<td>A. Krishna Kanth</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamics of Mn-Mo alloy system using the isopiestic technique</td>
+</tr>
+<tr>
+<td>Vasanth Kumar P.</td>
+<td>Govind S Gupta</td>
+<td>Computer simulation of Acheson process</td>
+</tr>
+<tr>
+<td>Suman Babu Adduri</td>
+<td>Dwarakadasa E.S.</td>
+<td>Dry sliding wear behaviour of Mg alloys</td>
+</tr>
+<tr>
+<td>Narasimha Rao K.V.</td>
+<td>Surappa M.K.</td>
+<td>Investigation of serrated flow in Al-10%Mg alloy</td>
+</tr>
+<tr>
+<td>Ravikumar A.V.</td>
+<td>Dwarakadasa E.S.</td>
+<td>Evaluation of wear and corrosion behaviour of magnesium based alloys and composites AZ91 + 10% SiCp </td>
+</tr>
+<tr>
+<td>Shantanu V. Madge</td>
+<td>Ranganathan S.</td>
+<td>Mechanical alloying of Zr-based bulk metallic glass forming alloys</td>
+</tr>
+<tr>
+<td>Anindya Poddar</td>
+<td>Chattopadhyay K.</td>
+<td>Microstructural development of aluminium-silicon-bismuth alloy clad using laser beam</td>
+</tr>
+<tr>
+<td>A. Srinivasulu</td>
+<td>Kishore</td>
+<td>Effect of moisture on the mechanical properties of glass or carbon fiber reinforced epoxy composites</td>
+</tr>
+<tr>
+<td>S. Sundarsriram</td>
+<td>Dwarakadasa E.S.</td>
+<td>Effect of cryogenic treatment on tool steels</td>
+</tr>
+<tr>
+<td>Subrata Pal</td>
+<td>Lahiri A.K.</td>
+<td>One-dimensional steady state multi phase mathematical model of melter gasifier</td>
+</tr>
+<tr>
+<td>Tarun Kumar Kundu</td>
+<td>Natarajan K.A.</td>
+<td>Modelling for biooxidation of gold bearing pyrite-arsonopyrite concentrates in a continuous flow stirred tank bioreactor</td>
+</tr>
+<tr>
+<td>Basab Bhattacharya</td>
+<td>Ranganathan S.</td>
+<td>Melt spinning of Al based glass forming alloys : A study</td>
+</tr>
+<tr>
+<td>Saurabh Nigam</td>
+<td>Subodh Kumar</td>
+<td>Microstructural investigation of maraging steel MDN-350 </td>
+</tr>
+<tr>
+<td>Sudhakar G.</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamics of surfaces and adsorption in binary metallic systems</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<b>1998</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Papayya Raju A.</td>
+<td>Abinandanan T.A.</td>
+<td>Precipitation in ternary systems : a Monte Carlo study</td>
+</tr>
+<tr>
+<td>Ajay K. Ghode</td>
+<td>Surappa M.K.</td>
+<td>Wear studies on A356 and A356-SiCp hybrid composites under dry sliding condition</td>
+</tr>
+<tr>
+<td>Ashish Garg</td>
+<td>Ranganathan S.</td>
+<td>Fabrication of Al based composites by liquid phase sintering and interface characterisation</td>
+</tr>
+<tr>
+<td>Nikhil Gupta</td>
+<td>Kishore</td>
+<td>Fabrication and characterisation of syntactic foams and their sandwiches</td>
+</tr>
+<tr>
+<td>Ravi sankar K.V.</td>
+<td>Atul H. Chokshi</td>
+<td>High temperature deformation and cavitation in 300 ppm magnesia doped alumina</td>
+</tr>
+<tr>
+<td>Pritha Choudhury</td>
+<td>Natarajan K.A.</td>
+<td>Bio-corrosion studies of titanium in presence of Bacillus Polymyxa and Thiobacillus ferrooxidans</td>
+</tr>
+<tr>
+<td>Aloke Paul</td>
+<td>Natarajan K.A.</td>
+<td>Beneficiation of iron ore minerals</td>
+</tr>
+<tr>
+<td>Phaniraj Prabhakar M.</td>
+<td>Ranganathan S.</td>
+<td>Mechanical alloying in Al-Cr and Al-Cr-Zr systems</td>
+</tr>
+<tr>
+<td>Ratna Pal</td>
+<td>Vikram Jayaram</td>
+<td>Synthesis and characterisation of finely dispersed Pb in alumina</td>
+</tr>
+<tr>
+<td> Pradhan S.K.</td>
+<td>Dwarakadasa E.S.</td>
+<td>UHMWPE-CSP Coconut shell powder composites, processing and characterisation</td>
+</tr>
+<tr>
+<td>K.K. Prashanth</td>
+<td>Chattopadhyay K.</td>
+<td>Laser surface cladding of copper on iron substrate</td>
+</tr>
+<tr>
+<td>Sujata Hazra</td>
+<td>Lahiri A.K.</td>
+<td>Simulation of flow behaviour in reduction shaft of corex process</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1997</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Bikramjit Basu</td>
+<td>Chattopadhyay K.</td>
+<td>Laser surface cladding of intermetallics on iron substrate</td>
+</tr>
+<tr>
+<td>Jakkaraju Rajkumar</td>
+<td>Ranganathan S.</td>
+<td>High strength aluminium alloys : Novel strategies for their development</td>
+</tr>
+<tr>
+<td>Usha D.</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Design for triaxial compaction of powder and hot working of distaloy compact</td>
+</tr>
+<tr>
+<td>Shashishekara Adiga</td>
+<td>Abinandanan T.A.</td>
+<td>Molecular dynamics simulation of vacancy migration under external forcing</td>
+</tr>
+<tr>
+<td>Prashant Kumar Sharma</td>
+<td>Natarajan K.A.</td>
+<td>Biocorrosion studies of some structural materials in presence of Bacillus Polymyxa</td>
+</tr>
+<tr>
+<td>Kasichainula Sridhar</td>
+<td>Chattopadhyay K.</td>
+<td>Studies on thermo-electric power of Cu2Te synthesized by mechanical alloying and grinding</td>
+</tr>
+<tr>
+<td>Gautam Mukherjee</td>
+<td>Vikram Jayaram</td>
+<td>Ball milling of spray pryolysed ZrO2-Al2O3 powders</td>
+</tr>
+</tbody>
+</table>
+<br> 
+<b>1996</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Mukesh Bharadwaj</td>
+<td>Lahiri A.K.</td>
+<td>Solid flow studies in blast furnace stack</td>
+</tr>
+<tr>
+<td>Balasubramanya R.</td>
+<td>Jacob K.T. & Iyengar G.N.K.</td>
+<td>Thermodynamics of cation distribution in spinels : A phenomenological</td>
+</tr>
+<tr>
+<td>Srinivasan Raghavan</td>
+<td>Vikram Jayaram</td>
+<td>A study on the processing and ‘levitation induction’ sintering of composite powders</td>
+</tr>
+<tr>
+<td>Sanjay Kumar</td>
+<td>Ranganathan S.</td>
+<td>Synthesis and crystallisation studies of Al85Ni5Y9M M=Fe, Ti,Mg metallic glasses</td>
+</tr>
+<tr>
+<td>Snehasish Chakraborty</td>
+<td>Lahiri A.K.</td>
+<td>Asymmetry and Oscillation of the fluid flow patterns in a continuous casting mould : A water model study</td>
+</tr>
+<tr>
+<td>Manish Mandal</td>
+<td>Jacob K.T.</td>
+<td>Models for activity coefficient of the nonmetallic solute in binary liquid alloys</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1995</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Soumyajit Mandal</td>
+<td>Atul H. Chokshi</td>
+<td>Grain growth kinetics of a superplastic Al-33% Cu alloy</td>
+</tr>
+<tr>
+<td>Anand Subramanian</td>
+<td>Ranganathan S.</td>
+<td>Formation and crystallization of Al-Ni-Fe,Cu,Si metallic glasses</td>
+</tr>
+<tr>
+<td>T. Seshacharyulu</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Processing map for Ti-6Al-4V and simulation of metal forming processes</td>
+</tr>
+<tr>
+<td>S. Ravindra Godbole</td>
+<td>Lahiri A.K.</td>
+<td>A mathematical model to simulate fluid flow in continuous slag casting mould</td>
+</tr>
+<tr>
+<td>Basavarasu Ranganad</td>
+<td>Abinandanan T.A.</td>
+<td>Construction of phase diagram by monte carlo simulation technique</td>
+</tr>
+<tr>
+<td>P. Markondeya Raj</td>
+<td>Jacob K.T.</td>
+<td>Assessment and evaluation of thermodynamic data</td>
+</tr>
+<tr>
+<td>Tirthankar Dasgupta</td>
+<td>Dwarakadasa E.S.</td>
+<td>Dry sliding wear behaviour of Al-Si alloys</td>
+</tr>
+<tr>
+<td>Ajay Chauhan</td>
+<td>Vikram Jayaram</td>
+<td>Phase evolution, segregation and grain coarsening behaviour in Al2O3-MgO as synthesized using spray pyrolysis</td>
+</tr>
+<tr>
+<td>Vinay Kumar Singh</td>
+<td>Kishore</td>
+<td>Moisture effect on graphite containing glass/epoxy composites</td>
+</tr>
+<tr>
+<td>Neil Savio D’Souza</td>
+<td>Atul H. Chokshi</td>
+<td>Densification and grain growth in 8-Mole% Yttria stabilized cubic zirconia</td>
+</tr>
+<tr>
+<td>Kanad Saha</td>
+<td>Hajra J.P.</td>
+<td>Evaluation of thermodynamic properties of Mn-Mo alloys by the isopiestic technique</td>
+</tr>
+<tr>
+<td>Sanyasi Rao</td>
+<td>Subramanian S.</td>
+<td>Flotation studies on calcite and dolomite</td>
+</tr>
+<tr>
+<td>B. Seshasail</td>
+<td>Surappa M.K.</td>
+<td>Synthesis of Al-TiCp composite by in-situ process and its characterization</td>
+</tr>
+<tr>
+<td>Iraj Asadi Khoshooei</td>
+<td>Dwarakadasa E.S.</td>
+<td>Corrosion behaviour of Al-SiC composite materials</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1994</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>K. Saibaba</td>
+<td>Dwarakadasa E.S.</td>
+<td>Spray atomisation and deposition route for particulate reinforced metal matrix composites</td>
+</tr>
+<tr>
+<td>P. Rajasekharam</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamics of surfaces and adsorption in binary metallic systems</td>
+</tr>
+<tr>
+<td>M.S.M. Saifullah</td>
+<td>Ranganathan S.</td>
+<td>Nanomodulated oxide superlattices by electrodeposition</td>
+</tr>
+<tr>
+<td>Mohammed Ismail</td>
+<td>Sastry D.H.</td>
+<td>Studies on electrochemical corrosion of Mg-Zn-Mn and Mg-Li-Al alloys</td>
+</tr>
+<tr>
+<td>P. Ravi Sankar Srinivas</td>
+<td>Sastry D.H.</td>
+<td>Creep behaviour of 10 vol. % SiCp – 6061 Al alloy composite</td>
+</tr>
+<tr>
+<td>M. Murali Krishna</td>
+<td>Kishore</td>
+<td>Friction and wear studies of glass epoxy composite</td>
+</tr>
+<tr>
+<td>Durvesh B. Ganveer</td>
+<td>Lahiri A.K.</td>
+<td>A mathematical model to simulate the flow of fluid in a continuous casting mould</td>
+</tr>
+<tr>
+<td>Ashutosh Suresh Gandhi</td>
+<td>Vikram Jayaram</td>
+<td>Aerodynamic levitation and induction melting for solidification studies on a high temperature oxide system</td>
+</tr>
+<tr>
+<td>Kiran Balaji Bemarkar</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamics of Mn-Mo alloy</td>
+</tr>
+<tr>
+<td>Srikanta Nandy</td>
+<td>Chattopadhyay K.</td>
+<td>A comparative study of the influence of zirconium in non-equilibrium processed aluminium rich aluminium nickel-alloys</td>
+</tr>
+<tr>
+<td>Prajina Bhattacharya</td>
+<td>Chattopadhyay K.</td>
+<td>Synthesis and characterisation of SiO2 – Pb and Al2O3 – Pb nanocomposites prepared by sol-gel route</td>
+</tr>
+<tr>
+<td>Udaya Bhat K.</td>
+<td>Surappa M.K.</td>
+<td>Laser surface treatment of aluminium alloy A356-SiCp composites</td>
+</tr>
+<tr>
+<td> Prasad S.V.N.</td>
+<td>Iyengar G.N.K.</td>
+<td>Studies on the synthesis and A.C. conductivities of doped compounds of Bi2VO5.5 aurivillius phase</td>
+</tr>
+<tr>
+<td>Ganesh Kumar R.</td>
+<td>Dwarakadasa E.S.</td>
+<td>Dry sliding wear behaviour of aluminium alloys</td>
+</tr>
+<tr>
+<td>Ramprasad Nagaraja</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Deformation processing of aluminium – 10% zinc alloy A study using processing maps </td>
+</tr>
+<tr>
+<td> Subramanian K.R.V.</td>
+<td>Ranganathan S.</td>
+<td>Microstructural evolution in eutectic and hypoeutectic Al-Si alloys during rapid solidification</td>
+</tr>
+<tr>
+<td>Soman Yogesh Sudhakar</td>
+<td>Jacob K.T.</td>
+<td>Activity coefficient of oxygen in binary liquid alloys</td>
+</tr>
+<tr>
+<td>Sucheta N. Mannikar</td>
+<td>Surappa M.K.</td>
+<td>Solidification and microstructure studies in SiCp dispersed aluminium alloy composites</td>
+</tr>
+<tr>
+<td>Mahesha Prasad S.</td>
+<td>Lahiri A.K.</td>
+<td>Statistical analysis of effect of parameters on defects in continuous casting</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1993</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Srinivasa Kumar Y.</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Effect of aluminium content on the dynamic recrystallisation of aluminium bronze – A study using processing maps</td>
+</tr>
+<tr>
+<td> Satish Babu P.M. </td>
+<td>Jacob K.T.</td>
+<td>Determination of cation distribution in CO3O4 through Sebeck coefficient measurements</td>
+</tr>
+<tr>
+<td>Eunny Sridhar</td>
+<td>Lahiri A.K.</td>
+<td>Simulation of fluid flow in continuous casting strip tundish</td>
+</tr>
+<tr>
+<td> Suryanarayana Murty S.V. </td>
+<td>Prasad Y.V.R.K.</td>
+<td>Application of dynamic materials modelling for the optimisation of hot workability and control of microstructure in ceramics – A first report</td>
+</tr>
+<tr>
+<td> Sreenivas Rao K.V. </td>
+<td>Iyengar G.N.K.</td>
+<td>Ageing studies on ZnO based composites for surge arrestor applications</td>
+</tr>
+<tr>
+<td>T.A. Narayana Suthan</td>
+<td> </td>
+<td>Spray forming of composites atomization and particle injection</td>
+</tr>
+<tr>
+<td>Laxmidhar Besra</td>
+<td>Chattopadhyay K.</td>
+<td>A comparative study on the microstructural development under different solidification processing conditions in a system showing submerged miscibility gap – The case of Zn-Sn binary alloys</td>
+</tr>
+<tr>
+<td>Rampada Manna</td>
+<td>Surappa M.K.</td>
+<td>Studies on recrystallization of 2024 Al-SicP composites</td>
+</tr>
+<tr>
+<td>Hari Venugopalan S.</td>
+<td>Ranganathan S.</td>
+<td>Crystallization studies of Ti-Cu metallic glasses</td>
+</tr>
+<tr>
+<td> Srinivasa Rao P. </td>
+<td>Effect of trace element additions on processing and thermal behaviour of aluminium lithium alloys</td>
+</tr>
+<tr>
+<td>Ravi Kumar Tolety</td>
+<td>Vikram Jayaram</td>
+<td>Optimisation of deposition conditions for DLC formation in HFCVD system</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1992</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Sivaraman M.V.S.</td>
+<td>Vikram Jayaram</td>
+<td>Design and fabrication of a HFCVD reactor for synthesis of diamond thin films</td>
+</tr>
+<tr>
+<td>Tarasankar Mahata</td>
+<td>Lahiri A.K.</td>
+<td>Study of heat transfer coefficient at the solid-liquid interface inside a mould</td>
+</tr>
+<tr>
+<td>Amit Bandyopadhyay</td>
+<td>Dwarakadasa E.S.</td>
+<td>Hydrogen degradation studies of medium strength aluminium alloys 8090, 2091, 2014 and 2024</td>
+</tr>
+<tr>
+<td>Saibal Basu</td>
+<td>Surappa M.K.</td>
+<td>Studies on metal matrix composites</td>
+</tr>
+<tr>
+<td>Mukesh Kumar</td>
+<td>Mallya R.M.</td>
+<td>Thin layer ceramic processing I Studies in doctor blade tape casting II Arc plasma process for ceramic coatings</td>
+</tr>
+<tr>
+<td>Ankur Goyal</td>
+<td>Ranganathan S.</td>
+<td>Formation and crystallization of Al-Y-Ni-Cu metallic glasses</td>
+</tr>
+<tr>
+<td>Anirudha Vaidya</td>
+<td>Iyengar G.N.K.</td>
+<td>Studies on electro-thermal ageing of commercial ZnO varistors</td>
+</tr>
+<tr>
+<td>D. Sunanda</td>
+<td>Sastry D.H.</td>
+<td>Superplasticity in intermetallics – A study in Ti-24 Al-15Nb alloy</td>
+</tr>
+<tr>
+<td>Sivaram D.</td>
+<td>Kishore</td>
+<td>Studies on bond strength of adhesively bonded lap shear specimens</td>
+</tr>
+<tr>
+<td>Shiv Brat Singh</td>
+<td>Chattopadhyay K.</td>
+<td>Preparation, characterisation and hardness studies on nanodispersed Zn-10 wt% Bi alloy</td>
+</tr>
+<tr>
+<td>1991</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Bhaskar Dutta</td>
+<td>Surappa M.K.</td>
+<td>Fabrication of studies on precipitation hardening behaviour of 2024 Al – SiCp composites</td>
+</tr>
+<tr>
+<td>C.M. Manjunatha</td>
+<td>Lahiri A.K.</td>
+<td>Mathematical modelling of solute redistribution during solidification in continuous casting</td>
+</tr>
+<tr>
+<td>Savala Deva Dath</td>
+<td>Kishore</td>
+<td>Studies on wear of glass epoxy systems
+U. Rama Murty</td>
+<td>Dwarakadasa E.S.</td>
+<td>The effect of heat treatment and Li depletion on mechanical properties and fracture of Al-Li alloys</td>
+</tr>
+<tr>
+<td>L. Ananthanarayanan</td>
+<td>Ranganathan S.</td>
+<td>Recrystallization studies of Al-SiCp composites experiments and computer simulation</td>
+</tr>
+<tr>
+<td>Niladri Dasgupta</td>
+<td>Mallya R.M.</td>
+<td>Tape casting for advanced ceramics : design of tape casting machines for ceramic substrates and high temperature superconductors</td>
+</tr>
+<tr>
+<td>Vinod Rambhau Patil</td>
+<td>Sastry D.H.</td>
+<td>Effect of heat treatment conditions on impression creep behaviour of alloy MA-957</td>
+</tr>
+</tbody>
+</table>
+<br>
+### 1990-1981
+<b>1990</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Atul Kumar</td>
+<td>Dwarakadasa E.S.</td>
+<td>Anisotropic tensile fracture behaviour of aluminium lithium alloy 8090</td>
+</tr>
+<tr>
+<td>Sarath Chandra</td>
+<td>Kishore</td>
+<td>Some studies on modifications of glass/novolac and glass/resol</td>
+</tr>
+<tr>
+<td>T. Ramesh</td>
+<td>Natarajan K.A.</td>
+<td>Studies on bacterially induced corrosion</td>
+</tr>
+<tr>
+<td>T. Vijay Bhaskar Reddy</td>
+<td>Lahiri A.K.</td>
+<td>Simulation of fluid flow on continuous casting mould</td>
+</tr>
+<tr>
+<td> Sathya Kumar Y.V. </td>
+<td>Prasad Y.V.R.K.</td>
+<td>Mechanical processing of copper powder compacts</td>
+</tr>
+<tr>
+<td>Isukapally Ramana</td>
+<td>Ranganathan S. & Iyengar G.N.K.</td>
+<td>Studies on high Tc superconductors Bi2Sr2Can-1CunOx c-Effect of Pb substitution</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1989</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Vijay Balakrishna</td>
+<td>Kishore</td>
+<td>Influence of alumina additions on the mechanical properties and fracture features of glass fibre-reinforced expoxy composites</td>
+</tr>
+<tr>
+<td>Manjini S.</td>
+<td>Ranganathan S. & Iyengar G.N.K.</td>
+<td>Studies on high Tc YB2Cu3O7-d superconductors – Ag substitution and aging</td>
+</tr>
+<tr>
+<td>Nihar Kanti Nanda</td>
+<td>Natarajan K.A.</td>
+<td>Wear of high chromium cast iron during grinding of Kudremukh iron ore</td>
+</tr>
+<tr>
+<td>Gopala Krishna B.</td>
+<td>Mallya R.M.</td>
+<td>Design and construction of vibration ball mills for mechanical alloying and communication</td>
+</tr>
+<tr>
+<td>M. Vasudevan</td>
+<td>Surappa M.K.</td>
+<td>Fabrication and evaluation of aluminium matrix composites reinforced with SiC particles</td>
+</tr>
+<tr>
+<td>L. Venkata Rama Rao</td>
+<td>Surappa M.K.</td>
+<td>Preparation and processing of Al-2%, Li-3%, Mg-0.1% Be alloys</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1988</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Rajat Kumar Sengupta</td>
+<td>Mallya R.M.</td>
+<td>Mechanical alloying in the Cu-Fe system</td>
+</tr>
+<tr>
+<td>Sukhendu Samajdar</td>
+<td>Kishore</td>
+<td>Some aspects of fracture in FRP compsotes with HTBN-toughened epoxy matrix</td>
+</tr>
+<tr>
+<td>Sandur Ajith Kumar</td>
+<td>Dwarakadasa E.S.</td>
+<td>Ultrathin multilayer metal matrix laminates Cu/Al, Cu/Cr preparation and properties </td>
+</tr>
+<tr>
+<td>K. Srinivasa Rao</td>
+<td>Kishore</td>
+<td>Dry sliding and grinding media wear studies on high chromium white cast iron</td>
+</tr>
+<tr>
+<td> Narasimham T.V.L. </td>
+<td>Prasad Y.V.R.K.</td>
+<td>Processing map for copper powder compact</td>
+</tr>
+<tr>
+<td> Murthy B.S.</td>
+<td>Ranganathan S. & Mohan Rao M.</td>
+<td>Studies on solid state amorphization by mechanical alloying</td>
+</tr>
+<tr>
+<td>Simon Paul</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Design and stress analysis for extrusion die assembly and flow analysis for different die geometries</td>
+</tr>
+<tr>
+<td>Kamles Mundra</td>
+<td>Lahiri A.K.</td>
+<td>Bicubic spline smoothing of noisy data in extrusion</td>
+</tr>
+<tr>
+<td>Kurup Venugopal</td>
+<td>Lahiri A.K. & Chattopadhyay K.</td>
+<td>Solidification of metals in a flowing melt – a model study</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1987</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Panigrahi P.K. </td>
+<td>Dwarakadasa E.S.</td>
+<td>Computerised handling and prediction of properties of steels</td>
+</tr>
+<tr>
+<td>Abhijit Roy</td>
+<td>Raman K.S. & Murthy K.S.S. </td>
+<td>Effect of cadmium on ageing characteristics of aluminium-7 silicon-0.3 magnesium alloy</td>
+</tr>
+<tr>
+<td> Venkataraman R. </td>
+<td>Prasad Y.V.R.K.</td>
+<td>Analytical techniques for strain rate sensitivity evaluation in generating processing maps</td>
+</tr>
+<tr>
+<td> Srinivasulu G. </td>
+<td>Mallya R.M.</td>
+<td>Studies on fine silver powder : its preparation and characterisation</td>
+</tr>
+<tr>
+<td>Sree Kumar K.</td>
+<td>Chattopadhyay K.</td>
+<td>Studies on the early stages of hardening in aluminium-lithium alloys</td>
+</tr>
+<tr>
+<td>Manoj Gupta</td>
+<td>Ranganathan S.</td>
+<td>Quasicrystals in aluminium-lithium-copper system</td>
+</tr>
+<tr>
+<td> Murali T.R. </td>
+<td>Kishore</td>
+<td>Wear of die steels</td>
+</tr>
+<tr>
+<td>Sankha Subhra Sengupta</td>
+<td>Raman K.S. & Dwarakadasa E.S.</td>
+<td>Study on low cycle fatigue behaviour of LA 55 HSLA steel and its weldments</td>
+</tr>
+<tr>
+<td> Ravichandran N. </td>
+<td>Dwarakadasa E.S.</td>
+<td>Effect of 1% aluminium addition on the aging kinetics and mechanical properties of Cu-9Ni-6Sn spinodal alloy</td>
+</tr>
+<tr>
+<td> Sudhakar Choudary P.</td>
+<td>Sastry D.H.</td>
+<td>Impression creep on austenitic stainless steel 316 type weldments</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1986</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Asish Kumar Sinha</td>
+<td>Lahiri A.K.</td>
+<td>Cold modelling of bottom blown processes</td>
+</tr>
+<tr>
+<td> Ravichandran M.V. </td>
+<td>Dwarakadasa E.S.</td>
+<td>Toughness evaluation of aluminium -4% magnesium-alumina liquid-metallurgy particle composite</td>
+</tr>
+<tr>
+<td>Arun Kumar Sharma</td>
+<td>Chattopadhyay K.</td>
+<td>Studies on age hardening behaviour of lithium containing aluminium alloys</td>
+</tr>
+<tr>
+<td>Rajesh Prasad</td>
+<td>Ranganathan S. & Chattopadhyay K.</td>
+<td>Five-fold symmetry in reciprocal space</td>
+</tr>
+<tr>
+<td> Ramesh Prasad G.K. </td>
+<td>Sastry D.H. & Seshan S.</td>
+<td>Studies on forging and welding characteristics of S.G. Iron</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1985</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Parameswaran P.</td>
+<td>Dwarakadasa E.S.</td>
+<td>Property improvement of IS 7670 aluminium alloy by ESR</td>
+</tr>
+<tr>
+<td> Kannayiram G.</td>
+<td>Chattopadhyay K.</td>
+<td>Undercooling of eutectic alloys</td>
+</tr>
+<tr>
+<td>Kamalesh K Patel</td>
+<td>Murthy K.S.S. & Raman K.S.</td>
+<td>Surface finish of gray cast iron castings</td>
+</tr>
+<tr>
+<td> Narasimha Rao B. </td>
+<td>Sastry D.H. & Mohan Rao M.</td>
+<td>Effect of texture and grain size on the mechanical properties of warm worked cadmium – 2.5 Mg alloy</td>
+</tr>
+<tr>
+<td>Sanjay Kumar Dhua</td>
+<td>Chattopadhyay K.</td>
+<td>A search for a metastable miscibility gap in zinc – indium system </td>
+</tr>
+<tr>
+<td> N.K. Mukhopadhyay</td>
+<td>Ranganathan S.</td>
+<td>Effect of chromium addition on phase transformations in nickel-tungsten alloys</td>
+</tr>
+<tr>
+<td>K.S. Ravichandran</td>
+<td>Kishore & Dwarakadasa E.S.</td>
+<td>Effect of thermal treatment on fatigue crack growth behaviour in a 0.22% titanium alloyed chromansil steel</td>
+</tr>
+<tr>
+<td>Iyer Subramaniam</td>
+<td>Raman K.S.</td>
+<td>Investigation of shear damage in composites using acoustic emission analysis</td>
+</tr>
+<tr>
+<td>Sreenivasulu R.</td>
+<td>Dwarakadasa E.S.</td>
+<td>Adhesive wear of FCC metals : aluminium, copper and silver</td>
+</tr>
+<tr>
+<td>Basudev Mishra</td>
+<td>Sastry D.H. & Seshan S.</td>
+<td>Forging of S.G. Iron</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1984</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Asaithambi P.</td>
+<td>Kishore</td>
+<td>Friction and wear studies on HSLA steel and EGP composites</td>
+</tr>
+<tr>
+<td>Lionel S. Amanna</td>
+<td>Vasu K.I.& Bhat M.V.</td>
+<td>Transition from Hall-Petch hardening to superplastic behaviour – a study with Al-6Cu-0.5Zr alloy</td>
+</tr>
+<tr>
+<td> Vaidya N.K. </td>
+<td>Lahiri A.K.</td>
+<td>A selected project report on heat transfer in electroslag refining</td>
+</tr>
+<tr>
+<td> Pitchai N.</td>
+<td>Lahiri A.K. & Nayak U.B.</td>
+<td>Studies on rheological and surface characteristics on the wet grinding of hematitie</td>
+</tr>
+<tr>
+<td> Sathyanarayana C.G. </td>
+<td>Ranganathan S.</td>
+<td>Effect of microstructure and strain rate on tensile behaviour of VT-9 alloy</td>
+</tr>
+<tr>
+<td> Srikanth S. </td>
+<td>Hajra J.P. & Jacob K.T.</td>
+<td>Solvent-solute and solute-solute intraction in a-solid solutions of Cu-As and Ag-As systems – Design of experiment</td>
+</tr>
+<tr>
+<td> Srinivasan K. </td>
+<td>Ranganathan S. & Raman K.S.</td>
+<td>Heat treatment of 30 KAGSNA steel and study of mechanical properties</td>
+</tr>
+<tr>
+<td> Surendranathan A.O. </td>
+<td>Vasu K.I.</td>
+<td>Transition from Hall-Petch region to superplastic region – Investigations with the Zn-Al eutectoid systems</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1983</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Abraham Koshie</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamic measurements in alloys using fluoride electrolyte</td>
+</tr>
+<tr>
+<td> Mohanty B.P.</td>
+<td>Iyengar G.N.K. & Hajra J.P.</td>
+<td>Studies on electroslag refining of commercial aluminium</td>
+</tr>
+<tr>
+<td>Jagadeesha Acharya –</td>
+<td>Raman K.S.</td>
+<td>Study of the effect of restraint intensity on weld cracking using ERC test</td>
+</tr>
+<tr>
+<td> Madhusudhan G.</td>
+<td>Raman K.S. & Seshadri M.R. </td>
+<td>Use of eddy current test technique to determine the mechanical properties of gray cast iron</td>
+</tr>
+<tr>
+<td> Murthy V.S.R.</td>
+<td>Kishore & Seshan S.</td>
+<td>Compacted graphite cast iron – a study on properties</td>
+</tr>
+<tr>
+<td> James Victor Raj K.R.</td>
+<td> Srinivasan M.N. & Kishore</td>
+<td>Study on in-mould spheroidisation of spheroidal graphite cast iron</td>
+</tr>
+<tr>
+<td> Rajadurai A.</td>
+<td>Ranganathan S.</td>
+<td>Effect of microstructure and strain rate on tensile behaviour of Ti-6242S alloy</td>
+</tr>
+<tr>
+<td> Ramadasan E.</td>
+<td>Ranganathan S. & Chattopadhyay K. </td>
+<td>Active eutectoid decomposition in a hypoeutectoid Zr-Ni alloy</td>
+</tr>
+<tr>
+<td>Ramani S. </td>
+<td>Lahiri A.K. & Mohan Rao M.</td>
+<td>A cold modelling study on the mixing time and oxygen partition in LD convertor</td>
+</tr>
+<tr>
+<td> Sampath V.</td>
+<td>Sastry D.H.</td>
+<td>Electroslag refining of aluminium alloy RR 58 and studies on impression creep and other mechanical properties</td>
+</tr>
+<tr>
+<td> Sampath K. </td>
+<td> Srinivasan M.N. & Mohan Rao M.</td>
+<td>Nihard – micro alloying </td>
+</tr>
+<tr>
+<td>M.C. Shaji</td>
+<td>Vasu K.I.</td>
+<td>Aluminium alloys as sacrificial anodes for galvanic protection of steel</td>
+</tr>
+<tr>
+<td>Shiva Kumar C.</td>
+<td>Sastry D.H.</td>
+<td>Development and properties of electroslag refined RR 58 alloy</td>
+</tr>
+<tr>
+<td>Subramanian C.</td>
+<td>Kishore</td>
+<td>Wear of aluminium graphite particulate composites</td>
+</tr>
+<tr>
+<td>Sujatha K.</td>
+<td>Mallya R.M.</td>
+<td>Iron nickel as a binder in tungsten carbide hard metal</td>
+</tr>
+<tr>
+<td>Vasudevan S.</td>
+<td>Chattopadhyay K. & Seshan S.</td>
+<td>Influence of manganese additions on austenitic spheroidal graphite iron</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1982</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Anand K.G.</td>
+<td>Kishore</td>
+<td>Studies on the effect of heat input and temperature on impact strength of microalloyed steel</td>
+</tr>
+<tr>
+<td> Balakrishna Rao K. </td>
+<td>Mohan Rao M. & Murthy K.S.S. </td>
+<td>Studies on the influence of some melting parameters in high strength grey iron</td>
+</tr>
+<tr>
+<td> Basu A.K. </td>
+<td>Lahiri A.K.</td>
+<td>Analysis of the rotary kiln process for sponge iron manufacture</td>
+</tr>
+<tr>
+<td> Chandrasekharan T.</td>
+<td>Ranganathan S. & Mahajan Y.R. HAL</td>
+<td>Studies on strength and tough ness of 30 kH GSA steel</td>
+</tr>
+<tr>
+<td>Gowri S.</td>
+<td>Ranganathan S. & Mohan Rao M. </td>
+<td>Crystallization behaviour of Fe40Ni38Mo4B18 METGLAS 2826 MB </td>
+</tr>
+<tr>
+<td>Mohan R.</td>
+<td>Kishore</td>
+<td>Studies on jute-glass hybrid fibre composites</td>
+</tr>
+<tr>
+<td> Gopalakrishnan M.S.</td>
+<td> Seshadri M.R. & Raman K.S.</td>
+<td>Welding of Malleable iron</td>
+</tr>
+<tr>
+<td> Raghunathan N. </td>
+<td>Lahiri A.K.</td>
+<td>Temperature simulation and thermal stresses in rolling mill</td>
+</tr>
+<tr>
+<td>Venkatanarayana G. </td>
+<td> Srinivasan M.N. & Mohan Rao M. </td>
+<td>Inocculation of niresistTYPE-I influence on structure and mechanical properties</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1981</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Subodh Kumar</td>
+<td>Mohan Rao M.</td>
+<td>Effect of microalloying on casting characteristics and mechanical properties of Al bronzes</td>
+</tr>
+<tr>
+<td>Sharad Prakash</td>
+<td>Mohan Rao M. & Srinivasan M.N. </td>
+<td>Effect of carbon, silicon and innoculants on the chilling characteristics of Ni-resist irons</td>
+</tr>
+<tr>
+<td>Animesh Jha</td>
+<td>Abraham K.P.</td>
+<td>Studies on the removal of phosphorous from cast iron and ferro-chrome by electroslag remelting using Ca-CaF2 slag</td>
+</tr>
+<tr>
+<td>Radhakrishna Upadhya</td>
+<td>Prasad Y.V.R.K. & Murthy K.S.S.</td>
+<td>Fracture toughness studies on Al-4.5 Cu alloy</td>
+</tr>
+<tr>
+<td> Badgujar S.T.</td>
+<td>Dwarakadasa E.S. and Kishore</td>
+<td>Influence of Ti on the age hardening behaviour of Al-6Zn-.01 a Be alloy – effect of thermal and thermo mechanical treatments on the microstructure, mechanical properties and fatigue</td>
+</tr>
+<tr>
+<td>Anil Kumar Gupta</td>
+<td>Raman K.S. and Murthy K.S.S.</td>
+<td>Effect of iron and room temperature ageing on the hardness of LM 25 alloy</td>
+</tr>
+<tr>
+<td> Lele M.B.</td>
+<td>Mallya R.M. </td>
+<td>Reduction of ammonium para tungstate and ammonium molybdate by hydrogen</td>
+</tr>
+<tr>
+<td> Rama Rao A.</td>
+<td>Iyengar G.N.K. & Srinivasan M.N.</td>
+<td>Study of inmold inoculation of grey cast iron</td>
+</tr>
+<tr>
+<td> Venkateswaran T.V.</td>
+<td>Dwarakadasa E.S.</td>
+<td>A study of distribution of graphite in aluminium graphite composites</td>
+</tr>
+<tr>
+<td> Balasubramanian S.R.</td>
+<td>Lahiri A.K.</td>
+<td>Calorizing of mild steel</td>
+</tr>
+<tr>
+<td> Jamakhandi N.B.</td>
+<td>Sastry D.H.</td>
+<td>Effect of tin on the properties of high silicon S.G. iron</td>
+</tr>
+</tbody>
+</table>
+### 1980-1971
+<br>
+<b>1980</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Raghavendra R.</td>
+<td> Seshadri M.R.</td>
+<td>Structure and property correlation in pearlitic malleable iron casting</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1979</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Sarma, V.S. Vedula</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Hot working characteristics of EN36A steel : A study by hot torsion technique</td>
+</tr>
+<tr>
+<td>Sarma V.V.R.S.</td>
+<td>Sastry D.H.</td>
+<td>Effect of grain size on the high temperature yield stress in zinc and cadmium</td>
+</tr>
+<tr>
+<td> Rao Arun M.</td>
+<td>Raman K.S. & Seshadri M.R.</td>
+<td>Studies on inclusion rating and dendrite arm spacing of steel castings</td>
+</tr>
+<tr>
+<td>Rajendra S.</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Design and fabrication of hot extrusion die assembly for the 250 ton hydraulic press</td>
+</tr>
+<tr>
+<td>Shah, Kamal Kumar</td>
+<td>Mohan Rao M.</td>
+<td>Studies on isothermal decomposition of supersaturated phases in the Cu-Zn systems</td>
+</tr>
+<tr>
+<td>Gowrishankar S.</td>
+<td>Vasu K.I.</td>
+<td>Reflectance of metallic mirrors</td>
+</tr>
+<tr>
+<td>Gopala B.</td>
+<td>Vasu K.I.& Dwarakadasa E.S.</td>
+<td>Production of iron powder</td>
+</tr>
+<tr>
+<td>Ashok Kumar, V. Lad</td>
+<td>Vasu K.I.</td>
+<td>Surface conversion coatings on metals</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b> 978</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Mohanan K.</td>
+<td>Vasu K.I.</td>
+<td>Electrowinning of copper</td>
+</tr>
+<tr>
+<td>Prakash H.S.</td>
+<td>Vasu K.I.</td>
+<td>Ferric chloride leaching process for the complex copper-lead-zinc concentrates</td>
+</tr>
+<tr>
+<td>Ambethkar M.</td>
+<td>Vasu K.I.</td>
+<td>Surface conversion coatings</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1977</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Panickar K.P.</td>
+<td>Mallya R.M. & Raghuram A.C. NAL</td>
+<td>Mechanical alloying</td>
+</tr>
+<tr>
+<td>Bhat R.P.</td>
+<td>Mohan Rao M.</td>
+<td>Studies on the reclamation of Inconel X-750 turbine blades</td>
+</tr>
+<tr>
+<td>Prakash T.G.</td>
+<td>Vasu K.I.</td>
+<td>Processing of chalcopyrite concentrations: Ferric chloride leaching and galvanic cementation</td>
+</tr>
+<tr>
+<td>Narayan K.S.</td>
+<td>Dwarakadasa E.S.</td>
+<td>Isothermal age hardening characteristics of Al-6Zn alloy with .05 Be addition</td>
+</tr>
+<tr>
+<td>Balachandran U.</td>
+<td>Abraham K.P.</td>
+<td>Chemical vapour deposition of titanium carbide on tool steels</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1976</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Madhusudhan</td>
+<td>Mallya R.M.</td>
+<td>Studies on metastable phases</td>
+</tr>
+<tr>
+<td> Suryaprakash M.S.</td>
+<td>Rohatgi P.K.</td>
+<td>Design, fabrication and characteristics of biogas fired curcible furnace</td>
+</tr>
+<tr>
+<td>Didolkar V.</td>
+<td>Nayak U.B.</td>
+<td>Beneficiation of low grade graphite ore from Ganacharpura Mines, Kolar district, Karnataka</td>
+</tr>
+<tr>
+<td>Ajay Kumar Mishra</td>
+<td>Lahiri A.K. & Abraham K.P.</td>
+<td>Reduction of haematite with methane</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1975</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Srikanta Pandits B.V.</td>
+<td>Mallya R.M.</td>
+<td>Submicron particles produced by freeze drying – preparation of nickel ferrite</td>
+</tr>
+<tr>
+<td>Prabhakar Singh</td>
+<td>Abraham K.P.</td>
+<td>Thermodynamic measurements in the MgO-SiO2 by high temperature galvanic – cell technique</td>
+</tr>
+<tr>
+<td>Jana B.C.</td>
+<td>Rohatgi P.K.</td>
+<td>Bearing characteristics of Al-graphite composites</td>
+</tr>
+<tr>
+<td> Babu Sathyan V.</td>
+<td>Vasu K.I.</td>
+<td>Design and development of acid pumps using high silicon iron</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1974</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Prakash T.L.</td>
+<td>Mallya R.M. & Arunachalam V.S. NSL</td>
+<td>Powder metallurgy of chromium</td>
+</tr>
+<tr>
+<td>Saralaya D.L.</td>
+<td>Vasu K.I.</td>
+<td>Deformation behaviour of chromium</td>
+</tr>
+<tr>
+<td> Subramanyam J.</td>
+<td>Abraham K.P.</td>
+<td>Application of high tempeature solid electrolyte galvanic cell</td>
+</tr>
+<tr>
+<td>Narayanan V.</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamics of binary and ternary silicate slags</td>
+</tr>
+<tr>
+<td>Ramachandran S.</td>
+<td>Rohatgi P.K.</td>
+<td>Studies on bearing characteristics of Al-graphite composites</td>
+</tr>
+<tr>
+<td>Yogarajan H.N.</td>
+<td>Abraham K.P.</td>
+<td>Activities in calcium oxide solid solutions</td>
+</tr>
+<tr>
+<td>Sreerama Murthy A.</td>
+<td>Abraham K.P.</td>
+<td>Electroslag remelting of non-ferrous metals and alloys with special performance to titanium</td>
+</tr>
+<tr>
+<td> Srinivasa C.L. </td>
+<td>Vasu K.I.& Raman K.S.</td>
+<td>Slat baths for industrial heat treatment</td>
+</tr>
+<tr>
+<td>Mohan V.N. </td>
+<td>Rohatgi P.K. & Prasad K.K. </td>
+<td>Permanent mould casting – A thermal study</td>
+</tr>
+<tr>
+<td>Kodanda Rao N. </td>
+<td>Lahiri A.K.</td>
+<td>Temperature profile in the blast furnace stack</td>
+</tr>
+<tr>
+<td>Ilangovan S.</td>
+<td>Vasu K.I.</td>
+<td>Direct electro-recovery of copper from chalcopyrite concentrates used as a slurry anode</td>
+</tr>
+<tr>
+<td>Yagneswaran A.H. </td>
+<td>Mallya R.M.</td>
+<td>Power metallurgy of stainless steel: Production of austenitic stainless steel power by intergranular and corrosion</td>
+</tr>
+<tr>
+<td>Balakrishna Bhat T. </td>
+<td>Kishore & Vasu K.I.</td>
+<td>Effect of dispersion on ordering in Cu-Au</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1973</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Sellamuthu R. </td>
+<td>Abraham K.P. jointly with MRS, ME</td>
+<td>Application of ESR technique for the production of nodular cast iron</td>
+</tr>
+<tr>
+<td>Prasad S.V. </td>
+<td>Abraham K.P.</td>
+<td>Electrochemical measurements of oxidation of Cu</td>
+</tr>
+<tr>
+<td> Prasad T.K. </td>
+<td>Vasu K.I.</td>
+<td>Diffusion control in solid-fluid reactions</td>
+</tr>
+<tr>
+<td> Narayan Rao K. </td>
+<td>Abraham K.P.</td>
+<td>A thermal analysis calorimeter for the determination of heats of transformations</td>
+</tr>
+<tr>
+<td> Nagarajan V. </td>
+<td>Mohan Rao M.</td>
+<td>Multiphase diffusion in the system Cd-Zn</td>
+</tr>
+<tr>
+<td>Lakshminarayan R. </td>
+<td>Raman K.S.</td>
+<td>Resistometric studies of phase boundaries in Sn-Cd alloy</td>
+</tr>
+<tr>
+<td>Khaji K.M. </td>
+<td>Abraham K.P.</td>
+<td>Kinetics of reduction of cobalt oxide by hydrogen in fluidised bed</td>
+</tr>
+<tr>
+<td>Jayasimha D.S. </td>
+<td>Vasu K.I.</td>
+<td>Extraction of copper from chalcopyrite concentrate by hydrometal- lurgical treatment</td>
+</tr>
+<tr>
+<td>Galgali R.K. </td>
+<td>Vasu K.I.& Prasad Y.V.R.K.</td>
+<td>A study of the microstructural aspects of the fatigue in 70-30 brass</td>
+</tr>
+<tr>
+<td>Chadramouli K.</td>
+<td>Sastry D.H.</td>
+<td>Mechanical properties of unidirectionally solidified eutectic alloys</td>
+</tr>
+<tr>
+<td>Anand R.</td>
+<td>Vasu K.I.</td>
+<td>Extraction of copper from chalcopyrite concentrate by hydro-metallurgical treatments</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1972</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Ananth Padmanabha S. </td>
+<td>Vasu K.I.</td>
+<td>Electrodeposition of iron group binary alloys</td>
+</tr>
+<tr>
+<td> Chandrasekhara Pai B. </td>
+<td>Dwarakadasa E.S.</td>
+<td>Structural studies of unidirectionally solidified eutectic alloys</td>
+</tr>
+<tr>
+<td> Ghopde A.D. </td>
+<td>Vasu K.I.</td>
+<td>Design and construction of a vacuum and mass flow type recording thermobalance and studies on initial oxidation of copper</td>
+</tr>
+<tr>
+<td> Jayaraman N. </td>
+<td>Sastry D.H.</td>
+<td>Structural and resistometric studies of the order-disorder transformation in Cd-Mg alloys</td>
+</tr>
+<tr>
+<td> Kannan C. </td>
+<td>Abraham K.P.</td>
+<td>Electroslag refining of aluminium</td>
+</tr>
+<tr>
+<td> Ramadurai S. </td>
+<td>Abraham K.P.</td>
+<td>Studies on chemical vapour deposition</td>
+</tr>
+<tr>
+<td> Ramesh K.R. </td>
+<td>Vasu K.I.</td>
+<td>Leaching of chalcopyrite</td>
+</tr>
+<tr>
+<td>Srinivasan N.S. </td>
+<td>Vasu K.I.</td>
+<td>High temperature oxidation of Cu and Cu-Th alloys electrodeposition of Fe-Ni & Fe-Co alloy from the fluoborate bath</td>
+</tr>
+<tr>
+<td> Sriramamurthy A.M. </td>
+<td>Abraham K.P. & Mohan Rao M.</td>
+<td>Thermodynamics and structural transformation in Sn-antimony system</td>
+</tr>
+<tr>
+<td>Surendra Kumar Singh</td>
+<td>Abraham K.P.</td>
+<td>Kinetics of reduction of manganese dioxide pellets with hydrogen</td>
+</tr>
+<tr>
+<td> Vijaya Prasad V. </td>
+<td>Vasu K.I.</td>
+<td>Electrolytic leaching of lemenite ore</td>
+</tr>
+<tr>
+<td>Vinod Kumar Juneja</td>
+<td>Dwarakadasa E.S.</td>
+<td>Bearing characteristic and aluminium base bearing alloy</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1971</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Chandra H.</td>
+<td>Dwarakadasa E.S.</td>
+<td>Studies on low temperature plastic deformation in commercial aluminium</td>
+</tr>
+<tr>
+<td>Kripakaran R.</td>
+<td>Mohan Rao M.</td>
+<td>Thermal stabilisation</td>
+</tr>
+<tr>
+<td>Dwarika Prasad</td>
+<td>Abraham K.P.</td>
+<td>The design, construction and operation of liquid metal solution calorimeter</td>
+</tr>
+<tr>
+<td>K. Ramaraju</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Microstructural aspects of fatigue in Al and Al-Mg alloy</td>
+</tr>
+<tr>
+<td>J. Ravindranath Shetty</td>
+<td>Vasu K.I.and Prasad Y.V.R.K.</td>
+<td>Stress corrosion cracking in Cu-12 Al alloy</td>
+</tr>
+<tr>
+<td>C. Virupaksha Shastry</td>
+<td>Sastry D.H. and Dwarakadasa E.S.</td>
+<td>The unidirectional solidification of binary eutectic alloys</td>
+</tr>
+<tr>
+<td>P.K. Balachandra</td>
+<td>Abraham K.P.</td>
+<td>Smelting of chromite ores in a tilting arc furnace designed and fabricated in the Department</td>
+</tr>
+<tr>
+<td>Bhat K.L.</td>
+<td>Vasu K.I.</td>
+<td>High temperature oxidation of Cu and its alloys</td>
+</tr>
+<tr>
+<td>Bhushan Lal Dhar</td>
+<td>Vasu K.I.</td>
+<td>Codeposition of Ni-Co alloys from fluoborate bath</td>
+</tr>
+<tr>
+<td>Samir Nath Jha</td>
+<td>Vasu K.I.& Dwarakadasa E.S.</td>
+<td>Cavitation erosion of some marine alloys</td>
+</tr>
+<tr>
+<td>Chiranjit Lal</td>
+<td>Abraham K.P.</td>
+<td>Production of nodular cast iron by electroslag process</td>
+</tr>
+<tr>
+<td>Raghavan S.</td>
+<td>Abraham K.P.</td>
+<td>Thermodynamic properties of binary systems of high temperature solid electrolytes galvanic cell technique</td>
+</tr>
+<tr>
+<td>Sivan V.</td>
+<td>Abraham K.P.</td>
+<td>Kinetic studies on the roasting of cadmium sulphide</td>
+</tr>
+</tbody>
+</table>
+### 1970-1961
+<br>
+<b>1970</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>R.T. Bhat R.T.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>R. Dinkar Babu</td>
+<td>Mohan Rao M.</td>
+<td>Studies on Fe-Mn solvus lines</td>
+</tr>
+<tr>
+<td>Jagannath Pujini</td>
+<td>Mallya R.M.</td>
+<td>Intermetallic compounds</td>
+</tr>
+<tr>
+<td>S.K. Datta</td>
+<td>Mallya R.M.</td>
+<td>Fundamentals of glass to metal bonding</td>
+</tr>
+<tr>
+<td>George Thomas</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td> Shankar Shastry M.L. </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Subba Reddy T.</td>
+<td>Krishnan A.A.</td>
+<td>Dispersion hardening in nickel-zirconia at low temperatures</td>
+</tr>
+<tr>
+<td>A. Shantharam</td>
+<td>Abraham K.P.</td>
+<td>Production of high grade standard grade ferro-chrome from lowgrade chromite ores of Mysore</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1969</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Swapan Kanti Das</td>
+<td>A.A.Krishnan</td>
+<td>Variation of sizes of mratensite platelets and relative effects on its strength</td>
+</tr>
+<tr>
+<td> Acharya B.N.N. </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td> Misra P.S. </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bhutani A.K. </td>
+<td>Abraham K.P.</td> 
+<td>Refining of steel by electroslag process</td>
+</tr>
+<tr>
+<td> Ramanathan R. </td>
+<td>Vasu K.I.</td>
+<td>Inhibition of corrosion of aluminium in saturated AlCl3 solution</td>
+</tr>
+<tr>
+<td> Bhatikar R.J. </td>
+<td>Mallya R.M.</td>
+<td>Stress-corrosion studies of aluminium-zinc-magnesium alloy C.D.T.D. 683 Al</td>
+</tr>
+<tr>
+<td> Mathrubhootam K. </td>
+<td>Vasu K.I.</td>
+<td>Corrosion of Cu-Mn alloys</td>
+</tr>
+<tr>
+<td>Srinivasa R</td>
+<td>Abraham K.P.</td>
+<td>Thermodynamic properties of aluminium -zinc alloys</td>
+</tr>
+<tr>
+<td> Chandrasekharan R. </td>
+<td>Vasu K.I.</td>
+<td>On the nature of stress corrosion of Al-Zn, and Al-Mg alloys</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1968</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td> Ramani R. </td>
+<td>Vasu K.I.</td>
+<td>Aluminium in primary batteries</td>
+</tr>
+<tr>
+<td> Rave P.G. </td>
+<td>Krishnan A.A.</td>
+<td>Mechanical and magnetic properties of sintered iron-glass</td>
+</tr>
+<tr>
+<td> Kadukar A.D. </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>H. Sundaresh</td>
+<td>Abraham K.P.</td>
+<td>Activity measurements in binary systems</td>
+</tr>
+<tr>
+<td>Maduri Krishnamurthy</td>
+<td>C.R. Krishna Murthy</td>
+<td>Fused salt electrolysis for production of ferro-manganese</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1967</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>P.K. Poulose</td>
+<td>Raman K.S.</td>
+<td>An apparatus for precise determination of internal friction</td>
+</tr>
+<tr>
+<td>Kishore</td>
+<td>Krishnan A.A.</td>
+<td></td>
+</tr>
+<tr>
+<td> Vydyanath H.R. </td>
+<td>Sastry D.H.</td>
+<td>Resistometric study of pre-precipitation in Mg-Zn alloys</td>
+</tr>
+<tr>
+<td>Seshadri S.K. </td>
+<td>Abraham K.P. & Mohan Rao M.</td>
+<td>Production of ferro-chrome off-grade Byrapur chromite ore</td>
+</tr>
+<tr>
+<td>Sastry R.L.N. </td>
+<td>Abraham K.P.</td>
+<td>Electric smelting of chalcopyrite available at Ingoldab</td>
+</tr>
+<tr>
+<td>K. Prabhakar</td>
+<td>R.K. Ramamurthy</td>
+<td>Flotation of hematite with sodium cleate</td>
+</tr>
+<tr>
+<td>S.S. Balakrishna</td>
+<td>Vasu K.I.</td>
+<td>High temperature oxidation of ZrO2 dispersed nickel</td>
+</tr>
+<tr>
+<td>Stan A. David</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Prasad V.C.S. </td>
+<td>Prasad Y.V.R.K.</td>
+<td>Ausforming of a high speed steel</td>
+</tr>
+<tr>
+<td>S.C. Gupta</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>1966</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisors</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Venkatesh Bhat M.</td>
+<td>Krishnan A.A.</td>
+<td>High temperature oxidation characteristics of copper titanium alloys</td>
+</tr>
+<tr>
+<td> Narasimha Murthy K. </td>
+<td> Ramachandran V. </td>
+<td>Effect of cold work on the ageing characteristics of Al alloys</td>
+</tr>
+<tr>
+<td>Prasad K.K. </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Gupta S.C. </td>
+<td>C.R. Krishna Murthy</td>
+<td>Elecrolytic Production of S & P free iron</td>
+</tr>
+<tr>
+<td>R. Natarajan</td>
+<td>Abraham K.P.</td>
+<td>Reduction smelting of ilmenite to produce pig iron and titanium rich slag</td>
+</tr>
+<tr>
+<td>Srinivasan N.K. </td>
+<td>Ramachandran V.</td>
+<td>Resistometric studies on kinetics of clustering in Al-Zn alloys</td>
+</tr>
+<tr>
+<td>Hanumantha Rao T. </td>
+<td>Abraham K.P.</td>
+<td>Upgradation of chavars ilmenite concentrates by chloridisation and hydrogen reduction </td>
+</tr>
+<tr>
+<td>Gokulratnam C.V. </td>
+<td>Krishnan A.A.</td>
+<td>Production of properties of some copper-titania alloy</td>
+</tr>
+</tbody>
+</table>
+<br>
 
 ## M.Sc.(Engg.)
 ### 2010-2001
