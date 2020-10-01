@@ -2628,12 +2628,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tr>
 <td>Urbi Pal</td>
 <td>Aloke Paul</td>
-<td>Effect Of Al And Cr On The Interdiffusion Between Β-Fe,NiCral Bond Coats And P91 Steel & Ni-Based Cmsx-4 Superalloy</td>
+<td>Effect Of Al And Cr On The Interdiffusion Between Β-Fe, NiCral Bond Coats And P91 Steel & Ni-Based Cmsx-4 Superalloy</td>
 </tr>
 <tr>
 <td>Abhijeet Nandkishor Kalaskar</td>
 <td>Rajeev Ranjan</td>
-<td>Effect Of Poling On Dielectric Properties And Photoluminescence Spectrum Of Europium Doped Na0.5bi0.5tio3 And 0.94na0.5bi0.5tio3-0.06batio3</b>
+<td>Effect Of Poling On Dielectric Properties And Photoluminescence Spectrum Of Europium Doped Na0.5bi0.5tio3 And 0.94na0.5bi0.5tio3-0.06batio3</td>
 </tr>
 </tbody>
 </table>
