@@ -4669,8 +4669,10 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tr>
 <td>Savala Deva Dath</td>
 <td>Kishore</td>
-<td>Studies on wear of glass epoxy systems
-U. Rama Murty</td>
+<td>Studies on wear of glass epoxy systems</td>
+</tr>
+<tr>
+<td>Rama Murty U.</td>
 <td>Dwarakadasa E.S.</td>
 <td>The effect of heat treatment and Li depletion on mechanical properties and fracture of Al-Li alloys</td>
 </tr>
