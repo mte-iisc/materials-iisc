@@ -7193,7 +7193,7 @@ Sandeep R. Shah</td>
 </tr>
 </tbody>
 </table>
-<br>
+
 ## A.I.I.Sc
 ### 1956-1951
 <br>
