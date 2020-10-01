@@ -7078,7 +7078,7 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>S. Sreenivasa Rao</td>
-<td>(T. R. Anantharaman)</td>
+<td>Anantharaman T.R.</td>
 <td>Structural changes in copper zinc alloys</td>
 </tr>
 </tbody>
@@ -7122,12 +7122,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>E. S. Dwarakadasa</td>
-<td>(A. A. Krishnan)</td>
+<td>Krishnan A.A.</td>
 <td>Interface energy studies in some copper alloys containing a liquid phase</td>
 </tr>
 <tr>
 <td>K. S. Raman</td>
-<td>(A.A. Krishnan)</td>
+<td>Krishnan A.A.</td>
 <td>Studies on the spreading power of some solders</td>
 </tr>
 </tbody>
@@ -7143,8 +7143,8 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>A. V. Ramana Rao</td>
-<td>(A. A. Krishnan)</td>
+<td>Ramana Rao A.V. </td>
+<td>Krishnan A.A.</td>
 <td>Preparation of copper by some powder metallurgical techniques</td>
 </tr>
 </tbody>
@@ -7160,18 +7160,18 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>J. Ramesam</td>
-<td>(T. R. Anantharaman)</td>
+<td>Ramesam J.</td>
+<td>Anantharaman T.R.</td>
 <td>Development of age-hardenable alloys from Indian aluminium</td>
 </tr>
 <tr>
-<td>R. K. Ramamurthy</td>
-<td>(A. A. Krishnan)</td>
+<td>Ramamurthy R.K.</td>
+<td>Krishnan A.A.</td>
 <td>Studies on vermiculite and its beneficiation</td>
 </tr>
 <tr>
-<td>K. Manjunath Pai</td>
-<td>(R. Malikarjunan & A. A. Krishnan)</td>
+<td>Manjunath Pai K.</td>
+<td>Malikarjunan R. & Krishnan A.A.</td>
 <td>Studies on some fatty acid collectors in the flotation of beach-sand minerals of Travancore</td>
 </tr>
 </tbody>
@@ -7187,8 +7187,8 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>H. S. Aswath</td>
-<td>(A. A. Krishnan)</td>
+<td>Aswath H.S.</td>
+<td>Krishnan A.A.</td>
 <td>Studies on the measurement of contact angle and spreading power of tin and tin-lead solders on copper in presence of fluxes</td>
 </tr>
 </tbody>
@@ -7207,13 +7207,13 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>M. Mohan Rao</td>
-<td>(Brahm Prakash)</td>
+<td>Mohan Rao M.</td>
+<td>Brahm Prakash</td>
 <td>Studies on the direct reduction of zinc sulphide with manganese and ferro-manganese</td>
 </tr>
 <tr>
-<td>U. B. Nayak</td>
-<td>(Brahm Prakash)</td>
+<td>Nayak U.B.</td>
+<td>Brahm Prakash</td>
 <td>Soap flotation of zircon, rutile, monazite, quartz and ilmenite</td>
 </tr>
 </tbody>
@@ -7229,8 +7229,8 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>K. G. Udupa</td>
-<td>(J. Balachandra)</td>
+<td>Udupa K.G. </td>
+<td>Balachandra J.</td>
 <td>Electrowinning of zinc from Zawar concentrates</td>
 </tr>
 </tbody>
@@ -7246,8 +7246,8 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>V. Aravamuthan</td>
-<td>(J. C. Ghosh & S. S. Ghosh)</td>
+<td>Aravamuthan V.</td>
+<td>Ghosh J.C. & Ghosh S.S.</td>
 <td>Studies on the reaction between carbon and sulphur at high temperatures with special reference to the production of carbon disulphide and desulphurization of Assam coal</td>
 </tr>
 </tbody>
