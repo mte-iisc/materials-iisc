@@ -7256,5 +7256,182 @@ Sandeep R. Shah</td>
 ### 2000-1991
 ## M.E.(Manufacturing Engineering)
 ### 2000-2002
+<br>
+<b>2002</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisor(s)</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Pankaj N. Gangshettiwar</td>
+<td>Lahiri A.K. </td>
+<td>Simulation of squeeze casting using proCAST</td>
+</tr>
+<tr>
+<td>Sreekanta Roy</td>
+<td>Chattopadhyay K.</td>
+<td>Development of microstructure and tribological properties of Al-Si-Bi clad on Al-Si and Cu substrate</td>
+</tr>
+<tr>
+<td>Sadhan Ghosh</td>
+<td>Ranganathan S.</td>
+<td>Synthesis and characterisation of iron based metallic glasses by mechanical alloying</td>
+</tr>
+<tr>
+<td>Atul Kumar Malik</td>
+<td>Raghavan N.R.S. </td>
+<td>Padma: Parallel and distributed framework for manufacturing applications</td>
+</tr>
+<tr>
+<td>Balraj Singh</td>
+<td>Prasad Y.V.R.K.</td>
+<td>Thermomechanical processing of 6000 series aluminium alloys</td>
+</tr>
+<tr>
+<td>Ravikumar N.L. </td>
+<td>Kishore</td>
+<td>Effect of ingression by varying aqueous media on the compression behaviour of neat epoxy and epoxy containing fly ash particles with their surface treated by silane bearing material</td>
+</tr>
+<tr>
+<td>Manoj Kumar</td>
+<td>Hajra J.P.</td>
+<td>Thermodynamics of ternary system involving higher order ternary interactions</td>
+</tr>
+<tr>
+<td>Sonia Galgalikar</td>
+<td>Ramamurty U. and Dwarakadasa E.S. </td>
+<td>Effect of Ag addition on the mechanical properties of AZ91 alloy</td>
+</tr>
+<tr>
+<td>Satya Pal Singh</td>
+<td>Rengarajan R., Widia India Ltd and Jayaram V.</td>
+<td>To find out suitable insert parameters for stainless steel turning</td>
+</tr>
+<tr>
+<td>Binoda Bihari Behera</td>
+<td>Surappa M.K.</td>
+<td>Study of machinability characteristics of Al-Si-SiCp composites</td>
+</tr>
+<tr>
+<td>Srinivas Singamala</td>
+<td>Subramanian S.</td>
+<td>Design of expeller for sealless centrifugal pumps</td>
+</tr>
+<tr>
+<td>Sriram K.V.</td>
+<td>Raghavan N.R.S. </td>
+<td>Stochastic petri net approach for analysis and design of multi product supply chains</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2001</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisor(s)</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Sudeep Prabhakar Ingole</td>
+<td>Seshan S., M.E.</td>
+<td>Study on the plaster of paris mould castings</td>
+</tr>
+<tr>
+<td>Amit B. Nimje</td>
+<td>Kishore</td>
+<td>Effect of alloying additions, casting methods and heat treatment on the wear, erosion and impact properties of white cast irons</td>
+</tr>
+<tr>
+<td>Patil Dipak Dumaji</td>
+<td>Lahiri A.K. </td>
+<td>Modelling of roll gap profile in hot strip mill using fem</td>
+</tr>
+<tr>
+<td>Madhav Goswami</td>
+<td> Dwarakadasa E.S. </td>
+<td>Study of new heat treatment procedure on 7010 aeronatutical grade aluminium alloy</td>
+</tr>
+<tr>
+<td>Ashis Chowdhury</td>
+<td>Vikram Jayaram</td>
+<td>Mathematical modelling of the mean flow stress of C-Mn steels during rolling and the prediction of rolling force</td>
+</tr>
+<tr>
+<td>Jitesh Gopinath</td>
+<td>Ranganathan S.</td>
+<td>Laser surface hardening of EN 8, EN 19 and EN 31 steels</td>
+</tr>
+<tr>
+<td>Budida Apparao</td>
+<td> Raghavan N.R.S., M.S.</td>
+<td>Integrated inventory and distribution management in a dynamic and stochastic setting</td>
+</tr>
+<tr>
+<td>Biju S.</td>
+<td>Satish Vasu Kailas & Pradip Dutta, M.E.</td>
+<td>Friction stir welding</td>
+</tr>
+<tr>
+<td>Vimalahassan A.</td>
+<td>(Kishore)</td>
+<td>Study of mechanical behaviour of kevlar/glass hybrid composites</td>
+</tr>
+<tr>
+<td>Suresh Kumar K.</td>
+<td>Chattopadhyay K. & Pradip Dutta, M.E.</td>
+<td>MIG welding of copper with mild steel filler material</td>
+</tr>
+</tbody>
+</table>
+<br>
+<b>2000</b>
+<br>
+<table>
+<tbody>
+<tr>
+<th>Student</th>
+<th>Advisor(s)</th>
+<th>Thesis title</th>
+</tr>
+<tr>
+<td>Anirban Majumdar</td>
+<td>Dwarakadasa E.S.</td>
+<td>Fatigue crack growth and fracture toughness of 7010 extrusions</td>
+</tr>
+<tr>
+<td>Bhanu Prasad E.</td>
+<td>Srinivasan M.N., M.E.</td>
+<td>Quality of near net process castings-hardness</td>
+</tr>
+<tr>
+<td>Narasimha Reddy D.</td>
+<td>Seshan S.& S.V. Kailas, M.E.)</td>
+<td>Modelling liquid phase sintering of tungsten carbide-cobalt</td>
+</tr>
+<tr>
+<td> Hemambar C.H.</td>
+<td>Raman K.S. & Sastry D.H.</td>
+<td>Low cost investment casting</td>
+</tr>
+<tr>
+<td>Anupam Panwar</td>
+<td>Vikram Jayaram</td>
+<td>Combustion synthesis and consolidation of 3mol% YSZ</td>
+</tr>
+<tr>
+<td>Subramanian S.</td>
+<td>Raman K.S.</td>
+<td>Experimental, analytical and numerical investigation of the effect of thickness ratio on the residual stress of kover/copper braze joint</td>
+</tr>
+</tbody>
+</table>
+<br>
 ## B.E.
 ## D.I.I.Sc.
