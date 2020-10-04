@@ -15,20 +15,20 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Aman Kabra</td><td>Dipankar Banerjee & Vikram Jayaram</td><td></td></tr>
-<tr><td>Apoorva Singh</td><td>Praveen C Ramamurthy</td><td></td></tr>
-<tr><td>Ayush Badaya</td><td>Govind S Gupta</td><td></td></tr>
-<tr><td>Divya Nalajala</td><td>Abhik N Choudhury</td><td></td></tr>
-<tr><td>Dova Kalyan</td><td>Surendra Kumar Makineni </td><td></td></tr>
-<tr><td>Mohammed Hadhi P. P.</td><td>Subho Dasgupta</td><td></td></tr>
-<tr><td>Naveen Negi</td><td>Rajeev Ranjan</td><td></td></tr>
-<tr><td>Parasuram S.</td><td>Suryasarathi Bose & Subodh Kumar</td><td></td></tr>
-<tr><td>Reshma Devi P.</td><td>Sai Gautam Gopalakrishnan</td><td></td></tr>
-<tr><td>Rishaba Soni</td><td>Kaushik Chatterjee</td><td></td></tr>
-<tr><td>Shashwat Kumar Mishra</td><td>Praveen Kumar</td><td></td></tr>
-<tr><td>Suman Sadhu</td><td>Aloke Paul</td><td></td></tr>
-<tr><td>Sumit Katiyar</td><td>Vikram Jayaram</td><td></td></tr>
-<tr><td>Sunando Banerjee</td><td>Chandan Srivastava</td><td></td></tr>
+<tr><td>Aman Kabra</td><td>Dipankar Banerjee & Vikram Jayaram</td><td>amankabra</td></tr>
+<tr><td>Apoorva Singh</td><td>Praveen C Ramamurthy</td><td>apoorvasingh</td></tr>
+<tr><td>Ayush Badaya</td><td>Govind S Gupta</td><td>ayushbadaya</td></tr>
+<tr><td>Divya Nalajala</td><td>Abhik N Choudhury</td><td>divyan</td></tr>
+<tr><td>Dova Kalyan</td><td>Surendra Kumar Makineni </td><td>kalyand</td></tr>
+<tr><td>Mohammed Hadhi P.P.</td><td>Subho Dasgupta</td><td>mohammedhp</td></tr>
+<tr><td>Naveen Negi</td><td>Rajeev Ranjan</td><td>negin</td></tr>
+<tr><td>Parasuram S.</td><td>Suryasarathi Bose & Subodh Kumar</td><td>parasurams</td></tr>
+<tr><td>Reshma Devi P.</td><td>Sai Gautam Gopalakrishnan</td><td>reshmadevi</td></tr>
+<tr><td>Rishaba Soni</td><td>Kaushik Chatterjee</td><td>rishabhsoni</td></tr>
+<tr><td>Shashwat Kumar Mishra</td><td>Praveen Kumar</td><td>shashwatk</td></tr>
+<tr><td>Suman Sadhu</td><td>Aloke Paul</td><td>sumansadhu</td></tr>
+<tr><td>Sumit Katiyar</td><td>Vikram Jayaram</td><td>sumitkatiyar</td></tr>
+<tr><td>Sunando Banerjee</td><td>Chandan Srivastava</td><td>sunandob</td></tr>
 <tr><td>Rishi Raj</td><td>Subodh Kumar</td><td></td></tr>
 <tr><td>Bhure Swapnil Shadanan</td><td>Abhik N. Choudhury</td><td>swapnilbhure</td></tr>
 <tr><td>Abhijeet Anand</td><td>Subodh Kumar</td><td>abhijeetanan</td></tr>
