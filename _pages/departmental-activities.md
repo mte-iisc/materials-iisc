@@ -12,5 +12,7 @@ Lines on significance of event.
 Who normally participates?
 Link to a gallery from previous year/years.
 
+Symposium <a href="https://materials.iisc.ac.in/sympo/">33<sup>rd</sup> Sympo-2020</a> | <a href="https://sites.google.com/view/sympo2019-materials-iisc-in/">32<sup>nd</sup> Sympo-2019</a> | <a href="/summary-of-the-31st-annual-symposium/">31<sup>st</sup> Sympo-2018</a> | <a href="https://drive.google.com/drive/folders/0ByDfGPBTDTJWQnkxajk3VUhucWs">30<sup>th</sup> Sympo-2017</a>
+
 ## Event 2
 
