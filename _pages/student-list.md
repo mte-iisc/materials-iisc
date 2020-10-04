@@ -182,53 +182,53 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td> Abhipshit Kumar</td><td></td><td></td></tr>
-<tr><td> Ajay Kumar Chaurasia</td><td></td><td></td></tr>
-<tr><td> Amerjit</td><td></td><td></td></tr>
+<tr><td> Abhipshit Kumar</td><td></td><td>abhipshitk</td></tr>
+<tr><td> Ajay Kumar Chaurasia</td><td></td><td>ajaykc</td></tr>
+<tr><td> Amerjit</td><td></td><td>amerjit1</td></tr>
 <tr><td> Anant Kunar</td><td></td><td></td></tr>
-<tr><td> Anvesh Nathani</td><td></td><td></td></tr>
-<tr><td> Arjun Kumar</td><td></td><td></td></tr>
-<tr><td> Arkala Anuvrath</td><td></td><td></td></tr>
+<tr><td> Anvesh Nathani</td><td></td><td>anveshn</td></tr>
+<tr><td> Arjun Kumar</td><td></td><td>arjunkumar</td></tr>
+<tr><td> Arkala Anuvrath</td><td></td><td>arkalaa</td></tr>
 <tr><td> Arnob Samui</td><td></td><td></td></tr>
 <tr><td> Chandan Rao K</td><td></td><td></td></tr>
-<tr><td> Cheathan G</td><td></td><td></td></tr>
-<tr><td> Deepika Kumari Sahu</td><td></td><td></td></tr>
-<tr><td> Dineshkumar M</td><td></td><td></td></tr>
-<tr><td> Favas K</td><td></td><td></td></tr>
+<tr><td> Cheathan G</td><td></td><td>cheathang</td></tr>
+<tr><td> Deepika Kumari Sahu</td><td></td><td>deepikaks</td></tr>
+<tr><td> Dineshkumar M</td><td></td><td>dineshkumarm</td></tr>
+<tr><td> Favas K</td><td></td><td>favask</td></tr>
 <tr><td> Gangavarapu Shashidhar</td><td></td><td></td></tr>
-<tr><td> Hariom Prakash</td><td></td><td></td></tr>
-<tr><td> Harshavardhan Sanjay Patil</td><td></td><td></td></tr>
+<tr><td> Hariom Prakash</td><td></td><td>hariomp</td></tr>
+<tr><td> Harshavardhan Sanjay Patil</td><td></td><td>spharshavard</td></tr>
 <tr><td> Himanshu Kumar</td><td></td><td></td></tr>
 <tr><td> Ingale tirthesh Ravindra</td><td></td><td></td></tr>
-<tr><td> Jayant Kumar</td><td></td><td></td></tr>
-<tr><td> Jyoti Meena</td><td></td><td></td></tr>
-<tr><td> Kiruthika A</td><td></td><td></td></tr>
-<tr><td> Kolipyak Sravan</td><td></td><td></td></tr>
-<tr><td> Kolluru Naveen</td><td></td><td></td></tr>
-<tr><td> Kunapuli Susmitha</td><td></td><td></td></tr>
-<tr><td> Laxmidhar Majhi</td><td></td><td></td></tr>
-<tr><td> Navneet Choudhary</td><td></td><td></td></tr>
-<tr><td> Pagadala Vikram Reddy</td><td></td><td></td></tr>
+<tr><td> Jayant Kumar</td><td></td><td>jayantk</td></tr>
+<tr><td> Jyoti Meena</td><td></td><td>jyotimeena</td></tr>
+<tr><td> Kiruthika A</td><td></td><td>kiruthikaa</td></tr>
+<tr><td> Kolipyak Sravan</td><td></td><td>sravanreddy</td></tr>
+<tr><td> Kolluru Naveen</td><td></td><td>naveenkollur</td></tr>
+<tr><td> Kunapuli Susmitha</td><td></td><td>kunapulis</td></tr>
+<tr><td> Laxmidhar Majhi</td><td></td><td>laxmidharm</td></tr>
+<tr><td> Navneet Choudhary</td><td></td><td>navneetc</td></tr>
+<tr><td> Pagadala Vikram Reddy</td><td></td><td>vikramp</td></tr>
 <tr><td> Palagiri Uday Kumar</td><td></td><td></td></tr>
-<tr><td> Pankaj Kumar</td><td></td><td></td></tr>
-<tr><td> Prashant K</td><td></td><td></td></tr>
-<tr><td> Prasoon Pathak</td><td></td><td></td></tr>
-<tr><td> Rashmi Ranjan Sethi</td><td></td><td></td></tr>
-<tr><td> Rohini Haribhau Bhoyar</td><td></td><td></td></tr>
-<tr><td> Saaqib Raahi</td><td></td><td></td></tr>
-<tr><td> Sagar Kulkarni</td><td></td><td></td></tr>
-<tr><td> Sanyam Nitin Totade</td><td></td><td></td></tr>
-<tr><td> Satyam Kumar</td><td></td><td></td></tr>
-<tr><td> Saurabh Kumar</td><td></td><td></td></tr>
-<tr><td> Sradha suman Khuntia</td><td></td><td></td></tr>
-<tr><td> Sreya S</td><td></td><td></td></tr>
+<tr><td> Pankaj Kumar</td><td></td><td>kpankaj</td></tr>
+<tr><td> Prashant K</td><td></td><td>prashantk12</td></tr>
+<tr><td> Prasoon Pathak</td><td></td><td>prasoonp</td></tr>
+<tr><td> Rashmi Ranjan Sethi</td><td></td><td>rashmiranjan</td></tr>
+<tr><td> Rohini Haribhau Bhoyar</td><td></td><td>rohinih</td></tr>
+<tr><td> Saaqib Raahi</td><td></td><td>saaqibraahi</td></tr>
+<tr><td> Sagar Kulkarni</td><td></td><td>sagarkulkarn</td></tr>
+<tr><td> Sanyam Nitin Totade</td><td></td><td>sanyamnitin</td></tr>
+<tr><td> Satyam Kumar</td><td></td><td>satyamkumar</td></tr>
+<tr><td> Saurabh Kumar</td><td></td><td>saurabhkuma2</td></tr>
+<tr><td> Sradha Suman Khuntia</td><td></td><td>sradhasuman</td></tr>
+<tr><td> Sreya S</td><td></td><td>sreyas</td></tr>
 <tr><td> Sridivya Chintha</td><td></td><td></td></tr>
-<tr><td> Sunil Bhagtani</td><td></td><td></td></tr>
-<tr><td> Sushil Kumar ram</td><td></td><td></td></tr>
-<tr><td> Tanneer Niranjan </td><td></td><td></td></tr>
-<tr><td> Tharun Kumar</td><td></td><td></td></tr>
-<tr><td> Vishal Kumar rana</td><td></td><td></td></tr>
-<tr><td> Yalala Akshith</td><td></td><td></td></tr>
+<tr><td> Sunil Bhagtani</td><td></td><td>sunilb</td></tr>
+<tr><td> Sushil Kumar Ram</td><td></td><td>sushilkr</td></tr>
+<tr><td> Tanneer Niranjan </td><td></td><td>niranjant</td></tr>
+<tr><td> Tharun Kumar</td><td></td><td>tharunkumar</td></tr>
+<tr><td> Vishal Kumar Rana</td><td></td><td>vishalkr</td></tr>
+<tr><td> Yalala Akshith</td><td></td><td>akshithy</td></tr>
 </tbody>
 </table>
 
