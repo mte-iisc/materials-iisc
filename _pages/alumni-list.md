@@ -9,7 +9,7 @@ toc_icon: calendar-alt
 #classes: wide
 ---
 List of student alumni on this page is sorted in reverse chronology and according to the program in which they were graduated.
-## Ph.D.
+## Ph. D.
 ### 2019-2011
 <br>
 <b>2019</b>
@@ -234,7 +234,7 @@ Aloke Paul &#038; Praveen Kumar</td>
 </tr>
 <tr>
 <td>Himalay Basumatary (ERP)</td>
-<td>Rajeev Ranjan &amp; J. Arout Chelvane (Orgn</td>
+<td>Rajeev Ranjan &amp; J. Arout Chelvane (DMRL)</td>
 <td>Structure, microstructure and magnetic properties of Fe-Ga and R-Fe based magnetostrictive thin films</td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ Aloke Paul &#038; Praveen Kumar</td>
 <tr>
 <td>Adrash K. Hegde</td>
 <td>Vikram Jayaram</td>
-<td>Dry sliding wear of saffil short fibre – reinforced AZ91D Mg –alloy composite</td>
+<td>Dry sliding wear of saffil short fibre-reinforced AZ91D Mg-alloy composite</td>
 </tr>
 <tr>
 <td>V. Ezhilselvi</td>
@@ -263,7 +263,7 @@ Aloke Paul &#038; Praveen Kumar</td>
 <td>Mechanical and corrosion properties of selective laser melted alloys</td>
 </tr>
 <tr>
-<td>Sumanth G</td>
+<td>Sumanth G.</td>
 <td>Vikram Jayaram</td>
 <td>Effect of humidity and temperature on wear of TiN and TiAIN coatings </td>
 </tr>
@@ -286,12 +286,12 @@ Aloke Paul &#038; Praveen Kumar</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Lalitha K. V</td>
+<td>Lalitha K. V.</td>
 <td>Rajeev Ranjan</td>
-<td>Correlattion between structure, microstructure and enhanced piezoresponse around the morohotropic phase boundary of bismuth scandate – lead titanate piezoceramic</td>
+<td>Correlation between structure, microstructure and enhanced piezoresponse around the morohotropic phase boundary of bismuth scandate-lead titanate piezoceramic</td>
 </tr>
 <tr>
-<td>Sreeranjini P</td>
+<td>Sreeranjini P.</td>
 <td>Ashok M. Raichur</td>
 <td>Hyaluronic acid based biodegradable polyelectrolyte nanocapsules and modified protein nanoparticles for targeted delivery anticancer agents</td>
 </tr>
@@ -316,27 +316,27 @@ Aloke Paul &#038; Praveen Kumar</td>
 <td>Bioremediation of chromium: mechanisms and biosensing applications</td>
 </tr>
 <tr>
-<td>Surendra Kumar M</td>
+<td>Surendra Kumar M.</td>
 <td>Kamanio Chattopadhyay &#038; Subodh Kumar</td>
 <td>In improvement of high temperature strength of Al and Co alloy by L12 type coherent precipitates</td>
 </tr>
 <tr>
-<td>Dhanalakshmi P</td>
+<td>Dhanalakshmi P.</td>
 <td>Kamanio Chattopadhyay &#038; Chandan Srivastava</td>
 <td>Synthesis and phase transformation studies of Al45Mn55 ferromagnetic Heusler alloy</td>
 </tr>
 <tr>
-<td>P. Padaikathan (SR</td>
+<td>P. Padaikathan (SR)</td>
 <td>Kamanio Chattopadhyay</td>
 <td>Development of high temperature aluminium alloys through microstructure control</td>
 </tr>
 <tr>
 <td>R. Veerababu (ERP)</td>
 <td>Karthikeyan S. &#038; R. Balamurali</td>
-<td>Microstructural studies on high Cr-Mo secondary hardening ultra- high strength steels</td>
+<td>Microstructural studies on high Cr-Mo secondary hardening ultra-high strength steels</td>
 </tr>
 <tr>
-<td>Kothai V</td>
+<td>Kothai V.</td>
 <td>Rajeev Ranjan</td>
 <td>On  the  factors  influencing the stability of phases in the multiferroic system BiFeO<sub>3</sub>-PbTiO<sub>3</sub></td>
 </tr>
@@ -351,9 +351,9 @@ Aloke Paul &#038; Praveen Kumar</td>
 <td>Moisture barrier polymer nanocomposites for organic device encapsulation</td>
 </tr>
 <tr>
-<td>Shanoob B</td>
+<td>Shanoob B.</td>
 <td>Dipankar Banerjee</td>
-<td>Effect  of  thermomechanical processing on microstructure and microtexture evolution in Titanium alloys</td>
+<td>Effect of thermomechanical processing on microstructure and microtexture evolution in titanium alloys</td>
 </tr>
 <tr>
 <td>Amit Sharma</td>
@@ -361,9 +361,9 @@ Aloke Paul &#038; Praveen Kumar</td>
 <td>Evolution of crystallographic texture and microstructure in sputter deposited NiMnGa thin films and their influence on magnetic properties</td>
 </tr>
 <tr>
-<td>Krishna Yaddanapudi G. R</td>
+<td>Krishna Yaddanapudi G. R.</td>
 <td>Dipankar Banerjee</td>
-<td>Effect of process parameters on the growth of N-polar GaNon sapphire by MOCVD</td>
+<td>Effect of process parameters on the growth of N-polar GaN on sapphire by MOCVD</td>
 </tr>
 <tr>
 <td>Priti Xavier</td>
@@ -371,9 +371,9 @@ Aloke Paul &#038; Praveen Kumar</td>
 <td>Mapping the transient morphologies and demixing behavior of polystyrene/poly(vinyl methyl ether) blend in the presence of multiwall carbon nanotubes</td>
 </tr>
 <tr>
-<td>Vimalnath S</td>
+<td>Vimalnath S.</td>
 <td>Subramanian S.</td>
-<td>Bioremediation of lead from aqueous solutions using pseudomonas species- mechanisms &#038; biosensor</td>
+<td>Bioremediation of lead from aqueous solutions using pseudomonas species-mechanisms &#038; biosensor</td>
 </tr>
 <tr>
 <td>Sangeeta Santra</td>
@@ -381,17 +381,17 @@ Aloke Paul &#038; Praveen Kumar</td>
 <td>Diffusion-controlled growth of A15-based Nb<sub>3</sub>Sn </td>
 </tr>
 <tr>
-<td>K. S. Vinay (M. Sc</td>
+<td>K. S. Vinay (M. Sc.)</td>
 <td>Dipankar Banerjee</td>
 <td>Micro structural evolution of directionally solidified Ni-Al-Re/Ru alloys</td>
 </tr>
 <tr>
-<td>Sowmya M. V</td>
+<td>Sowmya M. V.</td>
 <td>Subramanian S.</td>
 <td>Studies on bioremediation of Cr (VI) using indigenous bacterials strains isolated from chromite mine </td>
 </tr>
 <tr>
-<td>Arun D</td>
+<td>Arun D.</td>
 <td>Praveen C. Ramamurthy</td>
 <td>Interface engineering and evaluation of device performance in organic photovoltaics</td>
 </tr>
@@ -401,7 +401,7 @@ Aloke Paul &#038; Praveen Kumar</td>
 <td>Morphological architecturing of electroactive materials inorganic electronics </td>
 </tr>
 <tr>
-<td>Sachin Kumar B</td>
+<td>Sachin Kumar B.</td>
 <td>Kaushik Chatterjee</td>
 <td>Engineering bioactive and multifunctional graphene polymer composites for bone tissue regeneration </td>
 </tr>
@@ -418,8 +418,7 @@ Aloke Paul &#038; Praveen Kumar</td>
 <tr>
 <td>George Rapheal</td>
 <td>Subodh Kumar</td>
-<td>
-Corrosion and wear behavior of plasma electrolytic oxidation and laser surface alloy coatings</td>
+<td>Corrosion and wear behavior of plasma electrolytic oxidation and laser surface alloy coatings</td>
 </tr>
 </tbody>
 </table>
@@ -435,56 +434,55 @@ Corrosion and wear behavior of plasma electrolytic oxidation and laser surface a
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Chadra Sekhar Tiwar</td>
-<td>Chattopadhyay K.</td>
+<td>Chandra Sekhar Tiwary</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstructural, Mechanical and Oxidation behavior of Ni-Al-Zr Ternary Alloy</td>
 </tr>
 <tr>
 <td>R. Lakshmi Narayan</td>
-<td>Ramamurty U</td>
+<td>Ramamurty U.</td>
 <td>Fracture and deformation in bulk metallic glasses and composites</td>
 </tr>
 <tr>
 <td>Dulal Chandra Jana (ERP)</td>
-<td>Chattopadhyay K.. &#038; G. Sundarajan (ARC)</td>
+<td>Kamanio Chattopadhyay &#038; G. Sundarajan (ARC)</td>
 <td>Dense and porous Silicon Carbide Ceramics Processed through Aqueous gelcasting and Studies of Densification kinetics</td>
 </tr>
 <tr>
-<td>Soumya S Bhat</td>
-<td>Ramamurty U.&#038; Umesh V Waghmare</td>
+<td>Soumya S. Bhat</td>
+<td>Ramamurty U.&#038; Umesh V. Waghmare</td>
 <td>First-Principles Studies of Point Defects and phase transformations in materials</td>
 </tr>
 <tr>
 <td>Midhun Ben Thomas</td>
-<td>Ashok M. Raichur&#038;  V. Nagaraja (MC</td>
+<td>Ashok M. Raichur&#038;  V. Nagaraja (MC)</td>
 <td>
 Therapeutic Applications of Biodegradable Chitosan Based Polyelectrolyte Nanocapsules</td>
 </tr>
 <tr>
 <td>Rama Krushna Sabat</td>
 <td>Satyam Suwas</td>
-<td>Evolution of microstructure and texture during severe plastic deformation of a Magnesium – Cerium alloy</td>
+<td>Evolution of microstructure and texture during severe plastic deformation of a Magnesium-Cerium alloy</td>
 </tr>
 <tr>
 <td>Rajesh Korla</td>
-<td>Chokshi A.H.</td>
+<td>Chokshi A. H.</td>
 <td>Grain Boundary Sliding in Bicrystals: Experiments and Atomistic Simulations </td>
 </tr>
 <tr>
 <td>R. Rajasegaran</td>
-<td>Ashok M Raichur</td>
+<td>Ashok M. Raichur</td>
 <td>Biodegradable Polyelectrolyte Multilayered Nanocapsules as Carrier for Liver Targeted Gene Delivery in ice and Magnetic Field Enhanced Anticancer Drug Delivery against Drug Resistant Cancers </td>
 </tr>
 <tr>
-<td>SuklaMondol</td>
-<td>Chattopahdyay K&#038; (Retired)  Subodh Kumar</td>
+<td>Sukla Mondol</td>
+<td>Kamanio Chattopahdyay &#038; Subodh Kumar</td>
 <td>Improving high temperature strength of 2219 Al alloy by minor alloying additions</td>
 </tr>
 <tr>
 <td>Olu Emmanuel Femi</td>
-<td>Chattopahdyay K&#038; (Retired) Ravishankar N</td>
-<td>
-Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl-Sb-Te System</td>
+<td>Kamanio Chattopahdyay &#038; Ravishankar N.</td>
+<td>Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl-Sb-Te System</td>
 </tr>
 </tbody>
 </table>
@@ -500,43 +498,43 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Praveena M</td>
+<td>Praveena M.</td>
 <td>Vikram Jayaram</td>
 <td>Design, Fabrication and Application of In situ Total Internal Reflection (TIR) Raman Tribometer  For the Chemical analysis of Tribological Systems</td>
 </tr>
 <tr>
-<td>Ranjith K</td>
-<td>Praveen C Ramamurthy</td>
+<td>Ranjith K.</td>
+<td>Praveen C. Ramamurthy</td>
 <td>Design and Synthesis of Band GAP Engineered Conjugated Molecules for Organic electronics</td>
 </tr>
 <tr>
 <td>Govind</td>
-<td>Ramamurty U.&#038; D Sivakumar (VSSC</td>
+<td>Ramamurty U. &#038; D. Sivakumar (VSSC)</td>
 <td>Effect of Li Addition on the Plasticity of AZ31 Mg-alloy</td>
 </tr>
 <tr>
 <td>Rohini Garg</td>
 <td>Rajeev Ranjan</td>
-<td>Structural, ferroelectric, piezoelectric andphase transition studies of lead free (Na0.5BiO.5)TiO3 based ceramics</td>
+<td>Structural, ferroelectric, piezoelectric and phase transition studies of lead free Na<sub>0.5</sub>Bi<sub>O.5</sub>TiO<sub>3</sub> based ceramics</td>
 </tr>
 <tr>
-<td>ShyamKanta Sinha</td>
-<td>Pofr. Chattopadhyay K.. , Chandan Srivastava &#038;  S. Sampath, IPC</td>
+<td>Shyam Kanta Sinha</td>
+<td>Kamanio Chattopadhyay, Chandan Srivastava &#038;  S. Sampath (IPC)</td>
 <td>Synthesis and TransformatinofAUCu Intermetallic Nanoparticles</td>
 </tr>
 <tr>
 <td>Satyajit Gupta</td>
-<td>Praveen C Ramamurthy &#038;  M. Giridhar,CH</td>
+<td>Praveen C. Ramamurthy &#038;  M. Giridhar (CH)</td>
 <td>Development of Hybrid Organic/Inorganic composites as a Barrier Material for organic  Electronics</td>
 </tr>
 <tr>
 <td>Manish Patel</td>
-<td>Vikram Jayaram &#038;  V.V. Bhanu Prasad, DMRL</td>
+<td>Vikram Jayaram &#038;  V. V. Bhanu Prasad (DMRL)</td>
 <td>Densification, Oxidation, Mechanical and Thermal Behaviour of Zirconium  Diboride (ZrB2) and Zirconium Diboride-Silicon Carbide (ZrB2-SiC) Composites</td>
 </tr>
 <tr>
 <td>Hindol Bandyopadhyay</td>
-<td>S. Karthikeyan </td>
+<td>Karthikeyan S.</td>
 <td>Effect of Processing and test variables on the deformation characteristics of tantalum </td>
 </tr>
 <tr>
@@ -545,48 +543,48 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 <td>Microstructural Developments and Mechanical Properties of Electroless Ni-B Coating</td>
 </tr>
 <tr>
-<td>Nagamani Jaya B</td>
+<td>Nagamani Jaya B.</td>
 <td>Vikram Jayaram</td>
 <td>Micro-scale fracture testing of graded (Pt,Ni)Al bond coats</td>
 </tr>
 <tr>
 <td>Rajendra Kurapati</td>
-<td>Ashok M Raichur</td>
+<td>Ashok M. Raichur</td>
 <td>Investigation of Graphene Oxide based Multilayered Capsules Films for Drug Delivery and Antimicrobial Applications </td>
 </tr>
 <tr>
-<td>Sudha J</td>
+<td>Sudha J.</td>
 <td>Subodh Kumar</td>
 <td>Effect of heat treatment and modification on flow and fracture behavior of a newly developed Al-Si based cast alloy </td>
 </tr>
 <tr>
 <td>Pradipta Ghosh</td>
-<td>Chokshi A.H.</td>
+<td>Chokshi A. H.</td>
 <td>Length Scale effects in deformation of polycrystalline nickel </td>
 </tr>
 <tr>
 <td>Soumitra Roy</td>
 <td>Aloke Paul</td>
-<td>Interdiffusion Study In group IVB, VB and VIB refractory metal-silicon systems</td>
+<td>Interdiffusion study in group IVB, VB and VIB refractory metal-silicon systems</td>
 </tr>
 <tr>
 <td>Gaurav Singh</td>
 <td>Ramamurty U.</td>
-<td>Some Mechanical Properties of Ti-6AI-4V-B alloys</td>
+<td>Some Mechanical Properties of Ti-6Al-4V-B alloys</td>
 </tr>
 <tr>
-<td>Krishna R</td>
-<td>Ashok M Raichur</td>
+<td>Krishna R.</td>
+<td>Ashok M. Raichur</td>
 <td>Design &#038; Fabrication of Bio-responsive Drug Carriers Based on Protamine &#038; Chondroitin Sulphate Biopolymers</td>
 </tr>
 <tr>
-<td>R.K. SidharadaDevarapalli</td>
-<td>Chattopadhyay K.</td>
+<td>R. K. Sidharada Devarapalli</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis and Characterization of Intermetallic Coatings by Laser Cladding and Novel Ball Milling Approach </td>
 </tr>
 <tr>
 <td>Shailesh Kumar</td>
-<td>Chattopadhyay K.. &#038;  Pradip Dutta, ME</td>
+<td>Kamanio Chattopadhyay &#038; Pradip Dutta (ME)</td>
 <td>Experimental and Numerical Investigation on Friction Welding of Thixocast A356 Aluminium alloy</td>
 </tr>
 <tr>
@@ -596,18 +594,18 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 </tr>
 <tr>
 <td>Kirtiman Deo Malviya</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis and study of microstructure evolution in nanoparticles of immiscible alloys by laser ablation under liquid medium </td>
 </tr>
 <tr>
 <td>Alex Joseph</td>
-<td>Subramanian S.. &#038;  Praveen C Ramamurthy</td>
+<td>Subramanian S. &#038; Praveen C. Ramamurthy</td>
 <td>Synthesis and Characterization of Functionalized Electroactive Polymers for Metal ion Sensing </td>
 </tr>
 <tr>
-<td>Madhavan R</td>
+<td>Madhavan R.</td>
 <td>Satyam Suwas</td>
-<td>Role of  stacking fault energy on texture evolution in micro and nano-crystalline Nickel –Cobalt alloys</td>
+<td>Role of stacking fault energy on texture evolution in micro and nano-crystalline Nickel-Cobalt alloys</td>
 </tr>
 </tbody>
 </table>
@@ -623,43 +621,43 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>PrasathBabu R</td>
-<td>Karthikeyan S. </td>
-<td>Microstructural stability of fully lamellar and Duplex γ TiAl alloys during creep </td>
+<td>Prasath Babu R.</td>
+<td>Karthikeyan S.</td>
+<td>Microstructural stability of fully lamellar and duplex &gamma; TiAl alloys during creep</td>
 </tr>
 <tr>
 <td>Nisha Verma</td>
 <td>Vikram Jayaram</td>
-<td>Mechanism and modeling of contact damage in ZrN-Zr and TiAIN-TiN multilayer hard coatings</td>
+<td>Mechanism and modeling of contact damage in ZrN-Zr and TiAlN-TiN multilayer hard coatings</td>
 </tr>
 <tr>
 <td>Dibyendu Chakravarty (ERP)</td>
-<td>Chokshi A.H.&#038;  Sundarajan A., ARCI</td>
+<td>Chokshi A. H.&#038;  Sundarajan A. (ARCI)</td>
 <td>Densification Mechanisms for Spark Plasma Sintering in Alumina and alumina Based systems</td>
 </tr>
 <tr>
-<td>MithunPalit (ERP)</td>
-<td>Chattopadhyay K.. &#038;  S. Pandian, DMRL</td>
+<td>Mithun Palit (ERP)</td>
+<td>Kamanio Chattopadhyay &#038;  S. Pandian (DMRL)</td>
 <td>An investigation on the effect of structural and Microstructure Attributes on  magnetostriction of Tb-Dy-Fe and Fe-Ga alloys</td>
 </tr>
 <tr>
-<td>Md. ZafirAlam (ERP)</td>
-<td>Vikram Jayaram &#038; Dipak K.Das (DRDO)   Samir V (DRDO</td>
-<td>Tensile Behavior Of Free-Standing Pt-Aluminide(PtA) bond Coats</td>
+<td>Md. Zafir Alam (ERP)</td>
+<td>Vikram Jayaram, Dipak K. Das (DRDO) &amp; Samir V. (DRDO)</td>
+<td>Tensile behavior Of free-standing Pt-Aluminide (PtAl) bond coats</td>
 </tr>
 <tr>
 <td>Vyasa Vikasa Shastry</td>
 <td>Ramamurty U.</td>
-<td>Some Processing and Mechanical Behaviour RelatedIssues in Ti-Ni based Shape Memory Alloys</td>
+<td>Some processing and mechanical behaviour related issues in Ti-Ni based shape memory alloys</td>
 </tr>
 <tr>
 <td>Chandan Mondal</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Evolution of Texture and its Correlation with Microstructure and Mechanical Property Anisotropy in AA7010 Aluminum Alloy</td>
 </tr>
 <tr>
-<td>Swathi S.K.</td>
-<td>Praveen C Ramamurthy</td>
+<td>Swathi S. K.</td>
+<td>Praveen C. Ramamurthy</td>
 <td>Thiophene Derivative Photovoltaics: Device Frabrication, Optimization and Study of Charge Transport Characteristics</td>
 </tr>
 </tbody>
@@ -677,47 +675,46 @@ Microstructure Design and Interfacial Effects on Thermoelectric Properties of Bl
 </tr>
 <tr>
 <td>Anandhakumar S.</td>
-<td>Ashok M Raichur</td>
+<td>Ashok M. Raichur</td>
 <td>Intelligent Microcontainers: Fabrication, Characterization and Tunable Release Properties for Drug Delivery</td>
 </tr>
 <tr>
 <td>Shibayan Roy</td>
 <td>Satyam Suwas</td>
-<td>Role of Boron on the Evolution ofMicro-structure and Texture in Ti-6AL-4V-O. 1B Alloy</td>
+<td>Role of boron on the evolution of micro-structure and texture in Ti-6AL-4V-O.1B alloy</td>
 </tr>
 <tr>
-<td>Anil Chandra A.R</td>
-<td>Surappa M.K., Ashok M. Raichur</td>
+<td>Anil Chandra A. R.</td>
+<td>Surappa M. K. &amp; Ashok M. Raichur</td>
 <td>Microstructure and mechanical Properties of Consolidated Mgnesium Chips </td>
 </tr>
 <tr>
-<td>Sivaprahasam D.(ERP)</td>
-<td>
-Chattopadhyay K.., Sundararajan R. (Orgn)</td>
-<td>Studies on synthesizing Fe and Fe-Cu nanopowders byInvitational gas condensation process and theirConsolidation characteristics </td>
+<td>Sivaprahasam D. (ERP)</td>
+<td>Kamanio Chattopadhyay &amp; Sundararajan R. (Orgn)</td>
+<td>Studies on synthesizing Fe and Fe-Cu nanopowders by invitational gas condensation process and their consolidation characteristics </td>
 </tr>
 <tr>
 <td>Vasanthakumar B.</td>
 <td>Subramanian S.</td>
-<td>Studies on the Isolation and Characterisation of Bioreagents for the Flotation of Sphalerite fromGalena- sphalerite System</td>
+<td>Studies on the isolation and characterisation of bioreagents for the flotation of sphalerite from galena-sphalerite system</td>
 </tr>
 <tr>
-<td>ChanderShekhar</td>
-<td>Jacob K.T.</td>
+<td>Chander Shekhar</td>
+<td>Jacob K. T.</td>
 <td>Studies on Thermodynamics and Phase Equilibria of Selected Oxide Systems </td>
 </tr>
 <tr>
 <td>Sanjay Kashyap</td>
-<td>Chattopadhyay K.</td>
-<td>Stuides on Bulk and Multilayer Composites ofNb-Si Alloys</td>
+<td>Kamanio Chattopadhyay</td>
+<td>Stuides on bulk and multilayer composites of Nb-Si alloys</td>
 </tr>
 <tr>
 <td>Ashish Jain (ERP)</td>
-<td> Gupta G.S. &#038; Anthonysamy S. (IGCAR)</td>
-<td>Characterization of elemental boron synthesized byElectrolytic method</td>
+<td> Govind S. Gupta &#038; Anthonysamy S. (IGCAR)</td>
+<td>Characterization of elemental boron synthesized by electrolytic method</td>
 </tr>
 <tr>
-<td>Suresh K.S</td>
+<td>Suresh K. S.</td>
 <td>Satyam Suwas</td>
 <td>Evolution of Texture and Microstructure in Some NiTi Based Alloys and Their Impact on Shape Memory Behavior</td>
 </tr>
@@ -735,17 +732,17 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Rames Narayanan P. (ERP)</td>
+<td>Ramesh Narayanan P. (ERP)</td>
 <td>Vikram Jayaram</td>
 <td>A Study of Crystallographic Texture, Residual Stresses and Mechanical Property Anisotropy in aluminium Alloys for Space Applications </td>
 </tr>
 <tr>
 <td>Sudarashan</td>
-<td>Surappa M.K. &#038;  Chokshi A.H.</td>
-<td>Magnesium Matrix – Nano Ceramic Composites by In situ Pyrolysis of Organic Precursors in a Liquid Melt </td>
+<td>Surappa M. K. &#038; Chokshi A. H.</td>
+<td>Magnesium Matrix-Nano Ceramic Composites by In situ Pyrolysis of Organic Precursors in a Liquid Melt </td>
 </tr>
 <tr>
-<td>R. Krishnan(ERP)</td>
+<td>R. Krishnan (ERP)</td>
 <td>Vikram Jayaram</td>
 <td>Investigations on the properties of TiN, NbN thin films and multilayers by Reactive pulsed laser deposition</td>
 </tr>
@@ -756,7 +753,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 </tr>
 <tr>
 <td>Rajdip Mukherjee</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Phase Field Modelling of Polycrystalline Materials with Surface</td>
 </tr>
 <tr>
@@ -765,12 +762,13 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <td>Interdiffusion Studies in Metal –Silicon Systems</td>
 </tr>
 <tr>
-<td>Divya V.D</td>
+<td>Divya V. D.</td>
 <td>Aloke Paul &#038; Ramamurty U.</td>
 <td>Diffusion studies on systems related to Nickel based syperalloys</td>
 </tr>
 </tbody>
 </table>
+
 ### 2010-2001
 <br>
 <b>2010</b>
@@ -784,7 +782,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 </tr>
 <tr>
 <td>Santonu Ghosh</td>
-<td>Chokshi A.H.</td>
+<td>Chokshi A. H.</td>
 <td>Grain boundary processes in high temperature densification and deformation of nanocrystalline Zirconia</td>
 </tr>
 <tr>
@@ -798,8 +796,8 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <td>Mechanical Behavior of B-Modified Ti-6A1-4V Alloys </td>
 </tr>
 <tr>
-<td>M J N V Prasad</td>
-<td>Chokshi A.H.</td>
+<td>M. J. N. V. Prasad</td>
+<td>Chokshi A. H.</td>
 <td>Microstructural Evolution and Superplasticity in Electrodeposited Nano-Nickel and Alloys </td>
 </tr>
 <tr>
@@ -837,7 +835,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <tr>
 <td>L. Rangaraj  (ERP)</td>
 <td>Vikram Jayaram</td>
-<td>Reactive Hot Pressing of ZrB2 – Based Ultra High Temperature  Ceramic Composites</td>
+<td>Reactive hot pressing of ZrB<sub>2</sub>-based ultra high temperature ceramic composites</td>
 </tr>
 <tr>
 <td>Ashok Kumar Mondal</td>
@@ -863,37 +861,37 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 </tr>
 <tr>
 <td>Pradeep Lancy Menezes</td>
-<td>Kishore and Satish V. Kailash (ME)</td>
-<td>Role of Surface Texture on Friction and Transfer Layer Formation – A study using pin-On-Plate Sliding Tester</td>
+<td>Kishore &amp; Satish V. Kailash (ME)</td>
+<td>Role of surface texture on friction and transfer layer formation: a study using pin-on-plate sliding tester</td>
 </tr>
 <tr>
-<td>Radhakrishna Paniker M.R</td>
-<td>Chokshi A.H.</td>
+<td>Radhakrishna Paniker M. R.</td>
+<td>Chokshi A. H.</td>
 <td>Superplastic deformation behaviour of AZ31 Magnesium alloy</td>
 </tr>
 <tr>
-<td>Murli P</td>
-<td>Ramamurty U. </td>
-<td>Multi- Scale approaches for Understanding Deformation and Fracture Mechanisms in Amorphous alloys</td>
+<td>Murli P.</td>
+<td>Ramamurty U.</td>
+<td>Multi-scale approaches for Understanding Deformation and Fracture Mechanisms in Amorphous alloys</td>
 </tr>
 <tr>
 <td>Udaya Bhat K.</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on Dissimilar Metal Welding </td>
 </tr>
 <tr>
 <td>Tripti Biswas</td>
 <td>Ranganathan S.</td>
-<td>Studies of Glass Formation in Al-La-Ni and Mg-TM –RE Alloys with a structure Mapping Approach</td>
+<td>Studies of glass formation in Al-La-Ni and Mg-TM-RE alloys with a structure mapping approach</td>
 </tr>
 <tr>
 <td>Saswata Bhattacharya</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Evolution of Multivariant Microstructures with Anisotropic Misfit A Phase Field Study</td>
 </tr>
 <tr>
 <td>Aditi Dutta</td>
-<td>Ramamurty U. and Umesh V. Waghmare (JNCASR)</td>
+<td>Ramamurty U. &amp; Umesh V. Waghmare (JNCASR)</td>
 <td>First Principles Study of Structure and Stacking Fault during a summer monsoon</td>
 </tr>
 <tr>
@@ -917,17 +915,16 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 <tr>
 <td>Vikrant Singh</td>
 <td>Govind S. Gupta</td>
-<td>
-Modeling of liquid flow in a packed bed under influence of gas flow</td>
+<td>Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Subhradeep Chatterjee</td>
-<td>Chattopadhyay K. and Abinandanan T.A.</td>
+<td>Kamanio Chattopadhyay and Abinandanan T. A.</td>
 <td>Microstructure development during laser and electron beam welding of Ti/Ni dissimilar joints</td>
 </tr>
 <tr>
 <td>Partha Patra</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Microbially-induced mineral flocculation and flotation with proteins and polysaccharides isolated from Paenibacillus Polymyxa</td>
 </tr>
 <tr>
@@ -941,8 +938,8 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 <td>Studies on acid production potential of some sulphide minerals and bioremediation of acid mine drainage</td>
 </tr>
 <tr>
-<td>Chandraprabha M.N</td>
-<td>Natarajan K.A. and Jayant M. Modak (Ch.E</td>
+<td>Chandraprabha M. N.</td>
+<td>Natarajan K. A. and Jayant M. Modak (CH)</td>
 <td>Surface studies on sulphide minerals and Acidithiobacillus bacteria with respect to biobeneficiation and bioremediation</td>
 </tr>
 </tbody>
@@ -975,22 +972,22 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Krishanu Biswas</td>
-<td>Chattopadhyay K. and P.K. Das (I.P.C)</td>
+<td>Kamanio Chattopadhyay and P. K. Das (IPC)</td>
 <td>Rapid Solidification Behaviour of Fe-Ge Intermetallics</td>
 </tr>
 <tr>
-<td>S.P. Vijayalakshmi</td>
-<td>Ashok M. Raichur and M. Giridhar (C.E</td>
+<td>S. P. Vijayalakshmi</td>
+<td>Ashok M. Raichur and M. Giridhar (CH)</td>
 <td>Degradation of Water Soluble Polymers</td>
 </tr>
 <tr>
-<td>Gururajan M.P.</td>
-<td>Abinandanan T.A.</td>
+<td>Gururajan M. P.</td>
+<td>Abinandanan T. A.</td>
 <td>Microstructural Evolution in Elastically Inhomogeneous Systems</td>
 </tr>
 <tr>
 <td>Victoria Bhattacharya</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis and Phase Transformation Behavior of Nano Alloys Embedded in Al</td>
 </tr>
 </tbody>
@@ -1008,27 +1005,27 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Kay Thi Lwin</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Structure, Thermodynamics and Phase Relations in Selected Oxide Systems</td>
 </tr>
 <tr>
 <td>Sibasis Acharya</td>
-<td>Hajra J.P. and Subramanian S.</td>
+<td>Hajra J. P. and Subramanian S.</td>
 <td>Thermodynamics and Phase Equilibria in the Systems Involving Electronic Materials</td>
 </tr>
 <tr>
 <td>Subrata Pal</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Mathematical Model of COREX Melter Gasifier</td>
 </tr>
 <tr>
-<td>N.R. Sathya Swaroop</td>
-<td>Chokshi A.H.</td>
-<td>Determination of Lattice and Grain Boundary Diffusivities of Cations using Secondary Ion Mass Spectrometry and their Application to High Temperature Deformation in a 3 mol% Yttria Stabilized Tetragonal Zirconia</td>
+<td>N. R. Sathya Swaroop</td>
+<td>Chokshi A. H.</td>
+<td>Determination of Lattice and Grain Boundary Diffusivities of Cations using Secondary Ion Mass Spectrometry and their Application to High Temperature Deformation in a 3 mol&#37; Yttria Stabilized Tetragonal Zirconia</td>
 </tr>
 <tr>
 <td>Madakashira Phaniraj Prabhakar</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Modeling Constitutive Behavior of Steels and Simulation of Hot Strip Mill</td>
 </tr>
 <tr>
@@ -1037,8 +1034,8 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 <td>Glass Forming Ability and Stability: Bulk Zr-based and Marginal Al-based Glasses</td>
 </tr>
 <tr>
-<td>A.C. Niranjanappa</td>
-<td>Dwarakadasa E.S., Subodh Kumar &#038;  Dr. K. Ramchand (Orgn)</td>
+<td>A. C. Niranjanappa</td>
+<td>Dwarakadasa E. S., Subodh Kumar &#038;  Dr. K. Ramchand (Orgn)</td>
 <td>Damage Characterization Studies on the Environmentally Degraded (Short-Term Aged) Polymer Matrix  Composite Materials Subjected to Single and Repeated Low-Velocity Impacts</td>
 </tr>
 <tr>
@@ -1048,8 +1045,8 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Ranjit Bauri</td>
-<td>Surappa M.K.</td>
-<td>Processing and Characterization of Al-Li-SiCp Composites</td>
+<td>Surappa M. K.</td>
+<td>Processing and characterization of Al-Li-SiC<sub>p</sub> composites</td>
 </tr>
 <tr>
 <td>Saravanan L.</td>
@@ -1058,8 +1055,8 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Kottada Ravi Sankar</td>
-<td>Chokshi A.H.</td>
-<td>Creep and Grain Boundary Sliding in a Mg – 0.7% Alloy</td>
+<td>Chokshi A. H.</td>
+<td>Creep and grain boundary sliding in a Mg-0.7&#37;Al alloy</td>
 </tr>
 </tbody>
 </table>
@@ -1075,12 +1072,12 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Rajashekhar Shabadi</td>
-<td>Dwarakadasa E.S. &#038; Subodh Kumar</td>
-<td>Portevin Le- Chaterlier Effect and Formability  Studies in Alluminium Alloys. </td>
+<td>Dwarakadasa E. S. &#038; Subodh Kumar</td>
+<td>Portevin Le-Chaterlier Effect and Formability Studies in Aluminium Alloys</td>
 </tr>
 <tr>
 <td>Brahmandam Sudhir</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Sintering and Rheology of Alumina Particulate Reinforced Alumino-Silicate Glass Composites</td>
 </tr>
 <tr>
@@ -1090,12 +1087,12 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Ramanarayan H.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Grain Boundary Effects on Spinodal Decomposition</td>
 </tr>
 <tr>
 <td>Sanjit Bhowmick</td>
-<td>Vikram Jayaram &#038; Biswas S.K., ME</td>
+<td>Vikram Jayaram &#038; Biswas S. K. (ME)</td>
 <td>The Nature of Contact-Induced Deformation and Fracture in TiN Films on Steel</td>
 </tr>
 </tbody>
@@ -1113,17 +1110,16 @@ Modeling of liquid flow in a packed bed under influence of gas flow</td>
 </tr>
 <tr>
 <td>Lakshmi Narayan Satapathy</td>
-<td>Chokshi A.H. and Chandrasekhar B.K.(Orgn)</td>
-<td>
-Role of Second Phase in the Microstructural Development and Creep Deformation in Alumina based Composites </td>
+<td>Chokshi A. H. and Chandrasekhar B. K. (Orgn)</td>
+<td>Role of Second Phase in the Microstructural Development and Creep Deformation in Alumina based Composites </td>
 </tr>
 <tr>
 <td>M. Ravi</td>
-<td>Dwarakadasa E.S. and B.C. Pai.(Orgn)</td>
+<td>Dwarakadasa E. S. and B. C. Pai (Orgn)</td>
 <td>Re-examination of the Formation of Porosity during solidification of Aluminium Alloys</td>
 </tr>
 <tr>
-<td>Anuradha T V</td>
+<td>Anuradha T. V.</td>
 <td>Ranganathan S.</td>
 <td>Synthesis and Characterization of Nanostructured Materials: TiO2, TiN &#038; BaTiO3</td>
 </tr>
@@ -1142,42 +1138,42 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tr>
 <tr>
 <td>Viji Varghese</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>A study of the role of mechanical energy on the kinetics of reactions and transformations in the solid state</td>
 </tr>
 <tr>
-<td>Balasubrahmanyam V.V. (QIP</td>
-<td>Prasad Y.V.R.K. and Chokshi A.H.</td>
+<td>Balasubrahmanyam V. V. (QIP)</td>
+<td>Prasad Y. V. R. K. &amp; Chokshi A. H.</td>
 <td>Hot deformation mechanisms and microstructural characterization in (a+b) and b titanium alloys ( Ti-5.5Al-1Fe, Ti-10V-2Fe-3Al, Ti-10V-4.5Fe-1.5Al and Ti-6.8Mo-4.5Fe-1.5Al </td>
 </tr>
 <tr>
 <td>D. Santhiya</td>
-<td>Natarajan K.A. and Subramanian S.</td>
+<td>Natarajan K. A. and Subramanian S.</td>
 <td>Investigation into the surface chemistry of galera, sphalerite and sulphur minerals using Thiobacillus thiooxidans and Bacillus polymyxa</td>
 </tr>
 <tr>
-<td>Avadhani G.S. (SR)</td>
-<td>Prasad Y.V.R.K. and Chokshi A.H.</td>
+<td>Avadhani G. S. (SR)</td>
+<td>Prasad Y. V. R. K. and Chokshi A. H.</td>
 <td>Hot deformation mechanisms and microstructural evolution  during upset forging of g-Fe, Fe, Fe-5Ni, Fe-5Co &#038; Fe-5Mo alloys and maraging steel</td>
 </tr>
 <tr>
 <td>Bijoysri Khan (ERP)</td>
-<td>Kishore and Viswanath B.</td>
+<td>Kishore &amp; Viswanath B.</td>
 <td>Buffer strips in carbon-epoxy system and their influence on the mechanical behaviour  and macroscopic features in dry and wet state</td>
 </tr>
 <tr>
-<td>Satyabodh M. Kulkarni (QIP</td>
+<td>Satyabodh M. Kulkarni (QIP)</td>
 <td>Kishore</td>
 <td>Processing, microstructural and mechanical behaviroal aspects of Fly ash-epoxy composites</td>
 </tr>
 <tr>
 <td>Gandham Phani Kumar</td>
-<td>Chattopadhyay K. and  P. Dutta (ME</td>
+<td>Kamanio Chattopadhyay and  P. Dutta (ME)</td>
 <td>Experimental and Computational Studies of Laser Processing of Dissimilar Metals</td>
 </tr>
 <tr>
 <td>Abha Kumari</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Electrochemical and Microbilogical Processing of Ocean Manganese Nodules to Recover Valuable Metals</td>
 </tr>
 </tbody>
@@ -1195,12 +1191,12 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tr>
 <tr>
 <td>Shankar P.</td>
-<td>Ranganathan S. and Baldev Raj, IGCAR</td>
+<td>Ranganathan S. and Baldev Raj (IGCAR)</td>
 <td>Thermal aging effects in nuclear grade 316LN austenitic stainless steels</td>
 </tr>
 <tr>
 <td>Prajina Bhattacharya</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis, morphology and phase transformation of the metallic embedded nanoparticles and multilayers</td>
 </tr>
 <tr>
@@ -1210,33 +1206,33 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tr>
 <tr>
 <td>Kirity Bhusan Khan</td>
-<td>Surappa M.K. and Ganguly C., BARC</td>
+<td>Surappa M. K. &amp; Ganguly C. (BARC)</td>
 <td>Processing and characterization of B4C particle reinforced Al-5% Mg alloy matrix composites</td>
 </tr>
 <tr>
-<td>V.S. Srinivasan</td>
-<td>Sastry D.H.  and Bhanu Sankara Rao K., IGCAR</td>
+<td>V. S. Srinivasan</td>
+<td>Sastry D. H. &amp; Bhanu Sankara Rao K. (IGCAR)</td>
 <td>Strain controlled low cycle fatigue and creep-fatigue interaction behaviour of a type 316L(N) stainless steel</td>
 </tr>
 <tr>
 <td>R. Venkatesan</td>
-<td>Dwarakadasa E.S. and Ravindran M., NIOI</td>
+<td>Dwarakadasa E. S. and Ravindran M. (NIOI)</td>
 <td>Studies on corrosion of some structural materials in deep sea environment</td>
 </tr>
 <tr>
 <td>Sandip Bysakh</td>
-<td>Chattopadhyay K. and Das P.K.,IPC</td>
+<td>Kamanio Chattopadhyay &amp; Das P. K. (IPC)</td>
 <td>Pulsed laser ablation deposition of intermetallic thin films: A study of evolution of metastable phases and ultrafine microstructures</td>
 </tr>
 <tr>
 <td>Ashutosh Suresh Gandhi</td>
 <td>Vikram Jayaram</td>
-<td>The processing of bulk metastable amorphous and nanocrystalline ZrO2 – Al2O3 ceramics by pressure consolidation of amrophous powders</td>
+<td>The processing of bulk metastable amorphous and nanocrystalline ZrO2-Al2O3 ceramics by pressure consolidation of amrophous powders</td>
 </tr>
 <tr>
 <td>Divakar R.</td>
-<td>Ranganathan S. and Raghunathan V.S., IGCAR</td>
-<td>Interfaces in quasicrystalline and nanocrystalline materials: Quasicrystalline, Al-cu-Fe and Al-Pd-Mn alloys and nanocrystalline titanium, palladium and thorium dioxide</td>
+<td>Ranganathan S. &amp; Raghunathan V. S. (IGCAR)</td>
+<td>Interfaces in quasicrystalline and nanocrystalline materials: quasicrystalline, Al-Cu-Fe and Al-Pd-Mn alloys and nanocrystalline titanium, palladium and thorium dioxide</td>
 </tr>
 </tbody>
 </table>
@@ -1259,7 +1255,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tr>
 <tr>
 <td>Sankarasubramanian R.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Symmetry breaking transitions in equilibrium shapes of coherent precipitates</td>
 </tr>
 </tbody>
@@ -1272,38 +1268,38 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>S. Prakash Narayan</td>
-<td>(Vikram Jayaram and Kunal Basu, RRL, Bhopal)</td>
+<td>Vikram Jayaram &amp; Kunal Basu (RRL, Bhopal)</td>
 <td>The  effect  of strain rate and temperature on the development of magnetic properties in nanocrystalline Nd-Fe-B alloy </td>
 </tr>
 <tr>
 <td>Rajendra Kumar Rath</td>
-<td>(S. Subramanian)</td>
+<td>Subramanian S.</td>
 <td>Polysaccharide-based investigations into the surface chemistry of some sulphide and hydrophobic minerals and processing of a complex sulphide ore</td>
 </tr>
 <tr>
 <td>Kinkar Laha (ER)</td>
-<td>(D.H. Sastry and S.L. Mannan, IGCAR)</td>
+<td>Sastry D. H. &amp; S. L. Mannan (IGCAR)</td>
 <td>Tensile and creep behaviour of  similar and dissimilar weld joints of Cr-Mo steels</td>
 </tr>
 <tr>
 <td>M. Divakar</td>
-<td>(J.P. Hajra and  K.T. Jacob)</td>
+<td>J. P. Hajra &amp; Jacob K. T.</td>
 <td>Thermodynamics of surfaces and adsorption in dilute iron based systems</td>
 </tr>
 <tr>
 <td>Dheepa Srinivasan</td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Phase evolution, thermal stability and hardness of melt spun nanocrystalline Al-Zr based alloys</td>
 </tr>
 <tr>
 <td>S. Sundararajan</td>
-<td>(E.S. Dwarakadasa and R. Mahadevan, IPL)</td>
-<td>Study of the properties and particle or matrix interface in Al-12Si-10% SiCp  composite</td>
+<td>Dwarakadasa E. S. &amp; R. Mahadevan (IPL)</td>
+<td>Study of the properties and particle or matrix interface in Al-12Si-10&#37;SiC<sub>p</sub>  composite</td>
 </tr>
 </tbody>
 </table>
@@ -1315,67 +1311,67 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>N. Nagendra</td>
-<td>(Vikram Jayaram)</td>
+<td>Vikram Jayaram</td>
 <td>Processing, microstructure and fracture characteristics of high volume fraction (Al2O3/Al-AlN) matrix composites</td>
 </tr>
 <tr>
-<td>P.K. Sagar (ER)</td>
-<td>(Y.V.R.K. Prasad &#038; D. Banerjee)</td>
-<td>High temperature deformation processing of  a 2/O titanium aluminide alloys using processing maps</td>
+<td>P. K. Sagar (ER)</td>
+<td>Prasad Y. V. R. K. &#038; Dipankar Banerjee</td>
+<td>High temperature deformation processing of a 2/O titanium aluminide alloys using processing maps</td>
 </tr>
 <tr>
 <td>T. Seshacharyulu</td>
-<td>(Y.V.R.K. Prasad)</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Influence of oxygen content, crystallographic texture and preform microstructure on the processing maps for hot working of  titanium and Ti-6Al-4V.</td>
 </tr>
 <tr>
-<td>N.B.R. Mohan Rao (QIP)</td>
-<td>(M.K. Surappa)</td>
+<td>N. B. R. Mohan Rao (QIP)</td>
+<td>Surappa M. K.</td>
 <td>Studies on precipitation, recrystallization and deformation behaviour  of ceramic particle reinforced Al-10% Mg alloy composites</td>
 </tr>
 <tr>
 <td>R. Jayaganthan</td>
-<td>(J.P. Hajra)</td>
+<td>Hajra J. P.</td>
 <td>Experimental investigations and thermodynamic modelling of selected III-V semiconductor alloys</td>
 </tr>
 <tr>
 <td>N. Ravi Shankar</td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Mechanisms of phase formation and magnetic properties of nano-crystalline materials</td>
 </tr>
 <tr>
 <td>G. Chandra Mohan (QIP)</td>
-<td>(E.S. Dwarakadasa)</td>
+<td>Dwarakadasa E. S.</td>
 <td>Extrusion processing of Al-Li alloy (1441)</td>
 </tr>
 <tr>
 <td>Namita  Deo</td>
-<td>(K.A. Natarajan)</td>
+<td>Natarajan K. A.</td>
 <td>Studies on biobeneficiation and bioremediation using Bacillus polymyxa  with reference to iron ore and bauxite processing</td>
 </tr>
 <tr>
 <td>R.S. Sundar</td>
-<td>(D.H. Sastry)</td>
+<td>Sastry D. H.</td>
 <td>Processing and creep studies on Fe3Al based alloys</td>
 </tr>
 <tr>
 <td>Yu Fuxiao (FN)</td>
-<td>(E.S. Dwarakadasa and S. Ranganathan)</td>
+<td>Dwarakadasa E. S. &amp; Ranganathan S.</td>
 <td>Development of liquid phase co-spray forming and its application to Al-Si-Pb alloys</td>
 </tr>
 <tr>
-<td>Azharul  Haq (ER)</td>
-<td>(E.S. Dwarakadasa and  S. Banerjee, BARC)</td>
+<td>Azharul Haq (ER)</td>
+<td>Dwarakadasa E. S. &amp;  S. Banerjee (BARC)</td>
 <td>Near threshold fatigue crack growth and fracture toughness studies in zirconium, Zr-15% Ti and zircaloy-2</td>
 </tr>
 <tr>
 <td>Tania Bhatia</td>
-<td>(K. Chattopadhyay and  Vikram Jayaram)</td>
+<td>Kamanio Chattopadhyay &amp;  Vikram Jayaram</td>
 <td>Phase evolution in MgO-MgAl2O4 under non-equilibrium processing conditions</td>
 </tr>
 </tbody>
@@ -1387,32 +1383,32 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>K.V. Sudhakar</td>
-<td>(E.S. Dwarakadasa)</td>
+<td>K. V. Sudhakar</td>
+<td>Dwarakadasa E. S.</td>
 <td>Crack growth, fracture and fracture toughness behaviour of a dual phase martensite steel</td>
 </tr>
 <tr>
-<td>K.S.N. Murthy</td>
-<td>(E.S. Dwarakadasa)</td>
+<td>K. S. N. Murthy</td>
+<td>Dwarakadasa E. S.</td>
 <td>Influence of metal cations (Cu2+Al3+ and Li+) on the aqueous corrosion of an Al-Li alloy</td>
 </tr>
 <tr>
 <td>Dinesh Srivastava</td>
-<td>(S. Ranganathan and Srikumar Banerjee, BARC )</td>
-<td>b Phase transformations in zirconium base alloys</td>
+<td>Ranganathan S. &amp; Srikumar Banerjee (BARC)</td>
+<td>Phase transformations in zirconium based alloys</td>
 </tr>
 <tr><td>Sukanya Mukhopadhyay</td>
-<td>(K.T. Jacob and A.K. Shukla, SSCU )</td>
+<td>Jacob K. T. &amp; A. K. Shukla (SSCU)</td>
 <td>Studies on phase relations, thermodynamics and electrochemistry of</td>
 <td>some ceramic oxide systems</td>
 </tr>
 <tr>
-<td>N.N. Viswanathan</td>
-<td>(A.K. Lahiri and M.N. Srinivasan, ME )</td>
+<td>N. N. Viswanathan</td>
+<td>Lahiri A. K. &amp; M. N. Srinivasan (ME)</td>
 <td>Modelling of Cupola &#8211; Design and operation for minimum fuel rate and emission levels</td>
 </tr>
 </tbody>
@@ -1424,53 +1420,52 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Bhaskar Majumdar</td>
-<td>(K. Chattopadhyay and J.P. Hajra)</td>
+<td>Kamanio Chattopadhyay &amp; Hajra J. P.</td>
 <td>Thermodynamics and microstructural development in immiscible systems processed through different routes</td>
 </tr>
 <tr>
 <td>Dharmendra Gupta</td>
-<td>(A.K. Lahiri)</td>
+<td>Lahiri A. K.</td>
 <td>Water model study of fluid flow and slag enetrainment in a continuous slab casting mold</td>
 </tr>
 <tr>
 <td>S. Manjini</td>
-<td>(S. Ranganathan and G.N.K. Iyengar)</td>
-<td>
-Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
+<td>Ranganathan S. &amp; G. N. K. Iyengar</td>
+<td>Studies on high T<sub>c</sub> YBa<sub>2</sub>Cu<sub>3</sub>O<sub>6+x</sub>: stability, silver addition and thin films</td>
 </tr>
 <tr>
-<td>K.M. Satyalakshmi</td>
-<td>(R.M. Mallya and M.S. Hegde, SSCU )</td>
+<td>K. M. Satyalakshmi</td>
+<td>Mallya R. M. &amp; M. S. Hegde (SSCU)</td>
 <td>Studies on superconducting, metallic and ferroelectric oxide thin films and their heterostructures grown by pulsed laser</td>
 </tr>
 <tr>
 <td>Rajan Ambat</td>
-<td>(E.S. Dwarakadasa)</td>
+<td>Dwarakadasa E. S.</td>
 <td>Aqueous corrosion and high temperature oxidation studies of aluminium-lithium alloys </td>
 </tr>
 <tr>
-<td>A.K. Srivastava</td>
-<td>(S. Ranganathan)</td>
+<td>A. K. Srivastava</td>
+<td>Ranganathan S.</td>
 <td>Studies on rapidly solidified Al-Mn-Cr-Si and  Al-Fe-V-Si alloy : Processing &#8211; Microstructure correlation</td>
 </tr>
 <tr>
-<td>N.V. Ravi Kumar</td>
-<td>(E.S. Dwarakadasa)</td>
+<td>N. V. Ravi Kumar</td>
+<td>Dwarakadasa E. S.</td>
 <td>Characterization of indigeneous Al-Zn-Mg.SiCp metal matrix composites</td>
 </tr>
 <tr>
-<td>T.R.G. Kutty</td>
-<td>(D.H. Sastry and C. Ganguly, BARC )</td>
+<td>T. R. G. Kutty</td>
+<td>Sastry D. H. &amp; Ganguly C. (BARC)</td>
 <td>Microstructure, hot hardness and indentation creep of Al-U &#038; Al-U-Zr alloys</td>
 </tr>
 <tr>
 <td>Bhaskar Dutta</td>
-<td>(M.K. Surappa)</td>
+<td>Surappa M. K.</td>
 <td>Studies on particle distribution and matrix microstructure evolution during processing of Al-Cu-SiCp composites</td>
 </tr>
 </tbody>
@@ -1481,47 +1476,47 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>D.K. Bhattacharya</td>
-<td>(E.S. Dwarakadasa and Placid Rodriguez, IGCAR )</td>
+<td>D. K. Bhattacharya</td>
+<td>Dwarakadasa E. S. &amp; Placid Rodriguez (IGCAR)</td>
 <td>Characterization of microstructures in steels by magnetic and ultrasonic techniques</td>
 </tr>
 <tr>
-<td>T.V.L. Narasimha Rao</td>
-<td>(D.H. Sastry and M.V. Bhat)</td>
+<td>T. V. L. Narasimha Rao</td>
+<td>Sastry D. H. &amp; M. V. Bhat</td>
 <td>Aqueous corrosion and a fracture mechanics study of stress corrosion cracking in magnesium alloys (Mg-Li-Al; Mg-Li-Al-X and Mg-Zn-Mn)</td>
 </tr>
 <tr>
 <td>T. Chandrasekaran</td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Kinetics of size reduction and associated wear of grinding   media &#8211; study using a ball mill </td>
 </tr>
 <tr>
-<td>D.N. Drakshayani</td>
-<td>(R.M. Mallya)</td>
+<td>D. N. Drakshayani</td>
+<td>Mallya R. M.</td>
 <td>Reactivity of Solids : Effect of dopants on the low  temperature hydrogen reduction of ferric oxides and metastable spinels</td>
 </tr>
 <tr>
 <td>O. Sivakesavam</td>
-<td>(Y.V.R.K. Prasad, P. Rama Rao and G.G. Saha, DMRL )</td>
+<td>Prasad Y. V. R. K., P. Rama Rao &amp; G. G. Saha (DMRL)</td>
 <td>Effect of processing history and initial microstructure on the hot working behaviour of magnesium, Mg-Zn-Mn, Mg-Li-Al and Mg-Li-Al-Zr Alloys : Characterisation with processing maps.   </td>
 </tr>
 <tr>
 <td>K. Padmanabhan</td>
-<td> (Kishore)</td>
+<td>Kishore</td>
 <td>Failure analysis of glass, carbon or kevlar fibre reinforced epoxy based composites in static loading conditions.</td>
 </tr>
 <tr>
 <td>K. Asokkumar</td>
-<td>(K.S.Raman and M.N.Chandrasekharaiah, WRI )</td>
+<td>K. S. Raman and M. N. Chandrasekharaiah (WRI)</td>
 <td>Studies on induction pressure welded steel joints</td>
 </tr>
 <tr>
 <td>R. Nagarajan</td>
-<td>(K.Chattopadhyay and S. Ranganathan)</td>
+<td>Kamanio Chattopadhyay and Ranganathan S.</td>
 <td>Metastable and nanostructured titanium-nickel and titanium- nickel-aluminium alloys</td>
 </tr>
 </tbody>
@@ -1533,32 +1528,32 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>N. Srinivasan</td>
-<td>(Y.V.R.K. Prasad)</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Influence of impurities and alloying additions on the processing maps for hot working of nickel and nickel-base superalloys Ni, Ni-C, Ni-C-S, Ni-20Cr, IN 600, IN 718, Nimonic-75, 80A and 90 </td>
 </tr>
 <tr>
 <td>Alok Singh</td>
-<td>(S. Ranganathan)</td>
+<td>Ranganathan S.</td>
 <td>Decagonal quasicrystals and related phases in aluminium- transition metal alloys : Al-Mn-Fe, Ni, Cu, Zn </td>
 </tr>
 <tr>
 <td>Ramasis Goswami</td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstructures, solidification, melting and transport properties of nanodispersoids in immiscible alloy systems </td>
 </tr>
 <tr>
 <td>Tom Mathews</td>
-<td>(K.T. Jacob and J.P. Hajra)</td>
+<td>Jacob K. T. &amp; Hajra J. P.</td>
 <td>Phase equilibria and thermodynamic studies on selected ceramic oxide systems</td>
 </tr>
 <tr>
 <td>S. Murali</td>
-<td>(K.S. Raman and K.S.S. Murthy, ME )</td>
+<td>K. S. Raman &amp; K. S. S. Murthy (ME)</td>
 <td>Influence of trace additions on the microstructure, mechanical  properties and age hardening characteristics of Al-7Si-0.3 Mg cast alloy with iron impurity</td>
 </tr>
 </tbody>
@@ -1570,17 +1565,17 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>D. Padmavardhani</td>
-<td>(Y.V.R.K. Prasad)</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Influence of the constitutive behaviour of a and ß phases on the mechanisms of hot working in a &#8211; b brasses and nickel silvers: A study using processing maps</td>
 </tr>
 <tr>
-<td>J.K. Chakravartty</td>
-<td>(Y.V.R.K. Prasad, M.K.Asundi and S. Banerjee, BARC)</td>
+<td>J. K. Chakravartty</td>
+<td>Prasad Y. V. R. K., M. K. Asundi and S. Banerjee (BARC)</td>
 <td>Optimization of hot workability and control of microstructure in zirconium alloys using processing maps : Zirconium,  Zircalloy-2, Zr-2.5Nb and Zr-2.5 Nb-0.5 Cu</td>
 </tr>
 </tbody>
@@ -1592,29 +1587,28 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>K. Raviprasad</td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstrucutral evolution during ordering and magnetic properties of rapidly solidified Fe-Si alloys</td>
 </tr>
 <tr>
 <td>M. Valsan</td>
-<td>(D.H. Sastry and S.L. Mannan, IGCAR)</td>
+<td>Sastry D. H. &amp; S.L. Mannan (IGCAR)</td>
 <td>Some aspects of deformation and fracture in low cycle fatigue of a nimonic PE 16 superalloy</td>
 </tr>
 <tr>
 <td>N. Ravichandran</td>
-<td>(Y.V.R.K. Prasad)</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Effect of impurities and hard particles on the characteristics of dynamic recrystallization during hot working of aluminium and copper –A study using processing maps</td>
 </tr>
 <tr>
-<td>B.S. Murthy</td>
-<td>(S. Ranganathan and M. Mohan Rao)</td>
-<td>
-Study of amorphous phase formation by mechanical alloying in Ti based systems</td>
+<td>B. S. Murty</td>
+<td>Ranganathan S. &amp; M. Mohan Rao</td>
+<td>Study of amorphous phase formation by mechanical alloying in Ti based systems</td>
 </tr>
 </tbody>
 </table>
@@ -1625,12 +1619,12 @@ Study of amorphous phase formation by mechanical alloying in Ti based systems</t
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>R. Seshadri</td>
-<td>(R.M. Mallya and R.V. Krishnan, NAL)</td>
+<td>Mallya R. M. &amp; R. V. Krishnan (NAL)</td>
 <td>Centrifugal splat quenching and secondary atomization of titanium alloys (Ti-6Ai-4V &#038; Ti-6.5Al-3.3Mo-1.6Zr-0.3S)</td>
 </tr>
 </tbody>
@@ -1643,58 +1637,57 @@ Study of amorphous phase formation by mechanical alloying in Ti based systems</t
 <table>
 <tbody><tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>N.K.Mukhopadhya</td>
-<td>(S.Ranganathan and K.Chattopadhyay )</td>
+<td>N. K. Mukhopadhyay</td>
+<td>Ranganathan S. and Kamanio Chattopadhyay</td>
 <td>Some aspects of synthesis, structure and stability of quasicrystals</td>
 </tr>
 <tr>
-<td>R.L.Saha</td>
-<td>(K.T.Jacob and P.Rama Rao, DMRL)</td>
+<td>R. L. Saha</td>
+<td>Jacob K. T. and P. Rama Rao (DMRL)</td>
 <td>Casting technology for titanium and titanium alloys characterisation of metal mould reactions in zircon sand and investment moulds and evaluation of a hypo-eutectic cast Ti-Si alloy</td>
 </tr>
 <tr>
-<td>V.Sampath</td>
-<td>(E.S.Dwarakadasa)</td>
-<td>
-Electroslag refining and structure property correlation studies of the aluminium alloy IS:7670</td>
+<td>V. Sampath</td>
+<td>Dwarakadasa E. S.</td>
+<td>Electroslag refining and structure property correlation studies of the aluminium alloy IS:7670</td>
 </tr>
 <tr>
-<td>S.Srikanth</td>
-<td>(K.T.Jacob)</td>
+<td>S. Srikanth</td>
+<td>Jacob K. T.</td>
 <td>Thermodynamics of alloys: Theory, experiment and application</td>
 </tr>
 <tr>
-<td>D.Sundararaman</td>
-<td>(S.Ranganathan and V.S.Raghunathan, IGCAR)</td>
+<td>D. Sundararaman</td>
+<td>Ranganathan S. &amp; V. S. Raghunathan (IGCAR)</td>
 <td>Phase tranformation in Ti-N and Ti-Fe-N alloys and superconductivity</td>
 </tr>
 <tr>
-<td>M.K.Yelloji Rao</td>
-<td>(K.A.Natarajan)</td>
+<td>M. K. Yelloji Rao</td>
+<td>Natarajan K. A.</td>
 <td>Electrochemical aspects of interactions among ball materials and minerals with reference to grinding and flotation of complex copper lead-zinc sulphides</td>
 </tr>
 <tr>
 <td>Baldev Raj</td>
-<td>(S.Ranganathan, P.Rodriguez, IGCAR and A.K.Rao, AE )</td>
+<td>Ranganathan S., P. Rodriguez (IGCAR) &amp; A.K.Rao (AE)</td>
 <td>Acoustic emission for characterising, deformation and fracture during tensile testing in austenitic stainless steels</td>
 </tr>
 <tr>
-<td>G.M. Kale</td>
-<td>(K.T.Jacob and G.N.K.Iyengar)</td>
+<td>G. M. Kale</td>
+<td>Jacob K. T. &amp; G. N. K. Iyengar</td>
 <td>Thermodynamic studies on selected ceramic oxide systems</td>
 </tr>
 <tr>
 <td>V. Thiruvenkataswamy</td>
-<td>(S. Ranganathan and K. Chattopadhyay)</td>
+<td>Ranganathan S. &amp; Kamanio Chattopadhyay</td>
 <td>Non equilibirum solidification of pure metals (Al, Cu, Ni), bismuth, eutectic Al-Ge and Al-Cu and peritectic Al-Cr alloys</td>
 </tr>
 <tr>
-<td>T.A. Bhaskaran</td>
-<td>(S. Ranganathan and R.V. Krishnan, NAL)</td>
+<td>T. A. Bhaskaran</td>
+<td>Ranganathan S. &amp; R. V. Krishnan (NAL)</td>
 <td>Microstructural studies of rapidly solidified titanium eutectoid alloys</td>
 </tr>
 </tbody>
@@ -1707,22 +1700,22 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Gouthama</td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Electron microscopic study of precipitation in an Al-Ge alloy analysis using near-CSL/DSC lattice model</td>
 </tr>
 <tr>
-<td>K.Rajendra Udupa</td>
-<td>(G.N.K.Iyengar and D.H.Sastry)</td>
+<td>K. Rajendra Udupa</td>
+<td>G. N. K. Iyengar &amp; Sastry D. H.</td>
 <td>Effect of electroslag re fining on composition, structure and mechanical properties of En 24 and MDN 250 steels</td>
 </tr>
 <tr>
-<td>A.Rajadurai</td>
-<td>(E.S.Dwarakadasa)</td>
+<td>A. Rajadurai</td>
+<td>Dwarakadasa E. S.</td>
 <td>Effect of 1 wt% Al/Si addition on the phase transformation, tensile and fracture behaviour of Cu- 9Ni-6Sn spinodal alloy</td>
 </tr>
 </tbody>
@@ -1735,37 +1728,37 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>M.N.Raghavendra Rao</td>
-<td>(Y.V.R.K.Prasad Kishore, B.Dattaguru, AE and R.Peravali, ADE )</td>
+<td>M. N. Raghavendra Rao</td>
+<td>Prasad Y. V. R. K., Kishore, B. Dattaguru (AE) &amp; R. Peravali (ADE)</td>
 <td>Non-destructive evalluation of crack like defects and delaminations in GFRP composites application of acousto-ultrasonics and acoustic emission techniques</td>
 </tr>
 <tr>
 <td>Asok Kumar Ray</td>
-<td>(E.S.Dwarakadasa and K.S.Raman )</td>
+<td>Dwarakadasa E. S. &amp; K. S. Raman</td>
 <td>Studies of fatigue crack growth and fracture toughness in LA55 HSLA steel butt welds</td>
 </tr>
 <tr>
-<td>N.Thangaraj</td>
-<td>(S.Ranganathan and E.S.Raja Gopal, Phy )</td>
+<td>N. Thangaraj</td>
+<td>Ranganathan S. &amp; E. S. Raja Gopal (Phy)</td>
 <td>Electron microscopy of quasicrystalline phases in aluminium-manganese and aluminium-palladium alloys</td>
 </tr>
 <tr>
-<td>S.Ranganathan</td>
-<td>(J.P.Hajra )</td>
+<td>S. Ranganathan</td>
+<td>Hajra J. P.</td>
 <td>Themodynamic studies on Cr-Mn, Cr-Mn-O and Cr-Mn-Co systems using an isopiestic technique</td>
 </tr>
 <tr>
-<td>R.Akila</td>
-<td>(K.T.Jacob and A.K.Shukla, SSCU)</td>
+<td>R. Akila</td>
+<td>Jacob K. T. &amp; A. K. Shukla (SSCU)</td>
 <td>Solid state galvanic sensors &#8211; Some studies on concepts and materials</td>
 </tr>
 <tr>
-<td>K.S.Ravichandran</td>
-<td>(E.S.Dwarakadasa and Kishore)</td>
+<td>K. S. Ravichandran</td>
+<td>Dwarakadasa E. S. and Kishore</td>
 <td>Microstructural aspects of near threshold fatigue crack growth and crack closure in HSLA steel and Ti-6Al-4V alloy</td>
 </tr>
 </tbody>
@@ -1778,22 +1771,22 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>I.Sambasiva Rao</td>
-<td>(Y.V.R.K.Prasad and E.S.Dwarakadasa)</td>
+<td>I. Sambasiva Rao</td>
+<td>Prasad Y. V. R. K. &amp; Dwarakadasa E. S.</td>
 <td>Constitutive flow behaviour and processing maps for magnesium and magnesium -1.5 zirconium</td>
 </tr>
 <tr>
-<td>T.Asokan</td>
-<td>(G.N.K. Iyengar and G.R.Nagabhushana, HVE )</td>
+<td>T. Asokan</td>
+<td>G. N. K. Iyengar &amp; G. R. Nagabhushana (HVE)</td>
 <td>Developmental studies on ZnO based composites for surge arrester applications</td>
 </tr>
 <tr>
-<td>V.S.Raja</td>
-<td>(S.Ranganathan and Kishore)</td>
+<td>V. S. Raja</td>
+<td>Ranganathan S. &amp; Kishore</td>
 <td>Thermal and chemical stabilities of three Fe-Ni base metallic glasses</td>
 </tr>
 </tbody>
@@ -1806,17 +1799,17 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>S.Ramesh Babu</td>
-<td>(A.K.Lahiri and M.Mohan Rao)</td>
+<td>S. Ramesh Babu</td>
+<td>Lahiri A. K. &amp; M. Mohan Rao</td>
 <td>Studies on drop formation at conical and capillary tips</td>
 </tr>
 <tr>
-<td>T.S.Sampath Kumar</td>
-<td>(R.M.Mallya and M.S.Hegde, SSCU )</td>
+<td>T. S. Sampath Kumar</td>
+<td>Mallya R. M. &amp; M. S. Hegde (SSCU)</td>
 <td>Electron spectroscopic studies of surface segregation and oxidation of Cu and Ni based alloys and low temperaturepreparation and characterisation of intermetallics based on the system Fe-W-Mo</td>
 </tr>
 </tbody>
@@ -1829,17 +1822,17 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Saradindukumar Ray</td>
-<td>(D.H.Sastry and P.Rodriguez, IGCAR )</td>
+<td>Sastry D. H. &amp; P. Rodriguez (IGCAR)</td>
 <td>Some aspects of the deformation characteristics of austenitic stainless steel 316 and high purity aluminium in tension, creep and stress relaxation</td>
 </tr>
 <tr>
-<td>E.S.Bhagiradha Rao</td>
-<td>(R.M.Mallya, D.H.Sastry and V.S.Arunachalam, DMRL )</td>
+<td>E. S. Bhagiradha Rao</td>
+<td>Mallya R. M., Sastry D. H. &amp; V. S. Arunachalam (DMRL)</td>
 <td>Studies on mechanical alloying of Ni-20Cr-2ThO2</td>
 </tr>
 </tbody>
@@ -1852,27 +1845,27 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>R.K.Dayal</td>
-<td>(Y.V.R.K.Prasad, M.V.Bhat and J.B.Gnanamurthy, IGCAR )</td>
+<td>R. K. Dayal</td>
+<td>Prasad Y. V. R. K., M. V. Bhat &amp; J. B. Gnanamurthy (IGCAR)</td>
 <td>Effect of texture, grainsize and carbide precipitation on the crevice corrosion behaviour of austenitic stainless steels in acqueous medium: Metallurgical, chemical and electrochemical aspects </td>
 </tr>
 <tr>
-<td>J.M.Juneja</td>
-<td>(K.P.Abraham and G.N.K.Iyengar)</td>
+<td>J. M. Juneja</td>
+<td>K.P. Abraham &amp; G. N. K. Iyengar</td>
 <td>Themodynamic investigations on some alloy systems of interest  in metallothermic reductions by vapour pressure: Measurements and thermogravimetry</td>
 </tr>
 <tr>
-<td>R.Sundaresan</td>
-<td>(K.I.Vasu, R.M.Mallya and A. C. Raghuram, NAL)</td>
+<td>R. Sundaresan</td>
+<td>K. I. Vasu, Mallya R. M. &amp; A. C. Raghuram (NAL)</td>
 <td>Kinetics sintering in beta titanium systems: A model for enhanced diffusional mass flow by  transformation induced dislocations during isothermal sintering of titanium and Ti-6Al-4V alloy</td>
 </tr>
 <tr>
 <td>Prabhakar Sastri</td>
-<td>(A.K.Lahiri)</td>
+<td>Lahiri A. K.</td>
 <td>Central atoms: Models for silicate and aluminate melts</td>
 </tr>
 </tbody>
@@ -1885,27 +1878,27 @@ Electroslag refining and structure property correlation studies of the aluminium
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>A.M.Sriram Murthy</td>
-<td>(Y.V.R.K.Prasad and S.N.Tewari, DMRL )</td>
-<td>
-Influence of microstructure  on the deformation and fracture behaviour of a nickel-33% molydbenum-5.7%  aluminium in situ composite</td>
+<td>A. M. Sriram Murthy</td>
+<td>Prasad Y. V. R. K. &amp; S. N. Tewari (DMRL)</td>
+<td>Influence of microstructure  on the deformation and fracture behaviour of a nickel-33% molydbenum-5.7%  aluminium in situ composite</td>
 </tr>
 <tr>
 <td>Ram Chandra Prasad</td>
-<td>(K.I.Vasu and E.S.Dwarakadasa)</td>
+<td>K. I. Vasu &amp; Dwarakadasa E. S.</td>
 <td>A fracture mechanics study of corrosion fatigue: Influence of microstructure on crack propagation  rates  in heat treated 7075Al clad aluminium alloy</td>
 </tr>
 <tr>
-<td>M.Venkatraman</td>
-<td>(J.P.Hajra)</td>
+<td>M. Venkatraman</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of Ni-Mn and Ni-Mn-Co alloys</td>
 </tr>
-<tr><td>P.C.Angelo</td>
-<td>(M.Mohan Rao and D.P.Lahiri, DMRL )</td>
+<tr>
+<td>P. C. Angelo</td>
+<td>M. Mohan Rao &amp; D. P. Lahiri (DMRL)</td>
 <td>Ternary diffusion studies in iron-cobalt-vanadium alloys</td>
 </tr>
 </tbody>
@@ -1918,27 +1911,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Sardari Lal Mannan</td>
-<td>(Y.V.R.K.Prasad, K.I.Vasu and P.Rodriguez, IGCAR)</td>
+<td>Prasad Y. V. R. K., K. I. Vasu &amp; P. Rodriguez (IGCAR)</td>
 <td>Influence of grain size on the flow and fracture in AISI Type 316 stainless steel at elevated temperature.</td>
 </tr>
 <tr>
-<td>G.S.Murthy</td>
-<td>(D.H.Sastry)</td>
+<td>G. S. Murthy</td>
+<td>Sastry D. H.</td>
 <td>Impression creep and the mechanism of high temperature deformation in zinc and cadmium</td>
 </tr>
 <tr>
-<td>P.K.Biswas</td>
-<td>(E.S.Dwarakadasa and P.K.Rohatgi)</td>
+<td>P. K. Biswas</td>
+<td>Dwarakadasa E. S. &amp; P. K. Rohatgi</td>
 <td>Influence of internal chills on the structure and properties of aluminium alloy castings</td>
 </tr>
 <tr>
-<td>A.W.S. Kurny</td>
-<td>(R.M. Mallya and M.Mohan Rao)</td>
+<td>A. W. S. Kurny</td>
+<td>Mallya R. M. &amp; M. Mohan Rao</td>
 <td>Studies on ion nitriding</td>
 </tr>
 </tbody>
@@ -1951,28 +1944,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>M.V. Bhat</td>
-<td>(K.I. Vasu)</td>
+<td>M. V. Bhat</td>
+<td>K. I. Vasu</td>
 <td>Stress-corrosion characteristics of Al-5%Zn and Al-5%Cu alloys and effect of Ti addition</td>
 </tr>
 <tr>
-<td>Srinivas D Sastry</td>
-<td>
-(Y.V.R.K. Prasad, K.P. Abraham and P.K. Rohatgi)</td>
+<td>Srinivas D. Sastry</td>
+<td>Prasad Y. V. R. K., K. P. Abraham &amp; P.K. Rohatgi</td>
 <td>Influence of microstructure on strengthening and fracture mechanisms in electroslag refined Fe-12Cr-6Al ferritic stainless steel</td>
 </tr>
 <tr>
 <td>Anand Jagu Katkar</td>
-<td>(K.I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Corrosion behaviour of nickel silver and cupro-nickel in sea water</td>
 </tr>
 <tr>
 <td>G. Sambasiva Rao</td>
-<td>(Y.V.R.K. Prasad)</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Influence of texture on the grain boundary strengthening and fracture in hot rolled Mg and Mg alloys</td>
 </tr>
 </tbody>
@@ -1986,22 +1978,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>H.V. Sudhaker Nayak</td>
-<td>(Y.V.R.K. Prasad and K.I. Vasu)</td>
+<td>H. V. Sudhaker Nayak</td>
+<td>Prasad Y. V. R. K. &amp; K. I. Vasu</td>
 <td>Texture-dependent stress corrosion failure of commercial titanium and Ti-6Al-4V alloy sheets in methanol bromine solution</td>
 </tr>
 <tr>
 <td>J. Subrahmanyam</td>
-<td>(K.P. Abraham and A.K. Lahiri)</td>
+<td>K. P. Abraham &amp; Lahiri A. K.</td>
 <td>Chemical vapour deposition of titanium carbide from titanium tetrachloride-toluene-hydrogen gas mixtures</td>
 </tr>
 <tr>
 <td>Mohan G. Hebsur</td>
-<td>(Y.V.R.K. Prasad and K.P. Abraham)</td>
+<td>Prasad Y. V. R. K. &amp; K. P. Abraham</td>
 <td>Effect of electroslag refining on hot workability, fracture toughness and fatigue crack propagation in EN24 and EN52 steels</td>
 </tr>
 </tbody>
@@ -2014,37 +2006,37 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>D. Banerjee</td>
-<td>(K.I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Phase equilibria and transformations : A microstructural characteri-sation of some Ti-Al-Mo alloys containing the g &#8211; phase</td>
 </tr>
 <tr>
 <td>N. Jayaraman</td>
-<td>(M. Mohan Rao)</td>
+<td>M. Mohan Rao</td>
 <td>Studies on maraging and reversion to austenite in Fe-12Ni-4Mn maraging steel</td>
 </tr>
 <tr>
-<td>A.H. Yegneswaran</td>
-<td>(K.S. Raman)</td>
+<td>A. H. Yegneswaran</td>
+<td>K. S. Raman</td>
 <td>Effect of crystallographic texture and grain size on the mechanical properties of warm worked Cd, Cd-1.5Zn and Cd-1Ag alloys</td>
 </tr>
 <tr>
 <td>S. Ilangovan</td>
-<td>(K.I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Galvanic cementation winning of copper from chalcopyrite leached with ferric chloride solution</td>
 </tr>
 <tr>
 <td>Deonath</td>
-<td>(P.K. Rohatgi)</td>
+<td>P. K. Rohatgi</td>
 <td>Preparation and properties of cast aluminium alloy-mica particle composite</td>
 </tr>
 <tr>
-<td>N.K. Jain</td>
-<td>(Y.V.R.K. Prasad and K.P. Abraham)</td>
+<td>N. K. Jain</td>
+<td>Prasad Y. V. R. K. &amp; K. P. Abraham</td>
 <td>Hot working and deformation mechanism in electroslag refined materials (En 36A steel and RR 58 aluminium alloy)</td>
 </tr>
 </tbody>
@@ -2057,31 +2049,31 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>A.K. Bhutani</td>
-<td>(K.P. Abraham)</td>
+<td>A. K. Bhutani</td>
+<td>K. P. Abraham</td>
 <td>Studies on electroslag remelting</td>
 </tr>
 <tr>
 <td>Ch. Virupaksha Shastry</td>
-<td>(D.H. Sastry and K.I. Vasu)</td>
+<td>Sastry D. H. &amp; K. I. Vasu</td>
 <td>Deformation characteristics of BCC metals</td>
 </tr>
 <tr>
 <td>E. Elaya Perumal</td>
-<td>(K.I. Vasu and J. Balachandra)</td>
+<td>K. I. Vasu &amp; J. Balachandra</td>
 <td>Stress corrosion cracking of Zr &#038; zircaloy 2 in Ch3OH-(HCL, I2) solutions</td>
 </tr>
 <tr><td>S. Raghavan</td>
-<td>(G.N.K. Iyengar and K.P. Abraham)</td>
+<td>G. N. K. Iyengar &amp; K. P. Abraham</td>
 <td>Thermodynamic investigations on binary metal oxide solutions by the solid electrolyte techniques</td>
 </tr>
 <tr>
-<td>C.R. Vijayasimha</td>
-<td>(K.I. Vasu and V.G. Kubair,CH )</td>
+<td>C. R. Vijayasimha</td>
+<td>K. I. Vasu &amp; V. G. Kubair (CH)</td>
 <td>Heat transfer of liquid metals</td>
 </tr>
 </tbody>
@@ -2094,32 +2086,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>T. Hanumantha Rao</td>
-<td>(K.I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Oxide-dispersed copper nickel composites and kinetics</td>
 </tr>
 <tr>
 <td>Uppala Ratnam</td>
-<td>(K.P. Abraham and J.P. Hajra)</td>
+<td>K. P. Abraham &amp; Hajra J. P.</td>
 <td>Studies on electroslag melting of quality steels and nickel base alloys</td>
 </tr>
 <tr>
 <td>Placid Rodriguez</td>
-<td>(K.I. Vasu and M.K. Asundi, BARC )</td>
+<td>K. I. Vasu &amp; M. K. Asundi (BARC)</td>
 <td>Low temperature deformation in hard HCP metals</td>
 </tr>
 <tr>
-<td>N.S. Srinivasan</td>
-<td>(A.K. Lahiri)</td>
+<td>N. S. Srinivasan</td>
+<td>Lahiri A. K.</td>
 <td>Studies on the reduction of iron oxides by carbon</td>
 </tr>
 <tr>
-<td>V.S. Raghunathan</td>
-<td>(K.I. Vasu &#038; B.B. Sharma)</td>
+<td>V. S. Raghunathan</td>
+<td>K. I. Vasu &amp; B. B. Sharma</td>
 <td>Diffusion in transition metals alloys</td>
 </tr>
 </tbody>
@@ -2132,22 +2124,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>T.C. Kasiviswanathan</td>
-<td>(K.I. Vasu)</td>
+<td>T. C. Kasiviswanathan</td>
+<td>K. I. Vasu</td>
 <td>Corrosion and related electrochemical studies on zirconium (in nitrate melts, nitrate fluoride melts and aqueous nitrate solutions)</td>
 </tr>
 <tr>
 <td>H. Ravindranath Shetty</td>
-<td>(Y.V.R.K. Prasad and K.I. Vasu)</td>
+<td>Prasad Y. V. R. K. &amp; K. I. Vasu</td>
 <td>Superplasticity and stress corrosion cracking behaviour of zinc- aluminium and copper-aluminium alloys (effect of mechanical, metallurgical and environmental factors)</td>
 </tr>
 <tr>
 <td>V. Sivan</td>
-<td>(G.N.K. Iyengar)</td>
+<td>G. N. K. Iyengar</td>
 <td>Kinetic studies on gas solid reactions of metallurgical interest</td>
 </tr>
 </tbody>
@@ -2160,27 +2152,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>V.V.V.N.S. Ramakrishna Rao</td>
-<td>(K.P.Abraham)</td>
+<td>V. V. V. N. S. Ramakrishna Rao</td>
+<td>K. P. Abraham</td>
 <td>Kinetic aspects of gas/solid reactions of metallurgical interest</td>
 </tr>
 <tr>
 <td>Tarasankar Deb Roy</td>
-<td>(K.P. Abraham)</td>
+<td>K. P. Abraham</td>
 <td>Kinetic investigations on gas-solid reactions</td>
 </tr>
 <tr>
 <td>Kishore</td>
-<td>(K.I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>On the nature of clustering and strengthening in a quenched and aged aluminium 2% germanium alloy-resistometric, microscopic and low temperature deformation studies.</td>
 </tr>
 <tr>
 <td>R. Chandrashekar</td>
-<td>(K.I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Stress corrosion of aluminium 8% magnesium alloy (effect of nature of stress, heat treatment and trace additions of B and Be)</td>
 </tr>
 </tbody>
@@ -2193,22 +2185,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Y.M. Faruq Marikar</td>
-<td>(K.I. Vasu)</td>
+<td>Y. M. Faruq Marikar</td>
+<td>K. I. Vasu</td>
 <td>Electrometallurgy of the iron group metals and alloys: Studies in the fluoborate bath</td>
 </tr>
 <tr>
 <td>Krishna Kant Prasad</td>
-<td>(K.P. Abraham)</td>
+<td>K. P. Abraham</td>
 <td>Thermodynamic properties of some binary metal oxide systems</td>
 </tr>
 <tr>
 <td>K. Narasimha Murthy</td>
-<td>(K.I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Resistometric studies of precipitation kinetics in aluminium-silver alloys (Al-0.2 to 0.3 Ag alloys, and Al-0.64Ag alloy with Nb, Si, Ge, Ti, Gd, Sn or Pb)</td>
 </tr>
 </tbody>
@@ -2221,37 +2213,38 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisor(s))</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>K.S. Raman</td>
-<td>(K.I. Vasu)</td>
+<td>K. S. Raman</td>
+<td>K. I. Vasu</td>
 <td>Resistometric studies of solute vacancy interactions and clustering kinetics in an FCC matrix (Al-Zn alloy with Ag, Co, Dy, Li, Nb, Pt, Sn, Y or Yb)</td>
 </tr>
 <tr>
-<td>E.S. Dwarakadasa</td>
-<td>(K.I. Vasu)</td>
+<td>E. S. Dwarakadasa</td>
+<td>K. I. Vasu</td>
 <td>Resistometric studies of clustering and solute vacancy interactions in some aluminium alloys</td>
 </tr>
 <tr>
-<td>D.H. Sastry</td>
-<td>(K.I. Vasu)</td>
+<td>D. H. Sastry</td>
+<td>K. I. Vasu</td>
 <td>Thermally activated deformation in CPH metals and the effect of crystal structure on the mechanism of low temperature creep in metals</td>
 </tr>
 <tr>
-<td>Y.V.R.K. Prasad</td>
-<td>(K.I. Vasu)</td>
+<td>Y. V. R. K. Prasad</td>
+<td>K. I. Vasu</td>
 <td>Effect of stacking fault energy, quenched-in defects and solute atoms on the low temperature deformation mechanism in FCC metals</td>
 </tr>
-<tr><td>S. Seetharaman</td>
-<td>(K.P. Abraham)</td>
+<tr>
+<td>S. Seetharaman</td>
+<td>K. P. Abraham</td>
 <td>Thermodynamic properties of some binary metal oxide solid solutions</td>
 </tr>
 </tbody>
 </table>
 
-## M.Tech.
+## M. Tech.
 
 ### 2018-2011
 <br>
@@ -2261,7 +2254,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2271,7 +2264,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Priyanjali Markam</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Creep Behaviour In Concentrated Solid Solution of Ni-Co Alloy</td>
 </tr>
 <tr>
@@ -2286,12 +2279,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Chandan Kumar</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Phase Field Study Of Precipitate Coarsening In Ternary Alloys</td>
 </tr>
 <tr>
 <td>Vaskuri Chandra Sekhara Theja</td>
-<td>Satyam Suwas & Avadhani G.S.</td>
+<td>Satyam Suwas &amp; Avadhani G. S.</td>
 <td>Mechanical Behavior 0f Medium Mn-Twip Steels for Automotive Applications</td>
 </tr>
 <tr>
@@ -2306,7 +2299,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Natasha Prasad</td>
-<td>Avadhani G.S.</td>
+<td>Avadhani G. S.</td>
 <td>Deformation And Recrystallization Behaviour Of High Entropy Alloy.</td>
 </tr>
 <tr>
@@ -2320,7 +2313,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Towards The Synthesis Of Graphene Foams By Powder Metallurgical Route</td>
 </tr>
 <tr>
-<td>Jagadeshvaran P L</td>
+<td>Jagadeshvaran P. L.</td>
 <td>Suryasarathi Bose</td>
 <td>Effects Of Graphene Oxide On Miscibility And Morphology Evolution Of Polymer Blends With Weak Dynamic Asymmetry</td>
 </tr>
@@ -2332,7 +2325,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tr>
 <td>Sunil Kumar Behera</td>
 <td>Subho Dasgupta</td>
-<td>Inkjet Printed Amorphous Indium – Zinc – Oxide / Silver Hybrid Channel Thin Film Transistors </td>
+<td>Inkjet Printed Amorphous Indium-Zinc-Oxide/Silver Hybrid Channel Thin Film Transistors </td>
 </tr>
 <tr>
 <td>Daidi Surya Teja</td>
@@ -2341,7 +2334,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Om Puri Gosain</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Optimization Of Chromium And Titanium Content In Tungsten-Free Γ’- Strengthened Cobalt Based Superalloys For Thermo-Physico-Mechanical And Oxidation Properties</td>
 </tr>
 <tr>
@@ -2351,6 +2344,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2017</b>
 <br>
@@ -2358,7 +2352,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2368,7 +2362,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Ankita Dashrath Maske</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Inkjet Printing Of Germanium Film Via Nanoparticle Ink Formations</td>
 </tr>
 <tr>
@@ -2383,7 +2377,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Priyanshi Agrawal</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Mechanical Properties Of Electrodeposited Nanocrystalline Ni</td>
 </tr>
 <tr>
@@ -2398,12 +2392,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Gollapalli Prince</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Microstructure, Mechanical, And Damping Properties Of Magnesium AlloyAz91/Sicp/Fly Ash Hybrid Composite</td>
 </tr>
 <tr>
 <td>Mridul Pant</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Wear Studies On Az91-3%Sicp-3%Fly Ash Magnesium Hybrid Composites</td>
 </tr>
 <tr>
@@ -2433,7 +2427,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Basavaraj P. Kalinganavar</td>
-<td>Avadhani G.S.</td>
+<td>Avadhani G. S.</td>
 <td>The Effect Of Alloying Additions And Heat-Treatment On The Mechanical Properties Of Nano-Pearlitic Steel And Optimization Of Hot Workability By Developing A Processing Map</td>
 </tr>
 <tr>
@@ -2473,7 +2467,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Abhijeet Nayak</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Effect Of Finite Precipitate Volume Fraction On The Coarsening Behavior : A Phase Field Study</td>
 </tr>
 <tr>
@@ -2483,6 +2477,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2016</b>
 <br>
@@ -2490,17 +2485,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Pramod Kumar Sharma</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>A Phase-Field Model For Simulating Pitting Corrosion</td>
 </tr>
 <tr>
 <td>Supriyo Chakraborty</td>
-<td>Abhik N Chowdhury</td>
+<td>Abhik N. Chowdhury</td>
 <td>Phase Field Study Of The Electric Current Induced Void Evolution And Grain-Boundary Grooving</td>
 </tr>
 <tr>
@@ -2515,12 +2510,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Patil Chaitali Shridhar</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Study Of Precipitation Hardened Niobium-Silicon – Aluminium Alloys</td>
 </tr>
 <tr>
 <td>Rakesh R. Kamath</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Size-Effect Study On Mechanical Behaviour Of Niobium Micro-Wires</td>
 </tr>
 <tr>
@@ -2545,12 +2540,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Urvashi Bothra</td>
-<td>Praveen C Ramamurthy</td>
+<td>Praveen C. Ramamurthy</td>
 <td>Fabrication Of Organic Solar Cells On Flexible Glass</td>
 </tr>
 <tr>
 <td>Abhishek Agarwal</td>
-<td>Rajeev Ranajan</td>
+<td>Rajeev Ranjan</td>
 <td>Effect Of Poling On Photoluminescence, Structural And Electrical Properties Of Erbium Doped Na0.5bi0.5tio3 And 0.94na0.5bi0.5tio3-0.06batio3</td>
 </tr>
 <tr>
@@ -2565,11 +2560,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Awadh Kishor Gupta</td>
-<td>Satyam Suwas / Avadhani G.S.</td>
+<td>Satyam Suwas &amp; Avadhani G. S.</td>
 <td>Effect Of Alloying Addition On Interlamellar Spacing In Pearlitic Grade Steel</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2015</b>
 <br>
@@ -2577,12 +2573,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Akash Ashis Bhattacharjee</td>
-<td>Abhik N Choudhury</td>
+<td>Abhik N. Choudhury</td>
 <td>Phase Field Modelling Of Mode Iii Dynamic Fracture</td>
 </tr>
 <tr>
@@ -2592,12 +2588,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Manoj Kumar Yadav</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>High Temperature Deformation Behavior Of Lutetium Doped Alumina</td>
 </tr>
 <tr>
 <td>Nikki Ramesh Kamble</td>
-<td>Avadhani G.S. & Satyam Suwas</td>
+<td>Avadhani G. S. &amp; Satyam Suwas</td>
 <td>Hot Deformation Processing Of Magnesium Alloys, Am30 And Am50</td>
 </tr>
 <tr>
@@ -2612,7 +2608,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Rishi Ramdas Shivhare</td>
-<td>Praveen C Ramamurthy</td>
+<td>Praveen C. Ramamurthy</td>
 <td>Comparative Analysis Of Ageing Induced Performance Degradation Between P-I-N And N-I-P Structured Organic Solar Cells</td>
 </tr>
 <tr>
@@ -2622,7 +2618,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Sawant Amitkumar Shripati</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Effect Of Alloying Additions On Newly Developed Tungsten Free Cobalt Based Superalloy</td>
 </tr>
 <tr>
@@ -2657,6 +2653,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2014</b>
 <br>
@@ -2664,12 +2661,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Abhishek Goswami</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Structural And Mechanical Studies On Sea Shells</td>
 </tr>
 <tr>
@@ -2689,17 +2686,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Chandan Kumar</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis And Phase Transformation Behavior Of Materials At Nano Scale</td>
 </tr>
 <tr>
 <td>Gangineni Pavan Kumar</td>
-<td>Praveen C Ramamurthy</td>
+<td>Praveen C. Ramamurthy</td>
 <td>Current Soaking Studies Of Organic Electronic Devices</td>
 </tr>
 <tr>
 <td>Kadambi Sourabh Bhagwan</td>
-<td>Ramamurty U</td>
+<td>Ramamurty U.</td>
 <td>Indentation Studies On Tilted Copper Samples And Ni-Ti Shape Memory Alloys</td>
 </tr>
 <tr>
@@ -2709,7 +2706,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Muhammad Arif</td>
-<td>Govind S Gupta</td>
+<td>Govind S. Gupta</td>
 <td>Mathematical Modelling Of Iron Ore Sintering Process</td>
 </tr>
 <tr>
@@ -2724,17 +2721,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Pusuluri Srimannarayana</td>
-<td>Karthikeyan S</td>
+<td>Karthikeyan S.</td>
 <td>Phase Field Modelling Of Suzuki Strengthening In Pseudo-Binary Ni3Al,Ti System</td>
 </tr>
 <tr>
 <td>Shyamal Nayak</td>
-<td>Subramanian S</td>
+<td>Subramanian S.</td>
 <td>Studies On The Recovery Of Uranium, Niobium And Rare Earth Elements From A Lean Grade Ore</td>
 </tr>
 <tr>
 <td>Subrata Panda</td>
-<td>Avadhani Gs / Satyam Suwas</td>
+<td>Avadhani G. S. &amp; Satyam Suwas</td>
 <td>Microstructure, Texture And Mechanical Properties In Metastable Beta Titanium Alloy Ti-5553 </td>
 </tr>
 <tr>
@@ -2744,7 +2741,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Sukriti Manna</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Stress Effects On Composition Profile Of Ordered Precipitates: A Phase Field Study</td>
 </tr>
 <tr>
@@ -2754,11 +2751,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Senthil Kumar Nadar</td>
-<td>Ashok M Raichur</td>
+<td>Ashok M. Raichur</td>
 <td>Control Of Size, Shape And Crystallographic Phase Of Calcium Carbonate Particles</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2013</b>
 <br>
@@ -2766,26 +2764,26 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Agepati Srinivasa</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Mechanical Behavior Of Nickel Microwires</td>
 </tr>
 <tr>
-<td>Vishal N Soni</td>
+<td>Vishal N. Soni</td>
 <td>Karthikeyan S.</td>
 <td>Effect Of Texture On High Strain Rate Deformation Of Ti 6al-4v</td>
 </tr>
 <tr>
 <td>Avishek Kumar</td>
-<td>Praveen C Ramamurthy</td>
+<td>Praveen C. Ramamurthy</td>
 <td>Structure Property Relationship Of Polymers For Organic Electronics</td>
 </tr>
 <tr>
-<td>Md Dilkash Azam</td>
+<td>Md. Dilkash Azam</td>
 <td>Kaushik Chatterjee</td>
 <td>-Caprolactone-Graphene BasedPoly Nanocomposite For Bone Tissue Engineering</td>
 </tr>
@@ -2796,7 +2794,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Arnab Mukherjee</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Phase Separation In Polymer Blends With Fillers : A Phase Field Study</td>
 </tr>
 <tr>
@@ -2821,22 +2819,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Sarfaraj Islam</td>
-<td>Ravi R. & Aloke Paul</td>
+<td>Ravi R. &amp; Aloke Paul</td>
 <td>The Phase Evolution In AuCu/Sn System By Solid State Reactive Diffusion And Diffusion Studies In CuNi/Sn</td>
 </tr>
 <tr>
 <td>Sahithya Kandalam</td>
-<td>Avadhani G.S./ Satyam Suwas</td>
+<td>Avadhani G. S. &amp; Satyam Suwas</td>
 <td>Processing- Microstructure- Property Correlation In We43 Alloy</td>
 </tr>
 <tr>
 <td>Bhingardive Viraj Vishnu</td>
-<td>Subramanian S. & Narayana B.V.</td>
+<td>Subramanian S. &amp; Narayana B. V.</td>
 <td>Studies On The Recovery Of Uranium, Niobium And Ree From A Lean Grade Ore.</td>
 </tr>
 <tr>
 <td>Madhawan Chandra Wanshi</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Development Of Al-Cu-V-Zr Alloy For High Temperature Applications</td>
 </tr>
 <tr>
@@ -2851,6 +2849,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2012</b>
 <br>
@@ -2858,7 +2857,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -2873,12 +2872,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Prince Raj</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Optimisation Of Temperature For The Production Of Silicon Carbide Via Carbothermal Route</td>
 </tr>
 <tr>
 <td>Prafull Pandey</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Effects Of Minute Additions Of Ternary Elements Ni, Cu And Fe On The Morphology And Solidification Behavior Of The Sn-Zn Eutectic Alloy</td>
 </tr>
 <tr>
@@ -2903,12 +2902,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Nilesh Hansraj Warthi</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Strength In Nickel Microwaves</td>
 </tr>
 <tr>
 <td>Santosh Kumar</td>
-<td>Narayana B.V. & Subramanian S.</td>
+<td>Narayana B. V. &amp; Subramanian S.</td>
 <td>Studies On The Dissolution Of Uranium From A Syenite Ore</td>
 </tr>
 <tr>
@@ -2928,7 +2927,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Varun Arvind Baheti</td>
-<td>Aloke Paul & Ravi R.</td>
+<td>Aloke Paul &amp; Ravi R.</td>
 <td>Interdiffusion Stuidesin Binary Co-Ta System And Ternary CoNi-Ta, CoNi-Nb And Fe Ni-Nb Systems</td>
 </tr>
 <tr>
@@ -2943,7 +2942,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Shekhar Tapase</td>
-<td>Satyam Suwas & Avadhani G.S.</td>
+<td>Satyam Suwas &amp; Avadhani G. S.</td>
 <td>Processing – Texture Relationship In Magnesium Alloy We 43</td>
 </tr>
 <tr>
@@ -2958,34 +2957,35 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Supriyo Ghosh</td>
-<td>T. A. Abinandanan</td>
+<td>Abinandanan T. A.</td>
 <td>Effect Of Particles On Spinodal Decomposition: A Phase Filed Study</td>
 </tr>
 <tr>
 <td>Vinay Patel</td>
-<td>T. A. Abinandanan</td>
+<td>Abinandanan T. A.</td>
 <td>Computational Thermodynamics Of Point Defects In L12-Ordered Intermetallic Material g’-Ni3al </td>
 </tr>
 </tbody>
 </table>
-<br
+
+<br>
 <b>2011</b>
 <br>
 <table>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Debashish Das</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Electrodeposited Nano And Electropolished Micro Nickel Wires: Synthesis And Mechanical Properties</td>
 </tr>
 <tr>
 <td>Shikhar</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>High Temperature Deformation Study Of Ultra Fine Grained Nickel</td>
 </tr>
 <tr>
@@ -3015,12 +3015,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Arka Lahiri</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Spinodal Decomposition In Epitaxially Grown Thin Films</td>
 </tr>
 <tr>
 <td>Joshi Chairanya Amol</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Phase Field Modeling Of Discontinuous Spinodal Decomposition</td>
 </tr>
 <tr>
@@ -3050,12 +3050,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Jai Prakash</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Study Of Sliding Friction Induced Subsurface Deformation Of Crystalline Al And Quasicrystalline Al65cu15co20 Material</td>
 </tr>
 <tr>
 <td>Kundan Kumar</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Study Of Microstructures And Oxidation Behaviour Of Ni-14a1-10zr Ternary Alloy</td>
 </tr>
 <tr>
@@ -3089,13 +3089,14 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Characterization Of Cast Ni Based Superalloy</td>
 </tr>
 <tr>
-<td> Sajid Hussain M.D.</td>
+<td> Sajid Hussain M. D.</td>
 <td>Dipankar Banerjee</td>
 <td>Globularization Of A Near Α Titanium Alloy</td>
 </tr>
 </tbody>
 </table>
 <br>
+
 ### 2010-2001
 <br>
 <b>2010</b>
@@ -3104,22 +3105,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Aravinda Raja A</td>
-<td>Abinandanan T.A.</td>
+<td>Aravinda Raja A.</td>
+<td>Abinandanan T. A.</td>
 <td>Grain Growth in a System With Anisotropic Grain Boundary Mobility: A Monte Carlo Study</td>
 </tr>
 <tr>
-<td>Ashwin N K Jayaraman</td>
+<td>Ashwin N. K. Jayaraman</td>
 <td>Ramamurty U.</td>
 <td>Orientation Dependence of Mechanical Properties in Ferromagnetic Shape Memory Alloy NiMnGa</td>
 </tr>
 <tr>
 <td>Hariprasad G.</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>A study of the indentation mechanical response of abalone nacre and the effect of the organic phase on its deformation across different length scales</td>
 </tr>
 <tr>
@@ -3134,11 +3135,11 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Proloy Nandi</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Effect of Ni addition to rapidly solidified Al-Sc binary alloy - A study of Microstructural evolution and Mechanical Properties</td>
 </tr>
 <tr>
-<td>G Praveen</td>
+<td>G. Praveen</td>
 <td>Subodh Kumar</td>
 <td>Effect of Addition of Sc and mg to 2219 Al alloy</td>
 </tr>
@@ -3148,12 +3149,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Processing-Microstructure-Texture relationship in Interstitial Free I F steel, Pearlitic steel and Twin Induced Plasticity TWIP steel</td>
 </tr>
 <tr>
-<td>K Mageshwari</td>
-<td>Abinandanan T.A.</td>
+<td>K. Mageshwari</td>
+<td>Abinandanan T. A.</td>
 <td>Phase Field Study of Solute Drag Effects on Grain Growth</td>
 </tr>
 <tr>
-<td>G Kannan</td>
+<td>G. Kannan</td>
 <td>Satyam Suwas</td>
 <td>Processing – Microstructure – Property Relationship in Mg/SiCp and AZ91/SiCp Composites</td>
 </tr>
@@ -3164,11 +3165,11 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Nondo Doka</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Determination of Temperature and Time for the Processing of Boron Carbide Through Carbothermal Route</td>
 </tr>
 <tr>
-<td>P Arun Dinesh</td>
+<td>P. Arun Dinesh</td>
 <td>Satyam Suwas</td>
 <td>Accumulative Roll Bonding of Similar and Dissimilar A1/Zn/Mg</td>
 </tr>
@@ -3178,7 +3179,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Structure and Phase Transition of 1-x BiFeO3-xPbTiO3 and 1-xBiFeO3-xPbTi 1-yZryO3</td>
 </tr>
 <tr>
-<td>Deepa J</td>
+<td>Deepa J.</td>
 <td>Subramanian S.</td>
 <td>Bioremediation of Copper and Zinc</td>
 </tr>
@@ -3199,6 +3200,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2009</b>
 <br>
@@ -3206,22 +3208,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Appa Rao Chintha</td>
-<td>T A Abinandanan</td>
+<td>Abinandanan T. A.</td>
 <td>Grain Growth with Different Types of Grain Boundaries A : Monte Carlo Study</td>
 </tr>
 <tr>
-<td>Ambresha B</td>
-<td>Ashok M Raichur</td>
+<td>Ambresha B.</td>
+<td>Ashok M. Raichur</td>
 <td>Studies on Colloidal Stability of Hematite in the Presence of Biosurfactant</td>
 </tr>
 <tr>
 <td>Ashutosh Jangde</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Synthesis and Recrystallization Study of AA5182/Al2O3 nanocomposite</td>
 </tr>
 <tr>
@@ -3250,8 +3252,8 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Effect of non-stoichiometry on the densification behavior of reactively processed ZrC and its composite</td>
 </tr>
 <tr>
-<td>Maya Kini K</td>
-<td>Atul H. Chokshi</td>
+<td>Maya Kini K.</td>
+<td>Chokshi A. H.</td>
 <td>High temperature deformation behaviour of titania doped 3 mol% yattria stabilized tetragonal zirconia</td>
 </tr>
 <tr>
@@ -3266,16 +3268,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Vetrivendan E.</td>
-<td>K Chattopadhyay</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstructure and Mechanical properties correlation study of rapidly solidified Zn-Al-Cu and Al-Cu-Si ternary eutectic alloys</td>
 </tr>
 <tr>
-<td>Vamsi K.V.</td>
-<td>Karthikeyan S</td>
+<td>Vamsi K. V.</td>
+<td>Karthikeyan S.</td>
 <td>Stability of Ni3Al,Ti in Ordered Structures</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2008</b>
 <br>
@@ -3283,7 +3286,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -3298,22 +3301,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Badri Narayanan</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Microstructural Evolution in Alloy Thin Films</td>
 </tr>
 <tr>
-<td>Chandrahas R.R.</td>
+<td>Chandrahas R. R.</td>
 <td>Subramanian S.</td>
 <td>Synthesis of Aluminum Wollastonite Composite Through Electro Slag Refining Process</td>
 </tr>
 <tr>
 <td>Mithipati Siva Bhaskar</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Recovery and Recrystallization Behaviour of AA356/SiCp Composites</td>
 </tr>
 <tr>
 <td>Modhura Biswas</td>
-<td>Ashok M Raichur</td>
+<td>Ashok M. Raichur</td>
 <td>Colloidal Stability of Nano Zirconia in the presence of Dispersants</td>
 </tr>
 <tr>
@@ -3323,17 +3326,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Naveen Kumar</td>
-<td>Govind S Gupta</td>
+<td>Govind S. Gupta</td>
 <td>Optimization of Boron Carbide manufacturing Process by a Carbothermal Route</td>
 </tr>
 <tr>
-<td>Ram Prabhu T</td>
-<td>Ramamurty U</td>
+<td>Ram Prabhu T.</td>
+<td>Ramamurty U.</td>
 <td>i Mechanical properties of P/M processed low alloy steel, ii To develop process and characterization low density cenosphere filled steel Cellular steel </td>
 </tr>
 <tr>
 <td>Srinivas V.</td>
-<td>Chokshi A H</td>
+<td>Chokshi A. H.</td>
 <td>A Study on Strength Dependence of Individual Phases on the Onset of Superplasticity in Al-Cu Eutectic Alloy</td>
 </tr>
 <tr>
@@ -3348,11 +3351,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Vijay Pal Shivran</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis, Characterization and Mechanical Testing of AlGaIn30CoCuNiAg.540SnPbSbBi20TiV10 High Entropy Alloy</td>
 </tr>
 </tbody>
 </table>
+
 <br> 
 <b>2007</b>
 <br>
@@ -3360,12 +3364,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Appala Naidu G.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Microstructure Evolution during Sintering: A Phase Field Study</td>
 </tr>
 <tr>
@@ -3380,17 +3384,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Manas Kumar Mondal</td>
-<td>Govind S Gupta</td>
+<td>Govind S. Gupta</td>
 <td>Computer Simulation of RH and REDA Processes Used for the Production of Ultra-Low-Carbon Steel</td>
 </tr>
 <tr>
-<td>Manohar N</td>
-<td>Surappa M.K.</td>
+<td>Manohar N.</td>
+<td>Surappa M. K.</td>
 <td>Grain Refinement and Process ing of Magnesium and Al-10% Mg Alloy Chips in Bulk Form by Conventional Deformation Processes</td>
 </tr>
 <tr>
 <td>Niranjan Behera</td>
-<td>Subramanian S</td>
+<td>Subramanian S.</td>
 <td>Synthesis of Aluminum Titanium diboride composite through Electroslag Refining Process</td>
 </tr>
 <tr>
@@ -3400,17 +3404,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Pradipta Ghosh</td>
-<td>Chokshi A.H.</td>
+<td>Chokshi A. H.</td>
 <td>Room Temperature Mechanical Behavior of Electrodeposited Nickel and Nickel-Alumina composite</td>
 </tr>
 <tr>
 <td>Praveen Kumar</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Development of High Strength Ni-Ti-Ta Ternary Eutectic Alloys</td>
 </tr>
 <tr>
 <td>Shishir Jain</td>
-<td>Satyam Suwas & Ranganathan S. </td>
+<td>Satyam Suwas &amp; Ranganathan S.</td>
 <td>Reconstruction of 3D Microstructures Using Serial Sectioning Techniques: Titanium Alloy and Steel</td>
 </tr>
 <tr>
@@ -3425,6 +3429,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br> 
 <b>2006</b>
 <br>
@@ -3432,26 +3437,26 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Manoranjan Mishra</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Processing of bulk nanostructured materials in 6061-T6 and Al-5%Mg alloy</td>
 </tr>
 <tr>
 <td>Ashwani Kumar</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Re-evaluation of thermodynamic properties of manganese oxides : MnO, Mn3O4, Mn2O3 and MnO2</td>
 </tr>
 <tr>
 <td>Nilesh Kumar</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>A study of the Kirkendall effect by phase field method</td>
 </tr>
 <tr>
-<td>Sugeetha V</td>
+<td>Sugeetha V.</td>
 <td>Vikram Jayaram</td>
 <td>A study of contact indentation fatigue damage of TiN thin film on stainless steel substrate</td>
 </tr>
@@ -3462,7 +3467,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Chukka Rami Naidu</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Characterization of boron carbide produced by carbothermal route</td>
 </tr>
 <tr>
@@ -3482,7 +3487,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Lokesh Kumar Paliwal</td>
-<td>Ranganathan S./Satyam Suwas</td>
+<td>Ranganathan S. &amp; Satyam Suwas</td>
 <td>Reconstruction of 3D microstructures using Montage based serial sectioning technique in A356 and A356 with 20% SiC</td>
 </tr>
 <tr>
@@ -3497,16 +3502,16 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Ratnabhupala Reddy P</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on melting temperature depression for Sn-Ag-Cu and Sn-Zn solder alloys by mechanical alloying/milling</td>
 </tr>
 <tr>
 <td>Rajesh K</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Creep and grain boundary sliding studies on coarse grained AZ31 Mg alloy</td>
 </tr>
 <tr>
-<td> Ramana Murthy Kolluri N.V.V.</td>
+<td>Ramana Murthy Kolluri N. V. V.</td>
 <td>Ramamurty U.</td>
 <td>Strain hardening and fatigue in metal foams: The effect of constraint</td>
 </tr>
@@ -3517,6 +3522,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br> 
 <b>2005</b>
 <br>
@@ -3524,17 +3530,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Amitesh Madeshia</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Glassy phase embedded in crystalline matrix</td>
 </tr>
 <tr>
 <td>Gaurav Singh</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>A phase field model of thermal grooving of grain boundary</td>
 </tr>
 <tr>
@@ -3554,7 +3560,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Manish Gopal</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Mathematical modeling of Acheson process</td>
 </tr>
 <tr>
@@ -3564,7 +3570,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Manish Patel</td>
-<td>Ranganthan S. & Subodh Kumar</td>
+<td>Ranganthan S. &amp; Subodh Kumar</td>
 <td>Correlation of microstructures and mechanical properties of sand-cast Mg97Zn2Y1 alloy and squeeze-cast AE42 alloy</td>
 </tr>
 <tr>
@@ -3574,12 +3580,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Yathapu Nithin</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Characterization of nano-size platelet/fiber reinforced polymer matrix composites</td>
 </tr>
 <tr>
 <td>Vikas Kumar Sinha</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Studies on bubble formed by liquid-liquid reaction</td>
 </tr>
 <tr>
@@ -3589,11 +3595,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Kanhaiya Kumar</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Processing of bulk nanocrystalline materials by conventional deformation processes</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2004</b>
 <br>
@@ -3601,7 +3608,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -3615,23 +3622,23 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Mechanical behaviour of polymeric systems with varying adhesively bonded area</td>
 </tr>
 <tr>
-<td> Prasad M.J.N.V.</td>
-<td>Atul H. Chokshi</td>
+<td>Prasad M. J. N. V.</td>
+<td>Chokshi A. H.</td>
 <td>Work hardening and rate sensitivity of copper at room temperature as a function of grain size</td>
 </tr>
 <tr>
-<td> Vijay Karthik S.</td>
+<td>Vijay Karthik S.</td>
 <td>Vikram Jayaram</td>
 <td>Preparation and characterization of lead zirconate titanate PZT films by flame spray pyrolysis</td>
 </tr>
 <tr>
 <td>Kulbhashkar Singh</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Processing and characterization of magnesium alloy AZ91 – fly ash composite</td>
 </tr>
 <tr>
 <td>Korimilli Eswara Prasad</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Simulation of cooling rate in Al-Mg alloys and structure – property correlations</td>
 </tr>
 <tr>
@@ -3666,17 +3673,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Abhijit Pramanik</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstructural evolution in laser surface alloyed Al-Sn</td>
 </tr>
 <tr>
 <td>M. Kodandaram</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Effect of anisotropy in interfacial energy on microstructural evolution during spinodal decomposition</td>
 </tr>
 <tr>
 <td>Venugopala Rao E.</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Hot deformation characteristics of extruded magnesium AM20 alloy</td>
 </tr>
 <tr>
@@ -3686,6 +3693,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2003</b>
 <br>
@@ -3693,22 +3701,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Swati Biswas</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Studies on driven systems : The case of Cu-Ag and Cu-Ag-Fe</td>
 </tr>
 <tr>
 <td>B. Shyam Sundar</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Hot working of as-cast dilute magnesium alloys Mg-2.2 Al-0.5Mn and Mg-2.3 Al-1.06 Zn-0.5Mn</td>
 </tr>
 <tr>
 <td>Ashok Kumar Mondal</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics and phase equilibria in the selected quaternary III-V semiconductor alloys</td>
 </tr>
 <tr>
@@ -3723,11 +3731,11 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Virendra Singh</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Effect of niobium and titanium on the creep behaviour of Fe3Al</td>
 </tr>
 <tr>
-<td>M.C. Kumaran</td>
+<td>M. C. Kumaran</td>
 <td>Ramamurty U.</td>
 <td>Energy absorption characteristics of aluminium foam during conical indentation</td>
 </tr>
@@ -3738,16 +3746,16 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Somnath Bhattacharyya</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Measurement of liquid hold-up in presence of gas flow in a packed bed</td>
 </tr>
 <tr>
 <td>Sanjay Agarwal</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Effect of ball milling on reduction of iron ore using coal</td>
 </tr>
 <tr>
-<td>Sandip P Harimkar</td>
+<td>Sandip P. Harimkar</td>
 <td>Kishore</td>
 <td>Response to impact in epoxy systems containing short fibers and/or oxide particle reinforcements</td>
 </tr>
@@ -3763,11 +3771,11 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Prachi Galgalikar</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Investigation of serrated flow in Al-7Mg-20% SiCp composite</td>
 </tr>
 <tr>
-<td>Nitin P Wasekar</td>
+<td>Nitin P. Wasekar</td>
 <td>Subramanian S.</td>
 <td>Effect of processing route on impact toughness and tensile strength of B2 FeAl intermetallics</td>
 </tr>
@@ -3778,11 +3786,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Randhir Singh</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>A study on mass/charge transport in mixed conducting solid oxide fuel cell</td>
 </tr>
 </tbody>
 </table>
+
 <br> 
 <b>2002</b>
 <br>
@@ -3790,7 +3799,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -3800,12 +3809,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Atish Kumar Ray</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on undercooling of copper-phosphorous binary alloy</td>
 </tr>
 <tr>
 <td>Rashmi Ranjan Mohanty</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>A diffuse interface model study of spinodal decomposition inside a particle</td>
 </tr>
 <tr>
@@ -3820,7 +3829,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Arijit Maitra</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Mathematical modeling of blast furnace hearth drainage</td>
 </tr>
 <tr>
@@ -3840,6 +3849,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2001</b>
 <br>
@@ -3847,17 +3857,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Lakshya Kumar</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Failure Analysis of valve springs</td>
 </tr>
 <tr>
 <td>Manas Ranjan Nayak</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Studies on blast furnace hearth drainage and mixing characteristics inside a packed bed</td>
 </tr>
 <tr>
@@ -3867,7 +3877,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Pritish Bhattacharya</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>A fourier spectral method of studying spinodal decomposition</td>
 </tr>
 <tr>
@@ -3877,7 +3887,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Suchismita Sanyal</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstructural development in laser cladding and remelting of Al-Si-Bi on Al-Si substrate</td>
 </tr>
 <tr>
@@ -3892,20 +3902,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Parveen Sood</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Thermodynamics of undoped rare earth manganates for CMR applications</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 ### 2000-1991
+<br>
 <b>2000</b>
 <br>
 <table>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -3920,7 +3932,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Vikram Jayaram T.</td>
-<td>Raman K.S. & Seshan S.</td>
+<td>K. S. Raman &amp; Seshan S.</td>
 <td>Production of near net shape castings – through plaster of paris moulds</td>
 </tr>
 <tr>
@@ -3935,37 +3947,37 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>J. Srikanth</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Studies on bioprocessing of titania using bacillus polymyxa</td>
 </tr>
 <tr>
 <td>L. Satyavathi</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Studies on the creep behaviour of powder processed Fe-40 at. % Al alloys</td>
 </tr>
 <tr>
 <td>Sabita Sarkar</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Conjugate mass transfer around a spherical particle in unsteady state condition</td>
 </tr>
 <tr>
 <td>Subhradeep Chatterjee</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>A diffuse interface model simulation of grain boundary grooving</td>
 </tr>
 <tr>
 <td>Suman Kumar Mitra</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Investigation on the synthesis of bulk metallic glass in Zr-Ti-Cu-Ni-Al based alloy system</td>
 </tr>
 <tr>
 <td>Krishanu Biswas</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Development of quasicrystalline coating of Al-Cu-Fe system by laser cladding and detonation gum process</td>
 </tr>
 <tr>
 <td>Sanjit Bhowmick</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>High temperature deformation of fine grained equal channel angular extrusion processed 2124 Al alloy</td>
 </tr>
 <tr>
@@ -3979,13 +3991,13 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Phase evolution studies in ZnO-Al2O3 as synthesised by spray pyrolysis and by citrate-gel routes</td>
 </tr>
 <tr>
-<td>S.S.V. Ravikumar</td>
-<td>Abinandanan T.A.</td>
+<td>S. S. V. Ravikumar</td>
+<td>Abinandanan T. A.</td>
 <td>Modelling of nucleation</td>
 </tr>
 <tr>
 <td>Rajendra Prasad Biswal</td>
-<td>Subramanian S. & Lahiri A.K.</td>
+<td>Subramanian S. &amp; Lahiri A. K.</td>
 <td>Novel studies on joining of aluminium and steel using the electroslag technique</td>
 </tr>
 <tr>
@@ -3995,27 +4007,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Indrajit Charit</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>High temperature deformation characteristics of a low purity 3 mol% yttria Stabilized zirconia</td>
 </tr>
 <tr>
 <td>Samaresh Changdar</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Influence of spray forming on the wear behaviour of hypereutictic Al-20%Si alloys</td>
 </tr>
 <tr>
 <td>P. Rajani</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Effect of processing parameters on ring rolling of Ti-6Al-4V</td>
 </tr>
 <tr>
 <td>Sandeep Kumar Vishwakarma</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Transient modelling and computer simulation of multiple hearth roaster</td>
 </tr>
 <tr>
 <td>H. Sanjay</td>
-<td>Bhat M.V.</td>
+<td>M. V. Bhat</td>
 <td>Studies on corrosion of nodular cast iron in aqueous sodium chloride solution</td>
 </tr>
 <tr>
@@ -4025,17 +4037,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Chandan Mondal</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Studies on microstructural evolution and recrystallization behavior of Al-10Mg/SiCp composite by EBSP technique</td>
 </tr>
 <tr>
 <td>Ajitesh Narayan</td>
-<td>Raman K.S. & Seshan S.</td>
+<td>K. S. Raman &amp; Seshan S.</td>
 <td>Studies on squeeze cast magnesium alloys</td>
 </tr>
 <tr>
 <td>Nirmal Kumar</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Partitioning of heat for gas solid reaction</td>
 </tr>
 <tr>
@@ -4045,46 +4057,47 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Partha Patra</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Studies on bioprocessing of zirconia</td>
 </tr>
 <tr>
 <td>Niroj Kumar Dash</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Development of protective surface coating produced by thermal spray and slurry coating processes</td>
 </tr>
 <tr>
 <td>Chhail Kumar Behera</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Activities of spinel components in the pre-reduced chrome ore : Modelling and experiment</td>
 </tr>
 <tr>
 <td>Sunil Kumar G.</td>
-<td>Subramanian S. & Lahiri A.K.</td>
+<td>Subramanian S. &amp; Lahiri A. K.</td>
 <td>Studies on development of plain carbon steel-alloy bimetallic joints by electroslag remelting process</td>
 </tr>
 <tr>
 <td>Venkatasai Prasad K.</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Studies on peripheral grain growth in extruded 2014 Al alloy</td>
 </tr>
 <tr>
-<td>Sachin P Deshmukh</td>
+<td>Sachin P. Deshmukh</td>
 <td>Ranganathan S.</td>
 <td>Oxidation studies of MoSi2 composites</td>
 </tr>
 <tr>
 <td>Yogeshwari Prasad Pandy</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Simulation of fluidized bed in corex process</td>
 </tr>
 <tr>
 <td>Pande Aniruddha Suresh</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Dry sliding wear study of Al-Si-SiCp composites against automobile brake pad</td>
 </tr>
 </tbody>
 </table>
+
 <br> 
 <b>1999</b>
 <br>
@@ -4092,17 +4105,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>U. Rama Krishna</td>
-<td>Surappa M.K. & Sastry D.H.</td>
+<td>Surappa M. K. &amp; Sastry D. H.</td>
 <td>Tribological behaviour of Al-Si-SiCp composites/automobile brake pad system under dry sliding conditions</td>
 </tr>
 <tr>
 <td>Amitava Mukherjee</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Biooxidation studies on gold bearing pyrite-arsenopyrite concentrates</td>
 </tr>
 <tr>
@@ -4112,32 +4125,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>N. Sirish</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>High temperature deformation behaviour of 3 mol% yttria stabilized tetragonal zirconia</td>
 </tr>
 <tr>
 <td>A. Krishna Kanth</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of Mn-Mo alloy system using the isopiestic technique</td>
 </tr>
 <tr>
 <td>Vasanth Kumar P.</td>
-<td>Govind S Gupta</td>
+<td>Govind S. Gupta</td>
 <td>Computer simulation of Acheson process</td>
 </tr>
 <tr>
 <td>Suman Babu Adduri</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Dry sliding wear behaviour of Mg alloys</td>
 </tr>
 <tr>
-<td>Narasimha Rao K.V.</td>
-<td>Surappa M.K.</td>
+<td>Narasimha Rao K. V.</td>
+<td>Surappa M. K.</td>
 <td>Investigation of serrated flow in Al-10%Mg alloy</td>
 </tr>
 <tr>
-<td>Ravikumar A.V.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Ravikumar A. V.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Evaluation of wear and corrosion behaviour of magnesium based alloys and composites AZ91 + 10% SiCp </td>
 </tr>
 <tr>
@@ -4147,7 +4160,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Anindya Poddar</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstructural development of aluminium-silicon-bismuth alloy clad using laser beam</td>
 </tr>
 <tr>
@@ -4157,17 +4170,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>S. Sundarsriram</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Effect of cryogenic treatment on tool steels</td>
 </tr>
 <tr>
 <td>Subrata Pal</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>One-dimensional steady state multi phase mathematical model of melter gasifier</td>
 </tr>
 <tr>
 <td>Tarun Kumar Kundu</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Modelling for biooxidation of gold bearing pyrite-arsonopyrite concentrates in a continuous flow stirred tank bioreactor</td>
 </tr>
 <tr>
@@ -4182,11 +4195,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Sudhakar G.</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of surfaces and adsorption in binary metallic systems</td>
 </tr>
 </tbody>
 </table>
+
 <br> 
 <b>1998</b>
 <br>
@@ -4194,17 +4208,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Papayya Raju A.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Precipitation in ternary systems : a Monte Carlo study</td>
 </tr>
 <tr>
 <td>Ajay K. Ghode</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Wear studies on A356 and A356-SiCp hybrid composites under dry sliding condition</td>
 </tr>
 <tr>
@@ -4218,18 +4232,18 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Fabrication and characterisation of syntactic foams and their sandwiches</td>
 </tr>
 <tr>
-<td>Ravi sankar K.V.</td>
-<td>Atul H. Chokshi</td>
+<td>Ravi sankar K. V.</td>
+<td>Chokshi A. H.</td>
 <td>High temperature deformation and cavitation in 300 ppm magnesia doped alumina</td>
 </tr>
 <tr>
 <td>Pritha Choudhury</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Bio-corrosion studies of titanium in presence of Bacillus Polymyxa and Thiobacillus ferrooxidans</td>
 </tr>
 <tr>
 <td>Aloke Paul</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Beneficiation of iron ore minerals</td>
 </tr>
 <tr>
@@ -4243,22 +4257,23 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Synthesis and characterisation of finely dispersed Pb in alumina</td>
 </tr>
 <tr>
-<td> Pradhan S.K.</td>
-<td>Dwarakadasa E.S.</td>
+<td> Pradhan S. K.</td>
+<td>Dwarakadasa E. S.</td>
 <td>UHMWPE-CSP Coconut shell powder composites, processing and characterisation</td>
 </tr>
 <tr>
-<td>K.K. Prashanth</td>
-<td>Chattopadhyay K.</td>
+<td>K. K. Prashanth</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Laser surface cladding of copper on iron substrate</td>
 </tr>
 <tr>
 <td>Sujata Hazra</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Simulation of flow behaviour in reduction shaft of corex process</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1997</b>
 <br>
@@ -4266,12 +4281,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Bikramjit Basu</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Laser surface cladding of intermetallics on iron substrate</td>
 </tr>
 <tr>
@@ -4281,22 +4296,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Usha D.</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Design for triaxial compaction of powder and hot working of distaloy compact</td>
 </tr>
 <tr>
 <td>Shashishekara Adiga</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Molecular dynamics simulation of vacancy migration under external forcing</td>
 </tr>
 <tr>
 <td>Prashant Kumar Sharma</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Biocorrosion studies of some structural materials in presence of Bacillus Polymyxa</td>
 </tr>
 <tr>
 <td>Kasichainula Sridhar</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on thermo-electric power of Cu2Te synthesized by mechanical alloying and grinding</td>
 </tr>
 <tr>
@@ -4306,6 +4321,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br> 
 <b>1996</b>
 <br>
@@ -4313,17 +4329,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Mukesh Bharadwaj</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Solid flow studies in blast furnace stack</td>
 </tr>
 <tr>
 <td>Balasubramanya R.</td>
-<td>Jacob K.T. & Iyengar G.N.K.</td>
+<td>Jacob K. T. &amp; G. N. K. Iyengar</td>
 <td>Thermodynamics of cation distribution in spinels : A phenomenological</td>
 </tr>
 <tr>
@@ -4338,16 +4354,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Snehasish Chakraborty</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Asymmetry and Oscillation of the fluid flow patterns in a continuous casting mould : A water model study</td>
 </tr>
 <tr>
 <td>Manish Mandal</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Models for activity coefficient of the nonmetallic solute in binary liquid alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1995</b>
 <br>
@@ -4355,12 +4372,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Soumyajit Mandal</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Grain growth kinetics of a superplastic Al-33% Cu alloy</td>
 </tr>
 <tr>
@@ -4370,27 +4387,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>T. Seshacharyulu</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Processing map for Ti-6Al-4V and simulation of metal forming processes</td>
 </tr>
 <tr>
 <td>S. Ravindra Godbole</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>A mathematical model to simulate fluid flow in continuous slag casting mould</td>
 </tr>
 <tr>
 <td>Basavarasu Ranganad</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Construction of phase diagram by monte carlo simulation technique</td>
 </tr>
 <tr>
 <td>P. Markondeya Raj</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Assessment and evaluation of thermodynamic data</td>
 </tr>
 <tr>
 <td>Tirthankar Dasgupta</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Dry sliding wear behaviour of Al-Si alloys</td>
 </tr>
 <tr>
@@ -4405,12 +4422,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Neil Savio D’Souza</td>
-<td>Atul H. Chokshi</td>
+<td>Chokshi A. H.</td>
 <td>Densification and grain growth in 8-Mole% Yttria stabilized cubic zirconia</td>
 </tr>
 <tr>
 <td>Kanad Saha</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Evaluation of thermodynamic properties of Mn-Mo alloys by the isopiestic technique</td>
 </tr>
 <tr>
@@ -4420,16 +4437,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>B. Seshasail</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Synthesis of Al-TiCp composite by in-situ process and its characterization</td>
 </tr>
 <tr>
 <td>Iraj Asadi Khoshooei</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Corrosion behaviour of Al-SiC composite materials</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1994</b>
 <br>
@@ -4437,32 +4455,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>K. Saibaba</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Spray atomisation and deposition route for particulate reinforced metal matrix composites</td>
 </tr>
 <tr>
 <td>P. Rajasekharam</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of surfaces and adsorption in binary metallic systems</td>
 </tr>
 <tr>
-<td>M.S.M. Saifullah</td>
+<td>M. S. M. Saifullah</td>
 <td>Ranganathan S.</td>
 <td>Nanomodulated oxide superlattices by electrodeposition</td>
 </tr>
 <tr>
 <td>Mohammed Ismail</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Studies on electrochemical corrosion of Mg-Zn-Mn and Mg-Li-Al alloys</td>
 </tr>
 <tr>
 <td>P. Ravi Sankar Srinivas</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Creep behaviour of 10 vol. % SiCp – 6061 Al alloy composite</td>
 </tr>
 <tr>
@@ -4472,7 +4490,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Durvesh B. Ganveer</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>A mathematical model to simulate the flow of fluid in a continuous casting mould</td>
 </tr>
 <tr>
@@ -4482,61 +4500,62 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Kiran Balaji Bemarkar</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of Mn-Mo alloy</td>
 </tr>
 <tr>
 <td>Srikanta Nandy</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>A comparative study of the influence of zirconium in non-equilibrium processed aluminium rich aluminium nickel-alloys</td>
 </tr>
 <tr>
 <td>Prajina Bhattacharya</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis and characterisation of SiO2 – Pb and Al2O3 – Pb nanocomposites prepared by sol-gel route</td>
 </tr>
 <tr>
 <td>Udaya Bhat K.</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Laser surface treatment of aluminium alloy A356-SiCp composites</td>
 </tr>
 <tr>
-<td> Prasad S.V.N.</td>
-<td>Iyengar G.N.K.</td>
+<td> Prasad S. V. N.</td>
+<td>G. N. K. Iyengar</td>
 <td>Studies on the synthesis and A.C. conductivities of doped compounds of Bi2VO5.5 aurivillius phase</td>
 </tr>
 <tr>
 <td>Ganesh Kumar R.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Dry sliding wear behaviour of aluminium alloys</td>
 </tr>
 <tr>
 <td>Ramprasad Nagaraja</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Deformation processing of aluminium – 10% zinc alloy A study using processing maps </td>
 </tr>
 <tr>
-<td> Subramanian K.R.V.</td>
+<td>Subramanian K. R. V.</td>
 <td>Ranganathan S.</td>
 <td>Microstructural evolution in eutectic and hypoeutectic Al-Si alloys during rapid solidification</td>
 </tr>
 <tr>
 <td>Soman Yogesh Sudhakar</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Activity coefficient of oxygen in binary liquid alloys</td>
 </tr>
 <tr>
 <td>Sucheta N. Mannikar</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Solidification and microstructure studies in SiCp dispersed aluminium alloy composites</td>
 </tr>
 <tr>
 <td>Mahesha Prasad S.</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Statistical analysis of effect of parameters on defects in continuous casting</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1993</b>
 <br>
@@ -4544,47 +4563,47 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td> Srinivasa Kumar Y.</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Effect of aluminium content on the dynamic recrystallisation of aluminium bronze – A study using processing maps</td>
 </tr>
 <tr>
-<td> Satish Babu P.M. </td>
-<td>Jacob K.T.</td>
+<td> Satish Babu P. M.</td>
+<td>Jacob K. T.</td>
 <td>Determination of cation distribution in CO3O4 through Sebeck coefficient measurements</td>
 </tr>
 <tr>
 <td>Eunny Sridhar</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Simulation of fluid flow in continuous casting strip tundish</td>
 </tr>
 <tr>
-<td> Suryanarayana Murty S.V. </td>
-<td>Prasad Y.V.R.K.</td>
+<td>Suryanarayana Murty S. V.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Application of dynamic materials modelling for the optimisation of hot workability and control of microstructure in ceramics – A first report</td>
 </tr>
 <tr>
-<td> Sreenivas Rao K.V. </td>
-<td>Iyengar G.N.K.</td>
+<td>Sreenivas Rao K. V.</td>
+<td>G. N. K. Iyengar</td>
 <td>Ageing studies on ZnO based composites for surge arrestor applications</td>
 </tr>
 <tr>
-<td>T.A. Narayana Suthan</td>
+<td>T. A. Narayana Suthan</td>
 <td> </td>
 <td>Spray forming of composites atomization and particle injection</td>
 </tr>
 <tr>
 <td>Laxmidhar Besra</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>A comparative study on the microstructural development under different solidification processing conditions in a system showing submerged miscibility gap – The case of Zn-Sn binary alloys</td>
 </tr>
 <tr>
 <td>Rampada Manna</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Studies on recrystallization of 2024 Al-SicP composites</td>
 </tr>
 <tr>
@@ -4593,8 +4612,8 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Crystallization studies of Ti-Cu metallic glasses</td>
 </tr>
 <tr>
-<td> Srinivasa Rao P.</td>
-<td></td>
+<td>Srinivasa Rao P.</td>
+<td> </td>
 <td>Effect of trace element additions on processing and thermal behaviour of aluminium lithium alloys</td>
 </tr>
 <tr>
@@ -4604,6 +4623,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1992</b>
 <br>
@@ -4611,32 +4631,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Sivaraman M.V.S.</td>
+<td>Sivaraman M. V. S.</td>
 <td>Vikram Jayaram</td>
 <td>Design and fabrication of a HFCVD reactor for synthesis of diamond thin films</td>
 </tr>
 <tr>
 <td>Tarasankar Mahata</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Study of heat transfer coefficient at the solid-liquid interface inside a mould</td>
 </tr>
 <tr>
 <td>Amit Bandyopadhyay</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Hydrogen degradation studies of medium strength aluminium alloys 8090, 2091, 2014 and 2024</td>
 </tr>
 <tr>
 <td>Saibal Basu</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Studies on metal matrix composites</td>
 </tr>
 <tr>
 <td>Mukesh Kumar</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Thin layer ceramic processing I Studies in doctor blade tape casting II Arc plasma process for ceramic coatings</td>
 </tr>
 <tr>
@@ -4646,12 +4666,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Anirudha Vaidya</td>
-<td>Iyengar G.N.K.</td>
+<td>G. N. K. Iyengar</td>
 <td>Studies on electro-thermal ageing of commercial ZnO varistors</td>
 </tr>
 <tr>
 <td>Sunanda D.</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Superplasticity in intermetallics – A study in Ti-24 Al-15Nb alloy</td>
 </tr>
 <tr>
@@ -4661,11 +4681,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Shiv Brat Singh</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Preparation, characterisation and hardness studies on nanodispersed Zn-10 wt% Bi alloy</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1991</b>
 <br>
@@ -4673,17 +4694,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Bhaskar Dutta</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Fabrication of studies on precipitation hardening behaviour of 2024 Al – SiCp composites</td>
 </tr>
 <tr>
-<td>C.M. Manjunatha</td>
-<td>Lahiri A.K.</td>
+<td>C. M. Manjunatha</td>
+<td>Lahiri A. K.</td>
 <td>Mathematical modelling of solute redistribution during solidification in continuous casting</td>
 </tr>
 <tr>
@@ -4693,7 +4714,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Rama Murty U.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>The effect of heat treatment and Li depletion on mechanical properties and fracture of Al-Li alloys</td>
 </tr>
 <tr>
@@ -4703,30 +4724,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Niladri Dasgupta</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Tape casting for advanced ceramics : design of tape casting machines for ceramic substrates and high temperature superconductors</td>
 </tr>
 <tr>
 <td>Vinod Rambhau Patil</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Effect of heat treatment conditions on impression creep behaviour of alloy MA-957</td>
 </tr>
 </tbody>
 </table>
 <br>
+
 ### 1990-1981
+<br>
 <b>1990</b>
 <br>
 <table>
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Atul Kumar</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Anisotropic tensile fracture behaviour of aluminium lithium alloy 8090</td>
 </tr>
 <tr>
@@ -4736,26 +4759,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>T. Ramesh</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Studies on bacterially induced corrosion</td>
 </tr>
 <tr>
 <td>T. Vijay Bhaskar Reddy</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Simulation of fluid flow on continuous casting mould</td>
 </tr>
 <tr>
-<td> Sathya Kumar Y.V. </td>
-<td>Prasad Y.V.R.K.</td>
+<td>Sathya Kumar Y. V.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Mechanical processing of copper powder compacts</td>
 </tr>
 <tr>
 <td>Isukapally Ramana</td>
-<td>Ranganathan S. & Iyengar G.N.K.</td>
+<td>Ranganathan S. &amp; G. N. K. Iyengar</td>
 <td>Studies on high Tc superconductors Bi2Sr2Can-1CunOx c-Effect of Pb substitution</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1989</b>
 <br>
@@ -4763,7 +4787,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
@@ -4773,31 +4797,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Manjini S.</td>
-<td>Ranganathan S. & Iyengar G.N.K.</td>
+<td>Ranganathan S. &amp; G. N. K. Iyengar</td>
 <td>Studies on high Tc YB2Cu3O7-d superconductors – Ag substitution and aging</td>
 </tr>
 <tr>
 <td>Nihar Kanti Nanda</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Wear of high chromium cast iron during grinding of Kudremukh iron ore</td>
 </tr>
 <tr>
 <td>Gopala Krishna B.</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Design and construction of vibration ball mills for mechanical alloying and communication</td>
 </tr>
 <tr>
 <td>M. Vasudevan</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Fabrication and evaluation of aluminium matrix composites reinforced with SiC particles</td>
 </tr>
 <tr>
 <td>L. Venkata Rama Rao</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Preparation and processing of Al-2%, Li-3%, Mg-0.1% Be alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1988</b>
 <br>
@@ -4805,12 +4830,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Rajat Kumar Sengupta</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Mechanical alloying in the Cu-Fe system</td>
 </tr>
 <tr>
@@ -4820,7 +4845,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Sandur Ajith Kumar</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Ultrathin multilayer metal matrix laminates Cu/Al, Cu/Cr preparation and properties </td>
 </tr>
 <tr>
@@ -4829,32 +4854,33 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Dry sliding and grinding media wear studies on high chromium white cast iron</td>
 </tr>
 <tr>
-<td> Narasimham T.V.L. </td>
-<td>Prasad Y.V.R.K.</td>
+<td>Narasimham T. V. L.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Processing map for copper powder compact</td>
 </tr>
 <tr>
-<td> Murthy B.S.</td>
-<td>Ranganathan S. & Mohan Rao M.</td>
+<td>Murty B. S.</td>
+<td>Ranganathan S. &amp; Mohan Rao M.</td>
 <td>Studies on solid state amorphization by mechanical alloying</td>
 </tr>
 <tr>
 <td>Simon Paul</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Design and stress analysis for extrusion die assembly and flow analysis for different die geometries</td>
 </tr>
 <tr>
 <td>Kamles Mundra</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Bicubic spline smoothing of noisy data in extrusion</td>
 </tr>
 <tr>
 <td>Kurup Venugopal</td>
-<td>Lahiri A.K. & Chattopadhyay K.</td>
+<td>Lahiri A. K. &amp; Kamanio Chattopadhyay</td>
 <td>Solidification of metals in a flowing melt – a model study</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1987</b>
 <br>
@@ -4862,32 +4888,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Panigrahi P.K. </td>
-<td>Dwarakadasa E.S.</td>
+<td>Panigrahi P. K.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Computerised handling and prediction of properties of steels</td>
 </tr>
 <tr>
 <td>Abhijit Roy</td>
-<td>Raman K.S. & Murthy K.S.S. </td>
+<td>Raman K. S. &amp; Murthy K. S. S.</td>
 <td>Effect of cadmium on ageing characteristics of aluminium-7 silicon-0.3 magnesium alloy</td>
 </tr>
 <tr>
-<td> Venkataraman R. </td>
-<td>Prasad Y.V.R.K.</td>
+<td>Venkataraman R.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Analytical techniques for strain rate sensitivity evaluation in generating processing maps</td>
 </tr>
 <tr>
-<td> Srinivasulu G. </td>
-<td>Mallya R.M.</td>
+<td> Srinivasulu G.</td>
+<td>Mallya R. M.</td>
 <td>Studies on fine silver powder : its preparation and characterisation</td>
 </tr>
 <tr>
 <td>Sree Kumar K.</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on the early stages of hardening in aluminium-lithium alloys</td>
 </tr>
 <tr>
@@ -4896,27 +4922,28 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Quasicrystals in aluminium-lithium-copper system</td>
 </tr>
 <tr>
-<td> Murali T.R. </td>
+<td>Murali T. R.</td>
 <td>Kishore</td>
 <td>Wear of die steels</td>
 </tr>
 <tr>
 <td>Sankha Subhra Sengupta</td>
-<td>Raman K.S. & Dwarakadasa E.S.</td>
+<td>Raman K. S. &amp; Dwarakadasa E. S.</td>
 <td>Study on low cycle fatigue behaviour of LA 55 HSLA steel and its weldments</td>
 </tr>
 <tr>
-<td> Ravichandran N. </td>
-<td>Dwarakadasa E.S.</td>
+<td>Ravichandran N.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Effect of 1% aluminium addition on the aging kinetics and mechanical properties of Cu-9Ni-6Sn spinodal alloy</td>
 </tr>
 <tr>
-<td> Sudhakar Choudary P.</td>
-<td>Sastry D.H.</td>
+<td>Sudhakar Choudary P.</td>
+<td>Sastry D. H.</td>
 <td>Impression creep on austenitic stainless steel 316 type weldments</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1986</b>
 <br>
@@ -4924,36 +4951,37 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Asish Kumar Sinha</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Cold modelling of bottom blown processes</td>
 </tr>
 <tr>
-<td> Ravichandran M.V. </td>
-<td>Dwarakadasa E.S.</td>
+<td>Ravichandran M. V.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Toughness evaluation of aluminium -4% magnesium-alumina liquid-metallurgy particle composite</td>
 </tr>
 <tr>
 <td>Arun Kumar Sharma</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on age hardening behaviour of lithium containing aluminium alloys</td>
 </tr>
 <tr>
 <td>Rajesh Prasad</td>
-<td>Ranganathan S. & Chattopadhyay K.</td>
+<td>Ranganathan S. &amp; Kamanio Chattopadhyay</td>
 <td>Five-fold symmetry in reciprocal space</td>
 </tr>
 <tr>
-<td> Ramesh Prasad G.K. </td>
-<td>Sastry D.H. & Seshan S.</td>
+<td>Ramesh Prasad G. K.</td>
+<td>Sastry D. H. &amp; Seshan S.</td>
 <td>Studies on forging and welding characteristics of S.G. Iron</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1985</b>
 <br>
@@ -4961,61 +4989,62 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Parameswaran P.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Parameswaran P.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Property improvement of IS 7670 aluminium alloy by ESR</td>
 </tr>
 <tr>
-<td> Kannayiram G.</td>
-<td>Chattopadhyay K.</td>
+<td>Kannayiram G.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Undercooling of eutectic alloys</td>
 </tr>
 <tr>
-<td>Kamalesh K Patel</td>
-<td>Murthy K.S.S. & Raman K.S.</td>
+<td>Kamalesh K. Patel</td>
+<td>Murthy K. S. S. &amp; Raman K. S.</td>
 <td>Surface finish of gray cast iron castings</td>
 </tr>
 <tr>
-<td> Narasimha Rao B. </td>
-<td>Sastry D.H. & Mohan Rao M.</td>
+<td>Narasimha Rao B.</td>
+<td>Sastry D. H. &amp; M. Mohan Rao</td>
 <td>Effect of texture and grain size on the mechanical properties of warm worked cadmium – 2.5 Mg alloy</td>
 </tr>
 <tr>
 <td>Sanjay Kumar Dhua</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>A search for a metastable miscibility gap in zinc – indium system </td>
 </tr>
 <tr>
-<td> N.K. Mukhopadhyay</td>
+<td>N. K. Mukhopadhyay</td>
 <td>Ranganathan S.</td>
 <td>Effect of chromium addition on phase transformations in nickel-tungsten alloys</td>
 </tr>
 <tr>
-<td>K.S. Ravichandran</td>
-<td>Kishore & Dwarakadasa E.S.</td>
+<td>K. S. Ravichandran</td>
+<td>Kishore &amp; Dwarakadasa E. S.</td>
 <td>Effect of thermal treatment on fatigue crack growth behaviour in a 0.22% titanium alloyed chromansil steel</td>
 </tr>
 <tr>
 <td>Iyer Subramaniam</td>
-<td>Raman K.S.</td>
+<td>Raman K. S.</td>
 <td>Investigation of shear damage in composites using acoustic emission analysis</td>
 </tr>
 <tr>
 <td>Sreenivasulu R.</td>
-<td>Dwarakadasa E.S.</td>
-<td>Adhesive wear of FCC metals : aluminium, copper and silver</td>
+<td>Dwarakadasa E. S.</td>
+<td>Adhesive wear of FCC metals: aluminium, copper and silver</td>
 </tr>
 <tr>
 <td>Basudev Mishra</td>
-<td>Sastry D.H. & Seshan S.</td>
+<td>Sastry D. H. &amp; Seshan S.</td>
 <td>Forging of S.G. Iron</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1984</b>
 <br>
@@ -5023,51 +5052,52 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Asaithambi P.</td>
+<td>Asaithambi P.</td>
 <td>Kishore</td>
 <td>Friction and wear studies on HSLA steel and EGP composites</td>
 </tr>
 <tr>
 <td>Lionel S. Amanna</td>
-<td>Vasu K.I.& Bhat M.V.</td>
+<td>K. I. Vasu &amp; Bhat M. V.</td>
 <td>Transition from Hall-Petch hardening to superplastic behaviour – a study with Al-6Cu-0.5Zr alloy</td>
 </tr>
 <tr>
-<td> Vaidya N.K. </td>
-<td>Lahiri A.K.</td>
+<td>Vaidya N. K.</td>
+<td>Lahiri A. K.</td>
 <td>A selected project report on heat transfer in electroslag refining</td>
 </tr>
 <tr>
-<td> Pitchai N.</td>
-<td>Lahiri A.K. & Nayak U.B.</td>
+<td>Pitchai N.</td>
+<td>Lahiri A. K. &amp; Nayak U. B.</td>
 <td>Studies on rheological and surface characteristics on the wet grinding of hematitie</td>
 </tr>
 <tr>
-<td> Sathyanarayana C.G. </td>
+<td>Sathyanarayana C. G.</td>
 <td>Ranganathan S.</td>
 <td>Effect of microstructure and strain rate on tensile behaviour of VT-9 alloy</td>
 </tr>
 <tr>
-<td> Srikanth S. </td>
-<td>Hajra J.P. & Jacob K.T.</td>
+<td>Srikanth S.</td>
+<td>Hajra J. P. &amp; Jacob K. T.</td>
 <td>Solvent-solute and solute-solute intraction in a-solid solutions of Cu-As and Ag-As systems – Design of experiment</td>
 </tr>
 <tr>
-<td> Srinivasan K. </td>
-<td>Ranganathan S. & Raman K.S.</td>
+<td>Srinivasan K.</td>
+<td>Ranganathan S. &amp; Raman K. S.</td>
 <td>Heat treatment of 30 KAGSNA steel and study of mechanical properties</td>
 </tr>
 <tr>
-<td> Surendranathan A.O. </td>
-<td>Vasu K.I.</td>
+<td>Surendranathan A. O.</td>
+<td>K. I. Vasu</td>
 <td>Transition from Hall-Petch region to superplastic region – Investigations with the Zn-Al eutectoid systems</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1983</b>
 <br>
@@ -5075,72 +5105,72 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Abraham Koshie</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamic measurements in alloys using fluoride electrolyte</td>
 </tr>
 <tr>
-<td> Mohanty B.P.</td>
-<td>Iyengar G.N.K. & Hajra J.P.</td>
+<td>Mohanty B. P.</td>
+<td>G. N. K. Iyengar &amp; Hajra J. P.</td>
 <td>Studies on electroslag refining of commercial aluminium</td>
 </tr>
 <tr>
-<td>Jagadeesha Acharya –</td>
-<td>Raman K.S.</td>
+<td>Jagadeesha Acharya</td>
+<td>Raman K. S.</td>
 <td>Study of the effect of restraint intensity on weld cracking using ERC test</td>
 </tr>
 <tr>
-<td> Madhusudhan G.</td>
-<td>Raman K.S. & Seshadri M.R. </td>
+<td>Madhusudhan G.</td>
+<td>Raman K. S. &amp; Seshadri M. R.</td>
 <td>Use of eddy current test technique to determine the mechanical properties of gray cast iron</td>
 </tr>
 <tr>
-<td> Murthy V.S.R.</td>
-<td>Kishore & Seshan S.</td>
+<td>Murthy V. S. R.</td>
+<td>Kishore &amp; Seshan S.</td>
 <td>Compacted graphite cast iron – a study on properties</td>
 </tr>
 <tr>
-<td> James Victor Raj K.R.</td>
-<td> Srinivasan M.N. & Kishore</td>
+<td>James Victor Raj K. R.</td>
+<td>Srinivasan M. N. &amp; Kishore</td>
 <td>Study on in-mould spheroidisation of spheroidal graphite cast iron</td>
 </tr>
 <tr>
-<td> Rajadurai A.</td>
+<td>Rajadurai A.</td>
 <td>Ranganathan S.</td>
 <td>Effect of microstructure and strain rate on tensile behaviour of Ti-6242S alloy</td>
 </tr>
 <tr>
-<td> Ramadasan E.</td>
-<td>Ranganathan S. & Chattopadhyay K. </td>
+<td>Ramadasan E.</td>
+<td>Ranganathan S. &amp; Kamanio Chattopadhyay</td>
 <td>Active eutectoid decomposition in a hypoeutectoid Zr-Ni alloy</td>
 </tr>
 <tr>
-<td>Ramani S. </td>
-<td>Lahiri A.K. & Mohan Rao M.</td>
+<td>Ramani S.</td>
+<td>Lahiri A. K. &amp; M. Mohan Rao</td>
 <td>A cold modelling study on the mixing time and oxygen partition in LD convertor</td>
 </tr>
 <tr>
-<td> Sampath V.</td>
-<td>Sastry D.H.</td>
+<td>Sampath V.</td>
+<td>Sastry D. H.</td>
 <td>Electroslag refining of aluminium alloy RR 58 and studies on impression creep and other mechanical properties</td>
 </tr>
 <tr>
-<td> Sampath K. </td>
-<td> Srinivasan M.N. & Mohan Rao M.</td>
+<td>Sampath K.</td>
+<td>Srinivasan M. N. & M. Mohan Rao</td>
 <td>Nihard – micro alloying </td>
 </tr>
 <tr>
-<td>M.C. Shaji</td>
-<td>Vasu K.I.</td>
+<td>M. C. Shaji</td>
+<td>K. I. Vasu</td>
 <td>Aluminium alloys as sacrificial anodes for galvanic protection of steel</td>
 </tr>
 <tr>
 <td>Shiva Kumar C.</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Development and properties of electroslag refined RR 58 alloy</td>
 </tr>
 <tr>
@@ -5150,16 +5180,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Sujatha K.</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Iron nickel as a binder in tungsten carbide hard metal</td>
 </tr>
 <tr>
 <td>Vasudevan S.</td>
-<td>Chattopadhyay K. & Seshan S.</td>
+<td>Kamanio Chattopadhyay &amp; Seshan S.</td>
 <td>Influence of manganese additions on austenitic spheroidal graphite iron</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1982</b>
 <br>
@@ -5167,32 +5198,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Anand K.G.</td>
+<td>Anand K. G.</td>
 <td>Kishore</td>
 <td>Studies on the effect of heat input and temperature on impact strength of microalloyed steel</td>
 </tr>
 <tr>
-<td> Balakrishna Rao K. </td>
-<td>Mohan Rao M. & Murthy K.S.S. </td>
+<td>Balakrishna Rao K.</td>
+<td>M. Mohan Rao &amp; Murthy K. S. S.</td>
 <td>Studies on the influence of some melting parameters in high strength grey iron</td>
 </tr>
 <tr>
-<td> Basu A.K. </td>
-<td>Lahiri A.K.</td>
+<td>Basu A. K.</td>
+<td>Lahiri A. K.</td>
 <td>Analysis of the rotary kiln process for sponge iron manufacture</td>
 </tr>
 <tr>
-<td> Chandrasekharan T.</td>
-<td>Ranganathan S. & Mahajan Y.R. HAL</td>
+<td>Chandrasekharan T.</td>
+<td>Ranganathan S. &amp; Mahajan Y. R. (HAL)</td>
 <td>Studies on strength and tough ness of 30 kH GSA steel</td>
 </tr>
 <tr>
 <td>Gowri S.</td>
-<td>Ranganathan S. & Mohan Rao M. </td>
+<td>Ranganathan S. &amp; M. Mohan Rao</td>
 <td>Crystallization behaviour of Fe40Ni38Mo4B18 METGLAS 2826 MB </td>
 </tr>
 <tr>
@@ -5201,22 +5232,23 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td>Studies on jute-glass hybrid fibre composites</td>
 </tr>
 <tr>
-<td> Gopalakrishnan M.S.</td>
-<td> Seshadri M.R. & Raman K.S.</td>
+<td>Gopalakrishnan M. S.</td>
+<td>Seshadri M. R. &amp; Raman K. S.</td>
 <td>Welding of Malleable iron</td>
 </tr>
 <tr>
-<td> Raghunathan N. </td>
-<td>Lahiri A.K.</td>
+<td>Raghunathan N.</td>
+<td>Lahiri A. K.</td>
 <td>Temperature simulation and thermal stresses in rolling mill</td>
 </tr>
 <tr>
-<td>Venkatanarayana G. </td>
-<td> Srinivasan M.N. & Mohan Rao M. </td>
+<td>Venkatanarayana G.</td>
+<td>Srinivasan M. N. &amp; M. Mohan Rao</td>
 <td>Inocculation of niresistTYPE-I influence on structure and mechanical properties</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1981</b>
 <br>
@@ -5224,66 +5256,68 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Subodh Kumar</td>
-<td>Mohan Rao M.</td>
+<td>M. Mohan Rao</td>
 <td>Effect of microalloying on casting characteristics and mechanical properties of Al bronzes</td>
 </tr>
 <tr>
 <td>Sharad Prakash</td>
-<td>Mohan Rao M. & Srinivasan M.N. </td>
+<td>M. Mohan Rao &amp; Srinivasan M. N.</td>
 <td>Effect of carbon, silicon and innoculants on the chilling characteristics of Ni-resist irons</td>
 </tr>
 <tr>
 <td>Animesh Jha</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Studies on the removal of phosphorous from cast iron and ferro-chrome by electroslag remelting using Ca-CaF2 slag</td>
 </tr>
 <tr>
 <td>Radhakrishna Upadhya</td>
-<td>Prasad Y.V.R.K. & Murthy K.S.S.</td>
+<td>Prasad Y. V. R. K. &amp; Murthy K. S. S.</td>
 <td>Fracture toughness studies on Al-4.5 Cu alloy</td>
 </tr>
 <tr>
-<td> Badgujar S.T.</td>
-<td>Dwarakadasa E.S. and Kishore</td>
+<td>Badgujar S. T.</td>
+<td>Dwarakadasa E. S. &amp; Kishore</td>
 <td>Influence of Ti on the age hardening behaviour of Al-6Zn-.01 a Be alloy – effect of thermal and thermo mechanical treatments on the microstructure, mechanical properties and fatigue</td>
 </tr>
 <tr>
 <td>Anil Kumar Gupta</td>
-<td>Raman K.S. and Murthy K.S.S.</td>
+<td>Raman K. S. &amp; Murthy K. S. S.</td>
 <td>Effect of iron and room temperature ageing on the hardness of LM 25 alloy</td>
 </tr>
 <tr>
-<td> Lele M.B.</td>
-<td>Mallya R.M. </td>
+<td>Lele M. B.</td>
+<td>Mallya R. M.</td>
 <td>Reduction of ammonium para tungstate and ammonium molybdate by hydrogen</td>
 </tr>
 <tr>
-<td> Rama Rao A.</td>
-<td>Iyengar G.N.K. & Srinivasan M.N.</td>
+<td>Rama Rao A.</td>
+<td>G. N. K. Iyengar &amp; Srinivasan M. N.</td>
 <td>Study of inmold inoculation of grey cast iron</td>
 </tr>
 <tr>
-<td> Venkateswaran T.V.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Venkateswaran T. V.</td>
+<td>Dwarakadasa E. S.</td>
 <td>A study of distribution of graphite in aluminium graphite composites</td>
 </tr>
 <tr>
-<td> Balasubramanian S.R.</td>
-<td>Lahiri A.K.</td>
+<td>Balasubramanian S. R.</td>
+<td>Lahiri A. K.</td>
 <td>Calorizing of mild steel</td>
 </tr>
 <tr>
-<td> Jamakhandi N.B.</td>
-<td>Sastry D.H.</td>
+<td>Jamakhandi N. B.</td>
+<td>Sastry D. H.</td>
 <td>Effect of tin on the properties of high silicon S.G. iron</td>
 </tr>
 </tbody>
 </table>
+
+<br>
 ### 1980-1971
 <br>
 <b>1980</b>
@@ -5292,16 +5326,17 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Raghavendra R.</td>
-<td> Seshadri M.R.</td>
+<td>Seshadri M. R.</td>
 <td>Structure and property correlation in pearlitic malleable iron casting</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1979</b>
 <br>
@@ -5309,51 +5344,52 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Sarma, V.S. Vedula</td>
-<td>Prasad Y.V.R.K.</td>
+<td>V. S. Vedula Sarma</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Hot working characteristics of EN36A steel : A study by hot torsion technique</td>
 </tr>
 <tr>
-<td>Sarma V.V.R.S.</td>
-<td>Sastry D.H.</td>
+<td>Sarma V. V. R. S.</td>
+<td>Sastry D. H.</td>
 <td>Effect of grain size on the high temperature yield stress in zinc and cadmium</td>
 </tr>
 <tr>
 <td> Rao Arun M.</td>
-<td>Raman K.S. & Seshadri M.R.</td>
+<td>Raman K. S. &amp; Seshadri M. R.</td>
 <td>Studies on inclusion rating and dendrite arm spacing of steel castings</td>
 </tr>
 <tr>
 <td>Rajendra S.</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Design and fabrication of hot extrusion die assembly for the 250 ton hydraulic press</td>
 </tr>
 <tr>
-<td>Shah, Kamal Kumar</td>
-<td>Mohan Rao M.</td>
+<td>Kamal Kumar Shah</td>
+<td>M. Mohan Rao</td>
 <td>Studies on isothermal decomposition of supersaturated phases in the Cu-Zn systems</td>
 </tr>
 <tr>
 <td>Gowrishankar S.</td>
-<td>Vasu K.I.</td>
+<td>K. I. Vasu</td>
 <td>Reflectance of metallic mirrors</td>
 </tr>
 <tr>
 <td>Gopala B.</td>
-<td>Vasu K.I.& Dwarakadasa E.S.</td>
+<td>K. I. Vasu &amp; Dwarakadasa E. S.</td>
 <td>Production of iron powder</td>
 </tr>
 <tr>
-<td>Ashok Kumar, V. Lad</td>
-<td>Vasu K.I.</td>
+<td>V. Lad Ashok Kumar</td>
+<td>K. I. Vasu</td>
 <td>Surface conversion coatings on metals</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1978</b>
 <br>
@@ -5361,26 +5397,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Mohanan K.</td>
-<td>Vasu K.I.</td>
+<td>K. I. Vasu</td>
 <td>Electrowinning of copper</td>
 </tr>
 <tr>
-<td>Prakash H.S.</td>
-<td>Vasu K.I.</td>
+<td>Prakash H. S.</td>
+<td>K. I. Vasu</td>
 <td>Ferric chloride leaching process for the complex copper-lead-zinc concentrates</td>
 </tr>
 <tr>
 <td>Ambethkar M.</td>
-<td>Vasu K.I.</td>
+<td>K. I. Vasu</td>
 <td>Surface conversion coatings</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1977</b>
 <br>
@@ -5388,36 +5425,37 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Panickar K.P.</td>
-<td>Mallya R.M. & Raghuram A.C. NAL</td>
+<td> Panickar K. P.</td>
+<td>Mallya R. M. &amp; Raghuram A. C. (NAL)</td>
 <td>Mechanical alloying</td>
 </tr>
 <tr>
-<td>Bhat R.P.</td>
-<td>Mohan Rao M.</td>
+<td>Bhat R. P.</td>
+<td>M. Mohan Rao</td>
 <td>Studies on the reclamation of Inconel X-750 turbine blades</td>
 </tr>
 <tr>
-<td>Prakash T.G.</td>
-<td>Vasu K.I.</td>
+<td>Prakash T. G.</td>
+<td>K. I. Vasu</td>
 <td>Processing of chalcopyrite concentrations: Ferric chloride leaching and galvanic cementation</td>
 </tr>
 <tr>
-<td>Narayan K.S.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Narayan K. S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Isothermal age hardening characteristics of Al-6Zn alloy with .05 Be addition</td>
 </tr>
 <tr>
 <td>Balachandran U.</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Chemical vapour deposition of titanium carbide on tool steels</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1976</b>
 <br>
@@ -5425,31 +5463,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Madhusudhan</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Studies on metastable phases</td>
 </tr>
 <tr>
-<td> Suryaprakash M.S.</td>
-<td>Rohatgi P.K.</td>
+<td>Suryaprakash M. S.</td>
+<td>Rohatgi P. K.</td>
 <td>Design, fabrication and characteristics of biogas fired curcible furnace</td>
 </tr>
 <tr>
 <td>Didolkar V.</td>
-<td>Nayak U.B.</td>
+<td>Nayak U. B.</td>
 <td>Beneficiation of low grade graphite ore from Ganacharpura Mines, Kolar district, Karnataka</td>
 </tr>
 <tr>
 <td>Ajay Kumar Mishra</td>
-<td>Lahiri A.K. & Abraham K.P.</td>
+<td>Lahiri A. K. &amp; K. P. Abraham</td>
 <td>Reduction of haematite with methane</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1975</b>
 <br>
@@ -5457,31 +5496,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Srikanta Pandits B.V.</td>
-<td>Mallya R.M.</td>
+<td>Srikanta Pandit B. V.</td>
+<td>Mallya R. M.</td>
 <td>Submicron particles produced by freeze drying – preparation of nickel ferrite</td>
 </tr>
 <tr>
 <td>Prabhakar Singh</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Thermodynamic measurements in the MgO-SiO2 by high temperature galvanic – cell technique</td>
 </tr>
 <tr>
-<td>Jana B.C.</td>
-<td>Rohatgi P.K.</td>
+<td>Jana B. C.</td>
+<td>Rohatgi P. K.</td>
 <td>Bearing characteristics of Al-graphite composites</td>
 </tr>
 <tr>
-<td> Babu Sathyan V.</td>
-<td>Vasu K.I.</td>
+<td>Babu Sathyan V.</td>
+<td>K. I. Vasu</td>
 <td>Design and development of acid pumps using high silicon iron</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1974</b>
 <br>
@@ -5489,76 +5529,77 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Prakash T.L.</td>
-<td>Mallya R.M. & Arunachalam V.S. NSL</td>
+<td>Prakash T. L.</td>
+<td>Mallya R. M. &amp; Arunachalam V. S. (NSL)</td>
 <td>Powder metallurgy of chromium</td>
 </tr>
 <tr>
-<td>Saralaya D.L.</td>
-<td>Vasu K.I.</td>
+<td>Saralaya D. L.</td>
+<td>K. I. Vasu</td>
 <td>Deformation behaviour of chromium</td>
 </tr>
 <tr>
 <td> Subramanyam J.</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Application of high tempeature solid electrolyte galvanic cell</td>
 </tr>
 <tr>
 <td>Narayanan V.</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of binary and ternary silicate slags</td>
 </tr>
 <tr>
 <td>Ramachandran S.</td>
-<td>Rohatgi P.K.</td>
+<td>Rohatgi P. K.</td>
 <td>Studies on bearing characteristics of Al-graphite composites</td>
 </tr>
 <tr>
-<td>Yogarajan H.N.</td>
-<td>Abraham K.P.</td>
+<td>Yogarajan H. N.</td>
+<td>K. P. Abraham</td>
 <td>Activities in calcium oxide solid solutions</td>
 </tr>
 <tr>
 <td>Sreerama Murthy A.</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Electroslag remelting of non-ferrous metals and alloys with special performance to titanium</td>
 </tr>
 <tr>
-<td> Srinivasa C.L. </td>
-<td>Vasu K.I.& Raman K.S.</td>
+<td>Srinivasa C. L.</td>
+<td>K. I. Vasu &amp; Raman K. S.</td>
 <td>Slat baths for industrial heat treatment</td>
 </tr>
 <tr>
-<td>Mohan V.N. </td>
-<td>Rohatgi P.K. & Prasad K.K. </td>
+<td>Mohan V. N.</td>
+<td>Rohatgi P. K. &amp; Prasad K. K.</td>
 <td>Permanent mould casting – A thermal study</td>
 </tr>
 <tr>
-<td>Kodanda Rao N. </td>
-<td>Lahiri A.K.</td>
+<td>Kodanda Rao N.</td>
+<td>Lahiri A. K.</td>
 <td>Temperature profile in the blast furnace stack</td>
 </tr>
 <tr>
 <td>Ilangovan S.</td>
-<td>Vasu K.I.</td>
+<td>K. I. Vasu</td>
 <td>Direct electro-recovery of copper from chalcopyrite concentrates used as a slurry anode</td>
 </tr>
 <tr>
-<td>Yagneswaran A.H. </td>
-<td>Mallya R.M.</td>
+<td>Yagneswaran A. H.</td>
+<td>Mallya R. M.</td>
 <td>Power metallurgy of stainless steel: Production of austenitic stainless steel power by intergranular and corrosion</td>
 </tr>
 <tr>
-<td>Balakrishna Bhat T. </td>
-<td>Kishore & Vasu K.I.</td>
+<td>Balakrishna Bhat T.</td>
+<td>Kishore &amp; K. I. Vasu</td>
 <td>Effect of dispersion on ordering in Cu-Au</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1973</b>
 <br>
@@ -5566,66 +5607,67 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Sellamuthu R. </td>
-<td>Abraham K.P. jointly with MRS, ME</td>
+<td>Sellamuthu R.</td>
+<td>K. P. Abraham (jointly with MRS, ME)</td>
 <td>Application of ESR technique for the production of nodular cast iron</td>
 </tr>
 <tr>
-<td>Prasad S.V. </td>
-<td>Abraham K.P.</td>
+<td>Prasad S. V. </td>
+<td>K. P. Abraham</td>
 <td>Electrochemical measurements of oxidation of Cu</td>
 </tr>
 <tr>
-<td> Prasad T.K. </td>
-<td>Vasu K.I.</td>
+<td>Prasad T. K.</td>
+<td>K. I. Vasu</td>
 <td>Diffusion control in solid-fluid reactions</td>
 </tr>
 <tr>
-<td> Narayan Rao K. </td>
-<td>Abraham K.P.</td>
+<td>Narayan Rao K.</td>
+<td>K. P. Abraham</td>
 <td>A thermal analysis calorimeter for the determination of heats of transformations</td>
 </tr>
 <tr>
-<td> Nagarajan V. </td>
-<td>Mohan Rao M.</td>
+<td>Nagarajan V.</td>
+<td>M. Mohan Rao</td>
 <td>Multiphase diffusion in the system Cd-Zn</td>
 </tr>
 <tr>
-<td>Lakshminarayan R. </td>
-<td>Raman K.S.</td>
+<td>Lakshminarayan R.</td>
+<td>Raman K. S.</td>
 <td>Resistometric studies of phase boundaries in Sn-Cd alloy</td>
 </tr>
 <tr>
-<td>Khaji K.M. </td>
-<td>Abraham K.P.</td>
+<td>Khaji K. M.</td>
+<td>K. P. Abraham</td>
 <td>Kinetics of reduction of cobalt oxide by hydrogen in fluidised bed</td>
 </tr>
 <tr>
-<td>Jayasimha D.S. </td>
-<td>Vasu K.I.</td>
+<td>Jayasimha D. S.</td>
+<td>K. I. Vasu</td>
 <td>Extraction of copper from chalcopyrite concentrate by hydrometal- lurgical treatment</td>
 </tr>
 <tr>
-<td>Galgali R.K. </td>
-<td>Vasu K.I.& Prasad Y.V.R.K.</td>
+<td>Galgali R. K.</td>
+<td>K. I. Vasu &amp; Prasad Y. V. R. K.</td>
 <td>A study of the microstructural aspects of the fatigue in 70-30 brass</td>
 </tr>
 <tr>
 <td>Chadramouli K.</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Mechanical properties of unidirectionally solidified eutectic alloys</td>
 </tr>
 <tr>
 <td>Anand R.</td>
-<td>Vasu K.I.</td>
+<td>K. I. Vasu</td>
 <td>Extraction of copper from chalcopyrite concentrate by hydro-metallurgical treatments</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1972</b>
 <br>
@@ -5633,71 +5675,72 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Ananth Padmanabha S. </td>
-<td>Vasu K.I.</td>
+<td>Ananth Padmanabha S.</td>
+<td>K. I. Vasu</td>
 <td>Electrodeposition of iron group binary alloys</td>
 </tr>
 <tr>
-<td> Chandrasekhara Pai B. </td>
-<td>Dwarakadasa E.S.</td>
+<td>Chandrasekhara Pai B.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Structural studies of unidirectionally solidified eutectic alloys</td>
 </tr>
 <tr>
-<td> Ghopde A.D. </td>
-<td>Vasu K.I.</td>
+<td>Ghopde A. D.</td>
+<td>K. I. Vasu</td>
 <td>Design and construction of a vacuum and mass flow type recording thermobalance and studies on initial oxidation of copper</td>
 </tr>
 <tr>
-<td> Jayaraman N. </td>
-<td>Sastry D.H.</td>
+<td>Jayaraman N.</td>
+<td>Sastry D. H.</td>
 <td>Structural and resistometric studies of the order-disorder transformation in Cd-Mg alloys</td>
 </tr>
 <tr>
-<td> Kannan C. </td>
-<td>Abraham K.P.</td>
+<td>Kannan C.</td>
+<td>K. P. Abraham</td>
 <td>Electroslag refining of aluminium</td>
 </tr>
 <tr>
-<td> Ramadurai S. </td>
-<td>Abraham K.P.</td>
+<td>Ramadurai S.</td>
+<td>K. P. Abraham</td>
 <td>Studies on chemical vapour deposition</td>
 </tr>
 <tr>
-<td> Ramesh K.R. </td>
-<td>Vasu K.I.</td>
+<td>Ramesh K. R.</td>
+<td>K. I. Vasu</td>
 <td>Leaching of chalcopyrite</td>
 </tr>
 <tr>
-<td>Srinivasan N.S. </td>
-<td>Vasu K.I.</td>
+<td>Srinivasan N. S.</td>
+<td>K. I. Vasu</td>
 <td>High temperature oxidation of Cu and Cu-Th alloys electrodeposition of Fe-Ni & Fe-Co alloy from the fluoborate bath</td>
 </tr>
 <tr>
-<td> Sriramamurthy A.M. </td>
-<td>Abraham K.P. & Mohan Rao M.</td>
+<td>Sriramamurthy A. M.</td>
+<td>K. P. Abraham &amp; M. Mohan Rao</td>
 <td>Thermodynamics and structural transformation in Sn-antimony system</td>
 </tr>
 <tr>
 <td>Surendra Kumar Singh</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Kinetics of reduction of manganese dioxide pellets with hydrogen</td>
 </tr>
 <tr>
-<td> Vijaya Prasad V. </td>
-<td>Vasu K.I.</td>
+<td>Vijaya Prasad V.</td>
+<td>K. I. Vasu</td>
 <td>Electrolytic leaching of lemenite ore</td>
 </tr>
 <tr>
 <td>Vinod Kumar Juneja</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Bearing characteristic and aluminium base bearing alloy</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1971</b>
 <br>
@@ -5705,76 +5748,78 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Chandra H.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Studies on low temperature plastic deformation in commercial aluminium</td>
 </tr>
 <tr>
 <td>Kripakaran R.</td>
-<td>Mohan Rao M.</td>
+<td>M. Mohan Rao</td>
 <td>Thermal stabilisation</td>
 </tr>
 <tr>
 <td>Dwarika Prasad</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>The design, construction and operation of liquid metal solution calorimeter</td>
 </tr>
 <tr>
 <td>K. Ramaraju</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Microstructural aspects of fatigue in Al and Al-Mg alloy</td>
 </tr>
 <tr>
 <td>J. Ravindranath Shetty</td>
-<td>Vasu K.I.and Prasad Y.V.R.K.</td>
+<td>K. I. Vasu &amp; Prasad Y. V. R. K.</td>
 <td>Stress corrosion cracking in Cu-12 Al alloy</td>
 </tr>
 <tr>
 <td>C. Virupaksha Shastry</td>
-<td>Sastry D.H. and Dwarakadasa E.S.</td>
+<td>Sastry D. H. &amp; Dwarakadasa E. S.</td>
 <td>The unidirectional solidification of binary eutectic alloys</td>
 </tr>
 <tr>
-<td>P.K. Balachandra</td>
-<td>Abraham K.P.</td>
+<td>P. K. Balachandra</td>
+<td>K. P. Abraham</td>
 <td>Smelting of chromite ores in a tilting arc furnace designed and fabricated in the Department</td>
 </tr>
 <tr>
-<td>Bhat K.L.</td>
-<td>Vasu K.I.</td>
+<td>Bhat K. L.</td>
+<td>K. I. Vasu</td>
 <td>High temperature oxidation of Cu and its alloys</td>
 </tr>
 <tr>
 <td>Bhushan Lal Dhar</td>
-<td>Vasu K.I.</td>
+<td>K. I. Vasu</td>
 <td>Codeposition of Ni-Co alloys from fluoborate bath</td>
 </tr>
 <tr>
 <td>Samir Nath Jha</td>
-<td>Vasu K.I.& Dwarakadasa E.S.</td>
+<td>K. I. Vasu &amp; Dwarakadasa E. S.</td>
 <td>Cavitation erosion of some marine alloys</td>
 </tr>
 <tr>
 <td>Chiranjit Lal</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Production of nodular cast iron by electroslag process</td>
 </tr>
 <tr>
 <td>Raghavan S.</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Thermodynamic properties of binary systems of high temperature solid electrolytes galvanic cell technique</td>
 </tr>
 <tr>
 <td>Sivan V.</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Kinetic studies on the roasting of cadmium sulphide</td>
 </tr>
 </tbody>
 </table>
+<br>
+
 ### 1970-1961
 <br>
 <b>1970</b>
@@ -5783,27 +5828,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>R.T. Bhat R.T.</td>
+<td>R. T. Bhat</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>R. Dinkar Babu</td>
-<td>Mohan Rao M.</td>
+<td>M. Mohan Rao</td>
 <td>Studies on Fe-Mn solvus lines</td>
 </tr>
 <tr>
 <td>Jagannath Pujini</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Intermetallic compounds</td>
 </tr>
 <tr>
-<td>S.K. Datta</td>
-<td>Mallya R.M.</td>
+<td>S. K. Datta</td>
+<td>Mallya R. M.</td>
 <td>Fundamentals of glass to metal bonding</td>
 </tr>
 <tr>
@@ -5812,22 +5857,23 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td></td>
 </tr>
 <tr>
-<td> Shankar Shastry M.L. </td>
+<td>Shankar Shastry M. L.</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Subba Reddy T.</td>
-<td>Krishnan A.A.</td>
+<td>Krishnan A. A.</td>
 <td>Dispersion hardening in nickel-zirconia at low temperatures</td>
 </tr>
 <tr>
 <td>A. Shantharam</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Production of high grade standard grade ferro-chrome from lowgrade chromite ores of Mysore</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1969</b>
 <br>
@@ -5835,56 +5881,57 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Swapan Kanti Das</td>
-<td>A.A.Krishnan</td>
+<td>Krishnan A. A.</td>
 <td>Variation of sizes of mratensite platelets and relative effects on its strength</td>
 </tr>
 <tr>
-<td> Acharya B.N.N. </td>
+<td>Acharya B. N. N.</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td> Misra P.S. </td>
+<td>Misra P. S.</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Bhutani A.K. </td>
-<td>Abraham K.P.</td> 
+<td>Bhutani A. K.</td>
+<td>K. P. Abraham</td> 
 <td>Refining of steel by electroslag process</td>
 </tr>
 <tr>
-<td> Ramanathan R. </td>
-<td>Vasu K.I.</td>
+<td>Ramanathan R.</td>
+<td>K. I. Vasu</td>
 <td>Inhibition of corrosion of aluminium in saturated AlCl3 solution</td>
 </tr>
 <tr>
-<td> Bhatikar R.J. </td>
-<td>Mallya R.M.</td>
+<td>Bhatikar R. J.</td>
+<td>Mallya R. M.</td>
 <td>Stress-corrosion studies of aluminium-zinc-magnesium alloy C.D.T.D. 683 Al</td>
 </tr>
 <tr>
-<td> Mathrubhootam K. </td>
-<td>Vasu K.I.</td>
+<td>Mathrubhootam K.</td>
+<td>K. I. Vasu</td>
 <td>Corrosion of Cu-Mn alloys</td>
 </tr>
 <tr>
-<td>Srinivasa R</td>
-<td>Abraham K.P.</td>
+<td>Srinivasa R.</td>
+<td>K. P. Abraham</td>
 <td>Thermodynamic properties of aluminium -zinc alloys</td>
 </tr>
 <tr>
-<td> Chandrasekharan R. </td>
-<td>Vasu K.I.</td>
+<td>Chandrasekharan R.</td>
+<td>K. I. Vasu</td>
 <td>On the nature of stress corrosion of Al-Zn, and Al-Mg alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1968</b>
 <br>
@@ -5892,36 +5939,37 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td> Ramani R. </td>
-<td>Vasu K.I.</td>
+<td>Ramani R.</td>
+<td>K. I. Vasu</td>
 <td>Aluminium in primary batteries</td>
 </tr>
 <tr>
-<td> Rave P.G. </td>
-<td>Krishnan A.A.</td>
+<td>Rave P. G.</td>
+<td>Krishnan A. A.</td>
 <td>Mechanical and magnetic properties of sintered iron-glass</td>
 </tr>
 <tr>
-<td> Kadukar A.D. </td>
+<td>Kadukar A. D.</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>H. Sundaresh</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Activity measurements in binary systems</td>
 </tr>
 <tr>
 <td>Maduri Krishnamurthy</td>
-<td>C.R. Krishna Murthy</td>
+<td>C. R. Krishna Murthy</td>
 <td>Fused salt electrolysis for production of ferro-manganese</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1967</b>
 <br>
@@ -5929,42 +5977,42 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>P.K. Poulose</td>
-<td>Raman K.S.</td>
+<td>P. K. Poulose</td>
+<td>Raman K. S.</td>
 <td>An apparatus for precise determination of internal friction</td>
 </tr>
 <tr>
 <td>Kishore</td>
-<td>Krishnan A.A.</td>
+<td>Krishnan A. A.</td>
 <td></td>
 </tr>
 <tr>
-<td> Vydyanath H.R. </td>
-<td>Sastry D.H.</td>
+<td>Vydyanath H. R.</td>
+<td>Sastry D. H.</td>
 <td>Resistometric study of pre-precipitation in Mg-Zn alloys</td>
 </tr>
 <tr>
-<td>Seshadri S.K. </td>
-<td>Abraham K.P. & Mohan Rao M.</td>
+<td>Seshadri S. K.</td>
+<td>K. P. Abraham &amp; M. Mohan Rao</td>
 <td>Production of ferro-chrome off-grade Byrapur chromite ore</td>
 </tr>
 <tr>
-<td>Sastry R.L.N. </td>
-<td>Abraham K.P.</td>
+<td>Sastry R. L. N.</td>
+<td>K. P. Abraham</td>
 <td>Electric smelting of chalcopyrite available at Ingoldab</td>
 </tr>
 <tr>
 <td>K. Prabhakar</td>
-<td>R.K. Ramamurthy</td>
+<td>R. K. Ramamurthy</td>
 <td>Flotation of hematite with sodium cleate</td>
 </tr>
 <tr>
-<td>S.S. Balakrishna</td>
-<td>Vasu K.I.</td>
+<td>S. S. Balakrishna</td>
+<td>K. I. Vasu</td>
 <td>High temperature oxidation of ZrO2 dispersed nickel</td>
 </tr>
 <tr>
@@ -5973,17 +6021,18 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <td></td>
 </tr>
 <tr>
-<td>Prasad V.C.S. </td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad V. C. S.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Ausforming of a high speed steel</td>
 </tr>
 <tr>
-<td>S.C. Gupta</td>
+<td>S. C. Gupta</td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1966</b>
 <br>
@@ -5991,53 +6040,54 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <tbody>
 <tr>
 <th>Student</th>
-<th>Advisors</th>
+<th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
 <tr>
 <td>Venkatesh Bhat M.</td>
-<td>Krishnan A.A.</td>
+<td>Krishnan A. A.</td>
 <td>High temperature oxidation characteristics of copper titanium alloys</td>
 </tr>
 <tr>
-<td> Narasimha Murthy K. </td>
-<td> Ramachandran V. </td>
+<td>Narasimha Murthy K.</td>
+<td>Ramachandran V.</td>
 <td>Effect of cold work on the ageing characteristics of Al alloys</td>
 </tr>
 <tr>
-<td>Prasad K.K. </td>
+<td>Prasad K. K.</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Gupta S.C. </td>
-<td>C.R. Krishna Murthy</td>
+<td>Gupta S. C.</td>
+<td>C. R. Krishna Murthy</td>
 <td>Elecrolytic Production of S & P free iron</td>
 </tr>
 <tr>
 <td>R. Natarajan</td>
-<td>Abraham K.P.</td>
+<td>K. P. Abraham</td>
 <td>Reduction smelting of ilmenite to produce pig iron and titanium rich slag</td>
 </tr>
 <tr>
-<td>Srinivasan N.K. </td>
+<td>Srinivasan N. K.</td>
 <td>Ramachandran V.</td>
 <td>Resistometric studies on kinetics of clustering in Al-Zn alloys</td>
 </tr>
 <tr>
-<td>Hanumantha Rao T. </td>
-<td>Abraham K.P.</td>
+<td>Hanumantha Rao T.</td>
+<td>K. P. Abraham</td>
 <td>Upgradation of chavars ilmenite concentrates by chloridisation and hydrogen reduction </td>
 </tr>
 <tr>
-<td>Gokulratnam C.V. </td>
-<td>Krishnan A.A.</td>
+<td>Gokulratnam C. V.</td>
+<td>Krishnan A. A.</td>
 <td>Production of properties of some copper-titania alloy</td>
 </tr>
 </tbody>
 </table>
+<br>
 
-## M.Sc.(Engg.)
+## M. Sc. (Engg.)
 ### 2010-2001
 <br>
 <b>2010</b>
@@ -6050,11 +6100,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <th>Thesis title</th>
 </tr>
 <tr><td>Neelam Kaur Mullay</td>
-<td>(Prof. Govind Gupta)</td>
+<td>Govind S. Gupta</td>
 <td>Study of gas-liquid flow behaviour in raceway zone under pulverized coal Injection</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2009</b>
 <br>
@@ -6067,11 +6118,12 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Suman  Sarkar</td>
-<td>(Prof. T.A. Abinandanan)</td>
+<td>Abinandanan T. A.</td>
 <td>Effect of Atomic Mobility in the Precipitate  Phase on Coarsening: A Phase Field Study</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2008</b>
 <br>
@@ -6083,12 +6135,13 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Ms. Rohini Garg </td>
-<td>(Satyam Suwas and S. Ranganathan)</td>
+<td>Rohini Garg </td>
+<td>Satyam Suwas &amp; Ranganathan S.</td>
 <td>Study of evolution of texture and microsturcture during different modes of rolling and annealing of two – phase (α+ß) brass</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2007</b>
 <br>
@@ -6101,25 +6154,27 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Rakesh Kumar</td>
-<td>(Govind S. Gupta)</td>
+<td>Govind S. Gupta</td>
 <td>Development and validation of two-dimensional mathematical model of boron carbide manufacturing process</td>
 </tr>
 <tr>
 <td>Sudha J.</td>
-<td>(Subodh Kumar)</td>
+<td>Subodh Kumar</td>
 <td>Fatigue damage characterization of carbon/epoxy laminates under spectrumloading</td>
 </tr>
 <tr>
 <td>Potnis Prashant Ramesh</td>
-<td>(Vikram Jayaram and S.K. Biswas (M.E.)</td>
+<td>Vikram Jayaram &amp; S. K. Biswas (ME)</td>
 <td>Study of fracture properties of NiAl bond coats on nickel superalloy by three point bending of microbeams</td>
 </tr>
-<tr><td>Kishora Shetty (ERP)</td>
-<td>(Subodh Kumar and p. Raghothama Rao (Orgn.)</td>
+<tr>
+<td>Kishora Shetty (ERP)</td>
+<td>Subodh Kumar &amp; P. Raghothama Rao (Orgn.)</td>
 <td>Ion nitriding of maraging steel (MDN 250A Grade) for light combat aircraft applications </td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2006</b>
 <br>
@@ -6132,20 +6187,22 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>R. Chitra</td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Synthesis of Cr3Si by Mechanical Alloying and Mechanically Activated Process</td>
 </tr>
 <tr><td>Kandala Ravi Sekhar</td>
-<td>Kishore and S. Sankaran (Orgn.)</td>
+<td>Kishore &amp; S. Sankaran (Orgn.)</td>
 <td>Studies on processing and characterization of syntactic foams with epoxy modified cyanate ester binder and glass microspheres</td>
 </tr>
 <tr>
 <td>Mohammed Abdul Azeem</td>
-<td>(U. Ramamurty)</td>
+<td>Ramamurty U.</td>
 <td>Microstructure and texture evolution and its effect on mechanical properties in dilute magnesium based AZ21 alloy</td>
 </tr>
 </tbody>
 </table>
+
+<br>
 <b>2005</b>
 <br>
 <table>
@@ -6157,36 +6214,37 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Ranadeep Bhowmick</td>
-<td>(K. Chattopadhyay and U. Ramamurty)</td>
+<td>Kamanio Chattopadhyay &amp; Ramamurty U.</td>
 <td>Zr-based Bulk Metallic Glass - A study of Processing, Welding & Subsurface Deformation Mechanisms</td>
 </tr>
 <tr>
 <td>V. Radhika</td>
-<td>(K.A. Natarajan and S. Subramanian)</td>
+<td>Natarajan K. A. &amp; Subramanian S.</td>
 <td>Studies on Bioremoval of Zinc and Cadmium using Desulfotomaculum nigrificans</td>
 </tr>
 <tr>
 <td>Manas Mukherjee</td>
-<td>(A.K. Lahiri)</td>
+<td>Lahiri A. K.</td>
 <td>Bubble Solid Interaction</td>
 </tr>
 <tr>
 <td>Ravi Shankar</td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Fabrication, Microstructure and Mechanical Behavior of Epoxy-Microballoons System (Studies on Fractography and Content, Size Distribution and Surface Modification of Microballoons)</td>
 </tr>
 <tr>
 <td>Rajdip Mukherjee</td>
-<td>(T.A. Abinandanan)</td>
+<td>Abinandanan T. A.</td>
 <td>Precipitate Growth Kinetics: A Phase Field Study</td>
 </tr>
 <tr>
 <td>Sandeep Namadev Kamble</td>
-<td>(U. Ramamurty and D.V. Kubair (A.E.)</td>
+<td>Ramamurty U. &amp; D. V. Kubair (AE)</td>
 <td>Indentation Strength of Piezoelectric Ceramics</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2004</b>
 <br>
@@ -6199,34 +6257,35 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Rejin Raghavan</td>
-<td>(U. Ramamurty)</td>
+<td>Ramamurty U.</td>
 <td>Structural Relaxation and Crystallization in a Pd40Cu30Ni10P20 Bulk Metallic Glass.</td>
 </tr>
 <tr>
 <td>Santonu Ghosh</td>
-<td>(Atul H.Chokshi)</td>
+<td>Chokshi A. H.</td>
 <td>Influence of Silica on the Compressive Creep Behaviour of 3 mol% Yttria Stabilized Tetragonal Zirconia Polycrystals.</td>
 </tr>
 <tr>
 <td>N. Suresh</td>
-<td>(U. Ramamurty)</td>
+<td>Ramamurty U.</td>
 <td>Aging Response and its effect on Mechanical Properties of Cu-Al-Ni Single Crystal Shape Memory Alloy</td>
 </tr>
 <tr><td>Sudarshan</td>
-<td>(M.K. Surappa)</td>
+<td>Surappa M. K.</td>
 <td>Processing and Characterization of Fly Ash Particle Reinforced A356 Al Composites</td>
 </tr>
 <tr><td>Sanjitarani Santra</td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Fabrication of Epoxy Composites with CTBN and Fly Ash as Individual and Hybrid Fillers: Studies on Curing Schedule and Mechanical Properties under Static and Dynamic Loading Conditions</td>
 </tr>
 <tr>
-<td>M.P. Lakshminarayana Rao</td>
-<td>(Govind S. Gupta)</td>
+<td>M. P. Lakshminarayana Rao</td>
+<td>Govind S. Gupta</td>
 <td>Physical and Mathematical Modelling of Boron Carbide Manufacturing Process </td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2003</b>
 <br>
@@ -6239,44 +6298,47 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Kisor Kumar Sahu</td>
-<td>(A.K. Lahiri)</td>
+<td>Lahiri A. K.</td>
 <td>Void Distribution in Packed Bed: Mathematical Modeling and Experimental Study</td>
 </tr>
 <tr>
-<td>S.P. Vijayalakshmi</td>
-<td>(A.M.Raichur) </td>
+<td>S. P. Vijayalakshmi</td>
+<td>Ashok M. Raichur</td>
 <td>Improved Dewatering of Fine Coal by Vacuum Filtration using Microorganisms as Bioflocculants</td>
 </tr>
 <tr>
-<td>Basavaraj M.G. </td>
-<td>(G.S. Gupta)</td>
+<td>Basavaraj M. G.</td>
+<td>Govind S. Gupta</td>
 <td>Determination of local Dispersion Co-efficient and Local Holdup in a Packed Bed by using X-rays </td>
 </tr>
 <tr>
-<td>H.S Jeevan</td>
-<td>(S. Ranganathan)</td>
+<td>H. S. Jeevan</td>
+<td>Ranganathan S.</td>
 <td>Stable and Metastable Phases in Zn-Mg-Re (RE = Y, La, Gd and Dy) Alloys </td>
 </tr>
 <tr>
 <td>Sangram Keshari Mohapatra</td>
-<td>(K.T.Jacob)</td><td>Deoxidation Studies on the Systems M-Cr-O (M = Fe, Ni, Co)</td>
+<td>Jacob K. T.</td>
+<td>Deoxidation Studies on the Systems M-Cr-O (M = Fe, Ni, Co)</td>
 </tr>
 <tr>
 <td>Subray R. Hegde</td>
-<td>(Vikram Jayaram)</td>
+<td>Vikram Jayaram</td>
 <td>Deposition of 8wt% Yttria Stabilised Zirconia Coatings by Flame Pyrolisis of Solution Precursor </td>
 </tr>
 <tr>
 <td>P. Mahendiran </td>
-<td>(M.K. Surappa)</td>
+<td>Surappa M. K.</td>
 <td>Processing and Characterization of B4C Particle Reinforced 6061 AI Composites</td>
 </tr>
-<tr><td>L. Rangaraj</td>
-<td>(Vikram Jayaram and C. Divakar (Orgn)</td>
+<tr>
+<td>L. Rangaraj</td>
+<td>Vikram Jayaram &amp; C. Divakar (Orgn.)</td>
 <td>Reactive Hot Pressing of TiN-TiB2 Composites under Moderate Pressure and Temperature</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2002</b>
 <br>
@@ -6286,29 +6348,34 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <th>Advisor(s)</th>
 <th>Thesis title</th>
 </tr>
-<tr><td>Subba Rao Mekala</td>
-<td>(A.H. Chokshi)</td>
+<tr>
+<td>Subba Rao Mekala</td>
+<td>Chokshi A. H.</td>
 <td>An investigation of grain boundary sliding in a superplastic 7475 aluminum alloy</td>
 </tr>
-<tr><td>Saswata Bhattacharyya</td>
-<td>(T.A. Abinandanan)</td>
+<tr>
+<td>Saswata Bhattacharyya</td>
+<td>Abinandanan T. A.</td>
 <td>Ternary spinodal decomposition: Effect of interfacial energy</td>
 </tr>
-<tr><td>G.V.S.S. Prasad</td>
-<td>(T.A. Abinandanan)</td>
+<tr>
+<td>G. V. S. S. Prasad</td>
+<td>Abinandanan T. A.</td>
 <td>Effect of anisotropy in misfit on precipitate shape: A dynamical study</td>
 </tr>
 <tr>
 <td>Suresh Chandra Parida (ER)</td>
-<td>(K.T. Jacob and V. Venugopal, B.A.R.C.)</td>
+<td>Jacob K. T. &amp; V. Venugopal (BARC)</td>
 <td>Thermodynamic studies on the systems Ln-Fe-O (Ln=Nd, Sm, Dy)</td>
 </tr>
-<tr><td>Saumyadeep Jana</td>
-<td>( K. Chattopadhyay and U. Ramamurty)</td>
+<tr>
+<td>Saumyadeep Jana</td>
+<td>Kamanio Chattopadhyay &amp; Ramamurty U.</td>
 <td>Subsurface Deformation during Indentation of Bulk Metallic Glasses</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2001</b>
 <br>
@@ -6319,59 +6386,64 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 <th>Advisor(s)</th>
 <th>Thesis title</th></tr>
 <tr>
-<td>M.N. Chandraprabha</td>
-<td>(K.A. Natarajan)</td>
+<td>M. N. Chandraprabha</td>
+<td>Natarajan K. A.</td>
 <td>Studies on bio-oxidation of a refractory gold containing sulphide concentrate with respect to optimization and modelling</td>
 </tr>
-<tr><td>Evvie Chockalingam</td>
-<td>(S. Subramanian)</td>
+<tr>
+<td>Evvie Chockalingam</td>
+<td>Subramanian S.</td>
 <td>Studies on biodegradation of organic flotation collectors using bacillus polymyxa</td>
 </tr>
 <tr>
-<td>Ghatty S.S.R.K. Sastry</td>
-<td>(A.K. Lahiri)</td>
+<td>Ghatty S. S. R. K. Sastry</td>
+<td>Lahiri A. K.</td>
 <td>Cold model study of formation and breaking of raceway</td>
 </tr>
 <tr>
 <td>V. Sivakumar</td>
-<td>(Subodhkumar)</td>
+<td>Subodh Kumar</td>
 <td>Processing characterization and evaluation of functionally graded Al-4.6% Cu alloy</td>
 </tr>
 <tr>
 <td>S. Swaminathan</td>
-<td>(Vikram Jayaram)</td>
+<td>Vikram Jayaram</td>
 <td>Processing and characterisation of bulk Al203 p / AIN-Al composites by pressureless infiltration</td>
 </tr>
 <tr>
 <td>Jayasree Thomas</td>
-<td>(S. Subramanian and M.S. Riyazulla, IBM)</td>
+<td>Subramanian S. &amp; M. S. Riyazulla (IBM)</td>
 <td>Studies on the recovery of cobalt from Kalyadi copper tailings</td>
 </tr>
 <tr>
-<td>A.R. Shashikala</td>
-<td>(A.M. Raichur)</td>
+<td>A. R. Shashikala</td>
+<td>Ashok M. Raichur</td>
 <td>Role of interfacial phenomena in bioprocessing of minerals using Bacillus polymyxa</td>
 </tr>
 <tr>
-<td>P. Dilli Babu Naidu</td><td>(E.S. Dwarakadasa)</td>
+<td>P. Dilli Babu Naidu</td>
+<td>Dwarakadasa E. S.</td>
 <td>Development of a thermomechanical treatment for optimizing properties of an indigenous 7010 aircraft alloy</td>
 </tr>
-<tr><td>B.R. Anand</td><td>(D.H. Sastry)</td>
+<tr>
+<td>B. R. Anand</td>
+<td>Sastry D. H.</td>
 <td>Effect of aluminum content on the creep resistance of FeAl</td>
 </tr>
 <tr>
 <td>Hemamalini Thyagarajan</td>
-<td>(S. Subramanian and K.A. Natarajan)</td>
+<td>Subramanian S. &amp; Natarajan K. A.</td>
 <td>Studies on the bioremoval of hexavalent and trivalent chromium using Bacillus Polymyxa</td>
 </tr>
 <tr>
 <td>D. Sreelakshmi Desai</td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Mechanical and micrographic studies in oxide and short fibre bearing Epoxy system in dry and wet state.</td>
 </tr>
 </tbody>
 </table>
 <br>
+
 ###  2000-1991
 <br>
 <b>2000</b>
@@ -6385,31 +6457,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Sheikh Manjura Haque</td>
-<td>(K.T. Jacob)</td>
+<td>Jacob K. T.</td>
 <td>Thermodynamics of alloys with strong interactions</td>
 </tr>
 <tr>
-<td>M.P. Gururajan</td>
-<td>(T.A. Abinandanan)</td>
+<td>M. P. Gururajan</td>
+<td>Abinandanan T. A.</td>
 <td>Mean field study of point defects in B2-NiAI</td>
 </tr>
 <tr>
-<td>N.R. Sathya Swaroop</td>
-<td>(A.H. Chokshi)</td>
+<td>N. R. Sathya Swaroop</td>
+<td>Chokshi A. H.</td>
 <td>Processing and high temperature deformation of pure and magnesia doped alumina</td>
 </tr>
 <tr>
-<td>N.V. Ravi Kumar</td>
-<td>(E.S. Dwarakadasa)</td>
+<td>N. V. Ravi Kumar</td>
+<td>Dwarakadasa E. S.</td>
 <td>A study of spray atomized and deposited hypereutectic Al-20Si alloy</td>
 </tr>
 <tr>
 <td>Victoria Bhattacharya</td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Study of friction and wear behaviour of nanoembedded aluminium alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1999</b>
 <br>
@@ -6422,31 +6495,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>T. Balasubramani</td>
-<td>(S. Ranganathan)</td>
+<td>Ranganathan S.</td>
 <td>Metastable phases in Al-Cr alloys with ternary and quaternary additions</td>
 </tr>
 <tr>
 <td>J. Vijay Kumar</td>
-<td>(M.K. Surappa)</td>
+<td>Surappa M. K.</td>
 <td>Processing And characterization of cast 6061 Al-tin metal matrix composites</td>
 </tr>
 <tr>
 <td>Indira Ravindran</td>
-<td>(S. Subramanian and M.S. Riyaz Ulla)</td>
+<td>Subramanian S. &amp; M. S. Riyaz Ulla</td>
 <td>Beneficiation studies on molybdenite ore from Harur area, Tamil Nadu</td>
 </tr>
 <tr>
-<td>A.C. Niranjanappa</td>
-<td>(E.S. Dwarakadasa and K. Ramchand)</td>
+<td>A. C. Niranjanappa</td>
+<td>Dwarakadasa E. S. &amp; K. Ramchand</td>
 <td>Characterisation of radar transparent PMC A-sandwich radome panel through oven curing</td>
 </tr>
 <tr>
-<td>C.S. Karthikeyan</td>
-<td>(Kishore)</td>
+<td>C. S. Karthikeyan</td>
+<td>Kishore</td>
 <td>Processing and characterisation of fibre-free and fibre-bearing syntactic foams</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1998</b>
 <br>
@@ -6459,31 +6533,32 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>Punit Gupta</td>
-<td>(A.K. Lahiri)</td>
+<td>Lahiri A. K.</td>
 <td>Cold model study of raceway</td>
 </tr>
 <tr>
 <td>Sharad Chandra Sharma (ER)</td>
-<td>(K.Chattopadhyay and B.C. Pai)</td>
+<td>Kamanio Chattopadhyay &amp; B. C. Pai</td>
 <td>Indigenous development of a constant modulus alloy for hemispherical resonating gyroscope: processing, properties and performance</td>
 </tr>
 <tr>
 <td>B. Sudhir</td>
-<td>(A.H. Chokshi)</td>
+<td>Chokshi A. H.</td>
 <td>Compressive creep characterization of polycrystalline 8 mol% yttria stabilized cubic zirconia</td>
 </tr>
 <tr>
 <td>H. Ramanarayan</td>
-<td>(T.A. Abinandanan)</td>
+<td>Abinandanan T. A.</td>
 <td>Determination of phase diagrams of model alloy systems: A Monte Carlo study</td>
 </tr>
 <tr>
 <td>C. Sanjivi</td>
-<td>(S.Ranganathan and A.K.Lahiri)</td>
+<td>Ranganathan S. &amp; Lahiri A. K.</td>
 <td>Modelling and characterization of spray formed 7075 aluminium alloy and a composite with Al2O3.</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1997</b>
 <br>
@@ -6496,45 +6571,47 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 <tr>
 <td>S. Maiti</td>
-<td>(T. A Abinandanan)</td>
+<td>Abinandanan T. A.</td>
 <td>Study of surface ordering and disordering </td>
 </tr>
 <tr>
 <td>G. S. Avadhani</td>
-<td>(Y. V. R. K. Prasad)</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Warm working behaviour of alpha-iron, Fe-Ni alloys: A Study using processing maps</td>
 </tr>
 <tr>
 <td>Abha Kumari</td>
-<td>(K. A. Natarajan)</td>
+<td>Natarajan K. A.</td>
 <td>Electrobioleaching of chalcopyrite floatation concentrate </td>
 </tr>
 <tr>
-<td>P.S. Shankar</td>
-<td>(E. S. Dwarakadasa)</td>
+<td>P. S. Shankar</td>
+<td>Dwarakadasa E. S.</td>
 <td>Near threshold fatigue crack growth study under mixed mode (I-II) loading (2014-T651 aluminium alloy)</td>
 </tr>
 <tr>
 <td>Saki Krishnamurthy</td>
-<td>(A. H. Chokshi and S. Ranganathan)</td>
+<td>Chokshi A. H. &amp; Ranganathan S.</td>
 <td>An investigation of the densification and sinter forging characteristics of alumina- yttria composites</td>
 </tr>
 <tr>
 <td>S. Chirpa Selvi</td>
-<td>(K. A. Natarajan)</td>
+<td>Natarajan K. A.</td>
 <td>Electrobioleaching of sphalerite flotation concentrate</td>
 </tr>
 <tr>
 <td>D. Santhiya</td>
-<td>(K. A. Natarajan and S. Subramanian)</td>
+<td>Natarajan K. A. &amp; Subramanian S.</td>
 <td>Surface chemical studies on alumina suspensions using polymeric additives</td>
 </tr>
-Sandeep R. Shah</td>
-<td>(A. H. Chokshi)</td>
+<tr>
+<td>Sandeep R. Shah</td>
+<td>Chokshi A. H.</td>
 <td>An investigation on the densification and sinter-forging characteristics of Al2O3-MgO composites</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1996</b>
 <br>
@@ -6547,31 +6624,32 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Sandip Bysakh</td>
-<td>(K. Chattopadhyay and P. K Das)</td>
+<td>Kamanio Chattopadhyay &amp; P. K. Das</td>
 <td>Development of laser ablation technique for production of intermetallic thin film and application to Al-Fe</td>
 </tr>
 <tr>
 <td>K. S. Balakrishnan</td>
-<td>(E. S. Dwarakadasa and C. Ganguly)</td>
+<td>Dwarakadasa E. S. &amp; Ganguly C.</td>
 <td>A comparative study on the evaluation of fracture toughness by using Charpy impact & tension test specimens (AlSl 403)</td>
 </tr>
 <tr>
 <td>Dheepa Srinivasan</td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Growth morphology and coarsening of metastable Al3 Zr in Melt spun Al-Ni-Zr alloys</td>
 </tr>
 <tr>
 <td>S. Sundararajan</td>
-<td>(E. S Dwarakadasa and R. Mahadevan)</td>
+<td>Dwarakadasa E. S. &amp; R. Mahadevan</td>
 <td>Particulate aluminium matrix composite material (Al-12 Si-SiCp) for I.C engine piston application</td>
 </tr>
 <tr>
 <td>S. Ganapathi Sharma</td>
-<td>(G. N. K Iyengar and G. R. Nagabhushana)</td>
+<td>G. N. K. Iyengar &amp; G. R. Nagabhushana</td>
 <td>Studies on bulk breakdown behaviour of zinc oxide based composites</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1995</b>
 <br>
@@ -6584,16 +6662,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>R. Asuvathraman</td>
-<td>(R. M. Mallya & C. K. Mathews)</td>
+<td>Mallya R. M. &amp; C. K. Mathews</td>
 <td>Surface characterization of uranium monocarbide using XPS, SIMS and XRD</td>
 </tr>
 <tr>
 <td>K. Ananthasivan</td>
-<td>(K. T. Jacob & C. K. Mathews)</td>
+<td>Jacob K. T. &amp; C. K. Mathews</td>
 <td>Carbon potentials in ternary systems U-M-C (M-Mo,W,Cr)</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1994</b>
 <br>
@@ -6606,21 +6685,22 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>N. Krishnan</td>
-<td>(S. Ranganathan, A. K. Lahiri and S. Seshan,ME)</td>
+<td>Ranganathan S., Lahiri A. K. &amp; S. Seshan (ME)</td>
 <td>Simulation of microstructural evolution during grain growth and recrystallization</td>
 </tr>
 <tr>
 <td>S. Anthonysamy </td>
-<td>(K. T. Jacob & C. K. Mathews)</td>
+<td>Jacob K. T. &amp; C. K. Mathews</td>
 <td>Carbon potential in U-Pu-C-O-N system measurements and calculations</td>
 </tr>
 <tr>
 <td>M. Ravi </td>
-<td>(E. S. Dwarakadasa & B. C. Pai, RRL, Thiruvananthapuram)</td>
+<td>Dwarakadasa E. S. &amp; B. C. Pai (RRL, Thiruvananthapuram)</td>
 <td>Structure - property correlation studies of rare earth additions to Al-7Si-0.3 Mg alloy</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1993</b>
 <br>
@@ -6633,36 +6713,37 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>R. S. Sundar </td>
-<td>(D. H. Sastry)</td>
+<td>Sastry D. H.</td>
 <td>Creep behaviour of Ti-24 Al-11Nb alloy </td>
 </tr>
 <tr>
 <td>C. Mani </td>
-<td>(Kishore, C. R. L. Murty (AE), V. P. Raghupathy (WRI))</td>
+<td>Kishore, C. R. L. Murty (AE) &amp; V. P. Raghupathy (WRI)</td>
 <td>A study on generation and characterisation of transverse and longitudinal cracks in thick weldments</td>
 </tr>
 <tr>
 <td>A. Ajay Kumar </td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Thermal, mechanical and non-destructive characterization of carbon-carbon composites </td>
 </tr>
 <tr>
 <td>Madhavi Gurram </td>
-<td>(G. N. K. Iyengar, G. R. Nagabhushana, HVE)</td>
+<td>G. N. K. Iyengar &amp; G. R. Nagabhushana (HVE)</td>
 <td>Development of a new bulk breakdown device based on a zinc oxide composite for low voltage surge suppression</td>
 </tr>
 <tr>
 <td>Jaydeep Sarkar </td>
-<td>(M. K. Surappa)</td>
+<td>Surappa M. K.</td>
 <td>The constitutive flow behaviour of Al 6061-SiCp MMCs and related relaxation restoration mechanisms during hot deformation</td>
 </tr>
 <tr>
 <td>N. Ravi Shankar </td>
-<td>(K. Chattopadhyay)</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Early stage plate growth in Cu-Zn Alloys - an attempt at the resolution of the bainite controversy</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1992</b>
 <br>
@@ -6675,51 +6756,52 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Sunil Kaushal </td>
-<td>(Kishore ) </td>
+<td>Kishore</td>
 <td>Studies on mechanical behaviour, fracture toughness evaluation and fractographic analysis of carbon and rubber modified epoxy matrix reinforced with glass fibres</td>
 </tr>
 <tr>
 <td>Kalyan Kumar Das</td>
-<td>(K. A. Natarajan and Pradip (TRDDC))</td>
+<td>Natarajan K. A. &amp; Pradip (TRDDC)</td>
 <td>Electrokinetic investigations on the oxidation of chalcopyrite</td>
 </tr>
 <tr>
 <td>P. Krishna Sagar</td>
-<td>(Y. V. R. K. Prasad and M. L. Bhatia, DMRL)</td>
+<td>Prasad Y. V. R. K. &amp; M. L. Bhatia (DMRL)</td>
 <td>Processing maps for hot working of the intermetallic alloy Ti-24Al-11Nb</td>
 </tr>
 <tr>
 <td>S. P. Dhandapani </td>
-<td>(M. K. Surappa) </td>
+<td>Surappa M. K.</td>
 <td>Studies on the growth of Al2O3/Al composite into SiC preforms and preliminary studies on the processing of intermetallic matrix composites </td>
 </tr>
 <tr>
 <td>T. V. Vijaya Kumar </td>
-<td>(U. B. Nayak and R. M. Mallya)</td>
+<td>U. B. Nayak &amp; Mallya R. M.</td>
 <td>Studies on oil flotation of wolframite</td>
 </tr>
 <tr>
 <td>Kishore Kapila </td>
-<td>(K. S. Raman and D. H. Sastry)</td>
+<td>K. S. Raman &amp; Sastry D. H.</td>
 <td>Creep and impact studies on some steel weldments</td>
 </tr>
 <tr>
 <td>H. R. Muralidhar </td>
-<td>(V. Jayaram) </td>
+<td>Vikram Jayaram</td>
 <td>Al2O3/Al composites from Al-Zn alloys : Growth and infiltration mechanisms</td>
 </tr>
 <tr>
 <td>G. Srinivasa Rao </td>
-<td>(U. B. Nayak and R. M. Mallya )</td>
+<td>U. B. Nayak &amp; Mallya R. M.</td>
 <td>Selective flotation of serpentine from magnesite</td>
 </tr>
 <tr>
 <td>S. Vana Varamban</td>
-<td>(K. T. Jacob and C. K. Mathews IGCAR)</td>
+<td>Jacob K. T. &amp; C. K. Mathews (IGCAR)</td>
 <td>Thermodynamics of sodium-indium, indium-lead and indium-antimony alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1991</b>
 <br>
@@ -6732,27 +6814,28 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>K. Padmanabhan </td>
-<td>(Kishore) </td>
+<td>Kishore</td>
 <td>Flexural behaviour of unmodified and modified fibre reinforced epoxy based composites</td>
 </tr>
 <tr>
 <td>K. Surnarayana Murthy</td>
-<td>(K. A. Natarajan)</td>
+<td>Natarajan K. A.</td>
 <td>Bioleaching of a lean grade chalcopyrite ore - Studies on amenability and mechanisms</td>
 </tr>
 <tr>
 <td>S. Muzhumathi </td>
-<td>(D. H. Sastry & K. I. Vasu, CECRI)</td>
+<td>Sastry D. H. &amp; K. I. Vasu (CECRI)</td>
 <td>Corrosion behaviour of equiatomic Nickel-Titanium alloy in 3.5% Nacl, 89 % Conc. H3PO4 and extra-cellularbiofluids.</td>
 </tr>
 <tr>
 <td>D. Gupta </td>
-<td>(A. K. Lahiri)</td>
+<td>Lahiri A. K.</td>
 <td>Study of fluid flow in a continuous casting mould</td>
 </tr>
 </tbody>
 </table>
 <br>
+
 ### 1990-1981
 <br>
 <b>1990</b>
@@ -6766,16 +6849,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>R.Veeraraghavan </td>
-<td>(K.S.Raman & V.P.Raghupathy, BHEL) </td>
+<td>K. S. Raman &amp; V. P. Raghupathy (BHEL) </td>
 <td>Effect of welding conditions on the critical cracking stress and determination of critical restraint intensities of a high tensile steel</td>
 </tr>
 <tr>
 <td>T. R. Govindan Kutty</td>
-<td>(D. H. Sastry & C. Ganguly, BARC)</td>
+<td>Sastry D. H. &amp; Ganguly C. (BARC)</td>
 <td>Creep studies on metallic nuclear fuels (U, U-5% Zr, U-10% Zr)</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1989</b>
 <br>
@@ -6788,26 +6872,27 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>C. S. Gundewar </td>
-<td>(K. A. Natarajan & U. B. Nayak) </td>
+<td>Natarajan K. A. &amp; U. B. Nayak</td>
 <td>Grinding media wear studies with respect to Kudremukh Iron ore</td>
 </tr>
 <tr>
 <td>N. Jyothi </td>
-<td>(K. A. Natarajan)</td>
+<td>Natarajan K. A.</td>
 <td>The role of galvanic interactions in the bioleaching of mixed sulphides</td>
 </tr>
 <tr>
 <td>R. Goswami </td>
-<td>(M. Mohan Rao) </td>
+<td>M. Mohan Rao</td>
 <td>Lengthening kinetics of alpha plates in Ti-5.9% V alloy</td>
 </tr>
 <tr>
 <td>S. Murali </td>
-<td>(K. S. Raman & K. S. S. Murthy, ME ) </td>
+<td>K. S. Raman &amp; K. S. S. Murthy (ME) </td>
 <td>Ageing characteristics of aluminium-7 % silicon-0.3% magnesium casting alloy with cadmium trace addition and iron impurity </td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1988</b>
 <br>
@@ -6820,41 +6905,42 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Durga Subramanian </td>
-<td>(U. B. Nayak) </td>
+<td>U. B. Nayak</td>
 <td>Optimization studies on molybdenite flotation</td>
 </tr>
 <tr>
 <td>R. J. Deshpande </td>
-<td>(U. B. Nayak) </td>
+<td>U. B. Nayak</td>
 <td>Beneficiation studies on low grade tungsten deposits of Degana, Rajasthan</td>
 </tr>
 <tr>
-<td>Vathsala </td>
-<td>(K. A. Natarajan) </td>
+<td>Vathsala</td>
+<td>Natarajan K. A.</td>
 <td>Electrochemical aspects of grinding media wear with reference to base metal sulphides</td>
 </tr>
 <tr>
 <td>K. Asok Kumar </td>
-<td>(K. S. Raman & A. N. Dwarakan (WRI) )</td>
+<td>K. S. Raman &amp; A. N. Dwarakan (WRI)</td>
 <td>Development of a friction welding quality control monitor and its evaluation for carbon steel to WRI) carbon steel and steel to aluminium welding</td>
 </tr>
 <tr>
-<td>A.K.S. Kalyan Kumar </td>
-<td>(Y.V.R.K.Prasad & Kishore) </td>
+<td>A. K. S. Kalyan Kumar</td>
+<td>Prasad Y. V. R. K. &amp; Kishore</td>
 <td>Criteria for predicting metallurgical instabilities in processing</td>
 </tr>
 <tr>
 <td>J. N. Buzruk </td>
-<td>(D. H. Sastry) </td>
+<td>Sastry D. H.</td>
 <td>Impression creep behaviour of weldments and rate controlling mechanism of plastic flow of AISI SS 316 at high temperatures</td>
 </tr>
 <tr>
 <td>D. N. Drakshayani </td>
-<td>(R. M. Mallya)</td>
+<td>Mallya R. M.</td>
 <td>Reactivity of solids-reduction of some transition metal oxides and of marine manganese nodules by hydrogen</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1987</b>
 <br>
@@ -6866,32 +6952,33 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>A. W. Bhagwat </td>
-<td>(M. Mohan Rao) </td>
+<td>A. W. Bhagwat</td>
+<td>M. Mohan Rao</td>
 <td>Phase transformations in a Ti-7.9 at %Nb alloy</td>
 </tr>
 <tr>
-<td>K. Raviprasad </td>
-<td>(K. Chattopadhyay) </td>
+<td>K. Raviprasad</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on rapidly solidified iron-silicon alloys</td>
 </tr>
 <tr>
 <td>D. S. Srinath </td>
-<td>(E. S. Dwarakadasa) </td>
+<td>Dwarakadasa E. S.</td>
 <td>Corrosion behaviour of high strength Cu-9Ni-6Sn and Cu-9Ni-6Sn-1Al spinodal alloys in 3.5% NaCl</td>
 </tr>
 <tr>
 <td>K. Vijayaraju </td>
-<td>(E. S. Dwarakadasa)</td>
+<td>Dwarakadasa E. S.</td>
 <td>Role of excess vacancies in the ductile fracture of aluminium</td>
 </tr>
 <tr>
 <td>Debashis Dutta </td>
-<td>(K. Chattopadhyay & C. G. K. Nair HAL)</td>
+<td>Kamanio Chattopadhyay &amp; C. G. K. Nair (HAL)</td>
 <td>Development and evaluation of silicon carbide particulate reinforced aluminium composites</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1986</b>
 <br>
@@ -6903,27 +6990,28 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>D. P. Patil </td>
-<td>(U. B. Nayak) </td>
+<td>D. P. Patil</td>
+<td>U. B. Nayak</td>
 <td>Selective flotation of scheelite and calcite</td>
 </tr>
 <tr>
 <td>C. S. Lakshmi </td>
-<td>(R. M. Mallya & E. S. Rajagopal) </td>
+<td>Mallya R. M. &amp; E. S. Rajagopal</td>
 <td>Characterisation of rapidly solidified aluminium-iron alloys</td>
 </tr>
 <tr>
 <td>N. R. Mandre </td>
-<td>(K. A. Natarajan) </td>
+<td>Natarajan K. A.</td>
 <td>Environmental aspects in mining and processing of sulphide minerals</td>
 </tr>
 <tr>
 <td>M. K. Yelloji Rao </td>
-<td>(K. A. Natarajan)</td>
+<td>Natarajan K. A.</td>
 <td>Electrochemical aspects of sulphide mineral dissolution</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1985</b>
 <br>
@@ -6936,16 +7024,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Asok Kumar Ray </td>
-<td>(E. S. Dwarakadasa & K. S. Raman) </td>
+<td>Dwarakadasa E. S. &amp; K. S. Raman</td>
 <td>Influence of porosity and slag inclusions on the properties of 15CDV6 HSLA steel butt welds</td>
 </tr>
 <tr>
 <td>Girish P. Ghate </td>
-<td>(K. S. Raman & K. S. S. Murthy (ME) ) </td>
+<td>K. S. Raman &amp; K. S. S. Murthy (ME)</td>
 <td>Effect of minor element and trace addition on ageing characteristics and solidification behaviour of the Al-1.7Si-0.3Mg casting alloy</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1984</b>
 <br>
@@ -6958,21 +7047,22 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>D. Vaman Rao </td>
-<td>(U. B. Nayak)</td>
+<td>U. B. Nayak</td>
 <td>Beneficiation of low grade Mussorie phosphate ore by flotation </td>
 </tr>
 <tr>
 <td>V. I. Gopikrishnan </td>
-<td>(K. I. Vasu) </td>
+<td>K. I. Vasu</td>
 <td>Oxidation and tarnishing of aluminium-silicon bronzes - a study with respect to architectural applications</td>
 </tr>
 <tr>
 <td>P. N. Girija Shankar</td>
-<td>(K. I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Inhibition of corrosion of mild steel in acid media - galvanostatic and potentio-static polarisation studies</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1982</b>
 <br>
@@ -6985,16 +7075,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Gouthama</td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Effect of trace addition of tin on the isothermal and di-isothermal ageing characteristics of aluminium-0.45 magnesium-0.26 silicon alloy (Hardness, Resistometric and Microscopic studies)</td>
 </tr>
 <tr>
 <td>P. Gopalan </td>
-<td>(E. S.Dwarakadasa & Kishore) </td>
+<td>Dwarakadasa E. S. &amp; Kishore</td>
 <td>Dynamic stress corrosion cracking studies in aged Al-5Zn-4Mg and Al-5Zn-4Mg-0.01Be alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1981</b>
 <br>
@@ -7007,17 +7098,18 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>K. R. Narendranath</td>
-<td>(E. S. Dwarakadasa)</td>
+<td>Dwarakadasa E. S.</td>
 <td>Influence of beryllium addition on the age hardening, deformation and fracture characteristics of aluminium-5 zinc-4 magnesium alloy</td>
 </tr>
 <tr>
 <td>D. Suresh</td>
-<td>(P. K. Rohatgi & Kishore)</td>
+<td>P. K. Rohatgi &amp; Kishore</td>
 <td>Solar furnace for melting metals and alloys</td>
 </tr>
 </tbody>
 </table>
 <br>
+
 ### 1980-1971
 <br>
 <b>1979</b>
@@ -7031,11 +7123,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Prabhakar Sastri</td>
-<td>(G. N. K. Iyengar)</td>
+<td>G. N. K. Iyengar</td>
 <td>Energy analysis of aluminium extraction in India</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1974</b>
 <br>
@@ -7048,26 +7141,27 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>P. Suryanarayanan</td>
-<td>(M. Mohan Rao)</td>
+<td>M. Mohan Rao</td>
 <td>Studies on the isothermal decomposition of a copper-27 wt% Sn alloy</td>
 </tr>
 <tr>
 <td>B. L. Padma</td>
-<td>(R. M. Mallya)</td>
+<td>Mallya R. M.</td>
 <td>Electrical resistivity studies in quenched Al-Mg alloys</td>
 </tr>
 <tr>
 <td>Rajiv Kohli</td>
-<td>(K. I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Oxidation of zirconium alloys</td>
 </tr>
 <tr>
 <td>D. R. Nagaraj</td>
-<td>(K. I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Electro-hydrometallurgical recovery of copper from chalcopyrite concentrates</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1971</b>
 <br>
@@ -7080,12 +7174,13 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Satish Mishra</td>
-<td>(K. I. Vasu)</td>
+<td>K. I. Vasu</td>
 <td>Age-hardening and related properties of aluminium magnesium alloys</td>
 </tr>
 </tbody>
 </table>
 <br>
+
 ### 1970-1961
 <br>
 <b>1968</b>
@@ -7098,11 +7193,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>S. Sreenivasa Rao</td>
-<td>Anantharaman T.R.</td>
+<td>Anantharaman T. R.</td>
 <td>Structural changes in copper zinc alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1967</b>
 <br>
@@ -7115,11 +7211,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>M. S. Jayaram</td>
-<td>(K. P. Abraham)</td>
+<td>K. P. Abraham</td>
 <td>Studies on the chloridisation of low grade ferruginous manganese ores</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1966</b>
 <br>
@@ -7132,26 +7229,27 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>M. Murali Mohan Rao</td>
-<td>(K. P. Abraham)</td>
+<td>K. P. Abraham</td>
 <td>Studies on the roasting of sphalerite concentrate</td>
 </tr>
 <tr>
 <td>C. R. Krishna Murthy</td>
-<td>(J. Balachandra)</td>
+<td>J. Balachandra</td>
 <td>Electrodeposition of copper tin alloys from the fluoborate bath</td>
 </tr>
 <tr>
 <td>E. S. Dwarakadasa</td>
-<td>Krishnan A.A.</td>
+<td>Krishnan A. A.</td>
 <td>Interface energy studies in some copper alloys containing a liquid phase</td>
 </tr>
 <tr>
 <td>K. S. Raman</td>
-<td>Krishnan A.A.</td>
+<td>Krishnan A. A.</td>
 <td>Studies on the spreading power of some solders</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1964</b>
 <br>
@@ -7163,12 +7261,13 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Ramana Rao A.V. </td>
-<td>Krishnan A.A.</td>
+<td>Ramana Rao A. V.</td>
+<td>Krishnan A. A.</td>
 <td>Preparation of copper by some powder metallurgical techniques</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1963</b>
 <br>
@@ -7181,21 +7280,22 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Ramesam J.</td>
-<td>Anantharaman T.R.</td>
+<td>Anantharaman T. R.</td>
 <td>Development of age-hardenable alloys from Indian aluminium</td>
 </tr>
 <tr>
-<td>Ramamurthy R.K.</td>
-<td>Krishnan A.A.</td>
+<td>Ramamurthy R. K.</td>
+<td>Krishnan A. A.</td>
 <td>Studies on vermiculite and its beneficiation</td>
 </tr>
 <tr>
 <td>Manjunath Pai K.</td>
-<td>Malikarjunan R. & Krishnan A.A.</td>
+<td>Malikarjunan R. &amp; Krishnan A. A.</td>
 <td>Studies on some fatty acid collectors in the flotation of beach-sand minerals of Travancore</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1960</b>
 <br>
@@ -7207,14 +7307,14 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Aswath H.S.</td>
-<td>Krishnan A.A.</td>
+<td>Aswath H. S.</td>
+<td>Krishnan A. A.</td>
 <td>Studies on the measurement of contact angle and spreading power of tin and tin-lead solders on copper in presence of fluxes</td>
 </tr>
 </tbody>
 </table>
 
-## A.I.I.Sc
+## A. I. I. Sc.
 ### 1956-1951
 <br>
 <b>1956</b>
@@ -7227,7 +7327,7 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Mohan Rao M.</td>
+<td>M. Mohan Rao</td>
 <td>Brahm Prakash</td>
 <td>Studies on the direct reduction of zinc sulphide with manganese and ferro-manganese</td>
 </tr>
@@ -7238,6 +7338,7 @@ Sandeep R. Shah</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1954</b>
 <br>
@@ -7249,12 +7350,13 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Udupa K.G. </td>
+<td>Udupa K. G.</td>
 <td>Balachandra J.</td>
 <td>Electrowinning of zinc from Zawar concentrates</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1951</b>
 <br>
@@ -7267,12 +7369,13 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Aravamuthan V.</td>
-<td>Ghosh J.C. & Ghosh S.S.</td>
+<td>Ghosh J. C. &amp; Ghosh S. S.</td>
 <td>Studies on the reaction between carbon and sulphur at high temperatures with special reference to the production of carbon disulphide and desulphurization of Assam coal</td>
 </tr>
 </tbody>
 </table>
-## M.E.(Integrated)
+
+## M. E. (Integrated)
 ### 2000-1991
 <br>
 <b>2000</b>
@@ -7286,17 +7389,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Santanu Goswami</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Study of flow of granular solids in a reduction shaft</td>
 </tr>
 <tr>
 <td>Rajneesh S.</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Mathematical modelling of stresses in the raceway region of the blast furnace</td>
 </tr>
 <tr>
 <td>Easwar K.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Comparative study of precipitation transformation for two different models : A Monto Carlo study</td>
 </tr>
 <tr>
@@ -7306,16 +7409,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Shashank Priya</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Thermodynamics of alloys : Bulk and surface)</td>
 </tr>
 <tr>
 <td>Mainak Biswas</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Studies on reaction ball milling of aluminium and copper sulphate pentahydrate system</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1999</b>
 <br>
@@ -7328,27 +7432,27 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Arnab Chaudhuri</td>
-<td>Gupta G.S.</td>
+<td>Govind S. Gupta</td>
 <td>Modeling and simulation of the carburizing process under industrial conditions</td>
 </tr>
 <tr>
-<td>Vishnukumar T.S.</td>
-<td>Chattopadhyay K.</td>
+<td>Vishnukumar T. S.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Deposition and characterization of multilayers of Bismuth and amorphous Al-Fe-Si-system by electron beam evaporation technique</td>
 </tr>
 <tr>
 <td>Bharat Bhushan</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Simulation of reduction kinetics of iron ore in reduction shaft of corex process</td>
 </tr>
 <tr>
-<td>Balasubramanian K.R.</td>
+<td>Balasubramanian K. R.</td>
 <td>Vikram Jayaram</td>
 <td>Low temperature synthesis of Yttrium aluminate powders and films via spray pyrolysis route</td>
 </tr>
 <tr>
 <td>Rajesh M.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Precipitation transformation in ternary systems: A Monte Carlo study</td>
 </tr>
 <tr>
@@ -7358,16 +7462,18 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Santosh Shanmukh</td>
-<td>Chokshi A.H.</td>
+<td>Chokshi A. H.</td>
 <td>Cavitatation during high temperature tensile deformation of fine-grained 3mol% Yttria stabilized tetragonal zirconia</td>
 </tr>
 <tr>
 <td>Ram Shankar L.</td>
-<td>Krupanidhi S.B. & Surappa M.K.</td>
+<td>Krupanidhi S. B. &amp; Surappa M. K.</td>
 <td>Fabrication of bismuth layered ferroelectric thin films for NVRAM applications</td>
 </tr>
 </tbody>
 </table>
+
+<br>
 <b>1998</b>
 <br>
 <table>
@@ -7378,13 +7484,13 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Prakash K.H.</td>
-<td>Surappa M.K.</td>
+<td>Prakash K. H.</td>
+<td>Surappa M. K.</td>
 <td>High temperature deformation behaviour of A356 alloy and A356+25 volume % SiCp composite</td>
 </tr>
 <tr>
 <td>Pavan Kumar Suri</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Simulation and modelling to predict the effect of pitting corrosion (Aircraft alloy DTD 2024)</td>
 </tr>
 <tr>
@@ -7394,27 +7500,27 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Ravi Aggarwal</td>
-<td>Chokshi A.H.</td>
+<td>Chokshi A. H.</td>
 <td>Compressive creep of hot-pressed Yttria</td>
 </tr>
 <tr>
 <td>Ramashankar Singh</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Corex process : One-dimensional steady state model of melter gasifier</td>
 </tr>
 <tr>
 <td>Balaji S.</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Optimization of the synthesis, and dielectric spectroscopy of the relaxor ferroelectric PMN-PT</td>
 </tr>
 <tr>
 <td>Balachandran R.</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Laser surface alloying of nickel on aluminium substrate</td>
 </tr>
 <tr>
 <td>Anand R.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Spinodal microstructures in ternary systems – A Monte Carlo study</td>
 </tr>
 <tr>
@@ -7424,21 +7530,22 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>B. Anand</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Development of a novel thermomechanical treatment for DTD 7010 aircraft alloy</td>
 </tr>
 <tr>
 <td>Shalin Garg</td>
-<td>Raman K.S.</td>
+<td>Raman K. S.</td>
 <td>Studies on squeeze cast copper-chromium alloys</td>
 </tr>
 <tr>
-<td>L.N. Venkataraman</td>
-<td>Hajra J.P.</td>
+<td>L. N. Venkataraman</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamic modelling of quaternary Al-Ga-In-As system</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1997</b>
 <br>
@@ -7451,7 +7558,7 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Nilanjana Bhattacharyya</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Investigation of synthesis of metallic foams by powder metallurgy route</td>
 </tr>
 <tr>
@@ -7461,22 +7568,22 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Venugopalan V.</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Corex Process: One-dimensional steady state model of melter gasifier</td>
 </tr>
 <tr>
 <td>Arvind Kumar S.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Spinodal Microstructures: A Monte Carlo Study</td>
 </tr>
 <tr>
 <td>Pankaj</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Deformation of large size aluminium-7010 billets modeling of the deformation behaviour</td>
 </tr>
 <tr>
-<td>Sankaran P.V.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Sankaran P. V.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Modeling and simulation of the deposit formation stage in spray deposition process</td>
 </tr>
 <tr>
@@ -7486,12 +7593,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Chitra K.</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>A study of hot deformation mechanism in copper-nickel system using processing maps</td>
 </tr>
 <tr>
-<td>Sriram K.S.</td>
-<td>Jacob K.T.</td>
+<td>Sriram K. S.</td>
+<td>Jacob K. T.</td>
 <td>Antiferroelectric lead zirconate thin films fabricated using ion beam sputter deposited multilayer structures</td>
 </tr>
 <tr>
@@ -7511,6 +7618,7 @@ Sandeep R. Shah</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1996</b>
 <br>
@@ -7523,22 +7631,22 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Amaresh</td>
-<td>Chokshi A.H.</td>
+<td>Chokshi A. H.</td>
 <td>A study of the mechanisms and the microstructural aspects of superplasticity in Al-33wt%Cu eutectic alloy</td>
 </tr>
 <tr>
 <td>Sunil Khatri</td>
-<td>Raman K.S. and Seshan S., ME</td>
+<td>Raman K. S. and Seshan S. (ME)</td>
 <td>Production and characterisation of squeeze cast 70 : 30 brass</td>
 </tr>
 <tr>
 <td>P. Padma Priya</td>
-<td>Abinandanan T.A. and Vikram Jayaram</td>
+<td>Abinandanan T. A. and Vikram Jayaram</td>
 <td>Coarsening characteristics of Al-Al2O3 composite produced by directed metal oxidation process</td>
 </tr>
 <tr>
 <td>Ganesh V.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Effect of zirconium on microstructure, thermal aging and wear behaviour of the Al-Si IC engine piston alloys</td>
 </tr>
 <tr>
@@ -7548,7 +7656,7 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Balaji Venkateswaran</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamic modeling of quaternary systems</td>
 </tr>
 <tr>
@@ -7563,31 +7671,32 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Mukund U.</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Physical modelling of the reduction shaft of the Corex process</td>
 </tr>
 <tr>
 <td>Mythreyi S.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>A comparison of the micro-structural evolution predicted by the nucleation theory, with a Monte Carlo experiment</td>
 </tr>
 <tr>
 <td>Srinivas V.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Fracture toughness and wear behaviour of high strength aluminium alloys</td>
 </tr>
 <tr>
-<td>Surya K Bhattacharji</td>
+<td>Surya K. Bhattacharji</td>
 <td>Kishore</td>
 <td>Influence of PTFE fillers on the strength and fracture features of glass epoxy composites</td>
 </tr>
 <tr>
 <td>Rajive Prakash Upadhyay</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>A study of the hot working characteristics of the 6201 alloy using processing map</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1995</b>
 <br>
@@ -7610,11 +7719,11 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Srinivasa Murthy D.</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Hot deformation behaviour of Al2O3/AlN/Al composite</td>
 </tr>
 <tr>
-<td>Sudhakar A.N.</td>
+<td>Sudhakar A. N.</td>
 <td>Subramanian S.</td>
 <td>Thermogravimetric and vibration milling studies on leached manganese nodules</td>
 </tr>
@@ -7625,41 +7734,42 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Sibandu Mukherjee</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Mathematical model of Argon-Oxygen-Decarburisation process</td>
 </tr>
 <tr>
 <td>Bidyut Kumar Pattanayak</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Effect of silver addition on the deformation and corrosion behaviour of aluminium lithium alloy (1441)</td>
 </tr>
 <tr>
-<td>Chandrashekar V.S.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Chandrashekar V. S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Spray forming of Al-Zn-Mg (7075) alloy and characterization of the resultant ingot</td>
 </tr>
 <tr>
 <td>Balasubramanian I.</td>
-<td>Abinandanan T.A.</td>
+<td>Abinandanan T. A.</td>
 <td>Computational study of phase diagrams and phase transformations in binary alloys</td>
 </tr>
 <tr>
 <td>Jayaram S.</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Studies on co-extrusion of SiCp reinforced aluminium matrix composites</td>
 </tr>
 <tr>
 <td>G. Finney David</td>
-<td>Ranganathan S. and Chattopadhyay K.</td>
+<td>Ranganathan S. &amp; Kamanio Chattopadhyay</td>
 <td>Directional Solidification of a ternary monotectic system: Indium-Lead-Zinc</td>
 </tr>
 <tr>
 <td>Sundharajan P.</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Dry sliding wear of AZ91 Mg-SiCp metal matrix composites</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1994</b>
 <br>
@@ -7672,7 +7782,7 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Jose Martin Korath</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Computer simulation of submerged arc furnace process for production of ferro manganese</td>
 </tr>
 <tr>
@@ -7682,17 +7792,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>S. Muthukkaruppan</td>
-<td>Raman K.S.</td>
+<td>Raman K. S.</td>
 <td>Semi-solid casting and forging of Al-7Si-0.3Mg alloy</td>
 </tr>
 <tr>
 <td>Arun Kumar B.</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Processing and characterization of magnesium based (AZ91)-SiCp composites</td>
 </tr>
 <tr>
 <td>Sridharan L.</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Evolution of microstructure in unidirectionally solidified zinc-lead monotectic alloy</td>
 </tr>
 <tr>
@@ -7702,12 +7812,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Sujeeth A.</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Nanophase materials: ultrasonic gas atomization and mechanical alloying</td>
 </tr>
 <tr>
 <td>Divakar M.</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of surfaces and adsorption in ternary systems</td>
 </tr>
 <tr>
@@ -7722,16 +7832,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Monsur Ali Mondal</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Fatigue behaviour of HE 15A aluminium alloy (Fatigue, fracture toughness, corrosion and stress corrosion studies)</td>
 </tr>
 <tr>
-<td>Siva Kumar N.R.</td>
+<td>Siva Kumar N. R.</td>
 <td>Subramanian S.</td>
 <td>Selective flotation of sphalerite from galena using dextrin</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1993</b>
 <br>
@@ -7743,8 +7854,8 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Ravi C.S.</td>
-<td>Iyengar G.N.K.</td>
+<td>Ravi C. S.</td>
+<td>G. N. K. Iyengar</td>
 <td>Simultaneous removal of sulphur and phosphorous in En – steel</td>
 </tr>
 <tr>
@@ -7754,17 +7865,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Jayaprakash T.</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Mechanical alloying of Al-Fe-V-Si system and its composite for aerospace applications</td>
 </tr>
 <tr>
 <td>Rajaram R.</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Processing maps for hot Working of cadmium and cadmium – 1% zinc alloy: correlations with microstructure</td>
 </tr>
 <tr>
 <td>Sankararaman S.</td>
-<td>Lahiri A.K.</td>
+<td>Lahiri A. K.</td>
 <td>Modelling and simulation of continuous casting tundish</td>
 </tr>
 <tr>
@@ -7774,17 +7885,17 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Rama C.</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Microscopic thermodynamics of multi-component oxide ceramics</td>
 </tr>
 <tr>
-<td>Jagannadham Chetty P.V. </td>
-<td>Raman K.S.</td>
+<td>Jagannadham Chetty P. V.</td>
+<td>Raman K. S.</td>
 <td>Effect of solidification parameters (DAS and CPUA) and heat treatment variables on mechanical properties of Al-7 Si-0.3 Mg (LM 25) cast alloy</td>
 </tr>
 <tr>
-<td>Harsha Kumar Srivatsa V.V.</td>
-<td>Lahiri A.K.</td>
+<td>Harsha Kumar Srivatsa V. V.</td>
+<td>Lahiri A. K.</td>
 <td>Simulation of turbulent fluid flow in continuous casting mould</td>
 </tr>
 <tr>
@@ -7794,31 +7905,32 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Sanjeev T.</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Investigation on possible phase formations during metatectic and peritectic reactions in Cu-Sn Alloys</td>
 </tr>
 <tr>
 <td>P. Nagarajan</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Design of spray forming unit for MMC production</td>
 </tr>
 <tr>
 <td>S. Ravindra Reddy</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamic models of ternary systems and applications</td>
 </tr>
 <tr>
 <td>Manish Narayan</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Dry sliding wear of 2024 Al-Al O metal matrix composites</td>
 </tr>
 <tr>
-<td>Gayathri P.V.</td>
-<td>Sastry D.H.</td>
+<td>Gayathri P. V.</td>
+<td>Sastry D. H.</td>
 <td>Creep behaviour of particulate reinforced 6061 Al composites</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1992</b>
 <br>
@@ -7831,41 +7943,41 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Biswajit Tripathy</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Microstructural evolution in near eutectic Al-Co alloy</td>
 </tr>
 <tr>
 <td>Kannan S.</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Thermodynamic analysis of antimony removal from copper</td>
 </tr>
 <tr>
 <td>Giridhar R.</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Studies on ageing and its effect of impact fracture behaviour of 2024 Al-alumina composites</td>
 </tr>
 <tr>
 <td>Ramkumar Viswanathan</td>
-<td>Bhat M.V.</td>
+<td>Bhat M. V.</td>
 <td>Effect of microstructure on the corrosion behaviour of SAE 4340 steel in sodium chloride solution</td>
 </tr>
 <tr>
 <td>Bikash Ranjan Panda</td>
-<td>Natarajan K.A.</td>
+<td>Natarajan K. A.</td>
 <td>Biocorrosion of stainless steel in the presence of Thiobacillus ferrooxidans</td>
 </tr>
 <tr>
 <td>Arun Kumar S.</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Mechanical alloying of Al-Fe by impact milling</td>
 </tr>
 <tr>
 <td>Jaideep Kumar Srivastava</td>
-<td>Raman K.S.</td>
+<td>Raman K. S.</td>
 <td>Microstructural studies on Mn, Cr, Co – b phases in Al-7 Si-0.3 Mg casting alloy</td>
 </tr>
 <tr>
-<td>Brainerd Samuel S.D.</td>
+<td>Brainerd Samuel S. D.</td>
 <td>Vikram Jayaram</td>
 <td>Processing of MMCs/CMCs by directed melt nitridation</td>
 </tr>
@@ -7875,18 +7987,18 @@ Sandeep R. Shah</td>
 <td>Influence of particulate graphite additions on shear related behaviour of glass fibre reinforced epoxy composites</td>
 </tr>
 <tr>
-<td>Sunitha A.B.</td>
-<td>Sastry D.H.</td>
+<td>Sunitha A. B.</td>
+<td>Sastry D. H.</td>
 <td>Creep of alloys based on Ni3Al</td>
 </tr>
 <tr>
-<td>Viswanathan N.N.</td>
-<td>Lahiri A.K.</td>
+<td>Viswanathan N. N.</td>
+<td>Lahiri A. K.</td>
 <td>A 2-D static model to simulate gas flow and temperature-composition profiles inside blast furnace</td>
 </tr>
 <tr>
-<td>Fredric D Suresh</td>
-<td>Iyengar G.N.K.</td>
+<td>Fredric D. Suresh</td>
+<td>G. N. K. Iyengar</td>
 <td>Influence of microstructure on the wear properties of electroslag refined EN 24 steel</td>
 </tr>
 <tr>
@@ -7896,11 +8008,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Sriram Rangarajan</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Creep forming of precipitation hardenable aluminium alloys</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1991</b>
 <br>
@@ -7912,7 +8025,7 @@ Sandeep R. Shah</td>
 <th>Thesis title</th>
 </tr>
 <tr>
-<td>Balakrishnan M.V.</td>
+<td>Balakrishnan M. V.</td>
 <td>Ranganathan S.</td>
 <td>Microstructural characterisation of laser treated Al-Cu eutectic and</td>
 <td>Al-Co hyper-eutectic alloys</td>
@@ -7924,32 +8037,32 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Raj Mohan N.</td>
-<td>Jacob K.T.</td>
+<td>Jacob K. T.</td>
 <td>Application of thermodynamics to conceptual design and analysis of processes</td>
 </tr>
 <tr>
 <td>Ramesh N.</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Study of adhesive wear in aluminium-lithium alloy 8090</td>
 </tr>
 <tr>
-<td>Sur Chaudhury R.K.</td>
-<td>Lahiri A.K.</td>
+<td>Sur Chaudhury R. K.</td>
+<td>Lahiri A. K.</td>
 <td>Experimental studies on nozzle blockage phenomenon in continuous casting</td>
 </tr>
 <tr>
 <td>Gopal H.</td>
-<td>Vikram Jayaram and Chattopadhyay K.</td>
+<td>Vikram Jayaram &amp; Kamanio Chattopadhyay</td>
 <td>On the estimation of binding energy of a-Al2O3</td>
 </tr>
 <tr>
 <td>Sitakanta Hotta</td>
-<td>Raman K.S.</td>
+<td>Raman K. S.</td>
 <td>Analysis of the fracture toughness testing procedure using short rod/bar chevron notch specimen</td>
 </tr>
 <tr>
 <td>Sivakumar P.</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Fabrication of 2024 aluminium- alumina composites and their toughness evaluation by instrumented impact</td>
 </tr>
 <tr>
@@ -7959,17 +8072,18 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Prashant Deepak</td>
-<td>Mallya R.M.</td>
+<td>Mallya R. M.</td>
 <td>Spray forming : Design of spray deposition laboratory unit for metal-matrix composites</td>
 </tr>
 <tr>
 <td>Nagi Reddy V.</td>
-<td>Sastry D.H.</td>
+<td>Sastry D. H.</td>
 <td>Effect of heat treatment on the creep behaviour of an oxide dispersion strengthened ferritic steel</td>
 </tr>
 </tbody>
 </table>
-## M.E.(Manufacturing Engineering)
+
+## M. E. (Manufacturing Engineering)
 ### 2002-2000
 <br>
 <b>2002</b>
@@ -7983,12 +8097,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Pankaj N. Gangshettiwar</td>
-<td>Lahiri A.K. </td>
+<td>Lahiri A. K.</td>
 <td>Simulation of squeeze casting using proCAST</td>
 </tr>
 <tr>
 <td>Sreekanta Roy</td>
-<td>Chattopadhyay K.</td>
+<td>Kamanio Chattopadhyay</td>
 <td>Development of microstructure and tribological properties of Al-Si-Bi clad on Al-Si and Cu substrate</td>
 </tr>
 <tr>
@@ -7998,37 +8112,37 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Atul Kumar Malik</td>
-<td>Raghavan N.R.S. </td>
+<td>Raghavan N. R. S.</td>
 <td>Padma: Parallel and distributed framework for manufacturing applications</td>
 </tr>
 <tr>
 <td>Balraj Singh</td>
-<td>Prasad Y.V.R.K.</td>
+<td>Prasad Y. V. R. K.</td>
 <td>Thermomechanical processing of 6000 series aluminium alloys</td>
 </tr>
 <tr>
-<td>Ravikumar N.L. </td>
+<td>Ravikumar N. L.</td>
 <td>Kishore</td>
 <td>Effect of ingression by varying aqueous media on the compression behaviour of neat epoxy and epoxy containing fly ash particles with their surface treated by silane bearing material</td>
 </tr>
 <tr>
 <td>Manoj Kumar</td>
-<td>Hajra J.P.</td>
+<td>Hajra J. P.</td>
 <td>Thermodynamics of ternary system involving higher order ternary interactions</td>
 </tr>
 <tr>
 <td>Sonia Galgalikar</td>
-<td>Ramamurty U. and Dwarakadasa E.S. </td>
+<td>Ramamurty U. &amp; Dwarakadasa E. S.</td>
 <td>Effect of Ag addition on the mechanical properties of AZ91 alloy</td>
 </tr>
 <tr>
 <td>Satya Pal Singh</td>
-<td>Rengarajan R., Widia India Ltd and Jayaram V.</td>
+<td>Rengarajan R. (Widia India Ltd) &amp; Vikram Jayaram</td>
 <td>To find out suitable insert parameters for stainless steel turning</td>
 </tr>
 <tr>
 <td>Binoda Bihari Behera</td>
-<td>Surappa M.K.</td>
+<td>Surappa M. K.</td>
 <td>Study of machinability characteristics of Al-Si-SiCp composites</td>
 </tr>
 <tr>
@@ -8037,12 +8151,13 @@ Sandeep R. Shah</td>
 <td>Design of expeller for sealless centrifugal pumps</td>
 </tr>
 <tr>
-<td>Sriram K.V.</td>
-<td>Raghavan N.R.S. </td>
+<td>Sriram K. V.</td>
+<td>Raghavan N. R. S. </td>
 <td>Stochastic petri net approach for analysis and design of multi product supply chains</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2001</b>
 <br>
@@ -8055,7 +8170,7 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Sudeep Prabhakar Ingole</td>
-<td>Seshan S., M.E.</td>
+<td>Seshan S. (ME)</td>
 <td>Study on the plaster of paris mould castings</td>
 </tr>
 <tr>
@@ -8065,12 +8180,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Patil Dipak Dumaji</td>
-<td>Lahiri A.K. </td>
+<td>Lahiri A. K.</td>
 <td>Modelling of roll gap profile in hot strip mill using fem</td>
 </tr>
 <tr>
 <td>Madhav Goswami</td>
-<td> Dwarakadasa E.S. </td>
+<td>Dwarakadasa E. S.</td>
 <td>Study of new heat treatment procedure on 7010 aeronatutical grade aluminium alloy</td>
 </tr>
 <tr>
@@ -8085,26 +8200,27 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Budida Apparao</td>
-<td> Raghavan N.R.S., M.S.</td>
+<td> Raghavan N. R. S. (MS)</td>
 <td>Integrated inventory and distribution management in a dynamic and stochastic setting</td>
 </tr>
 <tr>
 <td>Biju S.</td>
-<td>Satish Vasu Kailas & Pradip Dutta, M.E.</td>
+<td>Satish Vasu Kailas &amp; Pradip Dutta (ME)</td>
 <td>Friction stir welding</td>
 </tr>
 <tr>
 <td>Vimalahassan A.</td>
-<td>(Kishore)</td>
+<td>Kishore</td>
 <td>Study of mechanical behaviour of kevlar/glass hybrid composites</td>
 </tr>
 <tr>
 <td>Suresh Kumar K.</td>
-<td>Chattopadhyay K. & Pradip Dutta, M.E.</td>
+<td>Kamanio Chattopadhyay &amp; Pradip Dutta (ME)</td>
 <td>MIG welding of copper with mild steel filler material</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>2000</b>
 <br>
@@ -8117,22 +8233,22 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Anirban Majumdar</td>
-<td>Dwarakadasa E.S.</td>
+<td>Dwarakadasa E. S.</td>
 <td>Fatigue crack growth and fracture toughness of 7010 extrusions</td>
 </tr>
 <tr>
 <td>Bhanu Prasad E.</td>
-<td>Srinivasan M.N., M.E.</td>
+<td>Srinivasan M. N. (ME)</td>
 <td>Quality of near net process castings-hardness</td>
 </tr>
 <tr>
 <td>Narasimha Reddy D.</td>
-<td>Seshan S.& S.V. Kailas, M.E.)</td>
+<td>Seshan S. &amp; S. V. Kailas (ME)</td>
 <td>Modelling liquid phase sintering of tungsten carbide-cobalt</td>
 </tr>
 <tr>
-<td> Hemambar C.H.</td>
-<td>Raman K.S. & Sastry D.H.</td>
+<td> Hemambar C. H.</td>
+<td>Raman K. S. &amp; Sastry D. H.</td>
 <td>Low cost investment casting</td>
 </tr>
 <tr>
@@ -8142,11 +8258,12 @@ Sandeep R. Shah</td>
 </tr>
 <tr>
 <td>Subramanian S.</td>
-<td>Raman K.S.</td>
+<td>Raman K. S.</td>
 <td>Experimental, analytical and numerical investigation of the effect of thickness ratio on the residual stress of kover/copper braze joint</td>
 </tr>
 </tbody>
 </table>
-<br>
-## B.E.
-## D.I.I.Sc.
+
+
+## B. E.
+## D. I. I. Sc.
