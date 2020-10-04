@@ -62,18 +62,47 @@ List of all students who have graduated from the various programs of the departm
 
 ### Ph.D.
 <ul>
-<li><a href="{{ site.baseurl }}/alumni-archive#2019-2010">2019-2010</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#2009-2000">2009-2000</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#1999-1990">1999-1990</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#1989-1980">1989-1980</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#1979-1971">1979-1970</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2019-2010">2019-2011</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2009-2000">2010-2001</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1999-1990">2000-1991</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1989-1980">1990-1981</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1979-1971">1980-1971</a></li>
 </ul>
 
 ### M. Tech.
 <ul>
-<li><a href="{{ site.baseurl }}/alumni-archive#2019-2010-1">2019-2010</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#2009-2000-1">2009-2000</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#1999-1990-1">1999-1990</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#1989-1980-1">1989-1980</a></li>
-<li><a href="{{ site.baseurl }}/alumni-archive#1979-1971-1">1979-1970</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2018-2011-1">2018-2011</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2010-2001-1">2010-2001</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2000-1991-1">2000-1991</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1990-1981-1">1990-1981</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1980-1971-1">1980-1971</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1970-1961-1">1970-1961</a></li>
 </ul>
+
+### M.Sc(Engg.)
+<ul>
+<li><a href="{{ site.baseurl }}/alumni-archive#2010-2001-2">2010-2001</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2000-1991-2">2000-1991</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1990-1981-2">1990-1981</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1980-1971-2">1980-1971</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#1970-1961-2">1970-1961</a></li>
+</ul>
+
+### A.I.I.Sc
+<ul>
+<li><a href="{{ site.baseurl }}/alumni-archive#1956-1951-3">1956-1951</a></li>
+</ul>
+
+### M.E.(Intergrated)
+<ul>
+<li><a href="{{ site.baseurl }}/alumni-archive#2000-1991-4">2000-1991</a></li>
+</ul>
+
+### M.E.(Manufacturing Engineering)
+<ul>
+<li><a href="{{ site.baseurl }}/alumni-archive#2002-2000-5">2002-2000</a></li>
+</ul>
+
+### B.E.
+
+### D.I.I.Sc

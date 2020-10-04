@@ -10,7 +10,7 @@ toc_icon: calendar-alt
 ---
 List of student alumni on this page is sorted in reverse chronology and according to the program in which they were graduated.
 ## Ph.D.
-### 2019-2010
+### 2019-2011
 <br>
 <b>2019</b>
 <br>
@@ -771,7 +771,7 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 </tr>
 </tbody>
 </table>
-
+### 2010-2001
 <br>
 <b>2010</b>
 <br>
@@ -819,7 +819,6 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 </tr>
 </tbody>
 </table>
-### 2009-2000
 <br>
 <b>2009</b>
 <br>
@@ -852,7 +851,6 @@ Chattopadhyay K.., Sundararajan R. (Orgn)</td>
 </tr>
 </tbody>
 </table>
-
 <br>
 <b>2008</b>
 <br>
@@ -1243,6 +1241,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tbody>
 </table>
 
+### 2000-1991
 <br>
 <b>2000</b>
 <br>
@@ -1265,7 +1264,7 @@ Role of Second Phase in the Microstructural Development and Creep Deformation in
 </tr>
 </tbody>
 </table>
-### 1999-1990
+
 <br>
 <b>1999</b>
 <br>
@@ -1527,6 +1526,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1994</b>
 <br>
@@ -1563,6 +1563,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1993</b>
 <br>
@@ -1584,6 +1585,7 @@ Studies on high Tc Yba2Cu3O6+x : Stability, silver addition and thin films</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1992</b>
 <br>
@@ -1633,6 +1635,8 @@ Study of amorphous phase formation by mechanical alloying in Ti based systems</t
 </tr>
 </tbody>
 </table>
+
+### 1990-1981
 <br>
 <b>1990</b>
 <br>
@@ -1695,7 +1699,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
-### 1989-1980
+
 <br>
 <b>1989</b>
 <br>
@@ -1723,6 +1727,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1988</b>
 <br>
@@ -1765,6 +1770,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1987</b>
 <br>
@@ -1792,6 +1798,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1986</b>
 <br>
@@ -1814,6 +1821,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1985</b>
 <br>
@@ -1836,6 +1844,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1984</b>
 <br>
@@ -1868,6 +1877,7 @@ Electroslag refining and structure property correlation studies of the aluminium
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1983</b>
 <br>
@@ -1900,6 +1910,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1982</b>
 <br>
@@ -1932,6 +1943,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1981</b>
 <br>
@@ -1965,6 +1977,8 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
+### 1980-1971
 <br>
 <b>1980</b>
 <br>
@@ -1992,7 +2006,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
-### 1979-1970
+
 <br>
 <b>1979</b>
 <br>
@@ -2035,6 +2049,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1977</b>
 <br>
@@ -2071,6 +2086,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1976</b>
 <br>
@@ -2108,6 +2124,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1975</b>
 <br>
@@ -2135,6 +2152,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1974</b>
 <br>
@@ -2167,6 +2185,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1972</b>
 <br>
@@ -2194,6 +2213,7 @@ Influence of microstructure  on the deformation and fracture behaviour of a nick
 </tr>
 </tbody>
 </table>
+
 <br>
 <b>1971</b>
 <br>
@@ -7066,7 +7086,7 @@ Sandeep R. Shah</td>
 </tbody>
 </table>
 <br>
-### 1970-1960
+### 1970-1961
 <br>
 <b>1968</b>
 <table>
@@ -7950,7 +7970,7 @@ Sandeep R. Shah</td>
 </tbody>
 </table>
 ## M.E.(Manufacturing Engineering)
-### 2000-2002
+### 2002-2000
 <br>
 <b>2002</b>
 <br>
