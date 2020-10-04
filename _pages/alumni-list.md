@@ -7949,7 +7949,6 @@ Sandeep R. Shah</td>
 </tr>
 </tbody>
 </table>
-<br>
 ## M.E.(Manufacturing Engineering)
 ### 2000-2002
 <br>
