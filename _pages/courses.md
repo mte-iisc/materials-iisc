@@ -26,7 +26,7 @@ Students with BE/BTech/MSc degree joining the M Tech (Research) program or joini
 <th>Title</th>
 </tr>
 <tr>
-<td>Hard core</td>
+<td><b>Hard core</b></td>
 <td>(8 credits)</td>
 <td></td>
 </tr>
@@ -46,7 +46,7 @@ Students with BE/BTech/MSc degree joining the M Tech (Research) program or joini
 <td>Laboratory Experiments in Materials Engineering</td>
 </tr>
 <tr>
-<td>Soft core</td>
+<td><b>Soft core</b></td>
 <td>(9 credits)</td>
 <td>At least three out of the following courses:</td>
 </tr>
@@ -81,7 +81,7 @@ Students with BE/BTech/MSc degree joining the M Tech (Research) program or joini
 <td>Polymer Science and Engineering</td>
 </tr>
 <tr>
-<td>Project</td>
+<td><b>Project</b></td>
 <td>(32 credits)</td>
 <td></td>
 </tr>
@@ -91,7 +91,7 @@ Students with BE/BTech/MSc degree joining the M Tech (Research) program or joini
 <td>Dissertation Project</td>
 </tr> 
 <tr>
-<td>Electives</td>
+<td><b>Electives</b></td>
 <td>(15 credits)</td>
 <td>At least 9 credits must be taken from the courses offered by the Department</td>
 </tr>
