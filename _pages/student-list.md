@@ -28,6 +28,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Shashwat Kumar Mishra</td><td>Praveen Kumar</td><td>shashwatk</td></tr>
 <tr><td>Suman Sadhu</td><td>Aloke Paul</td><td>sumansadhu</td></tr>
 <tr><td>Sumit Katiyar</td><td>Vikram Jayaram</td><td>sumitkatiyar</td></tr>
+<tr><td>Sumit Kumar Gahlyan (ERP)</td><td>Satyam Suwas</td><td>sumitkg</td></tr>
 <tr><td>Sunando Banerjee</td><td>Chandan Srivastava</td><td>sunandob</td></tr>
 <tr><td>Rishi Raj</td><td>Subodh Kumar</td><td></td></tr>
 <tr><td>Bhure Swapnil Shadanan</td><td>Abhik N. Choudhury</td><td>swapnilbhure</td></tr>
