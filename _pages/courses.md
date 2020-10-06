@@ -183,8 +183,6 @@ Students with B. E./B. Tech./M. Sc. degree joining the M. Tech. (Research) progr
 </tbody>
 </table>
 
-<br>
-
 ### MT 201 (JAN) 3:0
 <b>Phase Transformations</b>
 
