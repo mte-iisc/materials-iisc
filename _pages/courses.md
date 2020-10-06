@@ -102,6 +102,7 @@ Students with B. E./B. Tech./M. Sc. degree joining the M. Tech. (Research) progr
 <td>Elective</td>
 <td><a href="{{ site.baseurl }}/courses#mt-201-jan-30">Phase Transformations</a></td>
 </tr>
+<tr>
 <td>Number</td>
 <td>3:0</td>
 <td>Elective</td>
