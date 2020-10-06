@@ -118,7 +118,7 @@ Students with B. E./B. Tech./M. Sc. degree joining the M. Tech. (Research) progr
 <td>MT 218</td>
 <td>2:1</td>
 <td>Elective</td>
-<td><a href="{{ site.baseurl }}/courses#mt-218-aug-30">Modeling and Simulation in Materials Engineering</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-218-aug-21">Modeling and Simulation in Materials Engineering</a></td>
 </tr>
 <tr>
 <td>MT 225</td>
