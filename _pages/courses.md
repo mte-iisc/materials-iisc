@@ -103,13 +103,86 @@ Students with B. E./B. Tech./M. Sc. degree joining the M. Tech. (Research) progr
 <td><a href="{{ site.baseurl }}/courses#mt-201-jan-30">Phase Transformations</a></td>
 </tr>
 <tr>
-<td>Number</td>
+<td>MT 206</td>
 <td>3:0</td>
 <td>Elective</td>
-<td>Elective title</td>
+<td><a href="{{ site.baseurl }}/courses#mt-206-aug-30">Texture and Grain Boundary Engineering</a></td>
+</tr>
+<tr>
+<td>MT 208</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-208-jan-30">Diffusion in Solids</a></td>
+</tr>
+<tr>
+<td>MT 218</td>
+<td>2:1</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-218-aug-30">Modeling and Simulation in Materials Engineering</a></td>
+</tr>
+<tr>
+<td>MT 225</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-225-aug-30">Deformation and Failure Mechanisms at Elevated Temperatures</a></td>
+</tr>
+<tr>
+<td>MT 245</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-245-aug-30">Transport Processes in Process Metallurgy</a></td>
+</tr>
+<tr>
+<td>MT 248</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-248-jan-30">Modelling and Computational Methods in Metallurgy</a></td>
+</tr>
+<tr>
+<td>MT 250</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-250-jan-30">Introduction to Materials Science and Engineering</a></td>
+</tr>
+<tr>
+<td>MT 255</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-255-jan-30">Solidification Processing</a></td>
+</tr>
+<tr>
+<td>MT 256</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-256-jan-30">Fracture</a></td>
+</tr>
+<tr>
+<td>MT 257</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-257-jan-30">Finite Element Analysis for Materials Engineers</a></td>
+</tr>
+<tr>
+<td>MT 261</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-261-aug-30">Organic Electronics</a></td>
+</tr>
+<tr>
+<td>MT 262</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-262-jan-30">Concepts in Polymer Blends and Nanocomposites</a></td>
+</tr>
+<tr>
+<td>MT 271</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-271-jan-30">Introduction to Biomaterials Science and Engineering</a></td>
 </tr>
 </tbody>
 </table>
+
 <br>
 
 ### MT 201 (JAN) 3:0
@@ -257,7 +330,7 @@ References:
 -------------------------------------
 
 ### MT 225 (Aug) 3:0
-<b>Deformation and Failure Mechanisms at Elevated Temperature</b>s
+<b>Deformation and Failure Mechanisms at Elevated Temperatures</b>
 
 Phenomenology of Creep, Microstructural considerations in metals, alloys, ceramics and composites. Creep mechanisms, Deformation mechanism maps, Superpasticity in metal alloys, ceramics and nanophase materials, Commercial applications and considerations, Cavitation failure at elevated temperatures by nucleation, growth and interlinkage of cavities. The course will also include some laboratory demonstrations of the phenomena discussed in the class together with an appropriate analysis of the data.
 
