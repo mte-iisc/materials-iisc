@@ -97,14 +97,91 @@ Students with B. E./B. Tech./M. Sc. degree joining the M. Tech. (Research) progr
 <td><a href="{{ site.baseurl }}/courses#mt-299-032">Dissertation Project</a></td>
 </tr> 
 <tr>
-<td>Number</td>
+<td>MT 201</td>
 <td>3:0</td>
 <td>Elective</td>
-<td>Elective title</td>
+<td><a href="{{ site.baseurl }}/courses#mt-201-jan-30">Phase Transformations</a></td>
+</tr>
+<tr>
+<td>MT 206</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-206-aug-30">Texture and Grain Boundary Engineering</a></td>
+</tr>
+<tr>
+<td>MT 208</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-208-jan-30">Diffusion in Solids</a></td>
+</tr>
+<tr>
+<td>MT 218</td>
+<td>2:1</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-218-aug-21">Modeling and Simulation in Materials Engineering</a></td>
+</tr>
+<tr>
+<td>MT 225</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-225-aug-30">Deformation and Failure Mechanisms at Elevated Temperatures</a></td>
+</tr>
+<tr>
+<td>MT 245</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-245-aug-30">Transport Processes in Process Metallurgy</a></td>
+</tr>
+<tr>
+<td>MT 248</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-248-jan-30">Modelling and Computational Methods in Metallurgy</a></td>
+</tr>
+<tr>
+<td>MT 250</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-250-jan-30">Introduction to Materials Science and Engineering</a></td>
+</tr>
+<tr>
+<td>MT 255</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-255-jan-30">Solidification Processing</a></td>
+</tr>
+<tr>
+<td>MT 256</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-256-jan-30">Fracture</a></td>
+</tr>
+<tr>
+<td>MT 257</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-257-jan-30">Finite Element Analysis for Materials Engineers</a></td>
+</tr>
+<tr>
+<td>MT 261</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-261-aug-30">Organic Electronics</a></td>
+</tr>
+<tr>
+<td>MT 262</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-262-jan-30">Concepts in Polymer Blends and Nanocomposites</a></td>
+</tr>
+<tr>
+<td>MT 271</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-271-jan-30">Introduction to Biomaterials Science and Engineering</a></td>
 </tr>
 </tbody>
 </table>
-<br>
 
 ### MT 201 (JAN) 3:0
 <b>Phase Transformations</b>
@@ -152,7 +229,8 @@ Concepts of texture in materials. Representation of texture by pole figure and o
 Instructor: Satyam Suwas
 
 References:
-<ul><li>M. Hatherly and W. B. Hutchinson, An Introduction to Texture in Metals (Monograph No. 5), The Institute of Metals, London</li>
+<ul>
+<li>M. Hatherly and W. B. Hutchinson, An Introduction to Texture in Metals (Monograph No. 5), The Institute of Metals, London</li>
 <li>V. Randle, and O. Engler, Introduction to Texture Analysis: Macrotexture, Microtexture and Orientation mapping, Gordon and Breach Science Publishers</li>
 <li>S. Suwas, and R. K. Ray, Crystallographic Texture of Materials, Springer-Verlag</li>
 <li>F. J. Humphreys, and M. Hatherly, Recrystallization and Related Phenomenon, Pergamon Press</li>
@@ -250,7 +328,7 @@ References:
 -------------------------------------
 
 ### MT 225 (Aug) 3:0
-<b>Deformation and Failure Mechanisms at Elevated Temperature</b>s
+<b>Deformation and Failure Mechanisms at Elevated Temperatures</b>
 
 Phenomenology of Creep, Microstructural considerations in metals, alloys, ceramics and composites. Creep mechanisms, Deformation mechanism maps, Superpasticity in metal alloys, ceramics and nanophase materials, Commercial applications and considerations, Cavitation failure at elevated temperatures by nucleation, growth and interlinkage of cavities. The course will also include some laboratory demonstrations of the phenomena discussed in the class together with an appropriate analysis of the data.
 
@@ -328,8 +406,8 @@ References:
 
 -------------------------------------
 
-MT 248 (JAN) 3:0
-Modelling and Computational Methods in Metallurgy
+### MT 248 (JAN) 3:0
+<b>Modelling and Computational Methods in Metallurgy</b>
 
 (Prerequisite: Knowledge of transport phenomena, program language) Assignments will be based on developing computer code to solve the given problem.)
 Basic principles of physical and mathematical modelling. Similarity criteria and dimensional analysis.
@@ -339,22 +417,28 @@ equations using various numerical techniques. Convergence and stability criteria
 
 Instructor: Govind S Gupta
 
-References: Govind S Gupta,J.Szekely and N. J. Themelis: Rate Phenomena in Process Metallurgy, Wiley, New York, 1971,
-B. Carnahan, H. A. Luther, and J. O. Wikes: Applied Numerical Methods, John Wiley, NY 1969.
+References:
+<ul>
+<li>Govind S Gupta,J.Szekely and N. J. Themelis: Rate Phenomena in Process Metallurgy, Wiley, New York, 1971</li>
+<li>B. Carnahan, H. A. Luther, and J. O. Wikes: Applied Numerical Methods, John Wiley, NY 1969.</li>
+</ul>
 
 -------------------------------------
 
 ### MT 250 (JAN) 3:0
 <b>Introduction to Materials Science and Engineering</b>
 
-Compulsory for M. Tech. students who do not have a B. E. Metallurgy, Ceramic or Polymer Engineering.<br>
-Compulsory for research students without materials background.
+<b>Compulsory for M.Tech. students who do not have a B.E. Metallurgy, Ceramic or Polymer Engineering.<br>
+Compulsory for research students without materials background.</b>
 
 Bonding, types of materials, basics of crystal structures and crystallography. Methods of structural characterization. Thermodynamics of solid solutions, phase diagrams, defects, diffusion. Solidification. Solid-solid phase Transformations. Mechanical behaviour: elasticity, plasticity, fracture. Electrochemistry and corrosion.
 
 Instructor: Subodh Kumar
 
-Reference: W.D. Callister, Materials Science & Engineering: An Introduction, John Wiley & Sons, Inc.
+Reference: 
+<ul>
+<li>W.D. Callister, Materials Science & Engineering: An Introduction, John Wiley & Sons, Inc.</li>
+</ul>
 
 -------------------------------------
 
@@ -365,43 +449,56 @@ Introduction to elastic and plastic deformation; Elementary dislocation theory a
 
 Instructor: Praveen Kumar
 
-Reference: Thomas H. Courtney, Mechanical Behaviour of Materials, Waveland Press.
+Reference: 
+<ul>
+<li>Thomas H. Courtney, Mechanical Behaviour of Materials, Waveland Press.</li>
+</ul>
 
 -------------------------------------
 
-MT 255 (JAN) 3:0
-Solidification Processing
+### MT 255 (JAN) 3:0
+<b>Solidification Processing</b>
 
 Advantage of solidification route to manufacturing, the basics of solidification including fluid dynamics, solidification dynamics and the influence of mould in the process of casting. Origin of shrinkage, linear contraction and casting defects in the design and manufacturing of casting, continuous casting, Semi-solid processing including pressure casting, stir casting and thixo casting. Welding as a special form of manufacturing process involving solidification. Modern techniques of welding, the classification of different weld zones, their origin and the influence on properties and weld design. Physical and computer modeling of solidification processes and development of expert systems. New developments and their possible impact on the manufacturing technology in the future with particular reference to the processes adaptable to the flexible manufacturing system.
 
 Instructor : Abhik N Choudhury
 
-References: J. Campbell: Casting, Butterworth - Haneman, London, 1993
-M.C. Flemings: Solidification Processing , McGraw Hill, 1974.
+References:
+<ul>
+<li>J. Campbell: Casting, Butterworth - Haneman, London, 1993</li>
+<li>M.C. Flemings: Solidification Processing , McGraw Hill, 1974.</li>
+</ul>
+
 
 -------------------------------------
 
-MT 256 (JAN) 3:0
-Fracture
+### MT 256 (JAN) 3:0
+<b>Fracture</b>
 
 Review of elastic and plastic deformation, Historical development of fracture mechanics, Thermodynamics of fracture including Griffith theory, Linear elastic fracture mechanics, Irwin and Dugdale extensions, Stability of cracks, Crack resistance curves and toughening of brittle materials, Ductile failure, J-integral,  Introduction to FEM and its applications to fracture mechanics, Indentation failure, Environmental aspects of failure, Thermal stresses, Cyclic Fatigue, Methods to measure toughness. 
 
 Instructor: Vikram Jayaram and Praveen Kumar
 
-References: B.R. Lawn: Fracture of Brittle Solids. Cambridge University Press (1993).
-T.H. Courtney: Mechanical Behaviour of Materials. McGraw Hill (1990). 
-David Broek: Engineering Fracture Mechanics. . Sijthoff and Nordhoff , The Netherlands (1978).
-Richard Hertzberg: Deformation & Fracture of Engineering Materials. John Wiley (1996).
+References: 
+<ul>
+<li>B.R. Lawn: Fracture of Brittle Solids. Cambridge University Press (1993).</li>
+<li>T.H. Courtney: Mechanical Behaviour of Materials. McGraw Hill (1990). </li>
+<li>David Broek: Engineering Fracture Mechanics. . Sijthoff and Nordhoff , The Netherlands (1978).</li>
+<li>Richard Hertzberg: Deformation & Fracture of Engineering Materials. John Wiley (1996).</li>
+</ul>
 
 -------------------------------------
 
-MT 257 (JAN) 3:0
-Finite Element Analysis for Materials Engineers
+### MT 257 (JAN) 3:0
+<b>Finite Element Analysis for Materials Engineers</b>
 
 Quick recap of relevant mathematical concepts, equations of equilibrium and compatibility conditions (structural problem) and stress (Airy) function; Philosophy of FEM, including concepts of discretization, interpolation functions and assembly of equations; Application of FEM for solving differential equations using Galerkin method and variational equations using Rayleigh - Ritz method; 1-D, 2-D and 3-D example problems in elasticity and heat transfer; Solving linear and non-linear structural, thermal and electrical problems using a commercial FEM software
 Instructor: Praveen Kumar
 
-Reference: David V Hutton , Fundamentals of Finite Element Analysis, McGraw Hill
+Reference: 
+<ul>
+<li>David V Hutton , Fundamentals of Finite Element Analysis, McGraw Hill</li>
+</ul>
 
 -------------------------------------
 
@@ -423,46 +520,55 @@ References:
 -------------------------------------
 
 
-MT 261 (Aug) 3:0
-Organic Electronics
+### MT 261 (Aug) 3:0
+<b>Organic Electronics</b>
 
 Fundamentals of polymers. Device and materials physics. Polymer electronics materials, processing, and applications. Chemistry of device fabrication, materials characterization. Electroactive polymers. Device
 physics: Crystal structure, Energy band diagram, Charge carriers, Heterojunctions, Diode characteristics. Device fabrication techniques: Solution, Evaporation, electrospinning. Devices: Organic photovoltaic device, Organic light emitting device, Polymer based sensors.Stability of organic devices.
 
 Instructor: Praveen C Ramamurthy
 
-References: T. A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition) Conjugated Polymers: Theory, Synthesis, Properties and Characterization, CRC Press.
-T.A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition) Conjugated Polymers: Processing and Applications Edited by Terje A. Skotheim and John R. Reynolds, CRC Press.
-S-S. Sun and N. S. Sariciftci (Editors): Organic Photovoltaics - Mechanisms, Materials, and Devices, CRC Press.
-D.A. Neamen: Semiconductor Physics and Devices Basic Principles, McGraw Hill.
+References:<ul>
+<li>T. A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition)</li> <li>Conjugated Polymers: Theory, Synthesis, Properties and Characterization, CRC Press.</li>
+<li>T.A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition) </li><li>Conjugated Polymers: Processing and Applications Edited by Terje A. Skotheim and John R. Reynolds, CRC Press.</li>
+<li>S-S. Sun and N. S. Sariciftci (Editors): Organic Photovoltaics - Mechanisms, Materials, and Devices, CRC Press.</li>
+<li>D.A. Neamen: Semiconductor Physics and Devices Basic Principles, McGraw Hill.</li>
+</ul>
 
 -------------------------------------
 
-MT 262 (JAN) 3:0
-Concepts in Polymer Blends and Nanocomposites
+### MT 262 (JAN) 3:0
+<b>Concepts in Polymer Blends and Nanocomposites</b>
 
 Introduction to polymer blends and composites, nanostructured materials and nanocomposites, Polymer-polymer miscibility, factors governing miscibility, immiscible systems and phase separation, Importance of interface on the property development, compatibilizers and compatibilization, Blends of amorphous & semi-crystalline polymers, rubber toughened polymers, particulate, fiber reinforced composites. Nanostructured materials like nano clay, carbon nanotubes, graphene etc. and polymer nanocomposites. Surface treatment of the reinforcing materials and interface/interphase structures of composites / nanocomposites. Various processing techniques like solution mixing, melt processing. Unique properties of blends, composites/nanocomposites in rheological, mechanical, and physical properties and applications
 
 Instructor: Suryasarathi Bose
 
-References: D.R. Paul and S. Newman: Polymer Blends, Vol 1&2 , Academic Press, 2000
-L.A. Utracki:  Polymer Alloys and Blends, Hanser, 2000
-C. Chung: Introduction to Composites, Technomic, Lancaster, PA. 1998.
-J. Summerscales and D. Short: Fiber Reinforced Polymers, Technomic. 1988
-T.J. Pinnavia and G.W. Beall (Editors): Polymer-Clay Nanocomposites, Wiley, New York 2000.
-P.M. Ajayan, L.S.  Schadler and P.V. Braun: Nanocomposite Science &Technology, Wiley-VCH, Weinheim, 2003.
+References: 
+<ul>
+<li>D.R. Paul and S. Newman: Polymer Blends, Vol 1&2 , Academic Press, 2000</li>
+<li>L.A. Utracki:  Polymer Alloys and Blends, Hanser, 2000</li>
+<li>C. Chung: Introduction to Composites, Technomic, Lancaster, PA. 1998.</li>
+<li>J. Summerscales and D. Short: Fiber Reinforced Polymers, Technomic. 1988</li>
+<li>T.J. Pinnavia and G.W. Beall (Editors): Polymer-Clay Nanocomposites, Wiley, New York 2000.</li>
+<li>P.M. Ajayan, L.S.  Schadler and P.V. Braun: Nanocomposite Science &Technology, Wiley-VCH, Weinheim, 2003.</li>
+</ul>
+
 
 -------------------------------------
 
-MT 271  (Jan) 3:0
-Introduction to Biomaterials Science and Engineering
+### MT 271  (Jan) 3:0
+<b>Introduction to Biomaterials Science and Engineering</b>
 
 This course will introduce basic concepts of biomaterials research and development including discussion on different types of materials used for biomedical applications and their relevant properties. Contents:  Surface engineering for biocompatibility; Protein adsorption to materials surfaces; Blood compatibility of materials; Immune response to materials; Corrosion and wear of implanted medical devices; Scaffolds for tissue engineering and regenerative medicine; Concepts in drug delivery; Regulatory issues and ethics.
 
 Instructor: Kaushik Chatterjee
 
-References: Ratner et al: Biomaterials science: An introduction to materials in medicine, 2nd edition, Elsevier Academic Press
-Current Research Literature
+References:
+<ul>
+<li>Ratner et al: Biomaterials science: An introduction to materials in medicine, 2nd edition, Elsevier Academic Press</li>
+<li>Current Research Literature</li>
+</ul>
 
 -------------------------------------
 	  
