@@ -14,7 +14,7 @@ Link to a gallery from previous year/years.
 <a href="https://materials.iisc.ac.in/sympo/">Sympo 2020</a> | 
 <a href="https://sites.google.com/view/sympo2019-materials-iisc-in/">Sympo 2019</a> | 
 <a href="https://materials.iisc.ac.in/summary-of-the-31st-annual-symposium/">Sympo 2018</a> | 
-<a href="https://drive.google.com/drive/folders/0ByDfGPBTDTJWQnkxajk3VUhucWs">Sympo 2017</a>
+<a href="https://drive.google.com/drive/folders/0ByDfGPBTDTJWQnkxajk3VUhucWs/">Sympo 2017</a>
 
 ## Sports Day
 <a href="https://materials.iisc.ac.in/blog/2019/12/25/11-jan-2020-sports-day/">Sports Day 2020</a>: 
