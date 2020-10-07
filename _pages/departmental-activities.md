@@ -11,6 +11,7 @@ Students’ Symposium typically happens during the month of January every year.
 Lines on significance of event.
 Who normally participates?
 Link to a gallery from previous year/years.
+
 <a href="https://materials.iisc.ac.in/sympo/">Sympo 2020</a> | 
 <a href="https://sites.google.com/view/sympo2019-materials-iisc-in/">Sympo 2019</a> | 
 <a href="https://materials.iisc.ac.in/summary-of-the-31st-annual-symposium/">Sympo 2018</a> | 
