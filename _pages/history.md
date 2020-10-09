@@ -28,7 +28,7 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 </tr>
 <tr>
 <td>1990</td>
-<td>UGC</td><td>CAS</td>
+<td>UGC-CAS</td>
 </tr>
 <tr>
 <td>1987</td>
@@ -36,7 +36,7 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 </tr>
 <tr>
 <td>1986</td>
-<td>UGC</td><td>COSIST</td>
+<td>UGC-COSIST</td>
 </tr>
 <tr>
 <td>1983</td>
@@ -71,7 +71,7 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 <td>Established</a></td>
 </tr>
 <tr>
-<td>1915</td><td>Conception</td>
+<td>1915-Conception</td>
 </tr>
 </tbody>
 </table>
