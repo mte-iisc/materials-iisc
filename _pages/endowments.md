@@ -213,7 +213,7 @@ The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, you
 
 
 ### Dr. Karra Narasimha Murthy Medal
-Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desired that an Annual Award be instituted in the name of his brother Dr.Karra Narasimha Murthy who was a student of BE, ME and Ph.D. in the department of Materials Engineering during 1964-72 and also a faculty member in the department up to May 1974. Accordingly, the Institute considered the request and a Karra Narasimha Murthy Memorial Medal was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
+Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desired that an Annual Award be instituted in the name of his brother Dr.Karra Narasimha Murthy who was a student of BE, ME and Ph.D. in the department of Materials Engineering during 1964-72 and also a faculty member in the department up to May 1974. Accordingly, the Institute considered the request and a <b>Karra Narasimha Murthy Memorial Medal</b> was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
 
 <b>List of Awardees:</b>
 <table>
