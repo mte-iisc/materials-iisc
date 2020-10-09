@@ -133,13 +133,14 @@ Here’s the list of scholars who have visited the Indian Institute of Science a
 
 ### Prof R R Tummala Grant
 Prof. R. R. Tummala, Pettit Professor in Electronic Packaging, Georgia Institute of Technology, Atlanta, USA, who was the Brahm Prakash Visiting Professor, expressed his desire to institute Professor R. R. Tummala Fund under the terms and conditions as given below. He has also made a contribution of US $2,500/- through Bank of America cheque as well as a cash donation of Rs.67,531/-.
-
-From the financial contribution made by Prof. R. R. Tummala, Distinguish Alumnus Awardee (1997) of the Indian Institute of Science, a fund will be established at IISc and operated by the Chairman, Department of Metallurgy, IISc.
-The objective of this fund is to foster research in electronic materials at IISc via student visits to the Georgia Institute of Technology at Atlanta, USA. This will lead to archival publications with co-authorship between the two institutions.
-The interest from the fund will be utilized for a partial travel grant to the student. It is expected that the remaining cost of the travel will be raised through the resources of the Department/IISc/Government of India.
-The student is expected to spend 3 to 6 months in the USA. Living expenses in the USA will be from the resources at the US end.
-The selection of the students will be done by a Committee of 3 Professors with the Chairman of the Department as the Chairman of the Committee. The final name will be announced under intimation to Prof. Tummala.
-The terms and conditions of the operation of this fund will be reviewed every three years and may be suitably modified after mutual consultations.
+<ul>
+<li>From the financial contribution made by Prof. R. R. Tummala, Distinguish Alumnus Awardee (1997) of the Indian Institute of Science, a fund will be established at IISc and operated by the Chairman, Department of Metallurgy, IISc.</li>
+<li>The objective of this fund is to foster research in electronic materials at IISc via student visits to the Georgia Institute of Technology at Atlanta, USA. This will lead to archival publications with co-authorship between the two institutions.</li>
+<li>The interest from the fund will be utilized for a partial travel grant to the student. It is expected that the remaining cost of the travel will be raised through the resources of the Department/IISc/Government of India.</li>
+<li>The student is expected to spend 3 to 6 months in the USA. Living expenses in the USA will be from the resources at the US end.</li>
+<li>The selection of the students will be done by a Committee of 3 Professors with the Chairman of the Department as the Chairman of the Committee. The final name will be announced under intimation to Prof. Tummala.</li>
+<li>The terms and conditions of the operation of this fund will be reviewed every three years and may be suitably modified after mutual consultations.</li>
+</ul>
 
 ### Prof R M Mallya Processing Award
 Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and desired that an Annual Award be instituted in the name of Prof R M Mallya, his research supervisor and given in the area of Materials Processing.
