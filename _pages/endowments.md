@@ -14,14 +14,14 @@ Brahm Prakash was born on 21 August 1912 at Lahore. He obtained his B.Sc.(Hons.)
 At the Indian Institute of Science, Bangalore, Professor Brahm Prakash was the first Indian Head of the Department of Metallurgy. He laid the foundations for an excellent centre for metallurgical education and research in the country.
 
 In order to commemorate the services of Professor Prakash, the community of metallurgists and materials scientists and technologists has taken several steps:
-
-A Professor Brahm Prakash Chair has been endowed at the Indian Institute of Science.
-A Professor Brahm Prakash Medal has been instituted at the Department of Metallurgy to be awarded to the best graduate student.
-A memorial lecture series has been arranged since 1985 by the Bangalore Chapter of IIM. The Trivandrum Chapter of IIM has also instituted a similar lecture series.
-The Kalpakkam Chapter of IIM conducts the Prof. Brahm Prakash Materials Quiz for school students (12th standard).
-The Indian National Science Academy (INSA) has instituted the Prof. Brahm Prakash Medal to be awarded for significant contributions in the area of materials science and engneering.
-Here’s the list of scholars who have visited the Indian Institute of Science as Prof. Brahm Prakash Visiting Chairs (we will keep updating this list)
-
+<ul>
+<li>A Professor Brahm Prakash Chair has been endowed at the Indian Institute of Science.</li>
+<li>A Professor Brahm Prakash Medal has been instituted at the Department of Metallurgy to be awarded to the best graduate student.</li>
+<li>A memorial lecture series has been arranged since 1985 by the Bangalore Chapter of IIM. The Trivandrum Chapter of IIM has also instituted a similar lecture series.</li>
+<li>The Kalpakkam Chapter of IIM conducts the Prof. Brahm Prakash Materials Quiz for school students (12th standard).</li>
+<li>The Indian National Science Academy (INSA) has instituted the Prof. Brahm Prakash Medal to be awarded for significant contributions in the area of materials science and engneering.</li>
+<li>Here’s the list of scholars who have visited the Indian Institute of Science as Prof. Brahm Prakash Visiting Chairs</li>
+</ul>
 <table>
 <tbody>
 <tr>
