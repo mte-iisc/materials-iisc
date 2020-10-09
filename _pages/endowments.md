@@ -8,7 +8,7 @@ toc_label: Endowments and Awards
 toc_icon: calendar-alt
 #classes: wide
 ---
-### Prof Brahm Prakash Chair
+## Prof Brahm Prakash Chair
 Brahm Prakash was born on 21 August 1912 at Lahore. He obtained his B.Sc.(Hons.) degree in 1932, M.Sc. in 1934 and Ph.D. in physical chemistry in 1942 from the Punjab University. Subsequently, he obtained his Sc.D. in Metallurgy from the Massachusetts Institute of Technology, U.S.A in 1949. After returning to India he served at the Indian Institute of Science, Bangalore from 1951 to 1957, at the Bhabha Atomic Research Centre, Bombay from 1957-1972 and at the Vikram Sarabhai Space Centre, Trivandrum from 1972 to 1982. While the tasks at these institutions called for different skills, they all posed challenges of a high order. Dr. Prakash discharged them with distinction and has left a rich legacy of scientific and administrative leadership.
 
 At the Indian Institute of Science, Bangalore, Professor Brahm Prakash was the first Indian Head of the Department of Metallurgy. He laid the foundations for an excellent centre for metallurgical education and research in the country.
@@ -20,7 +20,7 @@ In order to commemorate the services of Professor Prakash, the community of meta
 <li>A memorial lecture series has been arranged since 1985 by the Bangalore Chapter of IIM. The Trivandrum Chapter of IIM has also instituted a similar lecture series.</li>
 <li>The Kalpakkam Chapter of IIM conducts the Prof. Brahm Prakash Materials Quiz for school students (12th standard).</li>
 <li>The Indian National Science Academy (INSA) has instituted the Prof. Brahm Prakash Medal to be awarded for significant contributions in the area of materials science and engneering.</li>
-<li>Here’s the list of scholars who have visited the Indian Institute of Science as ## Prof. Brahm Prakash Visiting Chairs</li>
+<li>Here’s the list of scholars who have visited the Indian Institute of Science as ### Prof. Brahm Prakash Visiting Chairs</li>
 </ul>
 <table>
 <tbody>
@@ -131,7 +131,7 @@ In order to commemorate the services of Professor Prakash, the community of meta
 </tbody>
 </table>
 
-### Prof R R Tummala Grant
+## Prof R R Tummala Grant
 
 Prof. R. R. Tummala, Pettit Professor in Electronic Packaging, Georgia Institute of Technology, Atlanta, USA, who was the Brahm Prakash Visiting Professor, expressed his desire to institute Professor R. R. Tummala Fund under the terms and conditions as given below. 
 
@@ -145,7 +145,7 @@ He has also made a contribution of US $2,500/- through Bank of America cheque as
 <li>The terms and conditions of the operation of this fund will be reviewed every three years and may be suitably modified after mutual consultations.</li>
 </ul>
 
-### Prof R M Mallya Processing Award
+## Prof R M Mallya Processing Award
 
 Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and desired that an Annual Award be instituted in the name of Prof R M Mallya, his research supervisor and given in the area of Materials Processing.
 
@@ -160,7 +160,7 @@ Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and des
 <li>Prof R M Mallya will be notified and invited every year when the award is presented.</li>
 </ul>
 
-## <b>Awardees</b>
+### <b>Awardees</b>
 <table>
 <tbody>
 <tr>
@@ -182,14 +182,14 @@ Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and des
 </tbody>
 </table>
 
-### Hubert I. Aaronson Fellowship
+## Hubert I. Aaronson Fellowship
 
 The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, young scientists from anywhere in the world (preferably below the age of 45) working in areas related to phase transformations to spend up to 1 month at the department. 
 
 Nominations may be received from any faculty member at IISc. We are delighted to welcome Dr. Balamuralikrishna, scientist at Defence Metallurgical Research Laboratory, as the first Aaronson fellow. 
 Bala works in the area of atom probe field ion microscopy and TEM and their application to microstructural evolution in Ni-based superalloys and steels.
 
-## <b>List of H I Aaronson Fellows:</b>
+### <b>List of H I Aaronson Fellows:</b>
 <table>
 <tbody>
 <tr>
@@ -220,13 +220,13 @@ Bala works in the area of atom probe field ion microscopy and TEM and their appl
 </table>
 
 
-### Dr. Karra Narasimha Murthy Medal
+## Dr. Karra Narasimha Murthy Medal
 
 Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desired that an Annual Award be instituted in the name of his brother Dr.Karra Narasimha Murthy who was a student of BE, ME and Ph.D. in the department of Materials Engineering during 1964-72 and also a faculty member in the department up to May 1974. 
 
 Accordingly, the Institute considered the request and a <b>Karra Narasimha Murthy Memorial Medal</b> was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
 
-## <b>List of Awardees:</b>
+### <b>List of Awardees:</b>
 <table>
 <tbody>
 <tr>
