@@ -20,7 +20,7 @@ In order to commemorate the services of Professor Prakash, the community of meta
 <li>A memorial lecture series has been arranged since 1985 by the Bangalore Chapter of IIM. The Trivandrum Chapter of IIM has also instituted a similar lecture series.</li>
 <li>The Kalpakkam Chapter of IIM conducts the Prof. Brahm Prakash Materials Quiz for school students (12th standard).</li>
 <li>The Indian National Science Academy (INSA) has instituted the Prof. Brahm Prakash Medal to be awarded for significant contributions in the area of materials science and engneering.</li>
-<li>Here’s the list of scholars who have visited the Indian Institute of Science as Prof. Brahm Prakash Visiting Chairs</li>
+<li>Here’s the list of scholars who have visited the Indian Institute of Science as ## Prof. Brahm Prakash Visiting Chairs</li>
 </ul>
 <table>
 <tbody>
@@ -160,7 +160,7 @@ Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and des
 <li>Prof R M Mallya will be notified and invited every year when the award is presented.</li>
 </ul>
 
-<b>Awardees</b>
+## <b>Awardees</b>
 <table>
 <tbody>
 <tr>
@@ -189,7 +189,7 @@ The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, you
 Nominations may be received from any faculty member at IISc. We are delighted to welcome Dr. Balamuralikrishna, scientist at Defence Metallurgical Research Laboratory, as the first Aaronson fellow. 
 Bala works in the area of atom probe field ion microscopy and TEM and their application to microstructural evolution in Ni-based superalloys and steels.
 
-<b>List of H I Aaronson Fellows:</b>
+## <b>List of H I Aaronson Fellows:</b>
 <table>
 <tbody>
 <tr>
@@ -226,7 +226,7 @@ Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desire
 
 Accordingly, the Institute considered the request and a <b>Karra Narasimha Murthy Memorial Medal</b> was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
 
-<b>List of Awardees:</b>
+## <b>List of Awardees:</b>
 <table>
 <tbody>
 <tr>
