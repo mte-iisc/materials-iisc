@@ -22,32 +22,114 @@ The Kalpakkam Chapter of IIM conducts the Prof. Brahm Prakash Materials Quiz for
 The Indian National Science Academy (INSA) has instituted the Prof. Brahm Prakash Medal to be awarded for significant contributions in the area of materials science and engneering.
 Here’s the list of scholars who have visited the Indian Institute of Science as Prof. Brahm Prakash Visiting Chairs (we will keep updating this list)
 
-Prof. David P. Field, Washington State University, USA (2016)
-Prof. Jian-Zhang Jiang, Zhejiang University, China (2016)
-Prof. Kannan M. Krishnan, University of Washington, USA (2016)
-Prof. Tamas Ungar, Eötvös University, Budapest, Hungary (2015)
-Prof. Yunzhi Wang, The Ohio State University, Ohio, USA (2014)
-Prof. Narendra B. Dahotre, University of North Texas, Texas, USA (2014)
-Prof. Do Hyang Kim, Yonsei University, South Korea (2013).
-Prof. Llorca Martinez, Polytechnic University of Madrid, Spain (2013)
-Prof. Ganpati Ramanath, Rensselaer Polytechnic Institute, NY, USA (2013)
-Prof. Lars E. Arnberg, Norwegian University of Science & Technology, Norway (2012).
-Prof. John Banhart of Helmholtz-Centre, and Technical University, Berlin, Germany (2012).
-Prof. A.D. Rollett, Carnegie Mellon University, USA (2011-12).
-Prof. S. Chandrasekar, Purdue University (2010).
-Prof. Tanguy Rouxel, Universite de Rennes, France (2010)
-Prof. Dr.-Ing. Gunther Eggeler, Ruhr-University Bochum, Germany (2009).
-Prof. Subhash Mahajan, Arizona State University, USA (2007).
-Prof. R. Ramesh, Univ. of California, USA (2005-06).
-Prof. Subra Suresh, MIT, Cambridge, USA (2004).
-Prof. Subhash Chander, Penn State University, USA (2003).
-Prof. Brij M. Moudgil, University of Florida, Gainesville, FL, USA (2001).
-Prof. T.R. Anantharaman, National Physical Laboratory, New Delhi, India (2000).
-Prof. R.R. Tummala, Georgia Institute of Technology, Georgia, USA (2000).
-Prof. S. Ashok, Penn State University, USA (1996).
-Prof. A.K. Mukherjee, University of California, Davis, USA, (1994).
-Prof. M.A. Dayananda, Purdue University, Lafayette, USA (1992).
-Prof. P. Somasundaran, Columbia University,New York, USA (1990).
+<table>
+<tbody>
+<tr>
+<td>2016</td>
+<td>Prof. David P. Field, Washington State University, USA</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>Prof. Jian-Zhang Jiang, Zhejiang University, China</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>Prof. Kannan M. Krishnan, University of Washington, USA</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>Prof. Tamas Ungar, Eötvös University, Budapest, Hungary</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>Prof. Yunzhi Wang, The Ohio State University, Ohio, USA</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>Prof. Narendra B. Dahotre, University of North Texas, Texas, USA</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>Prof. Do Hyang Kim, Yonsei University, South Korea</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>Prof. Llorca Martinez, Polytechnic University of Madrid, Spain</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>Prof. Ganpati Ramanath, Rensselaer Polytechnic Institute, NY, USA</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>Prof. Lars E. Arnberg, Norwegian University of Science & Technology, Norway</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>Prof. John Banhart of Helmholtz-Centre, and Technical University, Berlin, Germany</td>
+</tr>
+<tr>
+<td>2011-12</td>
+<td>Prof. A.D. Rollett, Carnegie Mellon University</td>
+</tr>
+<tr>
+<td>2010</td>
+<td>Prof. S. Chandrasekar, Purdue University, USA</td>
+</tr>
+<tr>
+<td>2010</td>
+<td>Prof. Tanguy Rouxel, Universite de Rennes, France</td>
+</tr>
+<tr>
+<td>2009</td>
+<td>Prof. Dr.-Ing. Gunther Eggeler, Ruhr-University Bochum, Germany</td>
+</tr>
+<tr>
+<td>2007</td>
+<td>Prof. Subhash Mahajan, Arizona State University, USA</td>
+</tr>
+<tr>
+<td>2005-06</td>
+<td>Prof. R. Ramesh, Univ. of California, USA</td>
+</tr>
+<tr>
+<td>2004</td>
+<td>Prof. Subra Suresh, MIT, Cambridge, USA</td>
+</tr>
+<tr>
+<td>2003</td>
+<td>Prof. Subhash Chander, Penn State University, USA</td>
+</tr>
+<tr>
+<td>2001</td>
+<td>Prof. Brij M. Moudgil, University of Florida, Gainesville, FL</td>
+</tr>
+<tr>
+<td>2000</td>
+<td>Prof. T.R. Anantharaman, National Physical Laboratory, New Delhi, India</td>
+</tr>
+<tr>
+<td>2000</td>
+<td>Prof. R.R. Tummala, Georgia Institute of Technology, Georgia, USA</td>
+</tr>
+<tr> 
+<td>1996</td>
+<td>Prof. S. Ashok, Penn State University, USA</td>
+</tr>
+<tr>
+<td>1994</td>
+<td>Prof. A.K. Mukherjee, University of California, Davis, USA</td>
+</tr>
+<tr>
+<td>1992</td>
+<td>Prof. M.A. Dayananda, Purdue University, Lafayette, USA</td>
+</tr>
+<tr>
+<td>1990</td>
+<td>Prof. P. Somasundaran, Columbia University, New York, USA</td>
+</tr>
+</tbody>
+</table>
 
 ### Prof R R Tummala Grant
 Prof. R. R. Tummala, Pettit Professor in Electronic Packaging, Georgia Institute of Technology, Atlanta, USA, who was the Brahm Prakash Visiting Professor, expressed his desire to institute Professor R. R. Tummala Fund under the terms and conditions as given below. He has also made a contribution of US $2,500/- through Bank of America cheque as well as a cash donation of Rs.67,531/-.
@@ -62,7 +144,7 @@ The terms and conditions of the operation of this fund will be reviewed every th
 ### Prof R M Mallya Processing Award
 Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and desired that an Annual Award be instituted in the name of Prof R M Mallya, his research supervisor and given in the area of Materials Processing.
 
-Guidelines
+<b>Guidelines</b>
 The award shall be known as the Prof R M Mallya Materials Processing Award.
 The award will be made annually (for the academic session August to July) for the best thesis in the area of materials processing. Both Ph D and M Sc (Engg ) theses will be considered.
 A three member committee will scrutinize all the theses in a given academic year and supporting documents and recommend one name to the Chairman of the Dept
@@ -70,33 +152,89 @@ The award will be a cash prize of Rs 5000 plus a certificate.
 The award conditions and the names of recipients will be posted on the Dept web pages.
 The award ceremony may coincide with one of the functions of the Dept such as the Annual Students’ Symposium. It is preferable that the awardee is presnt at the function to receive the award.
 Prof R M Mallya will be notified and invited every year when the award is presented.
-Awardees
-SL.NO	YEAR	AWARDEE	DATE
-1.	1998-1999	Ms. T Bhatia	March 2, 2000
-2.	1999-2000	Ms. Dheepa Srinivasan & Mr. C.S.Karthikeyan	December 14, 2001
-3.	2000-2001	Dr. B.Srinivasa Rao	December 14, 2001
-4.	2001-2002	Dr. D. Santhiya	November 8, 2002
+<b>Awardees</b>
+<table>
+<tbody>
+<tr>
+<td>2002</td>
+<td>Dr. D. Santhiya</td>
+</tr>
+<tr>
+<td>2001</td>
+<td>Dr. B.Srinivasa Rao</td>
+</tr>
+<tr>
+<td>2000</td>
+<td>Ms. Dheepa Srinivasan & Mr. C.S.Karthikeyan</td>
+</tr>
+<tr>
+<td>1999</td>
+<td>Ms. T Bhatia</td>
+</tr>
+</tbody>
+</table>
 
 ### Hubert I. Aaronson Fellowship
 The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, young scientists from anywhere in the world (preferably below the age of 45) working in areas related to phase transformations to spend up to 1 month at the department. Nominations may be received from any faculty member at IISc. We are delighted to welcome Dr. Balamuralikrishna, scientist at Defence Metallurgical Research Laboratory, as the first Aaronson fellow. Bala works in the area of atom probe field ion microscopy and TEM and their application to microstructural evolution in Ni-based superalloys and steels.
 
-List of H I Aaronson Fellows:
-Prof.Eun Soo Park, Seoul National University, Republic of Korea, 2015
-Prof.Philip Eisenlohr, Michigan State University,USA, 2015
-Dr.Sandip Ghosh Chowdhury, National Metallurgical Laboratory, Jamshedpur, 2013
-Dr.Sandip Ghosh Chowdhury, National Metallurgical Laboratory, Jamshedpur, 2012
-Prof.Martin Wagner, Chemnitz University of Technology,Germany, 2012.
-Dr.R.Balamuralikrishnan, DMRL, Hyderabad, 2010-11.
+<b>List of H I Aaronson Fellows:</b>
+<table>
+<tbody>
+<tr>
+<td>2015</td>
+<td>Prof.Eun Soo Park, Seoul National University, Republic of Korea</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>Prof.Philip Eisenlohr, Michigan State University,USA</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>Dr.Sandip Ghosh Chowdhury, National Metallurgical Laboratory, Jamshedpur</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>Dr.Sandip Ghosh Chowdhury, National Metallurgical Laboratory, Jamshedpur</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>Prof.Martin Wagner, Chemnitz University of Technology,Germany</td>
+</tr>
+<tr>
+<td>2010-11</td>
+<td>Dr.R.Balamuralikrishnan, DMRL, Hyderabad</td>
+</tr>
+</tbody>
+</table>
 
 
 ### Dr. Karra Narasimha Murthy Medal
 Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desired that an Annual Award be instituted in the name of his brother Dr.Karra Narasimha Murthy who was a student of BE, ME and Ph.D. in the department of Materials Engineering during 1964-72 and also a faculty member in the department up to May 1974. Accordingly, the Institute considered the request and a Karra Narasimha Murthy Memorial Medal was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
 
-List of Awardees:
+<b>List of Awardees:</b>
+<table>
+<tbody>
+<tr>
+<th>Academic Year</th>	
+<th>Name of the student</th>
+</tr>
+<tr>
+<td>2007-08</td>
+<td>Mr.Kishora Shetty</td>
+</tr>
+<tr>
+<td>2005-06</td>
+<td>Mr.Ravishankar</td>
+</tr>
+<tr>
+<td>2004-05</td>
+<td>Mr.M.P.Lakshminarayana Rao</td>
+</tr>
+<tr>
+<td>2002-03</td>
+<td>Ms.S.P. Vijayalakshmi</td>
+</tr>
+</tbody>
+</table>
 
-Sl.No	Academic Year	Name of the student
-1	2002-03	Ms.S.P. Vijayalakshmi
-2	2004-05	Mr.M.P.Lakshminarayana Rao
-3	2005-06	Mr.Ravishankar
-4	2007-08	Mr.Kishora Shetty
 PS: The award was not considered during the academic years 2003-04, 2006-07, 2008-09 and 2009-10, as the number of MSc(Engg) students were less than 5.
