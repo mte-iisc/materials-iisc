@@ -41,5 +41,7 @@ sidelinks:
               url: /prospective-faculty
             - title: "Prospective students"
               url: /prospective-student
+            - title: "Endowments"
+              url: /endowments
             - title: "Support us"
               url: /donate
