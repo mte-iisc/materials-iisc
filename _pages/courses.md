@@ -528,9 +528,12 @@ physics: Crystal structure, Energy band diagram, Charge carriers, Heterojunction
 
 Instructor: Praveen C Ramamurthy
 
-References:<ul>
-<li>T. A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition)</li> <li>Conjugated Polymers: Theory, Synthesis, Properties and Characterization, CRC Press.</li>
-<li>T.A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition) </li><li>Conjugated Polymers: Processing and Applications Edited by Terje A. Skotheim and John R. Reynolds, CRC Press.</li>
+References:
+<ul>
+<li>T. A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition)</li>
+<li>Conjugated Polymers: Theory, Synthesis, Properties and Characterization, CRC Press</li>
+<li>T.A. Skotheim and J. R. Reynolds  (Editors): Handbook of Conducting Polymers (Third Edition) </li>
+<li>Conjugated Polymers: Processing and Applications Edited by Terje A. Skotheim and John R. Reynolds, CRC Press.</li>
 <li>S-S. Sun and N. S. Sariciftci (Editors): Organic Photovoltaics - Mechanisms, Materials, and Devices, CRC Press.</li>
 <li>D.A. Neamen: Semiconductor Physics and Devices Basic Principles, McGraw Hill.</li>
 </ul>
@@ -557,7 +560,7 @@ References:
 
 -------------------------------------
 
-### MT 271  (Jan) 3:0
+### MT 271 (JAN) 3:0
 <b>Introduction to Biomaterials Science and Engineering</b>
 
 This course will introduce basic concepts of biomaterials research and development including discussion on different types of materials used for biomedical applications and their relevant properties. Contents:  Surface engineering for biocompatibility; Protein adsorption to materials surfaces; Blood compatibility of materials; Immune response to materials; Corrosion and wear of implanted medical devices; Scaffolds for tissue engineering and regenerative medicine; Concepts in drug delivery; Regulatory issues and ethics.
