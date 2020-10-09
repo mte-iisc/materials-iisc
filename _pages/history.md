@@ -8,6 +8,8 @@ The Department of Materials Engineering (formerly known as the Department of Met
 
 The Silver Jubilee of the Department was celebrated in 1972 with twin International Symposia on “Defect Interactions in Solids” and “Industrial Metallurgy”. During 1997, the Golden Jubilee of the Department was marked by an International Symposium on “Recent Advances in Metallurgical Processes”. The Diamond Jubilee of the Department was celebrated during 2006-2007.
 
+<b>Historical Milestones:</b>
+
 <table>
 <tbody>
 <tr>
