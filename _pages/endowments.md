@@ -132,7 +132,10 @@ In order to commemorate the services of Professor Prakash, the community of meta
 </table>
 
 ### Prof R R Tummala Grant
-Prof. R. R. Tummala, Pettit Professor in Electronic Packaging, Georgia Institute of Technology, Atlanta, USA, who was the Brahm Prakash Visiting Professor, expressed his desire to institute Professor R. R. Tummala Fund under the terms and conditions as given below. He has also made a contribution of US $2,500/- through Bank of America cheque as well as a cash donation of Rs.67,531/-.
+
+Prof. R. R. Tummala, Pettit Professor in Electronic Packaging, Georgia Institute of Technology, Atlanta, USA, who was the Brahm Prakash Visiting Professor, expressed his desire to institute Professor R. R. Tummala Fund under the terms and conditions as given below. 
+
+He has also made a contribution of US $2,500/- through Bank of America cheque as well as a cash donation of Rs.67,531/-.
 <ul>
 <li>From the financial contribution made by Prof. R. R. Tummala, Distinguish Alumnus Awardee (1997) of the Indian Institute of Science, a fund will be established at IISc and operated by the Chairman, Department of Metallurgy, IISc.</li>
 <li>The objective of this fund is to foster research in electronic materials at IISc via student visits to the Georgia Institute of Technology at Atlanta, USA. This will lead to archival publications with co-authorship between the two institutions.</li>
@@ -143,6 +146,7 @@ Prof. R. R. Tummala, Pettit Professor in Electronic Packaging, Georgia Institute
 </ul>
 
 ### Prof R M Mallya Processing Award
+
 Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and desired that an Annual Award be instituted in the name of Prof R M Mallya, his research supervisor and given in the area of Materials Processing.
 
 <b>Guidelines</b>
@@ -179,7 +183,11 @@ Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and des
 </table>
 
 ### Hubert I. Aaronson Fellowship
-The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, young scientists from anywhere in the world (preferably below the age of 45) working in areas related to phase transformations to spend up to 1 month at the department. Nominations may be received from any faculty member at IISc. We are delighted to welcome Dr. Balamuralikrishna, scientist at Defence Metallurgical Research Laboratory, as the first Aaronson fellow. Bala works in the area of atom probe field ion microscopy and TEM and their application to microstructural evolution in Ni-based superalloys and steels.
+
+The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, young scientists from anywhere in the world (preferably below the age of 45) working in areas related to phase transformations to spend up to 1 month at the department. 
+
+Nominations may be received from any faculty member at IISc. We are delighted to welcome Dr. Balamuralikrishna, scientist at Defence Metallurgical Research Laboratory, as the first Aaronson fellow. 
+Bala works in the area of atom probe field ion microscopy and TEM and their application to microstructural evolution in Ni-based superalloys and steels.
 
 <b>List of H I Aaronson Fellows:</b>
 <table>
@@ -213,7 +221,10 @@ The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, you
 
 
 ### Dr. Karra Narasimha Murthy Medal
-Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desired that an Annual Award be instituted in the name of his brother Dr.Karra Narasimha Murthy who was a student of BE, ME and Ph.D. in the department of Materials Engineering during 1964-72 and also a faculty member in the department up to May 1974. Accordingly, the Institute considered the request and a <b>Karra Narasimha Murthy Memorial Medal</b> was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
+
+Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desired that an Annual Award be instituted in the name of his brother Dr.Karra Narasimha Murthy who was a student of BE, ME and Ph.D. in the department of Materials Engineering during 1964-72 and also a faculty member in the department up to May 1974. 
+
+Accordingly, the Institute considered the request and a <b>Karra Narasimha Murthy Memorial Medal</b> was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
 
 <b>List of Awardees:</b>
 <table>
