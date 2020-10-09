@@ -73,7 +73,8 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 <td><a href="https://materials.iisc.ac.in/wp-content/uploads/2019/04/sirMV1945.png">Established</a></td>
 </tr>
 <tr>
-<td>1915-Conception</td>
+<td>1915</td>
+<td>Conception</td>
 </tr>
 </tbody>
 </table>
