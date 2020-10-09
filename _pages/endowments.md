@@ -20,8 +20,9 @@ In order to commemorate the services of Professor Prakash, the community of meta
 <li>A memorial lecture series has been arranged since 1985 by the Bangalore Chapter of IIM. The Trivandrum Chapter of IIM has also instituted a similar lecture series.</li>
 <li>The Kalpakkam Chapter of IIM conducts the Prof. Brahm Prakash Materials Quiz for school students (12th standard).</li>
 <li>The Indian National Science Academy (INSA) has instituted the Prof. Brahm Prakash Medal to be awarded for significant contributions in the area of materials science and engneering.</li>
-<li>Here’s the list of scholars who have visited the Indian Institute of Science as ### Prof. Brahm Prakash Visiting Chairs</li>
 </ul>
+
+### Prof. Brahm Prakash Chairs
 <table>
 <tbody>
 <tr>
