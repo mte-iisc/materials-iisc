@@ -67,7 +67,7 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 <td>DIISc Programme</td>
 </tr>
 <tr>
-<td><a href="/wp-content/uploads/2019/04/sirMV1945.png">1945</td>
+<td><a href="https://materials.iisc.ac.in/wp-content/uploads/2019/04/sirMV1945.png">1945</td>
 <td>Established</a></td>
 </tr>
 <tr>
