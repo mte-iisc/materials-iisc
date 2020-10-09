@@ -40,7 +40,7 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 </tr>
 <tr>
 <td>1983</td>
-<td>UGC</td><td>SAP</td>
+<td>UGC-SAP</td>
 </tr>
 <tr>
 <td>1972</td>
@@ -60,11 +60,11 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 </tr>
 <tr>
 <td>1951</td>
-<td>AIISc conferred</td>
+<td>A.I.I.Sc. conferred</td>
 </tr>
 <tr>
 <td>1947</td>
-<td>DIISc Programme</td>
+<td>D.I.I.Sc. Programme</td>
 </tr>
 <tr>
 <td><a href="https://materials.iisc.ac.in/wp-content/uploads/2019/04/sirMV1945.png">1945</td>
