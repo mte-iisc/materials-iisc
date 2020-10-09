@@ -146,13 +146,16 @@ Prof. R. R. Tummala, Pettit Professor in Electronic Packaging, Georgia Institute
 Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and desired that an Annual Award be instituted in the name of Prof R M Mallya, his research supervisor and given in the area of Materials Processing.
 
 <b>Guidelines</b>
-The award shall be known as the Prof R M Mallya Materials Processing Award.
-The award will be made annually (for the academic session August to July) for the best thesis in the area of materials processing. Both Ph D and M Sc (Engg ) theses will be considered.
-A three member committee will scrutinize all the theses in a given academic year and supporting documents and recommend one name to the Chairman of the Dept
-The award will be a cash prize of Rs 5000 plus a certificate.
-The award conditions and the names of recipients will be posted on the Dept web pages.
-The award ceremony may coincide with one of the functions of the Dept such as the Annual Students’ Symposium. It is preferable that the awardee is presnt at the function to receive the award.
-Prof R M Mallya will be notified and invited every year when the award is presented.
+<ul>
+<li>The award shall be known as the Prof R M Mallya Materials Processing Award.</li>
+<li>The award will be made annually (for the academic session August to July) for the best thesis in the area of materials processing. Both Ph D and M Sc (Engg ) theses will be considered.</li>
+<li>A three member committee will scrutinize all the theses in a given academic year and supporting documents and recommend one name to the Chairman of the Department.</li>
+<li>The award will be a cash prize of Rs 5000 plus a certificate.</li>
+<li>The award conditions and the names of recipients will be posted on the Dept web pages.</li>
+<li>The award ceremony may coincide with one of the functions of the Dept such as the Annual Students’ Symposium. It is preferable that the awardee is presnt at the function to receive the award.</li>
+<li>Prof R M Mallya will be notified and invited every year when the award is presented.</li>
+</ul>
+
 <b>Awardees</b>
 <table>
 <tbody>
