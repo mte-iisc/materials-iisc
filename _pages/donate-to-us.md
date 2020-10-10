@@ -45,11 +45,11 @@ The KPA appeal was formally approved in August 2012 and launched on January 16th
 
 The contributions received are shown below and an amount of Rs. 70.20 lakhs has been received so for. The target is Rs. 2 crores. For details on how to donate, please go to (link to main appeal)
 
-More than 10 Lakhs<br>
+<b>More than 10 Lakhs</b><br>
 Aswin M.Shah, B.E. 1969<br>
 R.Sridhar, B.E. 1964<br>
 
-1 – 5 Lakhs<br>
+<b>1 – 5 Lakhs</b><br>
 Anbu Varathan, B.E. 1986<br>
 Ashok Sinha, B.E. 1964<br>
 S.S.Balakrishna, M.E. 1965-67<br>
@@ -73,7 +73,7 @@ Vishu Dosaj, B.E. 1967<br>
 1963 & 1964 B.E.(Met) class<br>
 Golden Reunion (BE-1965, 66 & 68)<br>
 
-upto 1 Lakh<br>
+<b>upto 1 Lakh</b><br>
 U.Anand, B.E. 1989<br>
 H.S.Ananda Kumar, M.E. 1963-64<br>
 Banninthiah<br>
@@ -109,9 +109,9 @@ IWIS-2014 (Iron and Steel making)<br>
 ICMR-2016 conference<br>
 M/s Icon Analytical<br>
 
-## Manish Memorial Endowment Fund
+## Manish Narayan Memorial Endowment Fund
 
-History<br>
+<b>History</b><br>
 
 Manish Memorial Endowment Fund was initiated in the name of Mr. Manish Narayan with the objective of providing a young research scholar from the Department of Materials Engineering (formerly Metallurgy), IISc, international research exposure by supporting him/her to attend an international conference for presenting a paper.
 
@@ -255,7 +255,11 @@ Sanjai, Sanjeev, Sankaranarayanan Balasubramanian, A.Saravanan, Shankaraman, She
 Thyagarajan<br>
 Ch.Udaya Bhaskar<br>
 K.K.Venkataraman (KKV), V.Vijayalakshmi<br>
-ICMR-2016 (Conference), Design 2007 (Conference), Perspectives in Physical Metallurgy and Materials Science (Conference), Light Materials Science & Technology (Conference), Quasicrystals (Conference), Nano2006 (Conference), Grant from Indian Institute of Science<br>
+ICMR-2016 (Conference), Design 2007 (Conference)<br>
+Perspectives in Physical Metallurgy and Materials Science (Conference)<br>
+Light Materials Science & Technology (Conference)<br>
+Quasicrystals (Conference), Nano2006 (Conference)<br>
+Grant from Indian Institute of Science<br>
 
 ### Renewed Appeal
 
@@ -309,7 +313,7 @@ Click <a href="http://apps.irs.gov/app/eos/pub78Search.do?ein1=03-0602301&amp;na
 
 Manish, We always remember you….
 
-He turned out to be the most likable guy I have ever met. – Sanjeev 
+### He turned out to be the most likable guy I have ever met. – Sanjeev 
 
 " If I could recollect the exact day, it was July the 28th, 1989 that I first happened to meet this guy, Manish Narayan. It was my first day at I.I.Sc. We were supposed to assemble at the TATA INSTITUTE main lobby near the Main Entrance by 8.00 AM and I was late by about an hour. The hall was Jam-packed and the Chairman had completed his introductory speech by then. I felt nervous when a section of the audience turned back and starred at me for being late. The function was nearly getting over when I noticed a guy walking into the hall through the rear entrance. He immediately caught my attention. A typical Bangalorian guy, wearing a leather Jacket and a goggles. I had never been to bangalore before but had heard that most of the guys in Bangalore were typically a freak-out character.
 
@@ -329,7 +333,7 @@ Thinking back, I realize how I had mis-judged the guy who entered the hall (on m
 
 Sanjeev
 
-He was one of the nicest persons I’ve ever known. – KKV 
+### He was one of the nicest persons I’ve ever known. – KKV 
 
 "He was one of the nicest persons I've ever known. Cheerful and always willing to give a helping hand at any point in time, he had this uncanny knack of winning over people with his disarming smile and pleasant demeanour. We had some of the best times together - all those trips as a big, noisy group to Mercara (jampacked in a van!), then to Kemmangundi (where we slept in some decrepit bungalow) and later to Ooty which was so impulsive as we just decided to leave one Friday night. Manish, being the localite was always forced to be the organiser - and he sure did a great job. Then ofcourse all the day-to-day activities we shared : the numerous movies, dinners at C-mess, the gossip at PD-Block reading room - the list is endless. The hospitality he used to display at his Jayanagar residence, proved a haven for all those craving for some delicious home food. Surely, his parents did not deserve this cruel blow for being the sweetest people around."
 KKV
