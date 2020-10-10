@@ -112,6 +112,7 @@ M/s Icon Analytical<br>
 ## Manish Memorial Endowment Fund
 
 History<br>
+
 Manish Memorial Endowment Fund was initiated in the name of Mr. Manish Narayan with the objective of providing a young research scholar from the Department of Materials Engineering (formerly Metallurgy), IISc, international research exposure by supporting him/her to attend an international conference for presenting a paper.
 
 Manish Narayan was an M.E (I) student from the Department of Metallurgy, IISc, between 1989 – 1993. His field of interest was Composites and he did his final ME project with Prof M.K. Surappa. After his graduation he had a short stint with Titan Industries, where he worked on the ‘Tanishq’ range of jewellery watches. He then went to pursue a Doctorate in NJIT & later on shifted to Lehigh. His promising academic career came to an end, when he passed away in a tragic car accident at Tennessee, USA on July 29th 1996 on his way back from Atlanta Olympics.
@@ -122,7 +123,7 @@ Many of his batchmates came together to institute a fund in his name at the Depa
 
 All students of the Department of Metallurgy are encouraged to apply for this award.
 
-### Selection Procedure for award of Manish Memorial Award
+### Selection Procedure
 
 The award is open to all academic students of the Department of Materials Engineering.
 The canditate should have the paper authored or co-authored by him/her accepted in a  conference / workshop / symposium / seminar.  Preference is to be given to international events.<br>
@@ -131,7 +132,7 @@ Selection Criteria: The following criteria may be followed for the selection –
 The amount of the standard award is decided by the Department from time to time. At present it stands at a maximum of Rs. 25,000. The award can be shared by more than one person, in which case, the amount of the award may be decided by the selecting authority.
 A student is normally eligible to receive this award only once during their tenure at IISc.
 
-### List of Manish Narayan Fund Awardees
+### List of Awardees
 2015<br>
 Mr. Biswaranjan Dash (KS)<br>
 Mr. Chandra Shekhar P<br>
@@ -236,7 +237,7 @@ Mr. M.P Gururajan<br>
 Mr. B. Sudheer<br>
 Ms. Victoria Bhattacharya<br>
 
-### Donors: Manish Narayan Memorial Fund
+### Donors
 
 Anuradha, Ashok Kumar Ray<br>
 Balaji Viswanathan, S.Baranidharan, Bhanu Prasad<br>
@@ -256,7 +257,7 @@ Ch.Udaya Bhaskar<br>
 K.K.Venkataraman (KKV), V.Vijayalakshmi<br>
 ICMR-2016 (Conference), Design 2007 (Conference), Perspectives in Physical Metallurgy and Materials Science (Conference), Light Materials Science & Technology (Conference), Quasicrystals (Conference), Nano2006 (Conference), Grant from Indian Institute of Science<br>
 
-### Renewed Appeal to Manish Narayan Fund
+### Renewed Appeal
 
 Dear Friends,
 
