@@ -22,7 +22,7 @@ In order to commemorate the services of Professor Prakash, the community of meta
 <li>The Indian National Science Academy (INSA) has instituted the Prof. Brahm Prakash Medal to be awarded for significant contributions in the area of materials science and engneering.</li>
 </ul>
 
-### Prof. Brahm Prakash Chairs
+### List of Chairs
 <table>
 <tbody>
 <tr>
@@ -161,7 +161,7 @@ Dr S C Deevi, an alumnus of our Dept , gave a donation of $ 1000 in 1991 and des
 <li>Prof R M Mallya will be notified and invited every year when the award is presented.</li>
 </ul>
 
-### <b>Awardees</b>
+### <b>List of awardees</b>
 <table>
 <tbody>
 <tr>
@@ -190,7 +190,7 @@ The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, you
 Nominations may be received from any faculty member at IISc. We are delighted to welcome Dr. Balamuralikrishna, scientist at Defence Metallurgical Research Laboratory, as the first Aaronson fellow. 
 Bala works in the area of atom probe field ion microscopy and TEM and their application to microstructural evolution in Ni-based superalloys and steels.
 
-### <b>List of H I Aaronson Fellows:</b>
+### <b>List of Fellows:</b>
 <table>
 <tbody>
 <tr>
