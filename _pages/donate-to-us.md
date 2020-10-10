@@ -37,7 +37,7 @@ Chair, Department of Materials Engineering<br>
 Indian Institute of Science, Banagalore 560012, India<br>
 chair.mte_AT_materials.iisc.ac.in<br>
 
-### Contributions Received: Prof. K.P. Abraham memorial fund
+### Contributions Received
 
 As on February 20, 2016
 
