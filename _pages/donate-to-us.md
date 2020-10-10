@@ -283,7 +283,7 @@ Abinandanan TA
 
 HOW YOU CAN DONATE
 (Please send a copy of your transaction details to Materials Engineering
-(chairman_AT_materials.iisc.ernet.in) so that we can ensure proper crediting
+(chair.mte_AT_materials.iisc.ac.in) so that we can ensure proper crediting
 of the funds to the fund.)
 
 INDIA
