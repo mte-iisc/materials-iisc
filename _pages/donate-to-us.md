@@ -261,7 +261,7 @@ Light Materials Science & Technology (Conference)<br>
 Quasicrystals (Conference), Nano2006 (Conference)<br>
 Grant from Indian Institute of Science<br>
 
-### Renewed Appeal
+### Appeal
 
 Dear Friends,
 
