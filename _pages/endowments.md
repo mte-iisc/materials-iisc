@@ -190,7 +190,7 @@ The Hubert I. Aaronson Fellowship has been instituted to enable outstanding, you
 Nominations may be received from any faculty member at IISc. We are delighted to welcome Dr. Balamuralikrishna, scientist at Defence Metallurgical Research Laboratory, as the first Aaronson fellow. 
 Bala works in the area of atom probe field ion microscopy and TEM and their application to microstructural evolution in Ni-based superalloys and steels.
 
-### <b>List of Fellows:</b>
+### <b>List of Fellows</b>
 <table>
 <tbody>
 <tr>
@@ -227,7 +227,7 @@ Sri. K.V.Subba Rao, gave a donation of Rs.1,00,000/- in November 2002 and desire
 
 Accordingly, the Institute considered the request and a <b>Karra Narasimha Murthy Memorial Medal</b> was instituted. This medal will be awarded to the student for best M.Sc.(Engg) thesis.
 
-### <b>List of Awardees:</b>
+### <b>List of Awardees</b>
 <table>
 <tbody>
 <tr>
