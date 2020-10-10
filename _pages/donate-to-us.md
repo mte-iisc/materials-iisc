@@ -1,6 +1,6 @@
 ---
 title: "Support our Department"
-layout: archive
+layout: single
 #classes: wide
 permalink: /donate
 toc: true
