@@ -313,7 +313,7 @@ Click <a href="http://apps.irs.gov/app/eos/pub78Search.do?ein1=03-0602301&amp;na
 
 Manish, We always remember you….
 
-### He turned out to be the most likable guy I have ever met. – Sanjeev 
+He turned out to be the most likable guy I have ever met. – Sanjeev 
 
 " If I could recollect the exact day, it was July the 28th, 1989 that I first happened to meet this guy, Manish Narayan. It was my first day at I.I.Sc. We were supposed to assemble at the TATA INSTITUTE main lobby near the Main Entrance by 8.00 AM and I was late by about an hour. The hall was Jam-packed and the Chairman had completed his introductory speech by then. I felt nervous when a section of the audience turned back and starred at me for being late. The function was nearly getting over when I noticed a guy walking into the hall through the rear entrance. He immediately caught my attention. A typical Bangalorian guy, wearing a leather Jacket and a goggles. I had never been to bangalore before but had heard that most of the guys in Bangalore were typically a freak-out character.
 
@@ -333,7 +333,7 @@ Thinking back, I realize how I had mis-judged the guy who entered the hall (on m
 
 Sanjeev
 
-### He was one of the nicest persons I’ve ever known. – KKV 
+He was one of the nicest persons I’ve ever known. – KKV 
 
 "He was one of the nicest persons I've ever known. Cheerful and always willing to give a helping hand at any point in time, he had this uncanny knack of winning over people with his disarming smile and pleasant demeanour. We had some of the best times together - all those trips as a big, noisy group to Mercara (jampacked in a van!), then to Kemmangundi (where we slept in some decrepit bungalow) and later to Ooty which was so impulsive as we just decided to leave one Friday night. Manish, being the localite was always forced to be the organiser - and he sure did a great job. Then ofcourse all the day-to-day activities we shared : the numerous movies, dinners at C-mess, the gossip at PD-Block reading room - the list is endless. The hospitality he used to display at his Jayanagar residence, proved a haven for all those craving for some delicious home food. Surely, his parents did not deserve this cruel blow for being the sweetest people around."
 KKV
