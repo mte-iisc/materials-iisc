@@ -190,7 +190,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td> Anvesh Nathani</td><td></td><td>anveshn</td></tr>
 <tr><td> Arjun Kumar</td><td></td><td>arjunkumar</td></tr>
 <tr><td> Arkala Anuvrath</td><td></td><td>arkalaa</td></tr>
-<tr><td> Arnob Samui</td><td></td><td></td></tr>
+<tr><td> Arnob Samui</td><td></td><td>arnobsamui</td></tr>
 <tr><td> Chandan Rao K</td><td></td><td></td></tr>
 <tr><td> Cheathan G</td><td></td><td>cheathang</td></tr>
 <tr><td> Deepika Kumari Sahu</td><td></td><td>deepikaks</td></tr>
