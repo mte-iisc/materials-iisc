@@ -23,15 +23,15 @@ The department has just commenced the construction of a 4-storeyed building whic
 
 We invite alumni and well-wishers to contribute generously to the fund (Contributions received so far Rs.70.20 Lakhs, for details Click here). Cheques may be drawn in favour of Registrar, Indian Institute of Science – KP Abraham Memorial Fund. Donations from Indian citizens will attract Tax relief to the extent of 100% of the donation without limit under section  35(i)(ii) OR sec 80G(2)(a)(iiif). Wire transfer details are given below:
 
-Name of institution: Indian Institute of Science<br>
-Name of Bank: State Bank of India, IISc Branch, Bangalore 560012, India<br>
-Account Name: Registrar, Indian Institute of Science, Bangalore 560012<br>
-Account Number: 317 280 981 70<br>
-Swift Code: SBI NIN BB 425<br>
-MICR Code: 560002020<br>
-IFSC Code Number: SBIN 000 2215<br>
-IISc PAN Number: AAATI 1501 J<br>
-IISc TAN Number: BLRI 00710D<br>
+<b>Name of institution:</b> Indian Institute of Science<br>
+<b>Name of Bank:</b> State Bank of India, IISc Branch, Bangalore 560012, India<br>
+<b>Account Name:</b> Registrar, Indian Institute of Science, Bangalore 560012<br>
+<b>Account Number:</b> 317 280 981 70<br>
+<b>Swift Code:</b> SBI NIN BB 425<br>
+<b>MICR Code:</b> 560002020<br>
+<b>IFSC Code Number:</b> SBIN 000 2215<br>
+<b>IISc PAN Number:</b> AAATI 1501 J<br>
+<b>IISc TAN Number:</b> BLRI 00710D<br>
 
 Chair, Department of Materials Engineering<br>
 Indian Institute of Science, Banagalore 560012, India<br>
@@ -39,7 +39,7 @@ chair.mte_AT_materials.iisc.ac.in<br>
 
 ### Contributions Received
 
-As on February 20, 2016
+<u>As on February 20, 2016</u>
 
 The KPA appeal was formally approved in August 2012 and launched on January 16th, 2013, at the golden jubilee reunion of the 1962 batch with major contributions from students of the 62, 63 and 64 batches who had gathered on this occasion at the department.
 
@@ -289,19 +289,19 @@ of the funds to the fund.)
 INDIA
 Cheques payable to “The Registrar, IISc (Manish Narayan Memorial Award)” may be sent to The Chairman, Department of Materials Engineering, Indian Institute of Science, Bangalore 560012. Wire transfer details are given below:
 
-Name of institution: Indian Institute of Science<br>
-Name of Bank: State Bank of India, IISc Branch, Bangalore 560012, India<br>
-Account Name: Registrar, Indian Institute of Science, Bangalore 560012<br>
-Account Number: 317 280 981 70<br>
-Swift Code: SBI NIN BB 425<br>
-MICR Code: 560002020<br>
-IFSC Code Number: SBIN 000 2215<br>
-IISc PAN Number: AAATI 1501 J<br>
-IISc TAN Number: BLRI 00710D<br>
+<b>Name of institution:</b> Indian Institute of Science<br>
+<b>Name of Bank:</b> State Bank of India, IISc Branch, Bangalore 560012, India<br>
+<b>Account Name:</b> Registrar, Indian Institute of Science, Bangalore 560012<br>
+<b>Account Number:</b> 317 280 981 70<br>
+<b>Swift Code:</b> SBI NIN BB 425<br>
+<b>MICR Code:</b> 560002020<br>
+<b>IFSC Code Number:</b> SBIN 000 2215<br>
+<b>IISc PAN Number:</b> AAATI 1501 J<br>
+<b>IISc TAN Number:</b> BLRI 00710D<br>
 
 Donations from Indian citizens will attract Tax relief to the extent of 100% of the donation without limit under section  35(i)(ii) OR sec 80G(2)(a)(iiif).
 
-USA
+<b>USA</b>
 Donations in the US will attract tax relief if they are made to “IISc Alumni Association of North America (AANA)”, and sent to
 897 Independence Ave, 4 C, Mountain View, CA 94043 (please specify that it is to be sent to Chairman, Materials Engineering for the Manish Narayan Fund and send us a copy of your correspondence)
 
@@ -313,7 +313,7 @@ Click <a href="http://apps.irs.gov/app/eos/pub78Search.do?ein1=03-0602301&amp;na
 
 Manish, We always remember you….
 
-He turned out to be the most likable guy I have ever met. – Sanjeev 
+<u>He turned out to be the most likable guy I have ever met.</u> – Sanjeev 
 
 " If I could recollect the exact day, it was July the 28th, 1989 that I first happened to meet this guy, Manish Narayan. It was my first day at I.I.Sc. We were supposed to assemble at the TATA INSTITUTE main lobby near the Main Entrance by 8.00 AM and I was late by about an hour. The hall was Jam-packed and the Chairman had completed his introductory speech by then. I felt nervous when a section of the audience turned back and starred at me for being late. The function was nearly getting over when I noticed a guy walking into the hall through the rear entrance. He immediately caught my attention. A typical Bangalorian guy, wearing a leather Jacket and a goggles. I had never been to bangalore before but had heard that most of the guys in Bangalore were typically a freak-out character.
 
@@ -333,7 +333,7 @@ Thinking back, I realize how I had mis-judged the guy who entered the hall (on m
 
 Sanjeev
 
-He was one of the nicest persons I’ve ever known. – KKV 
+<u>He was one of the nicest persons I’ve ever known.</u> – KKV 
 
 "He was one of the nicest persons I've ever known. Cheerful and always willing to give a helping hand at any point in time, he had this uncanny knack of winning over people with his disarming smile and pleasant demeanour. We had some of the best times together - all those trips as a big, noisy group to Mercara (jampacked in a van!), then to Kemmangundi (where we slept in some decrepit bungalow) and later to Ooty which was so impulsive as we just decided to leave one Friday night. Manish, being the localite was always forced to be the organiser - and he sure did a great job. Then ofcourse all the day-to-day activities we shared : the numerous movies, dinners at C-mess, the gossip at PD-Block reading room - the list is endless. The hospitality he used to display at his Jayanagar residence, proved a haven for all those craving for some delicious home food. Surely, his parents did not deserve this cruel blow for being the sweetest people around."
 KKV
