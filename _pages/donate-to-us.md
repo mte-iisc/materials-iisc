@@ -11,7 +11,7 @@ toc_icon: calendar-alt
 
 ## K P Abraham Memorial Fund
 
-An Appeal to Alumni and well wishers
+<u>An Appeal to Alumni and well wishers</u>
 
 The Indian Institute of Science and the Department of Materials Engineering announce the launch of the KP Abraham Memorial Fund. We aim to generate a corpus of at least Rs. 2 crores that will serve the twin objectives of partially equipping laboratories in our new building and of endowing a visiting faculty chair.
 
