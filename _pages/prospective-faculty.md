@@ -34,7 +34,9 @@ In principle, all areas of experimental and computational materials science and 
 
 <b>Application process:</b> Please fill an online application form using the link: 
 https://www.iisc.ac.in/positions-open/
+
 <b>Other information:</b> Please visit the following sites for other relevant information:
 General Information for faculty candidates: https://yrm.iisc.ac.in/YRM-Questions-Answers-v5-July-29-2019.pdf
+
 <b>Information regarding campus life:</b> https://www.iisc.ac.in/about/faculty-corner/  
 
