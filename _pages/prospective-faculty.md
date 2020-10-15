@@ -21,6 +21,7 @@ IISc has a unique reputation of providing a vibrant academic atmosphere wherein 
 </ul>
 
 <b>Thrust areas</b>
+
 In principle, all areas of experimental and computational materials science and engineering are accommodated in the department. At present, the following areas will gain preference: 
 <ul>
 <li>Advanced and Sustainable Manufacturing, including Additive Manufacturing</li>
