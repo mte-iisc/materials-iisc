@@ -35,10 +35,13 @@ In principle, all areas of experimental and computational materials science and 
 <li>Electronic and magnetic materials</li>
 </ul>
 
-<b>Application process:</b> Please fill an online application form using the link: 
+<b>Application process:</b>
+
+Please fill an online application form using the link: 
 <a href="https://www.iisc.ac.in/positions-open/">https://www.iisc.ac.in/positions-open/</a>
 
-<b>Other information:</b> 
+<b>Other information:</b>
+
 Please visit the following sites for other relevant information.
 <ul>
 <li>General Information for faculty candidates: <a href="https://yrm.iisc.ac.in/YRM-Questions-Answers-v5-July-29-2019.pdf"> https://yrm.iisc.ac.in/YRM-Questions-Answers-v5-July-29-2019.pdf</a></li>
