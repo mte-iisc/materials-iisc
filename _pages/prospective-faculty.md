@@ -8,6 +8,7 @@ The Department of Materials Engineering at Indian Institute of Science (IISc), i
 
 
 <b>Why the Department of Materials Engineering at Indian Institute of Science?</b>
+
 The Department of Materials Engineering at IISc is 75 years old now (earlier known as Department of Metallurgy), and has a rich legacy of shaping research and teaching in the area of Materials Science and Engineering in India. It has contributed significantly to the growth of strategic sectors of national importance like atomic energy, space and defence. The faculty members are recipients of the most prestigious awards, and fellows of the national and international academies. The department has UG, Masters and PhD programs. The students admitted to the department are selected through a rigorous process and are among the best in the country. 
 
 The department hosts state of the art experimental and computational facilities for research. The department also cherishes its association with centres of excellence spread around the campus.  
