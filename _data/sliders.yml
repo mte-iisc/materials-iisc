@@ -3,13 +3,13 @@
   bullets: false
   captions: true
   images:
-    - src: /assets/images/slider/department.jpg
-      alt: Materials Engineering @ IISc
-    - src: /assets/images/slider/machining.jpg
-      alt: Machining thin metallic foils
+    - src: /assets/images/research/Picture1.png
+      alt: Physical Metallurgy and Alloy Development
+    - src: /assets/images/research/Picture4.png
+      alt: Polymers, Composites, and Biomaterials
       href: /materials-iisc/highlights
-    - src: /assets/images/slider/abhik-research-highlight.jpg
-      alt: Research Highlight
+    - src: /assets/images/research/Picture5.png
+      alt: Advanced Manufacturing, Process and Extractive Metallurgy
   settings:
     height: 450
     effect: "'fade'"
