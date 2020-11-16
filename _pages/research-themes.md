@@ -11,7 +11,7 @@ permalink: /themes
 One of our department's top research areas is understanding the properties of advanced metallic materials in-correlation to their structure from macro- to nano-scale, constituent phases, interfaces, and their compositions. The materials are for applications such as in sectors of aerospace, defense, transport, etc. These include high-temperature superalloys (Ni- and Co-based), lightweight alloys (Al-, Mg-, and Ti-base), solder alloys, high and medium entropy alloys, thermoelectric materials, ceramics, etc. 
 We do new material design by studying phase diagrams, thermo-mechanical and severe plastic deformation processing, evaluation of mechanical properties (tensile/compression, creep and fatigue), high-temperature oxidation and corrosion in aggressive environments, and advanced material characterization such as transmission electron microscopy (TEM) and atom probe tomography (APT) to explore the material constituents, corrosion and deformation behavior. 
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture1.png" width=820px>
+<img src="{{ site.baseurl }}/assets/images/research/Picture1.png" width=900px>
 
 ## Mechanical Behavior and Texture of Materials
 
@@ -21,7 +21,7 @@ We are currently running several programs on studying creep, creep-fatigue, ther
 
 We are also dedicated to research in the field of crystallographic texture. The domain extends from microstructural engineering to its influence on material properties. The materials processing component involves generic methods of deformation processing, including severe plastic deformation processes, like equal channel angular processing (ECAP), accumulative roll bonding (ARB), multi-axial forging (MAF), and high-pressure torsion (HPT). We study conventional thermo-mechanical processing with a modern approach. While our major strength is on the experimental side, we carry out crystal plasticity-based simulations to predict crystallographic textures and mechanical properties. The current research students are engaged in exploring processing-texture-properties relationships in titanium alloys, magnesium alloys, refractory metals and alloys, and shape memory alloys and steels. We employ various characterization tools like XRD, SEM-EBSD, TEM, mechanical testing, and computational tools for our research. Recently we have also started working on dielectric and thermoelectric materials to explore texture-property relationships.
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture2.png" width=820px>
+<img src="{{ site.baseurl }}/assets/images/research/Picture2.png" width=900px>
 
 ## Diffusion, Thin Film Coatings and Corrosion
 
@@ -29,7 +29,7 @@ We are also dedicated to research in the field of crystallographic texture. The 
 
 We work on different aspects of diffusion-controlled growth of the phases and microstructural evolution in complex multicomponent alloys and high-temperature thermal barrier bond coats. New experimental diffusion methods are being developed for high throughput combinatorial screening of alloy compositions to discover new materials with superior physical and mechanical properties. We do grain boundary engineering by incorporating graphene into metals to improve corrosion resistance. 
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture3.png" width=820px>
+<img src="{{ site.baseurl }}/assets/images/research/Picture3.png" width=900px>
 
 ## Polymers, Composites, and Biomaterials
 
@@ -39,7 +39,7 @@ We develop multiphase polymer microstructures by melt flow processes and in unde
 
 Additionally, we develop non-vector, nano-silica based systems for delivering drugs for treating HIV infection. We synthesis carbon quantum dots from waste material and their application in imaging cells. 
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture4.png" width=820px>
+<img src="{{ site.baseurl }}/assets/images/research/Picture4.png" width=900px>
 
 ## Advanced Manufacturing, Process and Extractive Metallurgy
 
@@ -49,7 +49,7 @@ We are also into the additive manufacturing of materials for several application
 
 We also focus on problems (both industrial and fundamental) pertaining to the field of process metallurgy. We are actively engaged in various inter-disciplinary research areas like fluid flow modelling in packed beds, the flow of granular materials, CO2 sequestration, spray deposition of molten metal, salt-extraction process, manufacturing of Boron Carbide and Silicon Carbide, etc.
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture5.png" width=820px>
+<img src="{{ site.baseurl }}/assets/images/research/Picture5.png" width=900px>
 
 ## Functional Materials (Ferroelectrics, Magnetic, Electronic, and Energy Materials)
 
@@ -57,7 +57,7 @@ We also focus on problems (both industrial and fundamental) pertaining to the fi
 
 We also work on ferroelectric and piezoelectric materials, relaxor ferroelectrics, magnetic materials, multiferroic materials, and structure-property relationships. We design, synthesize and characterize bandgap engineering molecules for organic electronics applications such as photovoltaics, field-effect transistors (FET), sensors, and EMI. We also use unconventional electrochemistry to control the electronic properties of inorganic semiconductors. Our expertise lies in solution processing/ printing of different metallic (pure metal, transparent conductors), semiconducting (oxides, carbon-based, 2D semiconductors, etc.), and insulator inks (CSPEs, SANDs) towards the fabrication of various functional devices, with a primary emphasis on field-effect devices. Optimization of material composition, printing parameters, curing routines, and device geometry is performed regularly in order to obtain augmented static/high-frequency performance at a device, as well as at the circuit level. We design and fabricate molecules for sensors to detect heavy metal (Cr and Pb) ions and nitrate.
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture6.png" width=820px>
+<img src="{{ site.baseurl }}/assets/images/research/Picture6.png" width=900px>
 
 ## Solidification, Thermodynamics, and Computational Materials
 
@@ -65,4 +65,4 @@ We also work on ferroelectric and piezoelectric materials, relaxor ferroelectric
 
 We study pattern formation in self-organizing systems during phase transformations such as solidification, electrochemical reactions, and other transformations with elastic and magneto-elastic couplings. We develop quantitative phase-field models for different phenomena and integrate them. We model microstructural evolution during diffusional phase transformations and investigate the stress effects on microstructures in coherent solid systems and transformations that yield three-phase microstructures in ternary alloys. We also explore the role of structural defects (in particular, grain boundaries) during precipitation and spinodal decomposition and solidification of binary and ternary alloys. We also apply the principles of computational materials science, ab initio thermodynamics, electronic structure, kinetics, electrochemistry, and plasticity for new materials design and discovery for high temperatures alloys, energy storage (beyond Li-ion systems) and energy harvesting (photovoltaics and thermochemical water-splitting) applications.
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture7.png" width=820px>
+<img src="{{ site.baseurl }}/assets/images/research/Picture7.png" width=900px>
