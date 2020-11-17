@@ -153,12 +153,12 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 <p><strong>Soon DSC will be upgraded with...</strong></p>
 <p><strong>Temperature-modulated DSC techniques (TMDSC) </strong>are widely used in thermal analysis to separate overlapping temperature-dependent and time-dependent thermal effects. Methods used up until now have overlaid the isothermal temperature or heating ramp with a (usually) sinusoidal temperature modulation of just one frequency (single frequency method).</p>
 <p><strong>Auto-Sampler Robot (for 32 No. of tests) and a LN 2 &#8211; Dewar capacity 240litre</strong></p>
-<p><strong><em>Independent users (Mettler DSC):</em></strong></p>
+<p><strong>Independent users (Mettler DSC):</strong></p>
 <ul>
-<li><strong><em>Suresh(Satyam Suwas) (authorised to train others)</em></strong></li>
-<li><strong><em>Soumitra Roy(Aloke Paul)</em></strong></li>
-<li><strong><em>Eswar Prasad(U. Ramamurty)</em></strong></li>
-<li><strong><em>Kiritiman(K.Chattopadhyay)</em></strong></li>
+<li><strong>Suresh(Satyam Suwas) (authorised to train others)</strong></li>
+<li><strong>Soumitra Roy (Aloke Paul)</strong></li>
+<li><strong>Eswar Prasad (U. Ramamurty)</strong></li>
+<li><strong>Kiritiman (K.Chattopadhyay)</strong></li>
 <li><strong>Ranjit(Praveen Ramamurthy)</strong></li>
 </ul>
 
@@ -192,7 +192,7 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 </ul>
 
 ### DT/TGA
-Description
+Content coming soon.
 
 
 ## Mechanical testing
@@ -524,10 +524,12 @@ High load: 10 mN-1 N</td>
 <p>The department also has facilities for <a href="http://localhost/webmet?page_id=999">Instrumented Indentation</a>, <a href="http://localhost/webmet?page_id=988">Dynamic Mechanical Analysis (DMA)</a> and <a href="http://localhost/webmet?page_id=1016">Thin Film Stress measurement</a>.</p>
 
 ## Materials Processing
-**Solid state processing**
+**Solid state processing**<br>
+Content coming soon.
 <br>
 <br>
-**Liquid state processing**
+**Liquid state processing**<br>
+Content coming soon.
 
 
 ## Particle characterization
@@ -875,6 +877,7 @@ High load: 10 mN-1 N</td>
 </table>
 
 ## Electrical behaviour
+Content coming soon.
 
 ## Heat treatment
 **Hot air ovens**
@@ -902,7 +905,7 @@ For temperature precision to better than 5 deg. C, you need to take additional s
 
 
 ## Computation
-**List of clusters available**
+The department has several computing clusters available, with contributions from the groups of Prof. T. A. Abinandanan, Prof. S. Karthikeyan, Prof. Abhik Choudhury, and Prof. Sai Gautam Gopalakrishnan. All computing clusters are located in a centralised facility in the E-wing of the department.
 
 
 

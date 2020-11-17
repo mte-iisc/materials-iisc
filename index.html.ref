@@ -1,0 +1,74 @@
+---
+layout: splash
+author_profile: true
+#header:
+# image: /assets/images/banner.jpg
+image_sliders:
+ - slider1
+#sidebar:
+# nav: sidelinks
+#toc: true
+author_profile: false
+feature_row:
+  - image_path: /assets/images/home-page-features/research_home.png
+    image_caption: "Stem cells on 3D printed polymer scaffold"
+    alt: "research-image"
+    title: "Research"
+    excerpt: "Our department works on all facets of materials science, including theoretical, experimental, and computational."
+    url: "/highlights"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/home-page-features/symposium_home.png
+    image_caption: "Faculty and students"
+    alt: "people-image"
+    title: "People"
+    excerpt: "We have a vibrant set of faculty members, students, and research scholars who are ably supported by our staff."
+    url: "/faculty"
+    btn_label: "Know"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/home-page-features/openday2020.png
+    image_caption: "Open day 2020"
+    alt: "engage-image"
+    title: "Engage"
+    excerpt: "Want to participate in departmental activities? Want to join us as a student or a faculty? Want to support our research?"
+    url: "/activities"
+    btn_label: "Connect"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/home-page-features/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/home-page-features/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/home-page-features/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+
+
+<a class="twitter-timeline" data-height="450" data-theme="dark" href="https://twitter.com/goths19?ref_src=twsrc%5Etfw">Tweets by goths19</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

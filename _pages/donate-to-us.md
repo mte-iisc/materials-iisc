@@ -9,9 +9,9 @@ toc_label: Support us
 toc_icon: calendar-alt
 ---
 
-## K P Abraham Memorial Fund
+## K. P. Abraham Memorial Fund
 
-<u>An Appeal to Alumni and well wishers</u>
+### Appeal
 
 The Indian Institute of Science and the Department of Materials Engineering announce the launch of the KP Abraham Memorial Fund. We aim to generate a corpus of at least Rs. 2 crores that will serve the twin objectives of partially equipping laboratories in our new building and of endowing a visiting faculty chair.
 
@@ -110,157 +110,6 @@ ICMR-2016 conference<br>
 M/s Icon Analytical<br>
 
 ## Manish Narayan Memorial Endowment Fund
-
-<b>History</b><br>
-
-Manish Memorial Endowment Fund was initiated in the name of Mr. Manish Narayan with the objective of providing a young research scholar from the Department of Materials Engineering (formerly Metallurgy), IISc, international research exposure by supporting him/her to attend an international conference for presenting a paper.
-
-Manish Narayan was an M.E (I) student from the Department of Metallurgy, IISc, between 1989 – 1993. His field of interest was Composites and he did his final ME project with Prof M.K. Surappa. After his graduation he had a short stint with Titan Industries, where he worked on the ‘Tanishq’ range of jewellery watches. He then went to pursue a Doctorate in NJIT & later on shifted to Lehigh. His promising academic career came to an end, when he passed away in a tragic car accident at Tennessee, USA on July 29th 1996 on his way back from Atlanta Olympics.
-
-In the IT / communication era, with monetarily attractive software jobs all around, there were not even 15% graduates from the Department of Metallurgy who went on to pursue their career in Metallurgy. But Manish was one among those 15%.
-
-Many of his batchmates came together to institute a fund in his name at the Department of Metallurgy, IISc, to cherish his memory and also to promote a strong research culture among students working in this area.
-
-All students of the Department of Metallurgy are encouraged to apply for this award.
-
-### Selection Procedure
-
-The award is open to all academic students of the Department of Materials Engineering.
-The canditate should have the paper authored or co-authored by him/her accepted in a  conference / workshop / symposium / seminar.  Preference is to be given to international events.<br>
-
-Selection Criteria: The following criteria may be followed for the selection – Merit, Standard of the conference and Need.
-The amount of the standard award is decided by the Department from time to time. At present it stands at a maximum of Rs. 25,000. The award can be shared by more than one person, in which case, the amount of the award may be decided by the selecting authority.
-A student is normally eligible to receive this award only once during their tenure at IISc.
-
-### List of Awardees
-2015<br>
-Mr. Biswaranjan Dash (KS)<br>
-Mr. Chandra Shekhar P<br>
-Ms. Divyasaree C. Prabhakaran (SS)<br>
-Ms. Priyanka Kantibhai Agrawal (DB)<br>
-Mr. Rajeev J Mudakavi (AMR)<br>
-Ms. Rani Rohini<br>
-Mr. Rajib Kalsar<br>
-Mr. Shanoob B (DB)<br>
-Mr. Subham Mridha (KS)<br>
-
-2014<br>
-Mr. Atanu Chaudhuri (SSU)<br>
-Ms. Khadija Kanwal Khanum (PCR)<br>
-Ms. Kiruthika P (AP)<br>
-Ms. Priti Xavier (SSB)<br>
-Ms. Sangeeta Santra P (AP)<br>
-Mr. Saravanan S (PCR)<br>
-Mr Sri Raghunath Joshi (KS)<br>
-Mr. K.S. Vinay (DB)<br>
-
-2013<br>
-Mr. K. Ajay Kumar (RRN)<br>
-Mr. Arun Dhumal Rao (RRN)<br>
-Ms. Ashwini N Mallya (PCR)<br>
-Mr. Chandra Sekhar Tiwary (KC)<br>
-Ms. V. Kothai (RRN)<br>
-Ms. Krishna R (AMR)<br>
-Mr. G.R. Krishna Yaddanapudi (DB)<br>
-Mr. Midhun Ben Thomas (AMR)<br>
-Mr. Rajasegaran E (AMR)<br>
-Mr. Rajendra Kurapati (AMR)<br>
-Mr. Soumitra Roy (KS)<br>
-Ms. Soumya S. Bhat (URM)<br>
-
-2012<br>
-Mr. Badari Narayana Aroor Rao (RRN)<br>
-Mr. Gaurav Singh (URM)<br>
-Mr. G. Hariprasad (AHC)<br>
-Mr. Kirtiman Deo Malviya (KC)<br>
-Ms. Nagamani Jaya B (VJ)<br>
-Mr. Rajesh Korla (AHC)<br>
-Mr. Ranjith K (PCR)<br>
-Mr. Satyajit Gupta (PCR)<br>
-Mr. Shailesh Kumar Singh (KC)<br>
-Mr. Shyam Kanta Sinha (KC)<br>
-Mr. Surendra Kumar. M (KC)<br>
-Mr. Venkata Vamsi Koruprolu (KS)<br>
-
-2011<br>
-Mr. S. Anandhakumar (AMR)<br>
-Mr. R. Lakshmi Narayan (URM)<br>
-Ms. Maya Kini K (AHC)<br>
-Mr. Olu Emmanuel Femi (KC)<br>
-Mr. Praveena M (VJ)<br>
-Mr. Shibayan Roy (SSU)<br>
-Mrs. Sudha J. (SK)<br>
-
-2010<br>
-Mr. Korimilli Eswara Prasad (URM)<br>
-Mr. Madhavan Radhakrishnan (SSU)<br>
-Ms. Soma Prasad (AP)<br>
-Mr. Soupitak Pal (VJ)<br>
-
-2009<br>
-Mr. Arindam Paul, (VJ)<br>
-Ms. Divya V.D (AP,URM)<br>
-Mr. Rajdip Mukherjee (TAA)<br>
-
-2007<br>
-Ms. Indrani Sen (URM)<br>
-Mr. Santonu Ghosh (AHC)<br>
-
-2006<br>
-Mr. Debdutt  Patro<br>
-
-2005<br>
-Ms. Aditi Datta<br>
-Mr. M.P Gururajan<br>
-Ms. Krishani Biswas<br>
-Mr. Murali P<br>
-Mr. Partha Patra<br>
-Mr. L. Saravanan<br>
-Mr. Saswata Bhattacharyya<br>
-
-2004<br>
-Mr. Sibasis Acharya<br>
-Ms. Tripti Biswas<br>
-
-2003<br>
-Mr. Ravisankar Kottada<br>
-Mr. Rejin Raghavan<br>
-Mr. Satya Swaroop<br>
-
-2002<br>
-Mr. Ramanarayan<br>
-Ms. Victoria Bhattacharya<br>
-
-2000<br>
-Ms. T.V. Anuradha<br>
-Mr. M.P Gururajan<br>
-Mr. B. Sudheer<br>
-Ms. Victoria Bhattacharya<br>
-
-### Donors
-
-Anuradha, Ashok Kumar Ray<br>
-Balaji Viswanathan, S.Baranidharan, Bhanu Prasad<br>
-Deepa Srinivasan, M.Divakar<br>
-B.Ganesh, George K., Gopal Hariharan<br>
-Harsha<br>
-Jaydeep Sarkar, T.Jayaprakash (JP), Jayashree, Joe Michael<br>
-K.Krishna (KK)<br>
-Lakshmi, Lakshmi Narasimhan, V.Laxminarayan<br>
-Matheswaran Marudachalam, M.Matheswaran, N.K.Mukhopadhyay, R.Mukundan (Mukku), Murali (PC)<br>
-P.Nagarajan, Nagendra Nagabhushana, Narayanaswamy<br>
-Pavan Kumar Sharma<br>
-S.Raghunath, Rajkumar Rammohan, V.K.Raju, S.Ramanathan, Rao Tummala, C.S.Ravi, S.Ravi (S), V.A.Ravi<br>
-Sanjai, Sanjeev, Sankaranarayanan Balasubramanian, A.Saravanan, Shankaraman, Sheikh Manjura Hoque, V.Shivakumar, Srikant Gollapudi, B.Srinivasan, V.Srinivasan (Karupu), V.Srinivasan (olli), Srinivasa Rao Boddapti, Sudhir, Sudiptha Pramanik<br>
-Thyagarajan<br>
-Ch.Udaya Bhaskar<br>
-K.K.Venkataraman (KKV), V.Vijayalakshmi<br>
-ICMR-2016 (Conference), Design 2007 (Conference)<br>
-Perspectives in Physical Metallurgy and Materials Science (Conference)<br>
-Light Materials Science & Technology (Conference)<br>
-Quasicrystals (Conference), Nano2006 (Conference)<br>
-Grant from Indian Institute of Science<br>
-
 ### Appeal
 
 Dear Friends,
@@ -279,7 +128,7 @@ Do not hesitate to write if you need any more information.
 
 With best wishes from all of us here at Materials Engineering,
 Yours sincerely,
-Abinandanan TA
+Chair of Materials Engineering
 
 HOW YOU CAN DONATE
 (Please send a copy of your transaction details to Materials Engineering
@@ -305,11 +154,36 @@ Donations from Indian citizens will attract Tax relief to the extent of 100% of 
 Donations in the US will attract tax relief if they are made to “IISc Alumni Association of North America (AANA)”, and sent to
 897 Independence Ave, 4 C, Mountain View, CA 94043 (please specify that it is to be sent to Chairman, Materials Engineering for the Manish Narayan Fund and send us a copy of your correspondence)
 
-IISc AANA is a Tax-exempt organization and is a Public Benefit not-profit organization with 501(c) status. Address: 897 Independence Ave, 4 C, Mountain View, CA 94043. You can get more details about IISc AANA from the web site <a href="http://www.iiscaana.org">www.iiscaana.org</a>
+IISc AANA is a Tax-exempt organization and is a Public Benefit not-profit organization with 501(c) status. Address: 897 Independence Ave, 4 C, Mountain View, CA 94043. You can get more details about IISc AANA from the web site <a href="http://www.iiscaana.org" target="_blank">www.iiscaana.org</a>
 
-Click <a href="http://apps.irs.gov/app/eos/pub78Search.do?ein1=03-0602301&amp;names=Indian+Institute+of+Science+Alumni+Assocation+of+North+America&amp;city=Mountain+View&amp;state=CA&amp;country=US&amp;deductibility=all&amp;dispatchMethod=searchCharities&amp;submitName=Search">this</a> link to verify Tax-Exempt Status.
+Click <a href="http://apps.irs.gov/app/eos/pub78Search.do?ein1=03-0602301&amp;names=Indian+Institute+of+Science+Alumni+Assocation+of+North+America&amp;city=Mountain+View&amp;state=CA&amp;country=US&amp;deductibility=all&amp;dispatchMethod=searchCharities&amp;submitName=Search" target="_blank">this</a> link to verify Tax-Exempt Status.
 
-### What others say about Manish?
+
+### Donors
+
+Anuradha, Ashok Kumar Ray<br>
+Balaji Viswanathan, S.Baranidharan, Bhanu Prasad<br>
+Deepa Srinivasan, M.Divakar<br>
+B.Ganesh, George K., Gopal Hariharan<br>
+Harsha<br>
+Jaydeep Sarkar, T.Jayaprakash (JP), Jayashree, Joe Michael<br>
+K.Krishna (KK)<br>
+Lakshmi, Lakshmi Narasimhan, V.Laxminarayan<br>
+Matheswaran Marudachalam, M.Matheswaran, N.K.Mukhopadhyay, R.Mukundan (Mukku), Murali (PC)<br>
+P.Nagarajan, Nagendra Nagabhushana, Narayanaswamy<br>
+Pavan Kumar Sharma<br>
+S.Raghunath, Rajkumar Rammohan, V.K.Raju, S.Ramanathan, Rao Tummala, C.S.Ravi, S.Ravi (S), V.A.Ravi<br>
+Sanjai, Sanjeev, Sankaranarayanan Balasubramanian, A.Saravanan, Shankaraman, Sheikh Manjura Hoque, V.Shivakumar, Srikant Gollapudi, B.Srinivasan, V.Srinivasan (Karupu), V.Srinivasan (olli), Srinivasa Rao Boddapti, Sudhir, Sudiptha Pramanik<br>
+Thyagarajan<br>
+Ch.Udaya Bhaskar<br>
+K.K.Venkataraman (KKV), V.Vijayalakshmi<br>
+ICMR-2016 (Conference), Design 2007 (Conference)<br>
+Perspectives in Physical Metallurgy and Materials Science (Conference)<br>
+Light Materials Science & Technology (Conference)<br>
+Quasicrystals (Conference), Nano2006 (Conference)<br>
+Grant from Indian Institute of Science<br>
+
+### Snippets about Manish
 
 Manish, We always remember you….
 
