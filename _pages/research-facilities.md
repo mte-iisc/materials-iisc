@@ -153,14 +153,7 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 <p><strong>Soon DSC will be upgraded with...</strong></p>
 <p><strong>Temperature-modulated DSC techniques (TMDSC) </strong>are widely used in thermal analysis to separate overlapping temperature-dependent and time-dependent thermal effects. Methods used up until now have overlaid the isothermal temperature or heating ramp with a (usually) sinusoidal temperature modulation of just one frequency (single frequency method).</p>
 <p><strong>Auto-Sampler Robot (for 32 No. of tests) and a LN 2 &#8211; Dewar capacity 240litre</strong></p>
-<p><strong>Independent users (Mettler DSC):</strong></p>
-<ul>
-<li><strong>Suresh(Satyam Suwas) (authorised to train others)</strong></li>
-<li><strong>Soumitra Roy (Aloke Paul)</strong></li>
-<li><strong>Eswar Prasad (U. Ramamurty)</strong></li>
-<li><strong>Kiritiman (K.Chattopadhyay)</strong></li>
-<li><strong>Ranjit(Praveen Ramamurthy)</strong></li>
-</ul>
+
 
 <p><strong> 2. </strong>The <strong>NETZSCH </strong>STA 409 runs under <strong>PROTEUS </strong>Software for simultaneous TG-DSC or simultaneous TG-DTA measurements. The TG sample carriers exchanged with TG-DSC or TG-DTA modes operation with top-loaded samples ensure total protection of the balance, which is on the bottom and through accurate flow of the purge and protective gases</p>
 <p><strong>Specifications:</strong></p>
