@@ -1,5 +1,5 @@
 ---
-title: "Atoms planes for APT"
+title: "Atoms resolved by APT in 100 cubic planes"
 header:
  image: /assets/images/research/atoms.jpg
  teaser: /assets/images/research/atoms.jpg
