@@ -5,5 +5,5 @@ header:
  teaser: /assets/images/research/atoms.jpg
 permalink: /highlights/atom-planes-apt
 ---
-Atoms on specific planes for APT.
+Atoms resolved by APT in 100 cubic planes.
 Detailed description coming soon.
