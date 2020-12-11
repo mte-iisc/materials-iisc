@@ -49,7 +49,7 @@ classes: wide
 
 <br>
 
-# Emeritus and Honorary Faculty
+# Emeritus Faculty
 
 | --------         | ------    | ------------------------------------------------------------ |
 | <img src="{{ site.baseurl }}/assets/images/faculty/kamanio.png" width=120px>    |  Kamanio Chattopadhyay <br> Emeritus Professor <br> kamanio[at]iisc[dot]ac[dot]in <br> +91 80 2293 2262 <br> <a href="https://sites.google.com/view/kamaniochattopadhyay/" target="_blank">Group Website</a>    | Co-based superalloys <br> High-temperature corrosion <br> Light alloys <br> Energy materials <br> Thermoelectric materials                |
