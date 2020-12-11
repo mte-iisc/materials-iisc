@@ -23,8 +23,8 @@ var store = [{
         "url": "https://mte-iisc.github.io/materials-iisc/highlights/inverse-blech-length",
         "teaser": "https://mte-iisc.github.io/materials-iisc/assets/images/research/thinfilm.jpg"
       },{
-        "title": "Atoms planes for APT",
-        "excerpt":"Atoms on specific planes for APT. Detailed description coming soon.  ","categories": [],
+        "title": "Atoms resolved by APT in 100 cubic planes",
+        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
         "tags": [],
         "url": "https://mte-iisc.github.io/materials-iisc/highlights/atom-planes-apt",
         "teaser": "https://mte-iisc.github.io/materials-iisc/assets/images/research/atoms.jpg"

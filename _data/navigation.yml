@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Us"
-    url: /vision
+    url: /history
   - title: "News"
     url: /news
   - title: "Events"
@@ -11,8 +11,6 @@ main:
 sidelinks:
   - title: "About Us"
     children:
-            - title: "Vision"
-              url: /vision
             - title: "History"
               url: /history
   - title: "Research"
