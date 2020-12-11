@@ -15,7 +15,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Aman Kabra</td><td>Dipankar Banerjee & Vikram Jayaram</td><td>amankabra</td></tr>
+<tr><td>Ajisafe Victor Ayobami (International)</td><td>Ashok M Raichur</td><td>ajisafea</td></tr>
 <tr><td>Apoorva Singh</td><td>Praveen C Ramamurthy</td><td>apoorvasingh</td></tr>
 <tr><td>Ayush Badaya</td><td>Govind S Gupta</td><td>ayushbadaya</td></tr>
 <tr><td>Divya Nalajala</td><td>Abhik N Choudhury</td><td>divyan</td></tr>
@@ -24,16 +24,17 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Naveen Negi</td><td>Rajeev Ranjan</td><td>negin</td></tr>
 <tr><td>Parasuram S.</td><td>Suryasarathi Bose & Subodh Kumar</td><td>parasurams</td></tr>
 <tr><td>Reshma Devi P.</td><td>Sai Gautam Gopalakrishnan</td><td>reshmadevi</td></tr>
-<tr><td>Rishaba Soni</td><td>Kaushik Chatterjee</td><td>rishabhsoni</td></tr>
+<tr><td>Rishabh Soni</td><td>Kaushik Chatterjee</td><td>rishabhsoni</td></tr>
+<tr><td>Saurabh Kumar Gupta</td><td>Satyam Suwas & Kaushik Chatterjee</td><td>saurabhkg</td></tr>
 <tr><td>Shashwat Kumar Mishra</td><td>Praveen Kumar</td><td>shashwatk</td></tr>
+<tr><td>Sudeepta Mukherjee (PMRF)</td><td>Satyam Suwas</td><td>sudeeptam</td></tr>
 <tr><td>Suman Sadhu</td><td>Aloke Paul</td><td>sumansadhu</td></tr>
 <tr><td>Sumit Katiyar</td><td>Vikram Jayaram</td><td>sumitkatiyar</td></tr>
 <tr><td>Sumit Kumar Gahlyan (ERP)</td><td>Satyam Suwas</td><td>sumitkg</td></tr>
 <tr><td>Sunando Banerjee</td><td>Chandan Srivastava</td><td>sunandob</td></tr>
 <tr><td>Rishi Raj</td><td>Subodh Kumar</td><td></td></tr>
 <tr><td>Bhure Swapnil Shadanan</td><td>Abhik N. Choudhury</td><td>swapnilbhure</td></tr>
-<tr><td>Abhijeet Anand</td><td>Subodh Kumar</td><td>abhijeetanan</td></tr>
-<tr><td>Srilekshmi M.</td><td>Govind S. Gupta</td><td>srilekshmim</td></tr>
+<tr><td>Srilekshmi M.</td><td>Surendra Kumar Makineni</td><td>srilekshmim</td></tr>
 <tr><td>Hemant Kumar</td><td>Surendra Kumar M.</td><td>hemantkumar12</td></tr>
 <tr><td>Gugulothu Sriram Bharath</td><td>Kaushik Chatterjee</td><td>bharathg</td></tr>
 </tbody>
