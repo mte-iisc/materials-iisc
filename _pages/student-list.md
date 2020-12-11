@@ -15,7 +15,6 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Ajisafe Victor Ayobami (International)</td><td>Ashok M Raichur</td><td>ajisafea</td></tr>
 <tr><td>Apoorva Singh</td><td>Praveen C Ramamurthy</td><td>apoorvasingh</td></tr>
 <tr><td>Ayush Badaya</td><td>Govind S Gupta</td><td>ayushbadaya</td></tr>
 <tr><td>Divya Nalajala</td><td>Abhik N Choudhury</td><td>divyan</td></tr>
@@ -25,7 +24,6 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Parasuram S.</td><td>Suryasarathi Bose & Subodh Kumar</td><td>parasurams</td></tr>
 <tr><td>Reshma Devi P.</td><td>Sai Gautam Gopalakrishnan</td><td>reshmadevi</td></tr>
 <tr><td>Rishabh Soni</td><td>Kaushik Chatterjee</td><td>rishabhsoni</td></tr>
-<tr><td>Saurabh Kumar Gupta</td><td>Satyam Suwas & Kaushik Chatterjee</td><td>saurabhkg</td></tr>
 <tr><td>Shashwat Kumar Mishra</td><td>Praveen Kumar</td><td>shashwatk</td></tr>
 <tr><td>Sudeepta Mukherjee (PMRF)</td><td>Satyam Suwas</td><td>sudeeptam</td></tr>
 <tr><td>Suman Sadhu</td><td>Aloke Paul</td><td>sumansadhu</td></tr>
@@ -82,16 +80,15 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Madhavi Tripathi </td><td> 	Ashok M Raichur</td><td>madhavit</td></tr>
 <tr><td>Sandeep Kumar Mondal</td><td>	Subho Dasgupta</td><td>sandeepkm</td></tr>
 <tr><td>Sushma I</td><td>	Kaushik Chatterjee</td><td>sushmakumari</td></tr>
-<tr><td>Saurabh Kumar Gupta </td><td>	Satyam Suwas</td><td>saurabhkg</td></tr>
+<tr><td>Saurabh Kumar Gupta</td><td>Satyam Suwas & Kaushik Chatterjee</td><td>saurabhkg</td></tr>
 <tr><td>Faizan Hijazi </td><td>Praveen Kumar</td><td>faizanh</td></tr>
 <tr><td>Telpande Swanand Prashant</td><td>Praveen Kumar</td><td>swanandt</td></tr>
 <tr><td>Ram Prakash Singh</td><td>Rajeev Ranjan</td><td>rams</td></tr>
-<tr><td>Ajisafe Victor Ayobami International</td><td>Ashok M Raichur </td><td>ajisafea</td></tr>
-<tr><td>Raj Jung Mahat  International (MSc)</td><td>	Praveen Kumar </td><td>rajmahat</td></tr>
+<tr><td>Ajisafe Victor Ayobami (International)</td><td>Ashok M Raichur</td><td>ajisafea</td></tr>
 <tr><td>Aashranth (ERP)</td><td>	Satyam Suwas </td><td>aashranthb</td></tr>
 <tr><td>Nair Jitin Satyakumar </td><td>	T.A. Abinandanan</td><td>jitins</td></tr>
 <tr><td>Kompella Sai Jyotheender </td><td>	Chandan Srivastava</td><td>kompellaj</td></tr>
-<tr><td>Anuj Dash (GN)</td><td> 	T.A. Abinandanan</td><td>anujdash</td></tr>
+<tr><td>Anuj Dash (GN)</td><td>Aloke Paul</td><td>anujdash</td></tr>
 <tr><td>Gadi Venkat Arunchatanya </td><td>	Govind S Gupta </td><td>gadia</td></tr>
 <tr><td>Jyoti Ranjan Pradhan</td><td> 	Subho Dasgupta</td><td>jyotipradhan</td></tr>
 <tr><td>Sandeep B.S </td><td>	Praveen C Ramamurthy </td><td>ssandeep</td></tr>
@@ -176,6 +173,15 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Sonawane Dipali Shivaji</td><td>Praveen Kumar</td><td>dipalis</td></tr>
 <tr><td>Krishna Kamlesh Verma</td><td>Subodh Kumar</td><td>krishnakv</td></tr>
 <tr><td>Syed Idrees Afzal Jalali</td><td>Vikram Jayaram</td><td>syedjalali</td></tr>
+</tbody>
+</table>
+
+## M.Sc(Engg.) Students
+### 2020
+<table>
+<tbody>
+<tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>Raj Jung Mahat (International)</td><td>Praveen Kumar</td><td>rajmahat</td></tr>
 </tbody>
 </table>
 
