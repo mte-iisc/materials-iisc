@@ -10,8 +10,8 @@ E-307, Department of Materials Engineering<br>
 Indian Institute of Science<br>
 Bangalore-560012, INDIA<br>
 
-Tel: +91-80-2293 3235<br>
-email: abhiknc_at_iisc.ac.in<br>
+Tel: +91-80-2293 3244<br>
+email: rravi_at_iisc.ac.in<br>
 
 ## Research Interests
 <p><u>Diffusion related studies</u></p>
@@ -26,7 +26,7 @@ email: abhiknc_at_iisc.ac.in<br>
 <li>Au(Cu)-Sn</li>
 <li>Cu(Ni)-Sn</li>
 </ul>
-<p>Effect of electric current on whiskering in Tin and on IMC growth.</p>
+<p><u>Effect of electric current on whiskering in Tin and on IMC growth.</u></p>
 
 ## Publications
 <ol reversed="">
