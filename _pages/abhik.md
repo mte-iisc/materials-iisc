@@ -4,7 +4,6 @@ layout: archive
 classes: wide
 permalink: /faculty/abhik
 ---
-<img src="<path-to-abhik's photo if needed>">
 
 Associate Professor
 E-313, Department of Materials Engineering
