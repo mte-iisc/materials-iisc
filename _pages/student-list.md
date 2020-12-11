@@ -177,7 +177,7 @@ List of students on this page sorted in reverse chronology and according to the 
 </table>
 
 ## M.Sc(Engg.) Students
-### 2020
+### 2018
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
