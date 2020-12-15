@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Us"
-    url: /history.html
+    url: /history
   - title: "News"
     url: /news
   - title: "Events"

@@ -1,7 +1,7 @@
 ---
 title: "Faculty"
 layout: single
-permalink: /faculty.html
+permalink: /faculty
 classes: wide
 ---
 
