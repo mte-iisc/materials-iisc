@@ -1,1 +1,1 @@
-Sitemap: https://mte-iisc.github.io/materials-iisc/sitemap.xml
+Sitemap: https://mte-iisc.github.io/sitemap.xml
