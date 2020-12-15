@@ -16,7 +16,7 @@ sidelinks:
   - title: "Research"
     children:
             - title: "Highlights"
-              url: /highlights
+              url: /highlights-list
             - title: "Themes"
               url: /themes
             - title: "Facilities"
