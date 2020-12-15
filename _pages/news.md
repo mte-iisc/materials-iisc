@@ -1,7 +1,7 @@
 ---
 title: News
 layout: collection
-permalink: /news
+permalink: /news-list
 collection: news
 entries_layout: list
 classes: wide

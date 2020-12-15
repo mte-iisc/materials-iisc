@@ -3,9 +3,9 @@ main:
   - title: "About Us"
     url: /history
   - title: "News"
-    url: /news
+    url: /news-list
   - title: "Events"
-    url: /events
+    url: /events-list
   - title: "Courses"
     url: /courses
 sidelinks:
@@ -24,7 +24,7 @@ sidelinks:
   - title: "People"
     children:
             - title: "Faculty"
-              url: /faculty
+              url: /faculty-list
             - title: "Students"
               url: /students
             - title: "Staff"

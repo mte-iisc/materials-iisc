@@ -1,7 +1,7 @@
 ---
 layout: calendar
 title: Events
-permalink: /events
+permalink: /events-list
 classes: wide
 
 calendar_timezone_offset: +0530   # required
