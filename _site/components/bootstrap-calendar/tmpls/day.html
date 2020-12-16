@@ -1,6 +1,6 @@
 <div id="cal-day-box">
 	<div class="row-fluid clearfix cal-row-head">
-		<div class="span1 col-xs-1 cal-cell"><%= cal.locale.time %></div>
+		<div class="col-xs-1 cal-cell"><%= cal.locale.time %></div>
 		<div class="span11 col-xs-11 cal-cell"><%= cal.locale.events %></div>
 	</div>
 	<% if(all_day.length) {%>
@@ -47,8 +47,12 @@
 				<div class="cal-day-hour">
 					<% for(l = 0; l < cal._hour_min(i); l++){ %>
 						<div class="row-fluid cal-day-hour-part">
-							<div class="span1 col-xs-1"><b><%= cal._hour(i, l) %></b></div>
-							<div class="span11 col-xs-11"></div>
+							<div class="col-xs-1"><b>
+									<% if(l < 1) {%>
+									<%= cal._hour(i, l) %>
+									<%}; %>
+								</b></div>							
+							<div class="col-xs-11"></div>
 						</div>
 				<% }; %>
 				</div>
