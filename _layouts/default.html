@@ -37,6 +37,12 @@
 	    {{ content }}
     </div>
 
+    <script src="/assets/js/vanilla-back-to-top.min.js"></script>
+	<script>addBackToTop({
+		diameter: 56,
+		backgroundColor: '#0092ca',
+		textColor: '#000'
+		})</script>
     {% if site.search == true %}
       <div class="search-content">
         {% include_cached search/search_form.html %}

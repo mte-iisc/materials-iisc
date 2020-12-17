@@ -6,7 +6,7 @@ permalink: /donate
 toc: true
 toc_sticky: true
 toc_label: Support us
-toc_icon: calendar-alt
+toc_icon: credit-card
 ---
 
 ## K. P. Abraham Memorial Fund

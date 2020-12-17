@@ -5,7 +5,7 @@ permalink: /endowments
 toc: true
 toc_sticky: true
 toc_label: Endowments and Awards
-toc_icon: calendar-alt
+toc_icon: trophy
 #classes: wide
 ---
 ## Prof. Brahm Prakash Chair
