@@ -41,25 +41,25 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
-        "title": "New website up",
+        "title": "New website up (15/12/20)",
         "excerpt":"Revamped departmental website is now up!  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/news/12-15-2020-new-website/",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
-        "title": "PhD Thesis Defence: Mr. Kundan kumar Verma",
+        "title": "PhD Thesis Defence: Mr. Kundan Kumar Verma (23/12/20)",
         "excerpt":"Thesis title:  Development of 3D carbon fibre/epoxy composites for improved damage tolerance   Faculty advisor(s):  Prof. Subodh Kumar and Prof. Suryasarathi Bose   When?  23rd December, 2020 (Thursday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/kundan-kumar-23-dec-2020",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
-        "title": "Seminar: Ferroelectricity at ultimately small length scales",
+        "title": "Seminar: Ferroelectricity at ultimately small length scales (24/12/20)",
         "excerpt":"Speaker and Affliation: Prof. Umesh V. Waghmare Theoretical Sciences Unit Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) Jakkur PO Bengaluru 560064, India Website: http://www.jncasr.ac.in/waghmare Email: waghmare@jncasr.ac.in When? 24th December, 2020 (Thursday), 04:00 PM (India Standard Time) Location Microsoft Teams Meet-up Abstract Introducing fundamental aspects of ferroelectricity in bulk oxide...","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/waghmare-24-dec-2020",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
-        "title": "PhD Thesis Defence: Mr. Fiyanshu Kaka",
+        "title": "PhD Thesis Defence: Mr. Fiyanshu Kaka (29/12/20)",
         "excerpt":"Thesis title:  Numerical and experimental investigation of process-structure-property relationship in organic photovoltaics   Faculty advisor(s):  Prof. Abhik N. Choudhury and Prof. Praveen C. Ramamurthy   When?  29th December, 2020 (Thursday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/fiyanshu-29-dec-2020",

@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis Defence: Mr. Fiyanshu Kaka"
+title: "PhD Thesis Defence: Mr. Fiyanshu Kaka (29/12/20)"
 permalink: /defence/fiyanshu-29-dec-2020
 ---
 ### Thesis title:

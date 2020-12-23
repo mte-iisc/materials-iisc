@@ -1,5 +1,5 @@
 ---
-title: "Seminar: Ferroelectricity at ultimately small length scales"
+title: "Seminar: Ferroelectricity at ultimately small length scales (24/12/20)"
 permalink: /seminar/waghmare-24-dec-2020
 ---
 ### Speaker and Affliation:

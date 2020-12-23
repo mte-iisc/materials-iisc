@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis Defence: Mr. Kundan kumar Verma"
+title: "PhD Thesis Defence: Mr. Kundan Kumar Verma (23/12/20)"
 permalink: /defence/kundan-kumar-23-dec-2020
 ---
 ### Thesis title:
