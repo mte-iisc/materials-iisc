@@ -41,6 +41,18 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
+        "title": "Seminar: Ferroelectricity at ultimately small length scales",
+        "excerpt":"Speaker and Affliation: Prof. Umesh V. Waghmare Theoretical Sciences Unit Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) Jakkur PO Bengaluru 560064, India Website: http://www.jncasr.ac.in/waghmare Email: waghmare@jncasr.ac.in When? 24th December, 2020 (Thursday), 04:00 PM (India Standard Time) Location Microsoft Teams Meet-up Abstract Introducing fundamental aspects of ferroelectricity in bulk oxide...","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/waghmare-24-dec-2020",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Defence: Mr. Fiyanshu Kaka",
+        "excerpt":"Thesis title:  Numerical and experimental investigation of process-structure-property relationship in organic photovoltaics   Faculty advisor(s):  Prof. Abhik N. Choudhury and Prof. Praveen C. Ramamurthy   When?  29th December, 2020 (Thursday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/fiyanshu-29-dec-2020",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "New website up",
         "excerpt":"Revamped departmental website is now up!  ","categories": [],
         "tags": [],
