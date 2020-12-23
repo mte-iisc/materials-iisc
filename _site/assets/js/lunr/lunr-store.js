@@ -41,6 +41,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
+        "title": "New website up",
+        "excerpt":"Revamped departmental website is now up!  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/news/12-15-2020-new-website/",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "PhD Thesis Defence: Mr. Kundan kumar Verma",
         "excerpt":"Thesis title:  Development of 3D carbon fibre/epoxy composites for improved damage tolerance   Faculty advisor(s):  Prof. Subodh Kumar and Prof. Suryasarathi Bose   When?  23rd December, 2020 (Thursday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
@@ -57,11 +63,5 @@ var store = [{
         "excerpt":"Thesis title:  Numerical and experimental investigation of process-structure-property relationship in organic photovoltaics   Faculty advisor(s):  Prof. Abhik N. Choudhury and Prof. Praveen C. Ramamurthy   When?  29th December, 2020 (Thursday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/fiyanshu-29-dec-2020",
-        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
-      },{
-        "title": "New website up",
-        "excerpt":"Revamped departmental website is now up!  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/news/new-website/",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]

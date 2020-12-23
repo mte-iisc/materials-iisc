@@ -1,0 +1,33 @@
+I"1<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <!--li><strong>Follow:</strong></li-->
+    
+          <li><a href="/contact"><i class="far fa-address-card" aria-hidden="true"></i> Contact</a></li>
+          <li><a href="/credits"><i class="fas fa-laptop-code" aria-hidden="true"></i> Credits</a></li>
+
+    
+      
+        
+      
+        
+      
+        
+          <li><a href="https://github.com/mte-iisc" rel="nofollow noopener noreferrer" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+          <li><a href="https://iisc.ac.in" rel="nofollow noopener noreferrer" target="_blank"><i class="fas fa-university" aria-hidden="true"></i> IISc</a></li>
+    <!--li><a href="/feed.xml"><i class="fas fa-rss" aria-hidden="true"></i> Feed</a></li-->
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 Department of Materials Engineering. Powered by <a href="https://jekyllrb.com" target="_blank" rel="nofollow">Jekyll</a>, <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" target="_blank" rel="nofollow">Minimal Mistakes</a> &amp; <a href="https://github.com/jekylltools/jekyll-ideal-image-slider-include" target="_blank" rel="nofollow">Ideal Image Slider</a>.</div>
+:ET
