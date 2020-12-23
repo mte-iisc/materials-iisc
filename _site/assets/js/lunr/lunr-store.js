@@ -41,6 +41,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
+        "title": "PhD Thesis Defence: Mr. Kundan kumar Verma",
+        "excerpt":"Thesis title:  Development of 3D carbon fibre/epoxy composites for improved damage tolerance   Faculty advisor(s):  Prof. Subodh Kumar and Prof. Suryasarathi Bose   When?  23rd December, 2020 (Thursday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/kundan-kumar-23-dec-2020",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "Seminar: Ferroelectricity at ultimately small length scales",
         "excerpt":"Speaker and Affliation: Prof. Umesh V. Waghmare Theoretical Sciences Unit Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) Jakkur PO Bengaluru 560064, India Website: http://www.jncasr.ac.in/waghmare Email: waghmare@jncasr.ac.in When? 24th December, 2020 (Thursday), 04:00 PM (India Standard Time) Location Microsoft Teams Meet-up Abstract Introducing fundamental aspects of ferroelectricity in bulk oxide...","categories": [],
         "tags": [],
