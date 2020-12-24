@@ -500,7 +500,7 @@
   <script>
   var slider1 = new IdealImageSlider.Slider({
       selector: '#slider1',
-      height: 450,
+      height: 361.0,
       interval: 4000,
       effect: 'fade',
       });

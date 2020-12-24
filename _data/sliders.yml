@@ -5,14 +5,14 @@
   images:
     - src: /assets/images/slider/department.jpg
       alt: Welcome to Materials Engineering, Indian Institute of Science
-    - src: /assets/images/slider/abhik-research-highlight.jpg
+    - src: /assets/images/slider/home-page-research-highlight.png
       alt: Explore the latest research done in the department
-      href: /materials-iisc/highlights-list
+      href: /highlights-list
     - src: /assets/images/slider/annual-students-symposium-2020.png
       alt: Recap of annual students' symposium (January 2020)
       href: https://materials.iisc.ac.in/sympo
   settings:
-    height: 450
+    height: 6:1
     effect: "'fade'"
     interval: 4000
     effect: "'fade'"
@@ -44,7 +44,7 @@
       alt: EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment
       href: /highlights/ebsd-ti6al4v
   settings:
-    height: 450
+    height: 7:1
     effect: "'fade'"
     interval: 4000
     effect: "'fade'"
