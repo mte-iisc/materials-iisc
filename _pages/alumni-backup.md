@@ -1,7 +1,7 @@
 ---
 title: "Alumni"
 layout: single
-permalink: /alumni
+permalink: /alumni-construction
 classes: wide
 ---
 <p>
