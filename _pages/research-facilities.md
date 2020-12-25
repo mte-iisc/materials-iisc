@@ -51,7 +51,7 @@ Booking is not required for the department users. After working hours and holida
 <u>ESEM Quanta 200, FEI</u>
 W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state backscattered electron detector,Ultra thin window EDS System(EDAX), Resolution at 20 kV:3nm in high vacuum.
 <br>
-<a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?">Online Booking</a>
+<b><a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">Online Booking</a></b>
 
 ### Electron Probe Micro Analyzer
 <p>The JXA-8530F Electron Probe Micro Analyzer is a thermal field emission electron probe micro analyzer combining high SEM resolution with high quality composition analysis of submicron areas. The JEOL JXA-8530F instrument is equipped with 6 WDS detectors (3 for heavy elements and 3 for light elements) and an energy dispersive X-ray spectrometer (EDS). This combination can simultaneously analyse 3 elements WDS + 16 elements EDS plus collect image signals from backscatter and secondary electron detectors.</p>
