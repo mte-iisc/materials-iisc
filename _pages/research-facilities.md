@@ -49,7 +49,7 @@ Booking is not required for the department users. After working hours and holida
 
 ### Scanning electron microscope
 <u>ESEM Quanta 200, FEI</u><br>
-W-Filament, low vacuum and humidity capability, Secondary E-T and Solid state backscattered electron detector, Ultra thin window EDS System(EDAX), Resolution at 20 kV:3nm in high vacuum.
+W-Filament, low vacuum and humidity capability, Secondary E-T and Solid state backscattered electron detector, Ultra thin window EDS System (EDAX), Resolution at 20 kV:3nm in high vacuum.
 <br>
 <b><a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">Online Booking</a></b>
 
