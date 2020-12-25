@@ -48,8 +48,8 @@ Hot compaction facility for sample mounting using Bakelite powder.
 Booking is not required for the department users. After working hours and holidays users should sign the register in the department office to collect the keys (must be returned after use) and outside users must take prior permission from the Chairman and faculty in-charge Prof. Subodh Kumar.
 
 ### Scanning electron microscope
-<u>ESEM Quanta 200, FEI</u>
-W-Filament, low vacuum and humidity capability,Secondary E-T and Solid state backscattered electron detector,Ultra thin window EDS System(EDAX), Resolution at 20 kV:3nm in high vacuum.
+<u>ESEM Quanta 200, FEI</u><br>
+W-Filament, low vacuum and humidity capability, Secondary E-T and Solid state backscattered electron detector, Ultra thin window EDS System(EDAX), Resolution at 20 kV:3nm in high vacuum.
 <br>
 <b><a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">Online Booking</a></b>
 
