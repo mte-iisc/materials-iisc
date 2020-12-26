@@ -6,7 +6,6 @@ permalink: /seminar/waghmare-24-dec-2020
 Prof. Umesh V. Waghmare <br>
 Theoretical Sciences Unit <br>
 Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) <br>
-Jakkur PO <br>
 Bengaluru 560064, India <br>
 Website: <a href="http://www.jncasr.ac.in/waghmare" target="_blank">http://www.jncasr.ac.in/waghmare</a><br>
 Email: <a href="mailto:waghmare@jncasr.ac.in">waghmare@jncasr.ac.in</a><br>

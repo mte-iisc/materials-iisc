@@ -54,7 +54,7 @@ var store = [{
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
         "title": "Seminar: Ferroelectricity at ultimately small length scales (24/12/20)",
-        "excerpt":"Speaker and Affliation: Prof. Umesh V. Waghmare Theoretical Sciences Unit Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) Jakkur PO Bengaluru 560064, India Website: http://www.jncasr.ac.in/waghmare Email: waghmare@jncasr.ac.in When? 24th December, 2020 (Thursday), 04:00 PM (India Standard Time) Location Microsoft Teams Meet-up Abstract Introducing fundamental aspects of ferroelectricity in bulk oxide...","categories": [],
+        "excerpt":"Speaker and Affliation: Prof. Umesh V. Waghmare Theoretical Sciences Unit Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) Bengaluru 560064, India Website: http://www.jncasr.ac.in/waghmare Email: waghmare@jncasr.ac.in When? 24th December, 2020 (Thursday), 04:00 PM (India Standard Time) Location Microsoft Teams Meet-up Abstract Introducing fundamental aspects of ferroelectricity in bulk oxide crystals, we...","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/waghmare-24-dec-2020",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
