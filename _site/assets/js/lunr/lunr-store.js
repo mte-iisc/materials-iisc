@@ -44,7 +44,7 @@ var store = [{
         "title": "PhD Thesis Colloquium: Mr. Ujjval Bansal (11/01/21)",
         "excerpt":"Thesis title:  Development of a coarsening resistant microstructure in precipitation strengthened aluminium alloys with Zr, Ta and Hf   Faculty advisor(s):  Prof. K. Chattopadhyay and Prof. Aloke Paul   When?  11th January, 2021 (Monday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
         "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/ujjval-1-jan-2021",
+        "url": "https://materials.iisc.ac.in/colloquium/ujjval-11-jan-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
         "title": "New website up (15/12/20)",
