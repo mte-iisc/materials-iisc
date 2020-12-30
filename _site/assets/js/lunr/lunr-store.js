@@ -41,16 +41,10 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
-        "title": "PhD Thesis Colloquium: Mr. Ujjval Bansal (11/01/21)",
-        "excerpt":"Thesis title:  Development of a coarsening resistant microstructure in precipitation strengthened aluminium alloys with Zr, Ta and Hf   Faculty advisor(s):  Prof. K. Chattopadhyay and Prof. Aloke Paul   When?  11th January, 2021 (Monday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/ujjval-11-jan-2021",
-        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
-      },{
         "title": "New website up (15/12/20)",
         "excerpt":"Revamped departmental website is now up!  ","categories": [],
         "tags": [],
-        "url": "https://materials.iisc.ac.in/news/12-15-2020-new-website/",
+        "url": "https://materials.iisc.ac.in/news/2020-12-15-new-website/",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
         "title": "PhD Thesis Defence: Mr. Kundan Kumar Verma (23/12/20)",
@@ -69,5 +63,11 @@ var store = [{
         "excerpt":"Thesis title:  Numerical and experimental investigation of process-structure-property relationship in organic photovoltaics   Faculty advisor(s):  Prof. Abhik N. Choudhury and Prof. Praveen C. Ramamurthy   When?  29th December, 2020 (Thursday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/fiyanshu-29-dec-2020",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Ujjval Bansal (11/01/21)",
+        "excerpt":"Thesis title:  Development of a coarsening resistant microstructure in precipitation strengthened aluminium alloys with Zr, Ta and Hf   Faculty advisor(s):  Prof. K. Chattopadhyay and Prof. Aloke Paul   When?  11th January, 2021 (Monday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/ujjval-11-jan-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
