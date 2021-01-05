@@ -12,6 +12,4 @@ Prof. K. Chattopadhyay and Prof. Aloke Paul
 11<sup>th</sup> January, 2021 (Monday), 02:30 PM (India Standard Time)
 
 ### Location
-Microsoft Teams Meet-up
-
-  
+Microsoft Teams Meet-up  
