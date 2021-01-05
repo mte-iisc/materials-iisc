@@ -65,6 +65,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/fiyanshu-29-dec-2020",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
+        "title": "PhD Thesis Defence: Mr. Ashutosh Jangde (08/01/21)",
+        "excerpt":"Thesis title:  Evolution of plasma electrolytic oxidation coatings formed on AM50 Mg alloy utilizing various alkaline electrolytes with and without glycerol additive and its corrosion behavior   Faculty advisor(s):  Prof. Subodh Kumar   When?  8th January, 2021 (Friday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/ashutosh-08-jan-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "PhD Thesis Colloquium: Mr. Ujjval Bansal (11/01/21)",
         "excerpt":"Thesis title:  Development of a coarsening resistant microstructure in precipitation strengthened aluminium alloys with Zr, Ta and Hf   Faculty advisor(s):  Prof. K. Chattopadhyay and Prof. Aloke Paul   When?  11th January, 2021 (Monday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up   ","categories": [],
         "tags": [],
