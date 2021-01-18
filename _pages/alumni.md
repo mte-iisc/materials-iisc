@@ -7,8 +7,6 @@ classes: wide
 <p>
 The department, over the course of its rich and diverse history, is proud to have had wonderful faculty, students, and staff who have reached great heights in their respective disciplines. While this page lists a small collection of notable alumni and faculty who have been part of the department (coming soon), links to entire list(s) of students who have graduated from the various programs conducted by the department are provided below. 
 </p>
-
-<br>
 Following is a list of notable alumni of the department who have also been recipients of the "<a href="https://www.iisc.ac.in/about/awards/iisc-distinguished-alumnusalumna-award-given-by-the-iisc-alumni-association/" target="_blank">Distinguished Alumnus/Alumna Award</a>" from Indian Institute of Science.
 <br>
 <table>
@@ -105,7 +103,6 @@ Following is a list of notable alumni of the department who have also been recip
 </tr>
 </tbody>
 </table>
-<br>
 
 ## Student alumni
 List of all students who have graduated from the various programs of the department are archived <a href="{{ site.baseurl }}/alumni-archive">here</a>. Links to specific decades of alumni are given below for each program.
