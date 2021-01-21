@@ -76,4 +76,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/ujjval-11-jan-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Defence: Mr. Esakkiraja N (02/02/21)",
+        "excerpt":"Thesis title:  Pseudo-binary and Pseudo-ternary diffusion couple methods for understanding the growth of the interdiffusion zone between bond coat and superalloys   Faculty advisor(s):  Prof. Aloke Paul &amp; Prof. Vikram Jayaram   When?  2nd February, 2021 (Tuesday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/esakkiraja-02-feb-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
