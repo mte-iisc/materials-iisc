@@ -77,6 +77,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/ujjval-11-jan-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
+        "title": "Prof. Suryasarathi Bose wins the Kaushal Kishore Memorial Award (29/01/21)",
+        "excerpt":"Prof. Suryasarathi Bose has been awarded the prestigious “Prof. Kaushal Kishore Memorial Award” by the Society for Polymer Science, India. The award recognizes ‘young outstanding polymer scientists’ of India who have made ‘important contributions and have demonstrated the potential to become global leaders in their chosen field(s) of research’. The...","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/bose-29-jan-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "PhD Thesis Defence: Mr. Esakkiraja N (02/02/21)",
         "excerpt":"Thesis title:  Pseudo-binary and Pseudo-ternary diffusion couple methods for understanding the growth of the interdiffusion zone between bond coat and superalloys   Faculty advisor(s):  Prof. Aloke Paul &amp; Prof. Vikram Jayaram   When?  2nd February, 2021 (Tuesday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
