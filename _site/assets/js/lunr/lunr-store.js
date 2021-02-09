@@ -41,6 +41,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
+        "title": "“Materials Design: From Grain Boundary Mobilities to Additive Manufacturing”  (09/02/21)",
+        "excerpt":"Speaker and Affliation: Prof. Peter Voorhees Frank C. Engelhart Professor of Materials Science and Engineering Northwestern University Illinois, USA When? 9th February, 2021 (Tuesday), 08:00 PM (India Standard Time) Location Microsoft Teams Meet-up Abstract The classical method for designing materials to achieve certain performance goals involves a laborious procedure wherein...","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/peter-09-feb-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "New website up (15/12/20)",
         "excerpt":"Revamped departmental website is now up!  ","categories": [],
         "tags": [],
@@ -87,5 +93,11 @@ var store = [{
         "excerpt":"Thesis title:  Pseudo-binary and Pseudo-ternary diffusion couple methods for understanding the growth of the interdiffusion zone between bond coat and superalloys   Faculty advisor(s):  Prof. Aloke Paul &amp; Prof. Vikram Jayaram   When?  2nd February, 2021 (Tuesday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/esakkiraja-02-feb-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Defence: Mr. Gobinda Das Adhikary (11/02/21)",
+        "excerpt":"Thesis title:  Role of in-phase octahedral tilt influencing structure and properties in Na0.5Bi0.5TiO3 - based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  11th February, 2021 (Thursday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/gobinda-11-feb-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
