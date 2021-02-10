@@ -100,4 +100,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/gobinda-11-feb-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Defence: Mr. Tanyaradzwa S. Muzata (16/02/21)",
+        "excerpt":"Thesis title:  Understanding the demixing behavior and  structure-property  correlation in graphene oxide containing LCST blends   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  16th February, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/gobinda-16-feb-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
