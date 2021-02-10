@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Defence: Mr. Tanyaradzwa S. Muzata (16/02/21)"
-permalink: /defence/gobinda-16-feb-2021
+permalink: /defence/tanyaradzwa-16-feb-2021
 ---
 ### Thesis title:
 Understanding the demixing behavior and  structure-property  correlation in graphene oxide containing LCST blends
