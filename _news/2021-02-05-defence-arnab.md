@@ -1,4 +1,4 @@
-	---
+---
 title: "PhD Thesis Defence: Mr. Arnab De (05/02/21)"
 permalink: /defence/arnab-05-feb-2021
 ---

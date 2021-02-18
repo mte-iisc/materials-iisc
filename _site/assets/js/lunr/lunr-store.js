@@ -95,6 +95,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/esakkiraja-02-feb-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
+        "title": "PhD Thesis Defence: Mr. Arnab De (05/02/21)",
+        "excerpt":"Thesis title:  Lanthanide photoluminescence: A tool for analyzing local heterogeneity in ferroelectrics and scope for high performance optical thermometry   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  5th February, 2021 (Friday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/arnab-05-feb-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "PhD Thesis Defence: Mr. Gobinda Das Adhikary (11/02/21)",
         "excerpt":"Thesis title:  Role of in-phase octahedral tilt influencing structure and properties in Na0.5Bi0.5TiO3 - based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  11th February, 2021 (Thursday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
