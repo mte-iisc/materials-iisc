@@ -32,9 +32,7 @@ classes: wide
 
 <br>
 
-
 # Visiting and Adjunct Faculty
-
 
 | --------         | ------    | ------------------------------------------------------------ |                         
 | <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in  <br> <a href="https://materials.iisc.ac.in/old/faculty/sonal-asthana/" target="_blank">Personal Website</a>   | 3D Bioprinting and Biomaterials <br> Data analytics for clinical research        |
@@ -46,6 +44,12 @@ classes: wide
 # Honorary Faculty
 
 | <img src="{{ site.baseurl }}/assets/images/faculty/db.jpg" width=120px>    |  Dipankar Banerjee <br> Honorary Professor <br> dbanerjee[at]iisc[dot]ac[dot]in <br> +91 80 2293 2558 <br> <a href="https://materials.iisc.ac.in/~dbanerjee/" target="_blank">Group Website</a>    | Quantitative and predictive understanding of materials development <br>Engineering materials                |
+
+<br>
+
+# Inspire Faculty
+
+| <img src="{{ site.baseurl }}/assets/images/faculty/upashi.png" width=120px>    |  Upashi Goswami <br> DST-INSPIRE Faculty <br> upashig[at]iisc[dot]ac[dot]in <br> +91 80 2293 2705 <br>     | Nano based Materials for Cancer Theranostics <br>Biomaterials for Bioprinting (3D cancer Model and Tissue Engineering) <br> 2D Nanomaterials for sensing               |
 
 <br>
 
