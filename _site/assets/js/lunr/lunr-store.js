@@ -83,6 +83,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/ujjval-11-jan-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
+        "title": "Prof. Ashok's student, Ms. Radhika Wazalwar, has been selected to receive the Augmenting Writing Skills for Articulating Research (AWSAR) award (from DST) under the Best Popular Science Story category (01/03/21)",
+        "excerpt":"Ms. Radhika Wazalwar, has been selected to receive the Augmenting Writing Skills for Articulating Research (AWSAR) award (from DST) under the Best Popular Science Story category. She will receive a certificate and Rs.10,000 prize.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/radhika-01-mar-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "Prof. Suryasarathi Bose wins the Kaushal Kishore Memorial Award (29/01/21)",
         "excerpt":"Prof. Suryasarathi Bose has been awarded the prestigious “Prof. Kaushal Kishore Memorial Award” by the Society for Polymer Science, India. The award recognizes ‘young outstanding polymer scientists’ of India who have made ‘important contributions and have demonstrated the potential to become global leaders in their chosen field(s) of research’. The...","categories": [],
         "tags": [],
@@ -111,5 +117,11 @@ var store = [{
         "excerpt":"Thesis title:  Understanding the demixing behavior and  structure-property  correlation in graphene oxide containing LCST blends   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  16th February, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/tanyaradzwa-16-feb-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "Prof. Ashok's student, Ms. Radhika Wazalwar, has been selected to receive the Augmenting Writing Skills for Articulating Research (AWSAR) award (from DST) under the Best Popular Science Story category (01/03/21)",
+        "excerpt":"Ms. Radhika Wazalwar, has been selected to receive the Augmenting Writing Skills for Articulating Research (AWSAR) award (from DST) under the Best Popular Science Story category. She will receive a certificate and Rs.10,000 prize.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/radhika-01-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
