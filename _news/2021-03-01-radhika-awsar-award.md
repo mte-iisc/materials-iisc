@@ -1,5 +1,5 @@
 ---
-title: "Prof. Ashok's student, Ms. Radhika Wazalwar, has been selected to receive the Augmenting Writing Skills for Articulating Research (AWSAR) award (from DST) under the Best Popular Science Story category (01/03/21)"
+title: "Prof. Ashok's student, Ms. Radhika Wazalwar, wins the Augmenting Writing Skills for Articulating Research (AWSAR) award (from DST) (01/03/21)"
 permalink: /awards/radhika-01-mar-2021
 ---
 
