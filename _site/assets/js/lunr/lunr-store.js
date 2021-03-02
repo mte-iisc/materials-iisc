@@ -119,6 +119,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/awards/radhika-01-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
+        "title": "Dr. Mainak Sen, wins the Best poster award NMD ATM 2020 (02/03/21)",
+        "excerpt":"Dr. Mainak Sen (Post Doctoral Research Associate, PSPM Lab) awarded with Best poster titled “Strain Partitioning between the α and β phases in a Titanium Alloy by Microscale Digital Image Correlation” in Advances in Material Science and Engineering Category at NMD ATM 2020  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/mainak-02-mar-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "PhD Thesis Defence: Ms. Mousumi Beto Mukherjee (04/03/21)",
         "excerpt":"Thesis title:  Application of Mesoporous Silica Nanoparticles (MSN) as a  nano-carrier for the treatment of HCV and HIV infections   Faculty advisor(s):  Prof. Ashok M Raichur   When?  4th March, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
