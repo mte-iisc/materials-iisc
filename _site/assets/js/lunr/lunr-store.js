@@ -120,7 +120,7 @@ var store = [{
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
         "title": "PhD Thesis Defence: Ms. Mousumi Beto Mukherjee (04/03/21)",
-        "excerpt":"Thesis title:  Application of Mesoporous Silica Nanoparticles (MSN) as a  nano-carrier for the treatment of HCV and HIV infections   Faculty advisor(s):  Prof. Ashok M Raichur   When?  4sup&gt;th&lt;/sup&gt; March, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "excerpt":"Thesis title:  Application of Mesoporous Silica Nanoparticles (MSN) as a  nano-carrier for the treatment of HCV and HIV infections   Faculty advisor(s):  Prof. Ashok M Raichur   When?  4th March, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/mousumi-04-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
