@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/mousumi-04-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "Alumna Dr. Dheepa Srinivasan receives the INAE Woman Engineer of the Year Award 2020 – Industry Category (04/03/21)",
+        "excerpt":"Alumna Dr. Dheepa Srinivasan is awarded the INAE Woman Engineer of the Year Award 2020 in recognition of her outstanding research contributions and development of indigenous technologies and processes in the areas of advanced materials and manufacturing technologies, for gas turbines. Dr. Dheepa Srinivasan, Chief Engineer, Pratt &amp; Whitney R&amp;D...","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/dheepa-04-mar-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
