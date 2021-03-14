@@ -1,6 +1,6 @@
 ---
 title: "“The Dynamics of Precipitate Shearing in fcc/L12 Alloys”  (26/03/21)"
-permalink: /seminar/peter-09-feb-2021
+permalink: /seminar/tresa-26-mar-2021
 ---
 ### Speaker and Affliation:
 Prof. Tresa Pollock <br>
