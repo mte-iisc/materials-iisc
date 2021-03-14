@@ -142,4 +142,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/sarvesh-11-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "“The Dynamics of Precipitate Shearing in fcc/L12 Alloys”  (26/03/21)",
+        "excerpt":"Speaker and Affliation: Prof. Tresa Pollock Alcoa Distinguished Professor of Materials &amp; Associate Dean of Engineering Professor of Materials Science and Engineering University of California When? 26th March, 2021 (Friday), 09:35 AM (India Standard Time) Location Microsoft Teams Meet-up Abstract Intermetallic precipitates are among the most effective strengthening agents for...","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/peter-09-feb-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
