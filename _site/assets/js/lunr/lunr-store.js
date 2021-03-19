@@ -148,4 +148,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/tresa-26-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Defence: Ms. Sonawane Dipali Shivaji (30/03/21)",
+        "excerpt":"Thesis title:  Mechanical Reliability of Metal-Si Systems at Different Length Scales under Thermal Cyclic Loading   Faculty advisor(s):  Prof. Praveen Kumar   When?  30th March, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/dipali-30-mar-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
