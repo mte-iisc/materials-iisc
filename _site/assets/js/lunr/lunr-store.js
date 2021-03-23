@@ -160,4 +160,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/dipali-30-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Defence: Mr. K.U. Yazar (31/03/21)",
+        "excerpt":"Thesis title:  Effect of microstructure and texture on the dwell fatigue behaviour of titanium alloys   Faculty advisor(s):  Prof. Satyam Suwas   When?  31st March, 2021 (Tuesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/yazar-31-mar-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
