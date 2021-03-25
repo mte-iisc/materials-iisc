@@ -354,7 +354,7 @@ High Temperature stage( upto 400 deg celsius)<br />
 <tr>
 <td valign="top">Specifications</td>
 <td valign="top">
-<p align="justify">Measures curvature of plates and beams using laser. Heating stage upto 500&deg;C in ambient atmospheres or under inert gas shrouding . Liquid nitrogen can circulated to reach temperatures down to 0&deg;C. Dual beam enables stresses measurements for transparent coatings as well.</p>
+<p align="justify">Measures curvature of plates and beams using laser. Heating stage upto 500&deg;C in ambient atmospheres or under inert gas shrouding. <br />Liquid nitrogen can circulated to reach temperatures down to 0&deg;C. <br />Dual beam enables stresses measurements for transparent coatings as well.</p>
 </td>
 </tr>
 <tr>
@@ -382,45 +382,45 @@ High Temperature stage( upto 400 deg celsius)<br />
 <tr>
 <td valign="top">Dartec Servo-hydraulic UTM</td>
 <td valign="top">Compression,Tension</td>
-<td valign="top">Max Load(KN):100Strain rate(/sec):10<sup>-4</sup> to 10Temperature (<sup>o</sup>C) &lt;1000</td>
+<td valign="top">Max Load(KN):100<br />Strain rate(/sec):10<sup>-4</sup> to 10<br />Temperature (<sup>o</sup>C) &lt;1000</td>
 </tr>
 <tr>
 <td valign="top">Instron 8032 Servo-hydraulicUTM</td>
 <td valign="top">Tension, Compression, Bending, Fracture, Low Cycle Fatigue</td>
-<td valign="top">Max Load(KN): 100Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
+<td valign="top">Max Load(KN): 100<br />Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
 </tr>
 <tr>
 <td valign="top">Instron 8502 Servo-hydraulicUTM</td>
 <td valign="top">Stress Corrosion Studies</td>
-<td valign="top">Max Load(KN): 100Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
+<td valign="top">Max Load(KN): 100<br />Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
 </tr>
 <tr>
 <td valign="top">Zwick/RoellScrew driven UTM</td>
 <td valign="top">Tension, Compression, Bending</td>
-<td valign="top">Max Load(KN):100 Crosshead speed(mm/min):0.0005 to 200 Temperature (<sup>o</sup>C) &lt;300<sup>o</sup>C</td>
+<td valign="top">Max Load(KN):100 <br />Crosshead speed(mm/min):0.0005 to 200 <br />Temperature (<sup>o</sup>C) &lt;300<sup>o</sup>C</td>
 </tr>
 <tr>
 <td valign="top">Instron 5567 Screw driven UTM</td>
 <td valign="top">Tension,Compression</td>
-<td valign="top">Max Load(KN):30 Cross head speed(mu/sec):0.1 to 500 Temperature (<sup>o</sup>C) &lt;600<sup>o</sup>C</td>
+<td valign="top">Max Load(KN):30<br /> Cross head speed(mu/sec):0.1 to 500 <br />Temperature (<sup>o</sup>C) &lt;600<sup>o</sup>C</td>
 </tr>
 <tr>
 <td colspan="3" valign="top"><b><i>Impact and high strain rate testing machines</i></b></td>
 </tr>
 <tr>
-<td valign="top">Split-HopkinsonPressure Bar (SHPB) apparatus</td>
+<td valign="top">Split-Hopkinson Pressure Bar (SHPB) apparatus</td>
 <td valign="top">High strain rate Compression</td>
-<td valign="top">Max Load (KN):20 Strain rate(/sec):1000 to 4000 Temperature (<sup>o</sup>C)&lt;600</td>
+<td valign="top">Max Load (KN):20<br /> Strain rate(/sec):1000 to 4000 <br />Temperature (<sup>o</sup>C)&lt;600</td>
 </tr>
 <tr>
 <td valign="top">Instron Dynatup8250 Impact tester</td>
 <td valign="top">Instrumented Drop Weight Test</td>
-<td valign="top">Velocity (m/sec): 0.61 to 4.8 Energy(Joules): 0.67 to 302 Weight(kg): 2.5, 4.5,11.3,22.7, 34, 45.3 Data Acquisition: Instron 930-I</td>
+<td valign="top">Velocity (m/sec): 0.61 to 4.8<br /> Energy(Joules): 0.67 to 302<br /> Weight(kg): 2.5, 4.5,11.3,22.7, 34, 45.3 <br />Data Acquisition: Instron 930-I</td>
 </tr>
 <tr>
 <td valign="top">Tinius-Olsen Model T 84 Pendulum Impact tester</td>
 <td valign="top">Instrumented Charpy and Izod Impact Test</td>
-<td valign="top">Velocity(m/sec): 0.1 to 5.1 Energy(Joules): 0.2 to 359 Data Acquisition: Instron 930-I</td>
+<td valign="top">Velocity(m/sec): 0.1 to 5.1<br /> Energy(Joules): 0.2 to 359<br /> Data Acquisition: Instron 930-I</td>
 <td valign="top"></td>
 </tr>
 <tr>
@@ -428,13 +428,13 @@ High Temperature stage( upto 400 deg celsius)<br />
 </tr>
 <tr>
 <td valign="top">Indentec Macro hardness tester</td>
-<td valign="top">Vickers, Brinell, Rockwell hardness</td>
-<td valign="top">Load Range(kgf) Vickers: 3, 5, 10, 100 Brinell: 5, 10, 62.5, 187.5 Rockwell: 60, 100, 150 Holding time(sec): 1 to 60</td>
+<td valign="top">Vickers,<br /> Brinell,<br /> Rockwell hardness</td>
+<td valign="top">Load Range(kgf)<br />Vickers: 3, 5, 10, 100 <br />Brinell: 5, 10, 62.5, 187.5 <br />Rockwell: 60, 100, 150 <br />Holding time(sec): 1 to 60</td>
 </tr>
 <tr>
 <td valign="top">Zwick/Roell ZHV microhardness tester</td>
 <td valign="top">Vickers microhardness</td>
-<td valign="top">Load Range(kgf): 3, 5, 10, 100 Holding time(sec): 5 to 60 Objective lenses: 10x, 40x</td>
+<td valign="top">Load Range(kgf): 3, 5, 10, 100<br /> Holding time(sec): 5 to 60<br /> Objective lenses: 10x, 40x</td>
 </tr>
 </tbody>
 </table>
@@ -512,11 +512,11 @@ Content coming soon.
 </tr>
 <tr>
 <td valign="top">Operating Specifications</td>
-<td valign="top">Surface Area Range 0.0005 m 2 /g and upPore Diameter Range : 3.5 &#8211; 5000 AngstromsMicropore Volume: Detectable within 0.0001 cc/g</td>
+<td valign="top">Surface Area Range 0.0005 m 2 /g and up<br />Pore Diameter Range : 3.5 &#8211; 5000 Angstroms<br />Micropore Volume: Detectable within 0.0001 cc/g</td>
 </tr>
 <tr>
 <td valign="top">Pressure Measurement Resolution:</td>
-<td valign="top">0 to 1 mmHg Transducer 0.000001 mmHg0 to 10 mmHg Transducer: 0.00001 mmHg0 to 1000 mmHg Transducer: 0.001 mmHg</td>
+<td valign="top">0 to 1 mmHg <br />Transducer 0.000001 mmHg0 to 10 mmHg <br />Transducer: 0.00001 mmHg0 to 1000 mmHg <br />Transducer: 0.001 mmHg</td>
 </tr>
 <tr>
 <td valign="top">Typical Relative Pressures:</td>
@@ -563,7 +563,7 @@ Mr. R.J.Despande (rjd@iisc.ac.in)
 </tr>
 <tr>
 <td valign="top">Detection Limits</td>
-<td valign="top">Varies according to the element. Can be as low as 0.07 ppb for Mg to 20ppb for some of the rare earth elements</td>
+<td valign="top">Varies according to the element.<br /> Can be as low as 0.07 ppb for Mg to 20ppb for some of the rare earth elements</td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
@@ -605,11 +605,11 @@ Mr. R.J.Despande (rjd@iisc.ac.in)
 </tr>
 <tr>
 <td valign="top">Column</td>
-<td valign="top">Sunfire (TM) Reversed-phase HPLC column C18, 5 µ m (4.6 x 250 mm column), Operating range &#8211; pH: 2-8, columns stable upto 6000 psi. Best for purification and impurity profile assays, (Solvents-Acetonitrile)</td>
+<td valign="top">Sunfire (TM) Reversed-phase HPLC column C18, 5 µ m (4.6 x 250 mm column),<br /> Operating range &#8211; pH: 2-8, columns stable upto 6000 psi. <br />Best for purification and impurity profile assays, (Solvents-Acetonitrile)</td>
 </tr>
 <tr>
 <td valign="top">Detectors</td>
-<td valign="top">Waters 2414 (RI Detector), Waters 2489 (UV/Vis Detector)</td>
+<td valign="top">Waters 2414 (RI Detector),<br /> Waters 2489 (UV/Vis Detector)</td>
 </tr>
 </tbody>
 </table>
@@ -628,7 +628,7 @@ Mr. R.J.Despande (rjd@iisc.ac.in)
 </tr>
 <tr>
 <td valign="top">Column</td>
-<td valign="top">Styragel HT 6E THF (7.8 x 300 mm), measuring MW range from 5000-10 7 . Equipped with Waters temperature control module II, working range from ambient to high temperature (140 °C) analysis (Solvents-TCB, THF).</td>
+<td valign="top">Styragel HT 6E THF (7.8 x 300 mm),<br /> measuring MW range from 5000-10 7 .<br /> Equipped with Waters temperature control module II,<br /> working range from ambient to high temperature (140 °C) analysis (Solvents-TCB, THF).</td>
 </tr>
 <tr>
 <td valign="top">Detectors</td>
