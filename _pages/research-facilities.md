@@ -10,7 +10,6 @@ permalink: /facilities
 ---
 <b><a href="/pdfs/central-facility.pdf" target="_blank">Central facility usage form</a></b>
 ## Structural characterisation
-
 ### Optical microscope
 <u>Carl Zeiss (INVERTED): MAT 200 MOTORISED AXIO VISION 4.7.2 VERSION</u>
 
@@ -45,7 +44,10 @@ Hot compaction facility for sample mounting using Bakelite powder.
 
 <u>Booking Details</u>
 
-Booking is not required for the department users. After working hours and holidays users should sign the register in the department office to collect the keys (must be returned after use) and outside users must take prior permission from the Chairman and faculty in-charge Prof. Subodh Kumar.
+Booking is not required for the department users. After working hours and holidays users should sign the register in the department office to collect the keys (must be returned after use) and outside users must take prior permission from the Chairman and faculty in-charge 
+Prof. Subodh Kumar (skumar@iisc.ac.in)
+Prof. S.Karthikeyan (karthik@iisc.ac.in)
+Dr. P.Padaikathan (padai@iisc.ac.in)
 
 ### Scanning electron microscope
 <u>ESEM Quanta 200, FEI</u><br>
@@ -88,8 +90,10 @@ W-Filament, low vacuum and humidity capability, Secondary E-T and Solid state ba
 <p><strong>Booking details:</strong></p>
 <ul>
 <li><a href="https://materials.iisc.ac.in/old/wp-content/uploads/2019/12/central-facility.pdf">Click Here</a> to download user request form.</li>
-<li>R.Ravi(rravi@iisc.ac.in) / Subho Dasgupta(dasgupta@iisc.ac.in) / Satyam Suwas(satyamsuwas@iisc.ac.in)</li>
-</ul>
+Faculty In-charge:
+Prof. Satyam Suwas(satyamsuwas@iisc.ac.in)
+Dr. Subho Dasgupta(dasgupta@iisc.ac.in)
+Dr. R.Ravi(rravi@iisc.ac.in)
 
 ### Atomic Force Microscope
 <p><strong>Specifications</strong></p>
@@ -126,21 +130,33 @@ W-Filament, low vacuum and humidity capability, Secondary E-T and Solid state ba
 <p>Fixed tube, Cu and Fe-targets, horizontal flat plate sample holder.<br />
 Sample and quantity:<br />
 Most preferably powder, Otherwise any sample with flat surface. The powder/ bulk sample should cover ~ 15 mm x ~15 mm x ~1 mm space of the standard sample holder.</p>
-<p>For booking on this system, Please Contact Mr.A.N.Krishnamurthy ( X-Ray LAB)<br />
-Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ranjan</p>
+
+Faculty In-charge:
+Prof. Rajeev Ranjan (rajeev@iisc.ac.in)
+Prof. Satyam Suwas (satyamsuwas@iisc.ac.in)
+Dr. G.S. Avadhani (gsa@iisc.ac.in)
 
 <p><strong>(3) X-radiography</strong></p>
 <p>Stenoscop 9000 is a mobile medical X-ray unit equipped with a C-arm, on which an image intensifier and X-ray source are mounted. The X-ray system enables operation in one of several modes: standard radiography, high-resolution fluoroscopy, pulsed fluoroscopy, and standard fluoroscopy. Up to 50 min of continuous X-ray emission in the fluoroscopy mode allowed collection of the high-quality, distortion-free images. Voltage range is from 40 to 110 kV and current range is from 0.1 to 6 mA. The unit has dual focus.</p>
-<p>For further information contact Prof. Govind S. Gupta (govindg@iisc.ac.in)</p>
 
+Faculty In-charge:
+Prof. Govind S. Gupta (govindg@iisc.ac.in)
+
+### Atomic Force Microscope
+<p><strong>Specifications</strong></p>
+<ul>
+<li>Scan head: Maximum scan range: 70micron</li>
+<li>Drive resolution Z: 0.21 nm and XY: 1.0 nm (based on 16 bits)</li>
+<li>Auto approach: 5mm, Maximum approach speed: 0.1mm/s</li>
+<li>Cantilevers: CONTR/NCLR (FREQUENCY: 15-300 kHz)</li>
+<li>Imaging Modes: Phase contrast, Force Modulation, Spreading Resistance</li>
+</ul>
 
 ## Thermal analysis
 
 <b><a href="http://afmmslots.afmm.iisc.ac.in:8080/Thermal/" target="_blank">Online booking of thermal analysis facilities</a></b><br>
 
 ### DST
-<p><strong>Faculty member in charge: Praveen Ramamurthy</strong></p>
-<p>For usage contact: P. Padaikathan</p>
 <p><a href="http://afmm.iisc.ernet.in:8080/Thermal/">Online booking system</a></p>
 <p><strong>1. </strong>The <strong>METTLER-TOLEDO </strong>Differential Scanning Calorimeter (DSC 822 e ) with S <strong>TA </strong>R e software measures the difference between the heat flows from the sample and reference sides of a sensor as a function of temperature or time. Differences in heat flow arise when a sample absorbs or releases heat due to thermal effects such as melting, crystallization, chemical reactions, polymorphic transitions.</p>
 <p><strong>Specifications:</strong></p>
@@ -189,6 +205,11 @@ Training for INDEPENDENT Usership,&#8211; Contact Dr.SatyamSuwas / Dr. Rajeev Ra
 ### DT/TGA
 Content coming soon.
 
+Faculty In-charge: 
+Prof. Ashok M. Raichur (amr@iisc.ac.in)
+Prof. Praveen Ramamurthy (praveen@iisc.ac.in)
+Dr. P.Padaikathan (padai@iisc.ac.in)
+Mr R.J. Deshpande (rjd@iisc.ac.in)
 
 ## Mechanical testing
 ### Dynamic Mechanical Analyser
@@ -236,22 +257,9 @@ For tensile and 3 point bending &#8211; Thickness: 2mm, Width: 5mm and Length: 4
 <td>Materials that can be tested</td>
 <td>Metals<br>Composites<br>Bulk metallic glasses<br>Rubbers<br>Elastomers</td>
 </tr>
-<tr>
-<td>Student trained to use the Instrument independently</td>
-<td>Mr. Easwar Prasad (Prof. UR Lab.)</td>
-</tr>
-<tr>
-<td>Faculty in charge</td>
-<td>A.H.Chokshi</td>
-</tr>
-<tr>
-<td>Contact person</td>
-<td></td>
-</tr>
 </tbody>
 </table>
-&#42;Maximum strain depends on the sample, clamping device and frequency</td>
-
+&#42;Maximum strain depends on the sample, clamping device and frequency
 
 ### Depth Sensing Indentation
 <table>
@@ -316,17 +324,7 @@ High load: 10 mN-1 N</td>
 <td valign="top">Rashmi</td>
 </tr>
 <tr>
-<td valign="top">Other Independent Operators</td>
-<td valign="top">:</td>
-<td valign="top">Praveena (Jayaram/Biswas), Anirban Mahato,(Biswas), Nisha Verma (Jayaram), Jaya Nagamani (Jayaram)</td>
-</tr>
-<tr>
-<td valign="top">Contact Person</td>
-<td valign="top">:</td>
-<td valign="top">Vikram Jayaram (3243) / Shamsundar (2351)</td>
-</tr>
-<tr>
-<td colspan="3" valign="top" bgcolor="#000066">
+<td colspan="3" valign="top">
 <div align="center"><strong>CSM instrumented microindentation system</strong></div>
 </td>
 </tr>
@@ -356,17 +354,6 @@ High load: 10 mN-1 N</td>
 <td valign="top">Depth resolution</td>
 <td valign="top">:</td>
 <td valign="top">0.3 nm</td>
-</tr>
-<tr>
-<td valign="top">Independent users</td>
-<td valign="top">:</td>
-<td valign="top">Eswar Prasad, Pradipta Ghosh, Jaya Nagamani, P. Padaikathan</td>
-</tr>
-<tr>
-<td valign="top">In-Charge</td>
-<td valign="top">:
-</td>
-<td valign="top">U. Ramamurty(ramu@iisc.ac.in)</td>
 </tr>
 </tbody>
 </table>
@@ -404,20 +391,6 @@ High load: 10 mN-1 N</td>
 </td>
 <td valign="top">Maximum size is 8 inches wafer. Plates, disks, beams with longest measurable length less than 8 inches dia. can also be used.</td>
 </tr>
-<tr>
-<td valign="top">Faculty in charge</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">Vikram Jayaram</td>
-</tr>
-<tr>
-<td valign="top">Contact person</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">Students trained to use the instrument: Sumanth G, Nisha Verma</td>
-</tr>
 </tbody>
 </table>
 
@@ -429,7 +402,7 @@ High load: 10 mN-1 N</td>
 <td valign="top" width="144"><b>Equipment</b></td>
 <td valign="top" width="132"><b>Nature of tests</b></td>
 <td valign="top" width="260"><b>Specs</b></td>
-<td valign="top" width="169"><b>Contact</b></td>
+
 </tr>
 <tr>
 <td colspan="5" valign="top" width="747"><b><i>Universal Testing Machines</i></b></td>
@@ -439,35 +412,30 @@ High load: 10 mN-1 N</td>
 <td valign="top" width="144">Dartec Servo-hydraulic UTM</td>
 <td valign="top" width="132">Compression,Tension</td>
 <td valign="top" width="260">Max Load(KN):100Strain rate(/sec):10<sup>-4</sup> to 10Temperature (<sup>o</sup>C) &lt;1000</td>
-<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
 </tr>
 <tr>
 <td valign="top" width="42">2</td>
 <td valign="top" width="144">Instron 8032 Servo-hydraulicUTM</td>
 <td valign="top" width="132">Tension, Compression, Bending, Fracture, Low Cycle Fatigue</td>
 <td valign="top" width="260">Max Load(KN): 100Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
-<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
 </tr>
 <tr>
 <td valign="top" width="42">3</td>
 <td valign="top" width="144">Instron 8502 Servo-hydraulicUTM</td>
 <td valign="top" width="132">Stress CorrosionStudies</td>
 <td valign="top" width="260">Max Load(KN): 100Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
-<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
 </tr>
 <tr>
 <td valign="top" width="42">4</td>
 <td valign="top" width="144">Zwick/RoellScrew driven UTM</td>
 <td valign="top" width="132">Tension,Compression, Bending</td>
 <td valign="top" width="260">Max Load(KN): 100Crosshead speed(mm/min):0.0005 to 200Temperature (<sup>o</sup>C) &lt;300<sup>o</sup>C</td>
-<td valign="top" width="169"><a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a></td>
 </tr>
 <tr>
 <td valign="top" width="42">5</td>
 <td valign="top" width="144">Instron 5567 Screw driven UTM</td>
 <td valign="top" width="132">Tension,Compression</td>
 <td valign="top" width="260">Max Load(KN):30Cross head speed(mu/sec):0.1 to 500Temperature (<sup>o</sup>C) &lt;600<sup>o</sup>C</td>
-<td valign="top" width="169"><a href="mailto:achokshi@iisc.ac.in">Prof. A.H. Chokshi</a></td>
 </tr>
 <tr>
 <td colspan="5" valign="top" width="747"><b><i>Impact and high strain rate testing machines</i></b></td>
@@ -477,14 +445,12 @@ High load: 10 mN-1 N</td>
 <td valign="top" width="144">Split-HopkinsonPressure Bar (SHPB) apparatus</td>
 <td valign="top" width="132">High strain rate Compression</td>
 <td valign="top" width="260">Max Load (KN):20Strain rate(/sec):1000 to 4000Temperature (<sup>o</sup>C)&lt;600</td>
-<td valign="top" width="169"><a href="mailto:karthik@iisc.ac.in">Prof. S.Karthikeyan</a></td>
 </tr>
 <tr>
 <td valign="top" width="42">7</td>
 <td valign="top" width="144">Instron Dynatup8250 Impact tester</td>
 <td valign="top" width="132">Instrumented Drop Weight Test</td>
 <td valign="top" width="260">Velocity (m/sec): 0.61 to 4.8Energy(Joules): 0.67 to 302Weight(kg): 2.5, 4.5,11.3,22.7, 34, 45.3Data Acquisition: Instron 930-I</td>
-<td valign="top" width="169"></td>
 </tr>
 <tr>
 <td valign="top" width="42">8</td>
@@ -501,22 +467,19 @@ High load: 10 mN-1 N</td>
 <td valign="top" width="144">Indentec Macro hardness tester</td>
 <td valign="top" width="132">Vickers, Brinell, Rockwell hardness</td>
 <td valign="top" width="260">Load Range(kgf)Vickers: 3, 5, 10, 100Brinell: 5, 10, 62.5, 187.5Rockwell: 60, 100, 150Holding time(sec): 1 to 60</td>
-<td valign="top" width="169"></td>
 </tr>
 <tr>
 <td valign="top" width="42">10</td>
 <td valign="top" width="144">Zwick/Roell ZHVmicrohardnesstester</td>
 <td valign="top" width="132">Vickersmicrohardness</td>
 <td valign="top" width="260">Load Range(kgf): 3, 5, 10, 100Holding time(sec): 5 to 60Objective lenses: 10x, 40x</td>
-<td valign="top" width="169"></td>
 </tr>
 </tbody>
 </table>
-<p>For availability of different equipment for usage, please contact the respective contacts, while ccing <a href="mailto:karthik@materials.iisc.ernet.in">Prof. S. Karthikeyan</a>. Kindly provide details on the type of test, material to be tested, number of samples and your affiliation.</p>
-<p><b>Members of the facility:</b></p>
-<p><b></b><b><span style="text-decoration: underline;">Faculty:</span></b><span style="text-decoration: underline;"> </span><a href="mailto:achokshi@iisc.ac.in">A.H. Chokshi</a> (Facility Incharge), <a href="mailto:karthik@iisc.ac.in">Prof S. Karthikeyan</a>, <a href="mailto:skumar@iisc.ac.in">Prof. Subodh Kumar</a>, <a href="mailto:satyamsuwas@iisc.ac.in">Prof Satyam Suwas</a> and <a href="mailto:ramu@iisc.ac.in">Prof. U. Ramamurty</a></p>
-<p><b><span style="text-decoration: underline;">Staff:</span></b> <a href="mailto:ssd@iisc.ac.in">Mr. S. Sasidhara</a> and <a href="mailto:rajakumaran.iisc@gmail.com">Mr. V. Rajakumaran</a></p>
-<p>The department also has facilities for <a href="http://localhost/webmet?page_id=999">Instrumented Indentation</a>, <a href="http://localhost/webmet?page_id=988">Dynamic Mechanical Analysis (DMA)</a> and <a href="http://localhost/webmet?page_id=1016">Thin Film Stress measurement</a>.</p>
+Faculty In-charge:
+Prof. Satyam Suwas
+Dr. G.S. Avadhani
+Prof. Praveen Kumar
 
 ## Materials Processing
 **Solid state processing**<br>
@@ -555,20 +518,6 @@ Content coming soon.
 <td valign="top">0.05 to 900 µm</td>
 </tr>
 <tr>
-<td valign="top">Faculty In-Charge</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">S.Subramanian</td>
-</tr>
-<tr>
-<td valign="top">Contact Person</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">R.J.Deshpande, x 3237 (rjd@iisc.ac.in)</td>
-</tr>
-<tr>
 <td colspan="3" valign="top"><strong>Zetasizer</strong></td>
 </tr>
 <tr>
@@ -598,20 +547,6 @@ Content coming soon.
 <div align="center">:</div>
 </td>
 <td valign="top">5nm to 10 µm</td>
-</tr>
-<tr>
-<td valign="top">Faculty In-Charge</td>
-<td valign="top" width="30">
-<div align="center">:</div>
-</td>
-<td valign="top">S.Subramanian</td>
-</tr>
-<tr>
-<td valign="top">Contact Person</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">R. J. Deshpande, x 3237 (rjd@iisc.ac.in)</td>
 </tr>
 <tr>
 <td colspan="3" valign="top"><strong>Automatic Micropore Physisorption Analyzer</strong></td>
@@ -663,16 +598,11 @@ Content coming soon.
 </td>
 <td valign="top">N 2 / Liquid N 2 : 10 -7 Ar / Liquid Ar: 10 -7 CO 2 at 25 o C: 10 -9</td>
 </tr>
-<tr>
-<td valign="top">Faculty In-Charge</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">S.Subramanian(ssmani@iisc.ac.in)</td>
-</tr>
 </tbody>
 </table>
 
+Faculty In-charge:
+Mr. R.J.Despande (rjd@iisc.ac.in)
 
 ## Chemical Analysis
 <table>
@@ -732,13 +662,6 @@ Content coming soon.
 <td valign="top">Varies according to the element. Can be as low as 0.07 ppb for Mg to 20ppb for some of the rare earth elements</td>
 </tr>
 <tr>
-<td valign="top">Contact Person</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">B.V.Narayana (bvn@materials&#8230;)</td>
-</tr>
-<tr>
 <td colspan="3" valign="top">
 <div align="left"><strong>Atomic Absorption Spectrometer</strong></div>
 </td>
@@ -778,20 +701,6 @@ Content coming soon.
 </td>
 <td valign="top">~ 0.05 ppm</td>
 </tr>
-<tr>
-<td valign="top">Faculty Incharge</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">S.Subramanian</td>
-</tr>
-<tr>
-<td valign="top">Contact Person</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">R.J.Deshpande (rjd@iisc.ac.in)</td>
-</tr>
 </tbody>
 </table>
 <table>
@@ -821,13 +730,6 @@ Content coming soon.
 <div align="center">:</div>
 </td>
 <td valign="top">Waters 2414 (RI Detector), Waters 2489 (UV/Vis Detector)</td>
-</tr>
-<tr>
-<td valign="top">Faculty Incharge</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">S.Subramanian (ssmani@iisc.ac.in)</td>
 </tr>
 </tbody>
 </table>
@@ -861,15 +763,13 @@ Content coming soon.
 </td>
 <td valign="top">Waters 2414 (RI Detector).</td>
 </tr>
-<tr>
-<td valign="top">Faculty Incharge</td>
-<td valign="top">
-<div align="center">:</div>
-</td>
-<td valign="top">Praveen C R (praveen@iisc.ac.in)</td>
-</tr>
 </tbody>
 </table>
+Faculty in-charge:
+Prof. A.M.Raichur (amr@iisc.ac.in)
+Prof. P.C.Ramamurthy (praveen@iisc.ac.in)
+Dr. P.Padaikathan (padai@iisc.ac.in)
+Mr R.J.Deshpande (rjd@iisc.ac.in)
 
 ## Electrical behaviour
 Content coming soon.
