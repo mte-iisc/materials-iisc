@@ -155,6 +155,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/tresa-26-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
+        "title": "PhD Thesis Defence: Mr. Abhinav Arya (29/03/21)",
+        "excerpt":"Thesis title:  Microstructure and texture evolution in wire drawing and its role on the tension and torsion response of nickel microwires   Faculty advisor(s):  Prof. Atul H. Chokshi   When?  29th March, 2021 (Tuesday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/abhinav-29-mar-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "PhD Thesis Defence: Ms. Sonawane Dipali Shivaji (30/03/21)",
         "excerpt":"Thesis title:  Mechanical Reliability of Metal-Si Systems at Different Length Scales under Thermal Cyclic Loading   Faculty advisor(s):  Prof. Praveen Kumar   When?  30th March, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
