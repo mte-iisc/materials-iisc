@@ -172,4 +172,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/yazar-31-mar-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "Optimal Design of Structures and Materials (08/04/21)",
+        "excerpt":"Speaker and Affliation: G.K. Ananthasuresh Chair of Mechanical Engineering Indian Institute of Science Bangalore-560012 When? 08th April, 2021 (Thursday), 04:00 PM (India Standard Time) Location Microsoft Teams Meet-up Abstract Optimization of structures had occupied the great minds of scientists and engineers including James Clerk Maxwell, A. G. M. Michell, Gustave...","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ananthasuresh-08-apr-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
