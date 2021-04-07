@@ -178,4 +178,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/ananthasuresh-08-apr-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Angappan M (16/04/21)",
+        "excerpt":"Thesis title:  Investigation of Thin Films for Frequency Selective Surface based Radar Absorbing Structures   Faculty advisor(s):  Prof. Praveen C Ramamurthy   Internal Guide:  Dr K. Vijayaraju, Assoc. TD (AF) &amp; Sc ‘H’,  Aeronautical Development Agency   When?  16th April, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/angappan-16-apr-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
