@@ -369,75 +369,9 @@ High Temperature stage( upto 400&deg;C)<br />
 </table>
 
 ### Mechanical Testing Lab
-<table>
-<tbody>
-<tr>
-<td valign="top"><b>Equipment</b></td>
-<td valign="top"><b>Nature of tests</b></td>
-<td valign="top"><b>Specs</b></td>
-</tr>
-<tr>
-<td colspan="3" valign="top"><b><i>Universal Testing Machines</i></b></td>
-</tr>
-<tr>
-<td valign="top">Dartec Servo-hydraulic UTM</td>
-<td valign="top">Compression,Tension</td>
-<td valign="top">Max Load(KN):100<br />Strain rate(/sec):10<sup>-4</sup> to 10<br />Temperature (<sup>o</sup>C) &lt;1000</td>
-</tr>
-<tr>
-<td valign="top">Instron 8032 Servo-hydraulicUTM</td>
-<td valign="top">Tension, Compression, Bending, Fracture, Low Cycle Fatigue</td>
-<td valign="top">Max Load(KN): 100<br />Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
-</tr>
-<tr>
-<td valign="top">Instron 8502 Servo-hydraulicUTM</td>
-<td valign="top">Stress Corrosion Studies</td>
-<td valign="top">Max Load(KN): 100<br />Strain rate(/sec):10<sup>-3</sup> to 10<sup>-1</sup></td>
-</tr>
-<tr>
-<td valign="top">Zwick/RoellScrew driven UTM</td>
-<td valign="top">Tension, Compression, Bending</td>
-<td valign="top">Max Load(KN):100 <br />Crosshead speed(mm/min):0.0005 to 200 <br />Temperature (<sup>o</sup>C) &lt;300<sup>o</sup>C</td>
-</tr>
-<tr>
-<td valign="top">Instron 5567 Screw driven UTM</td>
-<td valign="top">Tension,Compression</td>
-<td valign="top">Max Load(KN):30<br /> Cross head speed(mu/sec):0.1 to 500 <br />Temperature (<sup>o</sup>C) &lt;600<sup>o</sup>C</td>
-</tr>
-<tr>
-<td colspan="3" valign="top"><b><i>Impact and high strain rate testing machines</i></b></td>
-</tr>
-<tr>
-<td valign="top">Split-Hopkinson Pressure Bar (SHPB) apparatus</td>
-<td valign="top">High strain rate Compression</td>
-<td valign="top">Max Load (KN):20<br /> Strain rate(/sec):1000 to 4000 <br />Temperature (<sup>o</sup>C)&lt;600</td>
-</tr>
-<tr>
-<td valign="top">Instron Dynatup8250 Impact tester</td>
-<td valign="top">Instrumented Drop Weight Test</td>
-<td valign="top">Velocity (m/sec): 0.61 to 4.8<br /> Energy(Joules): 0.67 to 302<br /> Weight(kg): 2.5, 4.5,11.3,22.7, 34, 45.3 <br />Data Acquisition: Instron 930-I</td>
-</tr>
-<tr>
-<td valign="top">Tinius-Olsen Model T 84 Pendulum Impact tester</td>
-<td valign="top">Instrumented Charpy and Izod Impact Test</td>
-<td valign="top">Velocity(m/sec): 0.1 to 5.1<br /> Energy(Joules): 0.2 to 359<br /> Data Acquisition: Instron 930-I</td>
-<td valign="top"></td>
-</tr>
-<tr>
-<td colspan="3" valign="top"><b><i>Macro and Micro hardness testing machines</i></b></td>
-</tr>
-<tr>
-<td valign="top">Indentec Macro hardness tester</td>
-<td valign="top">Vickers,<br /> Brinell,<br /> Rockwell hardness</td>
-<td valign="top">Load Range(kgf)<br />Vickers: 3, 5, 10, 100 <br />Brinell: 5, 10, 62.5, 187.5 <br />Rockwell: 60, 100, 150 <br />Holding time(sec): 1 to 60</td>
-</tr>
-<tr>
-<td valign="top">Zwick/Roell ZHV microhardness tester</td>
-<td valign="top">Vickers microhardness</td>
-<td valign="top">Load Range(kgf): 3, 5, 10, 100<br /> Holding time(sec): 5 to 60<br /> Objective lenses: 10x, 40x</td>
-</tr>
-</tbody>
-</table>
+
+<b><a href="/pdfs/Mechanical-Testing-Facilities.pdf" target="_blank">Brochure of mechanical testing facilities</a></b>
+
 <u>Faculty In-charge</u>
 
 Prof. Satyam Suwas (satyamsuwas@iisc.ac.in)<br>
