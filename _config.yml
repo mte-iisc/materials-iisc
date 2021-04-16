@@ -222,6 +222,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-twitter-plugin
   - jekyll-seo-tag
+  - jekyll-lunr-js-search
 
 # mimic GitHub Pages with --safe
 whitelist:
