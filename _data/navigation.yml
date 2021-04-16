@@ -35,6 +35,8 @@ sidelinks:
     children:
             - title: "Activities"
               url: /activities
+            - title: "Opportunities"
+              url: /opportunities
             - title: "Join as faculty"
               url: /prospective-faculty
             - title: "Prospective students"
