@@ -186,8 +186,14 @@ var store = [{
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
         "title": "PhD Thesis Defence: Ms. Shrutee L  (28/04/21)",
-        "excerpt":"Thesis title:  Experimental study of multiphase flow in the presence of raceway in the packed beds   Faculty advisor(s):  Prof. Govind S Gupta   When?  28th April, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "excerpt":"Thesis title:  Experimental study of multiphase flow in the presence of raceway in the packed beds   Faculty advisor(s):  Prof. Govind S Gupta   When?  28th April, 2021 (Wednusday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/shrutee-28-apr-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "PhD Thesis Defence: Ms. Sweety Arora  (29/04/21)",
+        "excerpt":"Thesis title:  Electrochemical behavior of metallic coatings containing carbonaceous additive   Faculty advisor(s):  Prof. Chandan Srivastava   When?  29th April, 2021 (Thursday), 10:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/sweety-29-apr-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
