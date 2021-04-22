@@ -1,5 +1,5 @@
 ---
-title: "UCL Institute of Healthcare Engineering and the Indian Institute of Science joint webinar exploring "Materials in Medicine (13/05/21)"
+title: "UCL Institute of Healthcare Engineering and the Indian Institute of Science joint webinar exploring Materials in Medicine (13/05/21)"
 permalink: /seminar/ucl-13-may-2021
 ---
 

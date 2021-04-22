@@ -203,9 +203,9 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/priya-04-may-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
-        "title": null,
+        "title": "UCL Institute of Healthcare Engineering and the Indian Institute of Science joint webinar exploring Materials in Medicine (13/05/21)",
         "excerpt":"When?  13th May, 2021 (Thursday), 14:30 PM (India Standard Time)   Location  More details   ","categories": [],
-        "tags": null,
-        "url": "https://materials.iisc.ac.in/news/2021-05-13-seminar-ucl/",
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ucl-13-may-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
