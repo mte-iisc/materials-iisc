@@ -209,6 +209,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/priya-04-may-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },{
+        "title": "PhD Thesis Colloquium: Mr. Amith G. Anil (07/05/21)",
+        "excerpt":"Thesis title:  Architecting and Developing Sensors for Environmental Monitoring   Faculty advisor(s):  Prof. S. Subramanian and Prof. Praveen C. Ramamurthy   When?  7th May, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/amith-07-may-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
         "title": "UCL Institute of Healthcare Engineering and the Indian Institute of Science joint webinar exploring Materials in Medicine (13/05/21)",
         "excerpt":"When?  13th May, 2021 (Thursday), 14:30 PM (India Standard Time)   Location  More details   ","categories": [],
         "tags": [],
