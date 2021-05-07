@@ -223,6 +223,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-seo-tag
   - jekyll-lunr-js-search
+  - jekyll-pdf-embed
 
 # mimic GitHub Pages with --safe
 whitelist:
