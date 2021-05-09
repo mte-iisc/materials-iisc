@@ -1,6 +1,7 @@
 ---
 title: "Mini symposium on 'In-situ nanomechanical testing and property correlation' (01/06/21) "
 permalink: /colloquium/symposium-nanomechtest-1-jun-2021
+last_modified_at: 07-05-2021
 ---
 ### Event description:
 Probing the mechanical behaviour of materials at the nanoscale is necessary for the development of new nanostructured materials and continued miniaturization of engineering devices, electronic components, thin films, and surface coatings. This symposium will cover state of the art topics related to cutting edge developments in nanoscale mechanical characterization of materials such as metals, alloys, ceramics and organic crystals; used in such applications. The talks will demonstrate in-situ nano-mechanical testing techniques to extract site specific properties across temperatures and environments in a high throughput manner, as well as introduce data science approaches for the same. The lecturethemes are relevant to both audiences from academia and industry.

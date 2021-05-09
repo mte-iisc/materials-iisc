@@ -25,7 +25,7 @@ description              : "Website of Department of Materials Engineering, Indi
 url                      : "https://materials.iisc.ac.in"
 baseurl                  : ""
 repository               : "mte-iisc/materials-iisc"
-teaser                   : "/assets/images/IISclogo.png"
+#teaser                   : "/assets/images/IISclogo.png"
 logo                     : "/assets/images/IISclogo.png"
 masthead_title           : "Materials Engineering"
 # breadcrumbs            : false # true, false (default)
@@ -208,8 +208,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
-paginate_path: /page:num/
+paginate: 10 # amount of posts to show
+paginate_path: /news/page:num/
 timezone: Asia/Kolkata
 
 
@@ -281,6 +281,9 @@ collections:
   highlights:
    output: true
    permalink: /:collection/:path/
+  archive:
+   output: true
+   permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -330,6 +333,19 @@ defaults:
       read_time: true
       comments: # true
       share: true
+      related: false
+      sidebar:
+         nav: "sidelinks"
+  # _archive
+  - scope:
+      path: ""
+      type: archive
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
       related: false
       sidebar:
          nav: "sidelinks"
