@@ -4,7 +4,7 @@ permalink: /colloquium/anupam-24-may-2021
 last_modified_at: 15-05-2021
 ---
 ### Thesis title:
-Effect ​of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based  piezoceramics
+Effect of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based piezoceramics
 
 ### Faculty advisor(s):
 Prof. Rajeev Ranjan
