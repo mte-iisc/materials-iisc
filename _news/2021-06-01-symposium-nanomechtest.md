@@ -1,6 +1,6 @@
 ---
 title: "Mini symposium on 'In-situ nanomechanical testing and property correlation' (01/06/21) "
-permalink: /colloquium/symposium-nanomechtest-1-jun-2021
+permalink: /symposium/nanomechtest-1-jun-2021
 last_modified_at: 07-05-2021
 ---
 ### Event description:
