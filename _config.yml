@@ -52,9 +52,12 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true #, false (default)
 search_provider          : lunr #lunr (default), algolia, google
+#lunr_search              :
+#  js_dir                 : "assets/js/lunr"
+#  min_length             : 3
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -146,6 +149,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - single
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -263,7 +267,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - https://jch.penibelst.de/

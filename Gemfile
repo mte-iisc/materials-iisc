@@ -3,4 +3,5 @@ gem 'jekyll-twitter-plugin'
 gem 'jekyll-seo-tag'
 gem 'jekyll-lunr-js-search'
 gem 'jekyll-pdf-embed'
+gem 'json'
 gemspec

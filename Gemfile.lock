@@ -127,6 +127,7 @@ DEPENDENCIES
   jekyll-pdf-embed
   jekyll-seo-tag
   jekyll-twitter-plugin
+  json
   minimal-mistakes-jekyll!
   rake (>= 12.3.3)
 

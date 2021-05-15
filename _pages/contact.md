@@ -11,5 +11,5 @@ Javanica Marg<br>
 Indian Institute of Science<br>
 Bengaluru 560012<br>
 Karnataka, India<br>
-<i class="fa fa-envelope fa-1x" aria-hidden="true"></i> <a href="mailto:office.mte@iisc.ac.in"> office.mte@iisc.ac.in</a><br>
+<i class="fa fa-envelope fa-1x" aria-hidden="true"></i> <a href="mailto:office.mte@iisc.ac.in"> office[dot]mte[at]iisc[dot]ac[dot]in</a><br>
 <i class="fa fa-phone fa-1x" aria-hidden="true"></i> <a href="tel:+918022932259"> +91-80-2293-2259</a>
