@@ -1,5 +1,5 @@
 ---
-title: Archived list of events
+title: News archive
 layout: collection
 permalink: /news-archive
 collection: archive
