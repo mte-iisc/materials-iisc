@@ -79,7 +79,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Shavi Agrawal</td><td>	Satyam Suwas & Avadhani G S</td><td>shaviagrawal</td></tr>
 <tr><td>Madhavi Tripathi </td><td> 	Ashok M Raichur</td><td>madhavit</td></tr>
 <tr><td>Sandeep Kumar Mondal</td><td>	Subho Dasgupta</td><td>sandeepkm</td></tr>
-<tr><td>Sushma I</td><td>	Kaushik Chatterjee</td><td>sushmakumari</td></tr>
+<tr><td>Sushma I</td><td>	Kaushik Chatterjee</td><td>sushmai</td></tr>
 <tr><td>Saurabh Kumar Gupta</td><td>Satyam Suwas & Kaushik Chatterjee</td><td>saurabhkg</td></tr>
 <tr><td>Faizan Hijazi </td><td>Praveen Kumar</td><td>faizanh</td></tr>
 <tr><td>Telpande Swanand Prashant</td><td>Praveen Kumar</td><td>swanandt</td></tr>
