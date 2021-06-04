@@ -252,7 +252,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Smart materials for smart healthcare (03/06/21)",
-        "excerpt":"Speaker and Affliation:  Dr. Sunita Mehta   CSIR Young Scientist   CSIR-CSIO Chandigarh   Chandigarh- 160030    When?  3rd June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "excerpt":"Speaker and Affliation:  Dr. Sunita Mehta   CSIR Young Scientist  CSIR-CSIO Chandigarh  Chandigarh- 160030    When?  3rd June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/sunita-03-jun-2021",
         "teaser": null

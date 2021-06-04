@@ -5,8 +5,8 @@ permalink: /seminar/sunita-03-jun-2021
 
 ### Speaker and Affliation:
 Dr. Sunita Mehta<br> 
-CSIR Young Scientist<br>  
-CSIR-CSIO Chandigarh<br>  
+CSIR Young Scientist<br>
+CSIR-CSIO Chandigarh<br>
 Chandigarh- 160030<br>
 
 ### When?
