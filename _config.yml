@@ -25,7 +25,7 @@ description              : "Website of Department of Materials Engineering, Indi
 url                      : "https://materials.iisc.ac.in"
 baseurl                  : ""
 repository               : "mte-iisc/materials-iisc"
-teaser                   : "/assets/images/IISclogo.png"
+#teaser                   : "/assets/images/IISclogo.png"
 logo                     : "/assets/images/IISclogo.png"
 masthead_title           : "Materials Engineering"
 # breadcrumbs            : false # true, false (default)
@@ -52,9 +52,12 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true #, false (default)
 search_provider          : lunr #lunr (default), algolia, google
+#lunr_search              :
+#  js_dir                 : "assets/js/lunr"
+#  min_length             : 3
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -146,6 +149,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - single
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -208,8 +212,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
-paginate_path: /page:num/
+paginate: 10 # amount of posts to show
+paginate_path: /news/page:num/
 timezone: Asia/Kolkata
 
 
@@ -223,6 +227,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-seo-tag
   - jekyll-lunr-js-search
+  - jekyll-pdf-embed
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -263,7 +268,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
@@ -278,6 +282,9 @@ collections:
    output: true
    permalink: /:collection/:path/
   highlights:
+   output: true
+   permalink: /:collection/:path/
+  archive:
    output: true
    permalink: /:collection/:path/
 
@@ -329,6 +336,19 @@ defaults:
       read_time: true
       comments: # true
       share: true
+      related: false
+      sidebar:
+         nav: "sidelinks"
+  # _archive
+  - scope:
+      path: ""
+      type: archive
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
       related: false
       sidebar:
          nav: "sidelinks"

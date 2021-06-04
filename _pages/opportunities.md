@@ -6,7 +6,7 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
-<u>Advertisement for the Post of Project Associate posted on 19 Apr 2021:</u>
+## Advertisement for the post of Project Associate (19 Apr 2021)
 
 Project Associate for a National supercomputing mission project titled "Repository of High performance phase-field solvers for MicrostructureSimulation (MicroSim)"
 
@@ -23,8 +23,9 @@ More information will be available by writing to abhiknc@iisc.ac.in.
 <b>Duration:</b> 2 years commencing immediately
 
 <b>How to apply:</b> Interested and qualified candidates should send their applications as PDF files furnishing the bio-data, copies of certificates in support of age, qualification, experience etc., to abhiknc@iisc.ac.in before April 30, 2020.
+<br>
 
-<u>Advertisement for the Post of Project Assistant and Research Associate posted on 16 Apr 2021:</u>
+## Advertisement for the posts of Project Assistant and Research Associate (16 Apr 2021)
 
 A research position is available on a project at Indian Institute of Science to use artificial neural networks (and supervised machine learning) to extract material properties from large amounts of experimental data collected from bending tests. Bending tests under creep conditions or at constant displacement rate coupled with digital image correlation allows the collection of tens or hundreds of data sets, from a single test, of strain as a function of time at different locations of the beam that experience different stress histories . The scientific challenge lies in developing optimisation procedures to reconstruct the constitutive behaviour of the material from such big data.
 

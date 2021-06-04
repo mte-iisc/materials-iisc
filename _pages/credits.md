@@ -4,7 +4,7 @@ layout: single
 permalink: /credits
 classes: wide
 ---
-The current website has been created and is maintained by the following contributers. Please drop a line to any of them to provide feedback and in case of any technical difficulties.
+The current website has been created and is maintained by the following contributors. Please drop a line to any of them to provide feedback and in case of any technical difficulties.
 
 | --------         | ------    |
 | <img src="{{ site.baseurl }}/assets/images/faculty/praveenkumar.jpg" width=120px>    |  Praveen Kumar <br> Associate Professor <br> praveenk[at]iisc[dot]ac[dot]in <br> +91 80 2293 3369    |
