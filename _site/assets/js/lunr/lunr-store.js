@@ -220,4 +220,16 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/ucl-13-may-2021",
         "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "Smart materials for smart healthcare (03/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Sunita Mehta   CSIR Young Scientist   CSIR-CSIO Chandigarh   Chandigarh- 160030    When?  3rd June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/sunita-03-jun-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
+      },{
+        "title": "Reliability Testing and Failure Analysis of Solar Photovoltaic Packaging Materials (07/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Archana Sinha   Postdoctoral Researcher   Stanford University and SLAC National Accelerator Laboratory   USA.    When?  7th June, 2021 (Monday), 11:30 AM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/archana-07-jun-2021",
+        "teaser": "https://materials.iisc.ac.in/assets/images/IISclogo.png"
       },]
