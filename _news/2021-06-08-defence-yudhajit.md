@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Defence: Mr. Yudhajit Bhattacharjee (08/06/21)"
-permalink: /defence/yudhajit-8-jun-2021
+permalink: /defence/yudhajit-08-jun-2021
 last_modified_at: 08-06-2021
 ---
 ### Thesis title:

@@ -266,6 +266,6 @@ var store = [{
         "title": "PhD Thesis Defence: Mr. Yudhajit Bhattacharjee (08/06/21)",
         "excerpt":"Thesis title:  Polyvinylidene fluoride (PVDF) based nanocomposites with multi-layered architecture containing core-shell nanostructures for Electromagnetic Interference shielding   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  8th June, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/yudhajit-8-jun-2021",
+        "url": "https://materials.iisc.ac.in/defence/yudhajit-08-jun-2021",
         "teaser": null
       },]
