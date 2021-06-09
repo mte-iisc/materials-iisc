@@ -268,4 +268,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/yudhajit-08-jun-2021",
         "teaser": null
+      },{
+        "title": "Emergent phenomena of polar topologies (11/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Sujit Das  Unité Mixte de Physique CNRS Thales, France  Department of Materials Science &amp; Engineering,   University of California,  Berkeley, CA 94720, USA    When?  11th June, 2021 (Friday), 02:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
+        "teaser": null
       },]
