@@ -275,6 +275,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/ahmed-10-jun-2021",
         "teaser": null
       },{
+        "title": "Multicomponent High-Entropy Cantor Alloys (10/06/21)",
+        "excerpt":"The 10th Prof. P.Ramachandra Rao Memorial Lecture (2021) is being organized on June 10th, 2021. The Department of Materials Engineering, Indian Institute of Science, Bangalore, is the organizer of this year’s lecture and Professor Vikram Jayram, Dean, Mechanical Sciences, Indian Institute of Science, will preside over the function. It is our pleasure to invite you to this lecture cordially.   Speaker and Affliation:  Professor Brian Cantor  Department of Materials, University of Oxford and  Brunel Centre for Advanced Solidification Technology,  Brunel University, London    When?  10th June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/brian-10-jun-2021",
+        "teaser": null
+      },{
         "title": "Emergent phenomena of polar topologies (11/06/21)",
         "excerpt":"Speaker and Affliation:  Dr. Sujit Das  Unité Mixte de Physique CNRS Thales, France  Department of Materials Science &amp; Engineering,   University of California,  Berkeley, CA 94720, USA    When?  11th June, 2021 (Friday), 02:00 PM (India Standard Time)   Location  More details   ","categories": [],
         "tags": [],
