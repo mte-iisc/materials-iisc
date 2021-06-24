@@ -286,4 +286,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Abhay Gupta (05/07/21)",
+        "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  5th July, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/abhay-05-jul-2021",
+        "teaser": null
       },]
