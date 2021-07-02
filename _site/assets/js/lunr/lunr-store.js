@@ -287,6 +287,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
         "teaser": null
       },{
+        "title": "Mr. Shobhit Pratap Singh wins the 2022 Acta Student Award (02/07/21)",
+        "excerpt":"Mr. Shobhit Pratap Singh has been selected to receive an Acta Student Award for your primary contribution to the manuscript, “The low-stress and high-temperature creep in LiF single crystals: An explanation for the So-called Harper-Dorn creep.”   The field of nominees was very impressive, and the task of selecting winners was challenging.  Not only did your paper demonstrate exceptional value to the materials community, but your personal credentials and recommendations were also exemplary.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/shobhit-02-july-2021",
+        "teaser": null
+      },{
         "title": "PhD Thesis Colloquium: Mr. Abhay Gupta (05/07/21)",
         "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  5th July, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
