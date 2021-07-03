@@ -161,6 +161,42 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/ankur-29-apr-2021",
         "teaser": null
       },{
+        "title": "Computational Design of Materials and Processes for Manufacturing and Energy Applications (04/05/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Pikee Priya  Postdoctoral Research Associate   Department of Mechanical Science and Engineering   University of Illinois   Urbana-Champaign, IL, United States    When?  04th May, 2021 (Tuesday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  Despite the remarkable progress made in the areas of advanced manufacturing and energy technologies, there still exist roadblocks to ‘efficient processing’ along with ‘excellent functional performance’ of materials, making systematic design of both materials and processes a necessity. The understanding of the material physics embodied by chemistryprocessing-structure-property correlation falls short due to the rapid developments in these fields. In this talk, I will discuss microstructural evolution during advanced manufacturing processes like Selective Laser Melting (SLM). Processing parameters during laser based additive manufacturing affect the fluid flow, heat transfer, and solidification characteristics in the melt pool, leading to microstructural variants of texture, grain size, and morphology. A finite volume based Computational Fluid Dynamics model coupled with solidification physics has been developed to predict melting, flow, solidification, and resulting microstructural characteristics during such processes. The variation of texture, grain size and columnar/equiaxed morphology of the grains with laser power and speed has been verified against experiments. The difference in cooling curves and evolution of temperature gradients and cooling rates during solidification leading to a difference in each microstructural variant has been identified. Lower laser power and higher scan rates lead to “unconstrained” solidification with small variation of solidification times across the melt pool depth leading to finer grain structure with lower grain boundary misorientations. On the other hand, higher power and lower scan rates lead to “constrained” solidification, with huge variations in solidification times, coarser grains and highly misoriented grain boundaries. Hunt’s criterion-based processing maps for understanding the morphological variants has been prepared for systematic design of microstructure during the SLM process. In the next part, I will briefly present my work on a robust multiscale computational approach to design electrochemical materials for Solid Oxide Fuel/Electrolyzer Cells (SOF/EC). The depletion of fossil fuels and rapidly deteriorating ‘global warming’ situation with climate change has created a demand for the greener and renewable energy conversion and storage technologies. Understanding the electrochemical characteristics of materials used for these technologies is the first step towards material design. The prediction of electrochemical characteristics for protonconducting Yttrium doped Barium Zirconate based SOF/EC, using a multiscale framework combining physics at the atomistic, meso, and continuum scales will be discussed. I will also talk about uncertainty quantification and machine learning techniques such as neural networks and random forest to optimize chemistry for different temperatures and atmospheres for pure/doped perovskites. These projects provide new scientific insights and demonstrate the possible application of the introduced methodology for virtual certification of the next generation of high-performance materials and manufactured products.   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/priya-04-may-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Amith G. Anil (07/05/21)",
+        "excerpt":"Thesis title:  Architecting and Developing Sensors for Environmental Monitoring   Faculty advisor(s):  Prof. S. Subramanian and Prof. Praveen C. Ramamurthy   When?  7th May, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/amith-07-may-2021",
+        "teaser": null
+      },{
+        "title": "UCL Institute of Healthcare Engineering and the Indian Institute of Science joint webinar exploring Materials in Medicine (13/05/21)",
+        "excerpt":"When?  13th May, 2021 (Thursday), 14:30 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ucl-13-may-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Anupam Mishra (24/05/21)",
+        "excerpt":"Thesis title:  Effect of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  24th May, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/anupam-24-may-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Khanna Sumeet Rajesh (25/05/21)",
+        "excerpt":"Thesis title:  Eutectic Microstructures: Role of interfacial energy anisotropy and diffusivities   Faculty advisor(s):  Prof. Abhik Choudhury   When?  25th May, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/khanna-25-may-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr.  Aramanda Shanmukha Kiran (25/05/21)",
+        "excerpt":"Thesis title:  Exotic eutectic microstructures   Faculty advisor(s):  Prof. Abhik Choudhury &amp; Prof. Kamanio Chattopadhyay   When?  25th May, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/kiran-25-may-2021",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -203,42 +239,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
-        "title": "Computational Design of Materials and Processes for Manufacturing and Energy Applications (04/05/21)",
-        "excerpt":"Speaker and Affliation:  Dr. Pikee Priya  Postdoctoral Research Associate   Department of Mechanical Science and Engineering   University of Illinois   Urbana-Champaign, IL, United States    When?  04th May, 2021 (Tuesday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  Despite the remarkable progress made in the areas of advanced manufacturing and energy technologies, there still exist roadblocks to ‘efficient processing’ along with ‘excellent functional performance’ of materials, making systematic design of both materials and processes a necessity. The understanding of the material physics embodied by chemistryprocessing-structure-property correlation falls short due to the rapid developments in these fields. In this talk, I will discuss microstructural evolution during advanced manufacturing processes like Selective Laser Melting (SLM). Processing parameters during laser based additive manufacturing affect the fluid flow, heat transfer, and solidification characteristics in the melt pool, leading to microstructural variants of texture, grain size, and morphology. A finite volume based Computational Fluid Dynamics model coupled with solidification physics has been developed to predict melting, flow, solidification, and resulting microstructural characteristics during such processes. The variation of texture, grain size and columnar/equiaxed morphology of the grains with laser power and speed has been verified against experiments. The difference in cooling curves and evolution of temperature gradients and cooling rates during solidification leading to a difference in each microstructural variant has been identified. Lower laser power and higher scan rates lead to “unconstrained” solidification with small variation of solidification times across the melt pool depth leading to finer grain structure with lower grain boundary misorientations. On the other hand, higher power and lower scan rates lead to “constrained” solidification, with huge variations in solidification times, coarser grains and highly misoriented grain boundaries. Hunt’s criterion-based processing maps for understanding the morphological variants has been prepared for systematic design of microstructure during the SLM process. In the next part, I will briefly present my work on a robust multiscale computational approach to design electrochemical materials for Solid Oxide Fuel/Electrolyzer Cells (SOF/EC). The depletion of fossil fuels and rapidly deteriorating ‘global warming’ situation with climate change has created a demand for the greener and renewable energy conversion and storage technologies. Understanding the electrochemical characteristics of materials used for these technologies is the first step towards material design. The prediction of electrochemical characteristics for protonconducting Yttrium doped Barium Zirconate based SOF/EC, using a multiscale framework combining physics at the atomistic, meso, and continuum scales will be discussed. I will also talk about uncertainty quantification and machine learning techniques such as neural networks and random forest to optimize chemistry for different temperatures and atmospheres for pure/doped perovskites. These projects provide new scientific insights and demonstrate the possible application of the introduced methodology for virtual certification of the next generation of high-performance materials and manufactured products.   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/priya-04-may-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Amith G. Anil (07/05/21)",
-        "excerpt":"Thesis title:  Architecting and Developing Sensors for Environmental Monitoring   Faculty advisor(s):  Prof. S. Subramanian and Prof. Praveen C. Ramamurthy   When?  7th May, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/amith-07-may-2021",
-        "teaser": null
-      },{
-        "title": "UCL Institute of Healthcare Engineering and the Indian Institute of Science joint webinar exploring Materials in Medicine (13/05/21)",
-        "excerpt":"When?  13th May, 2021 (Thursday), 14:30 PM (India Standard Time)   Location  More details   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/ucl-13-may-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Anupam Mishra (24/05/21)",
-        "excerpt":"Thesis title:  Effect of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  24th May, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/anupam-24-may-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Khanna Sumeet Rajesh (25/05/21)",
-        "excerpt":"Thesis title:  Eutectic Microstructures: Role of interfacial energy anisotropy and diffusivities   Faculty advisor(s):  Prof. Abhik Choudhury   When?  25th May, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/khanna-25-may-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr.  Aramanda Shanmukha Kiran (25/05/21)",
-        "excerpt":"Thesis title:  Exotic eutectic microstructures   Faculty advisor(s):  Prof. Abhik Choudhury &amp; Prof. Kamanio Chattopadhyay   When?  25th May, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/kiran-25-may-2021",
-        "teaser": null
-      },{
         "title": "Prof. K. T. Jacob wins the 2022 J. Willard Gibbs Equilibria Award (29/05/21)",
         "excerpt":"Prof. K. T. Jacob has been selected to received the 2022 J. Willard Gibbs Equilibria Award that is presented by the American Society of Metals (ASM) International. He has received this honor “for outstanding leadership in research and education in the area of thermodynamics and phase equilibria of metal and ceramic systems, encompassing innovation in experimental techniques and applications to materials processing”. The award will be presented at the ASM Awards Dinner scheduled to take place during the International Materials, Applications and Technologies (IMAT) 2022 meeting.   The award was established in 2007 to recognize outstanding contributions to the field of Phase Equilibria. The award honors J. Willard Gibbs, one of America’s greatest theoretical scientists. In addition to many other contributions, Gibbs laid the thermodynamic foundations of phase equilibria theory with his brilliant essay “On the Equilibrium of Heterogeneous Substances” published in 1876 and 1878 in the Transactions of the Connecticut Academy.  ","categories": [],
         "tags": [],
@@ -249,5 +249,53 @@ var store = [{
         "excerpt":"Event description:  Probing the mechanical behaviour of materials at the nanoscale is necessary for the development of new nanostructured materials and continued miniaturization of engineering devices, electronic components, thin films, and surface coatings. This symposium will cover state of the art topics related to cutting edge developments in nanoscale mechanical characterization of materials such as metals, alloys, ceramics and organic crystals; used in such applications. The talks will demonstrate in-situ nano-mechanical testing techniques to extract site specific properties across temperatures and environments in a high throughput manner, as well as introduce data science approaches for the same. The lecture themes are relevant to both audiences from academia and industry.   Organizers:  Indian Institute of Science, Indian Institute of Technology Bombay, Brucker, and Industron   When?  1st and 2nd June, 2021, 4pm-6.30pm IST   Registration Links  Day 1: Zoom link   Day 2: Zoom link   Event flyer         ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/symposium/nanomechtest-1-jun-2021",
+        "teaser": null
+      },{
+        "title": "Smart materials for smart healthcare (03/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Sunita Mehta   CSIR Young Scientist  CSIR-CSIO Chandigarh  Chandigarh- 160030    When?  3rd June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/sunita-03-jun-2021",
+        "teaser": null
+      },{
+        "title": "Reliability Testing and Failure Analysis of Solar Photovoltaic Packaging Materials (07/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Archana Sinha   Postdoctoral Researcher   Stanford University and SLAC National Accelerator Laboratory   USA.    When?  7th June, 2021 (Monday), 11:30 AM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/archana-07-jun-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Yudhajit Bhattacharjee (08/06/21)",
+        "excerpt":"Thesis title:  Polyvinylidene fluoride (PVDF) based nanocomposites with multi-layered architecture containing core-shell nanostructures for Electromagnetic Interference shielding   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  8th June, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/yudhajit-08-jun-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Ahmed Aliyu (10/06/21)",
+        "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  10th June, 2021 (Thursday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/ahmed-10-jun-2021",
+        "teaser": null
+      },{
+        "title": "Multicomponent High-Entropy Cantor Alloys (10/06/21)",
+        "excerpt":"The 10th Prof. P.Ramachandra Rao Memorial Lecture (2021) is being organized on June 10th, 2021. The Department of Materials Engineering, Indian Institute of Science, Bangalore, is the organizer of this year’s lecture and Professor Vikram Jayram, Dean, Mechanical Sciences, Indian Institute of Science, will preside over the function. It is our pleasure to invite you to this lecture cordially.   Speaker and Affliation:  Professor Brian Cantor  Department of Materials, University of Oxford and  Brunel Centre for Advanced Solidification Technology,  Brunel University, London    When?  10th June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/brian-10-jun-2021",
+        "teaser": null
+      },{
+        "title": "Emergent phenomena of polar topologies (11/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Sujit Das  Unité Mixte de Physique CNRS Thales, France  Department of Materials Science &amp; Engineering,   University of California,  Berkeley, CA 94720, USA    When?  11th June, 2021 (Friday), 02:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
+        "teaser": null
+      },{
+        "title": "Mr. Shobhit Pratap Singh wins the 2022 Acta Student Award (02/07/21)",
+        "excerpt":"“Mr. Shobhit Pratap Singh has been selected to receive an Acta Student Award for his primary contribution to the manuscript, “The low-stress and high-temperature creep in LiF single crystals: An explanation for the So-called Harper-Dorn creep.”   The citation reads: “The field of nominees was very impressive, and the task of selecting winners was challenging. Not only did your paper demonstrate exceptional value to the materials community, but your personal credentials and recommendations were also exemplary.”   The award will be given during TMS 2022 at Anaheim, CA (USA).  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/shobhit-02-july-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Abhay Gupta (05/07/21)",
+        "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  5th July, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/abhay-05-jul-2021",
         "teaser": null
       },]
