@@ -298,4 +298,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/abhay-05-jul-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Radhika Wazalwar (20/07/21)",
+        "excerpt":"Thesis title:  Mechanical and curing behavior of tetra-functional epoxy reinforced with nanofillers   Faculty advisor(s):  Prof. Ashok M Raichur   When?  20th July, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/radhika-20-jul-2021",
+        "teaser": null
       },]
