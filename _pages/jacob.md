@@ -21,7 +21,7 @@ D.I.C. (1970), Imperial College<br>
 B.E. (1967), IISc<br>
 B.Sc. (1964), Univ. of Mysore<br>
 
-##Awards
+## Awards
 International Hoffman Memorial Prize;<br>
 National Metallurgists Day Award;<br>
 MRSI Medal;<br>
