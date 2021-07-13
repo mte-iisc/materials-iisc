@@ -57,7 +57,7 @@ We also focus on problems (both industrial and fundamental) pertaining to the fi
 
 We also work on ferroelectric and piezoelectric materials, relaxor ferroelectrics, magnetic materials, multiferroic materials, and structure-property relationships. We design, synthesize and characterize bandgap engineering molecules for organic electronics applications such as photovoltaics, field-effect transistors (FET), sensors, and EMI. We also use unconventional electrochemistry to control the electronic properties of inorganic semiconductors. Our expertise lies in solution processing/ printing of different metallic (pure metal, transparent conductors), semiconducting (oxides, carbon-based, 2D semiconductors, etc.), and insulator inks (CSPEs, SANDs) towards the fabrication of various functional devices, with a primary emphasis on field-effect devices. Optimization of material composition, printing parameters, curing routines, and device geometry is performed regularly in order to obtain augmented static/high-frequency performance at a device, as well as at the circuit level. We design and fabricate molecules for sensors to detect heavy metal (Cr and Pb) ions and nitrate.
 
-<img src="{{ site.baseurl }}/assets/images/research/Picture6.png" width=920px>
+<!--img src="{{ site.baseurl }}/assets/images/research/Picture6.png" width=920px-->
 
 ## Solidification, Thermodynamics, and Computational Materials
 
