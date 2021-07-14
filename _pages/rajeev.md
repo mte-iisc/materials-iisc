@@ -13,7 +13,7 @@ Bangalore-560012, INDIA<br>
 Tel: +91-80-2293 2989<br>
 email: rajeev_at_iisc.ac.in<br>
 
-## Education
+## Education:
 Ph.D. (2000), BHU, Varanasi<br>
 M.Tech (1994), IIT, Kanpur<br>
 M.Sc. (1992), BHU, Varanasi<br>
