@@ -299,6 +299,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/abhay-05-jul-2021",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Mr. Gyan Shankar (19/07/21)",
+        "excerpt":"Thesis title:  Evolution of recrystallization texture in face-centred cubic materials: Role of twin-boundaries   Faculty advisor(s):  Prof. Satyam Suwas   When?  19th July, 2021 (Monday), 3:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/gyan-19-jul-2021",
+        "teaser": null
+      },{
         "title": "PhD Thesis Colloquium: Ms. Radhika Wazalwar (20/07/21)",
         "excerpt":"Thesis title:  Mechanical and curing behavior of tetra-functional epoxy reinforced with nanofillers   Faculty advisor(s):  Prof. Ashok M Raichur   When?  20th July, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
