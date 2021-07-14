@@ -5,7 +5,7 @@ classes: wide
 permalink: /faculty/rajeev
 ---
 
-Professor<br>
+Professor
 
 E-408, Department of Materials Engineering<br>
 Indian Institute of Science<br>
@@ -30,19 +30,17 @@ Ferroelectric and piezoelectric materials, Relaxor ferroelectrics, Magnetic mate
 
 ## Selected Recent Publications
 
-1. Gobinda Das Adhikary, Bhoopesh Mahale, Badari Narayana Rao, Anatoliy Senyshyn, and Rajeev Ranjan
-Depoling phenomenon in Na0.5Bi0.5TiO3-BaTiO3: A structural perspective
-Physical Review B  103, 184106 (2021) 
-
+1. Gobinda Das Adhikary, Bhoopesh Mahale, Badari Narayana Rao, Anatoliy Senyshyn, and Rajeev Ranjan<br>
+Depoling phenomenon in Na0.5Bi0.5TiO3-BaTiO3: A structural perspective<br>
+Physical Review B  103, 184106 (2021)<br> 
      
-2. Arnab De and Rajeev Ranjan 
-Large temperature tuning of emission color of a phosphor by dual use of Raman and Photoluminescence signals 
-Materials Horizons 7, 1101 (2020) 
-
+2. Arnab De and Rajeev Ranjan<br> 
+Large temperature tuning of emission color of a phosphor by dual use of Raman and Photoluminescence signals <br>
+Materials Horizons 7, 1101 (2020) <br>
      
-3. Bastola Narayan, Jaskaran Singh Malhotra, Rishikesh Pandey, Krishna Yaddanapudi, Pavan Nukala, Brahim Dkhil, Anatoliy Senyshyn and Rajeev Ranjan  
-“Electrostrain in excess of 1% in polycrystalline piezoelectrics”  
-Nature Materials 17, 427 (2018)  
+3. Bastola Narayan, Jaskaran Singh Malhotra, Rishikesh Pandey, Krishna Yaddanapudi, Pavan Nukala, Brahim Dkhil, Anatoliy Senyshyn and Rajeev Ranjan  <br>
+“Electrostrain in excess of 1% in polycrystalline piezoelectrics”  <br>
+Nature Materials 17, 427 (2018)  <br>
 
 <a title="Prof. Rajeev Ranjan's publications" href="/pdfs/List of publications _Rajeev.pdf" target="_blank" rel="noopener">Total publications: 156</a>
 
