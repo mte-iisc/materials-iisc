@@ -6,6 +6,7 @@ permalink: /faculty/rajeev
 ---
 
 Professor<br>
+
 E-408, Department of Materials Engineering<br>
 Indian Institute of Science<br>
 Bangalore-560012, INDIA<br>
@@ -28,19 +29,22 @@ Alexander von Humboldt Fellowship April 2006- Sept 2007<br>
 Ferroelectric and piezoelectric materials, Relaxor ferroelectrics, Magnetic materials, Multiferroic materials, Structure-property correlations.<br>
 
 ## Selected Recent Publications
-1. Rishikesh Pandey, Bastola Narayan, Dipak Kumar Khatua, Shekhar Tyagi, Ali Mostaed, Mulualem Abebe, Vasant Sathe, Ian M. Reaney and Rajeev Ranjan<br>
-High electromechanical response in non-MPB piezoelectrics<br>
-Phys. Rev. B 97, 224109 (2018)<br>
 
-2. Bastola Narayan, Jaskaran Singh Malhotra, Rishikesh Pandey, Krishna Yaddanapudi, Pavan Nukala, Brahim Dkhil, Anatoliy Senyshyn and Rajeev Ranjan<br>
-Electrostrain in excess of 1% in polycrystalline piezoelectrics<br>
-Nature Materials 17, 427 (2018)<br>
+1. Gobinda Das Adhikary, Bhoopesh Mahale, Badari Narayana Rao, Anatoliy Senyshyn, and Rajeev Ranjan
+Depoling phenomenon in Na0.5Bi0.5TiO3-BaTiO3: A structural perspective
+Physical Review B  103, 184106 (2021) 
 
-3. Arnab De and Rajeev Ranjan<br>
-Synergistic role of poling in enhancing structural heterogeneity in perovskite piezoelectrics<br>
-Phys. Rev. B 98, 094111 (2018) <br>
+     
+2. Arnab De and Rajeev Ranjan 
+Large temperature tuning of emission color of a phosphor by dual use of Raman and Photoluminescence signals 
+Materials Horizons 7, 1101 (2020) 
 
-<a title="Prof. Rajeev Ranjan's publications" href="/wp-content/uploads/2019/04/RajeevPublications2018.pdf" target="_blank" rel="noopener">Total publications: 143</a>
+     
+3. Bastola Narayan, Jaskaran Singh Malhotra, Rishikesh Pandey, Krishna Yaddanapudi, Pavan Nukala, Brahim Dkhil, Anatoliy Senyshyn and Rajeev Ranjan  
+“Electrostrain in excess of 1% in polycrystalline piezoelectrics”  
+Nature Materials 17, 427 (2018)  
+
+<a title="Prof. Rajeev Ranjan's publications" href="/pdfs/List of publications _Rajeev.pdf" target="_blank" rel="noopener">Total publications: 156</a>
 
 ## Teaching
 Structure and characterization of materials, Elements of materials physics.
