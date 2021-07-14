@@ -20,6 +20,7 @@ M.Tech (1994), IIT, Kanpur<br>
 M.Sc. (1992), BHU, Varanasi<br>
 
 ## Award
+Fellow of the Indian Academy of Sciences (FASc)<br>
 Metallurgist of the Year 2018 (NMD award of the Ministry of Steel)<br>
 Distinguished Investigator Award (DIA) of SERB (DST) 2018.<br>
 Elected Associate Fellow (Asia Pacific Academy of Materials) APAM 2017<br>
