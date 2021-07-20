@@ -197,6 +197,48 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/kiran-25-may-2021",
         "teaser": null
       },{
+        "title": "Mini symposium on 'In-situ nanomechanical testing and property correlation' (01/06/21) ",
+        "excerpt":"Event description:  Probing the mechanical behaviour of materials at the nanoscale is necessary for the development of new nanostructured materials and continued miniaturization of engineering devices, electronic components, thin films, and surface coatings. This symposium will cover state of the art topics related to cutting edge developments in nanoscale mechanical characterization of materials such as metals, alloys, ceramics and organic crystals; used in such applications. The talks will demonstrate in-situ nano-mechanical testing techniques to extract site specific properties across temperatures and environments in a high throughput manner, as well as introduce data science approaches for the same. The lecture themes are relevant to both audiences from academia and industry.   Organizers:  Indian Institute of Science, Indian Institute of Technology Bombay, Brucker, and Industron   When?  1st and 2nd June, 2021, 4pm-6.30pm IST   Registration Links  Day 1: Zoom link   Day 2: Zoom link   Event flyer         ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/symposium/nanomechtest-1-jun-2021",
+        "teaser": null
+      },{
+        "title": "Smart materials for smart healthcare (03/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Sunita Mehta   CSIR Young Scientist  CSIR-CSIO Chandigarh  Chandigarh- 160030    When?  3rd June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/sunita-03-jun-2021",
+        "teaser": null
+      },{
+        "title": "Reliability Testing and Failure Analysis of Solar Photovoltaic Packaging Materials (07/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Archana Sinha   Postdoctoral Researcher   Stanford University and SLAC National Accelerator Laboratory   USA.    When?  7th June, 2021 (Monday), 11:30 AM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/archana-07-jun-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Yudhajit Bhattacharjee (08/06/21)",
+        "excerpt":"Thesis title:  Polyvinylidene fluoride (PVDF) based nanocomposites with multi-layered architecture containing core-shell nanostructures for Electromagnetic Interference shielding   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  8th June, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/yudhajit-08-jun-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Ahmed Aliyu (10/06/21)",
+        "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  10th June, 2021 (Thursday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/ahmed-10-jun-2021",
+        "teaser": null
+      },{
+        "title": "Multicomponent High-Entropy Cantor Alloys (10/06/21)",
+        "excerpt":"The 10th Prof. P.Ramachandra Rao Memorial Lecture (2021) is being organized on June 10th, 2021. The Department of Materials Engineering, Indian Institute of Science, Bangalore, is the organizer of this year’s lecture and Professor Vikram Jayram, Dean, Mechanical Sciences, Indian Institute of Science, will preside over the function. It is our pleasure to invite you to this lecture cordially.   Speaker and Affliation:  Professor Brian Cantor  Department of Materials, University of Oxford and  Brunel Centre for Advanced Solidification Technology,  Brunel University, London    When?  10th June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/brian-10-jun-2021",
+        "teaser": null
+      },{
+        "title": "Emergent phenomena of polar topologies (11/06/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Sujit Das  Unité Mixte de Physique CNRS Thales, France  Department of Materials Science &amp; Engineering,   University of California,  Berkeley, CA 94720, USA    When?  11th June, 2021 (Friday), 02:00 PM (India Standard Time)   Location  More details   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -243,48 +285,6 @@ var store = [{
         "excerpt":"Prof. K. T. Jacob has been selected to received the 2022 J. Willard Gibbs Equilibria Award that is presented by the American Society of Metals (ASM) International. He has received this honor “for outstanding leadership in research and education in the area of thermodynamics and phase equilibria of metal and ceramic systems, encompassing innovation in experimental techniques and applications to materials processing”. The award will be presented at the ASM Awards Dinner scheduled to take place during the International Materials, Applications and Technologies (IMAT) 2022 meeting.   The award was established in 2007 to recognize outstanding contributions to the field of Phase Equilibria. The award honors J. Willard Gibbs, one of America’s greatest theoretical scientists. In addition to many other contributions, Gibbs laid the thermodynamic foundations of phase equilibria theory with his brilliant essay “On the Equilibrium of Heterogeneous Substances” published in 1876 and 1878 in the Transactions of the Connecticut Academy.  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/awards/jacob-29-may-2021",
-        "teaser": null
-      },{
-        "title": "Mini symposium on 'In-situ nanomechanical testing and property correlation' (01/06/21) ",
-        "excerpt":"Event description:  Probing the mechanical behaviour of materials at the nanoscale is necessary for the development of new nanostructured materials and continued miniaturization of engineering devices, electronic components, thin films, and surface coatings. This symposium will cover state of the art topics related to cutting edge developments in nanoscale mechanical characterization of materials such as metals, alloys, ceramics and organic crystals; used in such applications. The talks will demonstrate in-situ nano-mechanical testing techniques to extract site specific properties across temperatures and environments in a high throughput manner, as well as introduce data science approaches for the same. The lecture themes are relevant to both audiences from academia and industry.   Organizers:  Indian Institute of Science, Indian Institute of Technology Bombay, Brucker, and Industron   When?  1st and 2nd June, 2021, 4pm-6.30pm IST   Registration Links  Day 1: Zoom link   Day 2: Zoom link   Event flyer         ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/symposium/nanomechtest-1-jun-2021",
-        "teaser": null
-      },{
-        "title": "Smart materials for smart healthcare (03/06/21)",
-        "excerpt":"Speaker and Affliation:  Dr. Sunita Mehta   CSIR Young Scientist  CSIR-CSIO Chandigarh  Chandigarh- 160030    When?  3rd June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/sunita-03-jun-2021",
-        "teaser": null
-      },{
-        "title": "Reliability Testing and Failure Analysis of Solar Photovoltaic Packaging Materials (07/06/21)",
-        "excerpt":"Speaker and Affliation:  Dr. Archana Sinha   Postdoctoral Researcher   Stanford University and SLAC National Accelerator Laboratory   USA.    When?  7th June, 2021 (Monday), 11:30 AM (India Standard Time)   Location  More details   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/archana-07-jun-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Yudhajit Bhattacharjee (08/06/21)",
-        "excerpt":"Thesis title:  Polyvinylidene fluoride (PVDF) based nanocomposites with multi-layered architecture containing core-shell nanostructures for Electromagnetic Interference shielding   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  8th June, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/yudhajit-08-jun-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Ahmed Aliyu (10/06/21)",
-        "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  10th June, 2021 (Thursday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/ahmed-10-jun-2021",
-        "teaser": null
-      },{
-        "title": "Multicomponent High-Entropy Cantor Alloys (10/06/21)",
-        "excerpt":"The 10th Prof. P.Ramachandra Rao Memorial Lecture (2021) is being organized on June 10th, 2021. The Department of Materials Engineering, Indian Institute of Science, Bangalore, is the organizer of this year’s lecture and Professor Vikram Jayram, Dean, Mechanical Sciences, Indian Institute of Science, will preside over the function. It is our pleasure to invite you to this lecture cordially.   Speaker and Affliation:  Professor Brian Cantor  Department of Materials, University of Oxford and  Brunel Centre for Advanced Solidification Technology,  Brunel University, London    When?  10th June, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  More details   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/brian-10-jun-2021",
-        "teaser": null
-      },{
-        "title": "Emergent phenomena of polar topologies (11/06/21)",
-        "excerpt":"Speaker and Affliation:  Dr. Sujit Das  Unité Mixte de Physique CNRS Thales, France  Department of Materials Science &amp; Engineering,   University of California,  Berkeley, CA 94720, USA    When?  11th June, 2021 (Friday), 02:00 PM (India Standard Time)   Location  More details   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
         "teaser": null
       },{
         "title": "Mr. Shobhit Pratap Singh wins the 2022 Acta Student Award (02/07/21)",
