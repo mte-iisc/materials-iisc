@@ -317,6 +317,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/radhika-20-jul-2021",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Mr. Ujjval Bansal (03/08/21)",
+        "excerpt":"Thesis title:  Development of a coarsening resistant microstructure in precipitation strengthened aluminium alloys with Zr, Ta and Hf   Faculty advisor(s):  Prof. K. Chattopadhyay &amp; Prof. Aloke Paul   When?  3rd August, 2021 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/ujjval-03-aug-2021",
+        "teaser": null
+      },{
         "title": "PhD Thesis Colloquium: Ms. Anwesha Kanjilal (06/08/21)",
         "excerpt":"Thesis title:  Effect of Length Scale on Mechanical Behavior of Sn-Cu Joints: A Mechanics and Materials Science Based Treatment   Faculty advisor(s):  Prof. Praveen Kumar   When?  6th August, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
