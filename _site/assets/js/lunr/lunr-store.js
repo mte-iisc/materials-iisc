@@ -197,6 +197,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/kiran-25-may-2021",
         "teaser": null
       },{
+        "title": "Prof. K. T. Jacob wins the 2022 J. Willard Gibbs Equilibria Award (29/05/21)",
+        "excerpt":"Prof. K. T. Jacob has been selected to received the 2022 J. Willard Gibbs Equilibria Award that is presented by the American Society of Metals (ASM) International. He has received this honor “for outstanding leadership in research and education in the area of thermodynamics and phase equilibria of metal and ceramic systems, encompassing innovation in experimental techniques and applications to materials processing”. The award will be presented at the ASM Awards Dinner scheduled to take place during the International Materials, Applications and Technologies (IMAT) 2022 meeting.   The award was established in 2007 to recognize outstanding contributions to the field of Phase Equilibria. The award honors J. Willard Gibbs, one of America’s greatest theoretical scientists. In addition to many other contributions, Gibbs laid the thermodynamic foundations of phase equilibria theory with his brilliant essay “On the Equilibrium of Heterogeneous Substances” published in 1876 and 1878 in the Transactions of the Connecticut Academy.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/jacob-29-may-2021",
+        "teaser": null
+      },{
         "title": "Mini symposium on 'In-situ nanomechanical testing and property correlation' (01/06/21) ",
         "excerpt":"Event description:  Probing the mechanical behaviour of materials at the nanoscale is necessary for the development of new nanostructured materials and continued miniaturization of engineering devices, electronic components, thin films, and surface coatings. This symposium will cover state of the art topics related to cutting edge developments in nanoscale mechanical characterization of materials such as metals, alloys, ceramics and organic crystals; used in such applications. The talks will demonstrate in-situ nano-mechanical testing techniques to extract site specific properties across temperatures and environments in a high throughput manner, as well as introduce data science approaches for the same. The lecture themes are relevant to both audiences from academia and industry.   Organizers:  Indian Institute of Science, Indian Institute of Technology Bombay, Brucker, and Industron   When?  1st and 2nd June, 2021, 4pm-6.30pm IST   Registration Links  Day 1: Zoom link   Day 2: Zoom link   Event flyer         ","categories": [],
         "tags": [],
@@ -281,12 +287,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
-        "title": "Prof. K. T. Jacob wins the 2022 J. Willard Gibbs Equilibria Award (29/05/21)",
-        "excerpt":"Prof. K. T. Jacob has been selected to received the 2022 J. Willard Gibbs Equilibria Award that is presented by the American Society of Metals (ASM) International. He has received this honor “for outstanding leadership in research and education in the area of thermodynamics and phase equilibria of metal and ceramic systems, encompassing innovation in experimental techniques and applications to materials processing”. The award will be presented at the ASM Awards Dinner scheduled to take place during the International Materials, Applications and Technologies (IMAT) 2022 meeting.   The award was established in 2007 to recognize outstanding contributions to the field of Phase Equilibria. The award honors J. Willard Gibbs, one of America’s greatest theoretical scientists. In addition to many other contributions, Gibbs laid the thermodynamic foundations of phase equilibria theory with his brilliant essay “On the Equilibrium of Heterogeneous Substances” published in 1876 and 1878 in the Transactions of the Connecticut Academy.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/awards/jacob-29-may-2021",
-        "teaser": null
-      },{
         "title": "Mr. Shobhit Pratap Singh wins the 2022 Acta Student Award (02/07/21)",
         "excerpt":"“Mr. Shobhit Pratap Singh has been selected to receive an Acta Student Award for his primary contribution to the manuscript, “The low-stress and high-temperature creep in LiF single crystals: An explanation for the So-called Harper-Dorn creep.”   The citation reads: “The field of nominees was very impressive, and the task of selecting winners was challenging. Not only did your paper demonstrate exceptional value to the materials community, but your personal credentials and recommendations were also exemplary.”   The award will be given during TMS 2022 at Anaheim, CA (USA).  ","categories": [],
         "tags": [],
@@ -303,12 +303,6 @@ var store = [{
         "excerpt":"Thesis title:  Evolution of recrystallization texture in face-centred cubic materials: Role of twin-boundaries   Faculty advisor(s):  Prof. Satyam Suwas   When?  19th July, 2021 (Monday), 3:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/gyan-19-jul-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Ms. Radhika Wazalwar (20/07/21)",
-        "excerpt":"Thesis title:  Mechanical and curing behavior of tetra-functional epoxy reinforced with nanofillers   Faculty advisor(s):  Prof. Ashok M Raichur   When?  20th July, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/radhika-20-jul-2021",
         "teaser": null
       },{
         "title": "PhD Thesis Colloquium: Ms. Radhika Wazalwar (20/07/21)",
