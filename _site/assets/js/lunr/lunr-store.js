@@ -322,4 +322,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/anwesha-6-aug-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Raj Jung Mahat (10/08/21)",
+        "excerpt":"Thesis title:  Extraction of Creep Parameters from Indentation Creep Experiment: An Artificial Neural Network-Based Approach   Faculty advisor(s):  Prof. Praveen Kumar   When?  10th August, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/rajjung-10-aug-2021",
+        "teaser": null
       },]
