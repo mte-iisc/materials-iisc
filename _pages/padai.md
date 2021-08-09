@@ -5,7 +5,7 @@ classes: wide
 permalink: /faculty/padai
 ---
 
-Senior Scientific Officer<br>
+Principal Research Scientist<br>
 A-107, Department of Materials Engineering<br>
 Indian Institute of Science<br>
 Bangalore-560012, INDIA<br>
