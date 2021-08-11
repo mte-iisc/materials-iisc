@@ -328,4 +328,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/rajjung-10-aug-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Panithi Sireesha (17/08/21)",
+        "excerpt":"Thesis title:  Investigation of thermoelectric properties of Sn-Te based alloys with microstructural studies   Faculty advisor(s):  Prof. K. Chattopadhyay   When?  17th August, 2021 (Tuesday), 04:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/panithi-17-aug-2021",
+        "teaser": null
       },]
