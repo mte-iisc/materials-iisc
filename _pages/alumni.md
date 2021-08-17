@@ -109,7 +109,8 @@ List of all students who have graduated from the various programs of the departm
 
 ### Ph. D.
 <ul>
-<li><a href="{{ site.baseurl }}/alumni-archive#2019-2011">2019-2011</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2021-till date">2021-till date</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2020-2011">2020-2011</a></li>
 <li><a href="{{ site.baseurl }}/alumni-archive#2010-2001">2010-2001</a></li>
 <li><a href="{{ site.baseurl }}/alumni-archive#2000-1991">2000-1991</a></li>
 <li><a href="{{ site.baseurl }}/alumni-archive#1990-1981">1990-1981</a></li>
@@ -118,7 +119,8 @@ List of all students who have graduated from the various programs of the departm
 
 ### M. Tech.
 <ul>
-<li><a href="{{ site.baseurl }}/alumni-archive#2018-2011">2018-2011</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2021-till date">2021-till date</a></li>
+<li><a href="{{ site.baseurl }}/alumni-archive#2020-2011">2020-2011</a></li>
 <li><a href="{{ site.baseurl }}/alumni-archive#2010-2001-1">2010-2001</a></li>
 <li><a href="{{ site.baseurl }}/alumni-archive#2000-1991-1">2000-1991</a></li>
 <li><a href="{{ site.baseurl }}/alumni-archive#1990-1981-1">1990-1981</a></li>
