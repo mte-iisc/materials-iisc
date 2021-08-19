@@ -245,6 +245,24 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Mr. Abhay Gupta (05/07/21)",
+        "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  5th July, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/abhay-05-jul-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Gyan Shankar (19/07/21)",
+        "excerpt":"Thesis title:  Evolution of recrystallization texture in face-centred cubic materials: Role of twin-boundaries   Faculty advisor(s):  Prof. Satyam Suwas   When?  19th July, 2021 (Monday), 3:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/gyan-19-jul-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Radhika Wazalwar (20/07/21)",
+        "excerpt":"Thesis title:  Mechanical and curing behavior of tetra-functional epoxy reinforced with nanofillers   Faculty advisor(s):  Prof. Ashok M Raichur   When?  20th July, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/radhika-20-jul-2021",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -291,24 +309,6 @@ var store = [{
         "excerpt":"“Mr. Shobhit Pratap Singh has been selected to receive an Acta Student Award for his primary contribution to the manuscript, “The low-stress and high-temperature creep in LiF single crystals: An explanation for the So-called Harper-Dorn creep.”   The citation reads: “The field of nominees was very impressive, and the task of selecting winners was challenging. Not only did your paper demonstrate exceptional value to the materials community, but your personal credentials and recommendations were also exemplary.”   The award will be given during TMS 2022 at Anaheim, CA (USA).  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/awards/shobhit-02-july-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Abhay Gupta (05/07/21)",
-        "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  5th July, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/abhay-05-jul-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Gyan Shankar (19/07/21)",
-        "excerpt":"Thesis title:  Evolution of recrystallization texture in face-centred cubic materials: Role of twin-boundaries   Faculty advisor(s):  Prof. Satyam Suwas   When?  19th July, 2021 (Monday), 3:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/gyan-19-jul-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Ms. Radhika Wazalwar (20/07/21)",
-        "excerpt":"Thesis title:  Mechanical and curing behavior of tetra-functional epoxy reinforced with nanofillers   Faculty advisor(s):  Prof. Ashok M Raichur   When?  20th July, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/radhika-20-jul-2021",
         "teaser": null
       },{
         "title": "PhD Thesis Defence: Mr. Ujjval Bansal (03/08/21)",
