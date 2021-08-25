@@ -26,7 +26,7 @@ email: rravi_at_iisc.ac.in<br>
 <li>Au(Cu)-Sn</li>
 <li>Cu(Ni)-Sn</li>
 </ul>
-<p><u>Effect of electric current on whiskering in Tin and on IMC growth.</u></p>
+<p>Effect of electric current and substrate composition on whiskering in Tin and on IMC growth.</p>
 
 ## Publications
 <ol reversed="">
@@ -60,8 +60,10 @@ email: rravi_at_iisc.ac.in<br>
 
 ## M.E Students
 <ul>
+<li>Satyam Kumar <i>(with Prof. Aloke Paul)</i><br />
+Diffusion analysis in Ni-based superalloy systems (2021).</li>
 <li>Hemanta Kumar Meher <i>(with Prof. Praveen Kumar)</i><br />
-        Effect of substrate alloy composition on Sn whiskering under thermal and electrical loading conditions (2020).</li>
+        Effect of substrate composition on whiskering (2020).</li>
 <li>Abhilash Agnihotri <i>(with Prof. Praveen Kumar)</i><br />
         Effect of electric current on whiskering in Tin (2019).</li>
 <li>Mangesh Pantawane <i>(with Prof. Aloke Paul)</i><br />
