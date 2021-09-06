@@ -6,7 +6,7 @@ permalink: /defence/aramanda-07-sep-2021
 Exotic eutectic microstructures
 
 ### Faculty advisor(s):
-Prof. Abhik N Choudhury
+Prof. Abhik N Choudhury and Prof. K. Chattopadhyay
 
 ### When?
 7<sup>th</sup> September, 2021 (Tuesday), 03:00 PM (India Standard Time)

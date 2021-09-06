@@ -342,7 +342,7 @@ var store = [{
         "teaser": null
       },{
         "title": "PhD Thesis Defence: Mr. Aramanda Shanmukha Kiran (07/09/21)",
-        "excerpt":"Thesis title:  Exotic eutectic microstructures   Faculty advisor(s):  Prof. Abhik N Choudhury   When?  7th September, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "excerpt":"Thesis title:  Exotic eutectic microstructures   Faculty advisor(s):  Prof. Abhik N Choudhury and Prof. K. Chattopadhyay   When?  7th September, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/aramanda-07-sep-2021",
         "teaser": null
