@@ -346,4 +346,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/aramanda-07-sep-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Shobhit Pratap Singh (16/09/21)",
+        "excerpt":"Thesis title:  EVALUATION OF LOW-STRESS HIGH-TEMPERATURE CREEP: INSIGHTS INTO THE HARPER-DORN CREEP   Faculty advisor(s):  Prof. Praveen Kumar   When?  16th September, 2021 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/shobhit-16-sep-2021",
+        "teaser": null
       },]
