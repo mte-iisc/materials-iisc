@@ -263,6 +263,30 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/radhika-20-jul-2021",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Mr. Ujjval Bansal (03/08/21)",
+        "excerpt":"Thesis title:  Development of a coarsening resistant microstructure in precipitation strengthened aluminium alloys with Zr, Ta and Hf   Faculty advisor(s):  Prof. K. Chattopadhyay &amp; Prof. Aloke Paul   When?  3rd August, 2021 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/ujjval-03-aug-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Anwesha Kanjilal (06/08/21)",
+        "excerpt":"Thesis title:  Effect of Length Scale on Mechanical Behavior of Sn-Cu Joints: A Mechanics and Materials Science Based Treatment   Faculty advisor(s):  Prof. Praveen Kumar   When?  6th August, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/anwesha-6-aug-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Raj Jung Mahat (10/08/21)",
+        "excerpt":"Thesis title:  Extraction of Creep Parameters from Indentation Creep Experiment: An Artificial Neural Network-Based Approach   Faculty advisor(s):  Prof. Praveen Kumar   When?  10th August, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/rajjung-10-aug-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Panithi Sireesha (17/08/21)",
+        "excerpt":"Thesis title:  Investigation of thermoelectric properties of Sn-Te based alloys with microstructural studies   Faculty advisor(s):  Prof. K. Chattopadhyay   When?  17th August, 2021 (Tuesday), 04:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/panithi-17-aug-2021",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -311,34 +335,10 @@ var store = [{
         "url": "https://materials.iisc.ac.in/awards/shobhit-02-july-2021",
         "teaser": null
       },{
-        "title": "PhD Thesis Defence: Mr. Ujjval Bansal (03/08/21)",
-        "excerpt":"Thesis title:  Development of a coarsening resistant microstructure in precipitation strengthened aluminium alloys with Zr, Ta and Hf   Faculty advisor(s):  Prof. K. Chattopadhyay &amp; Prof. Aloke Paul   When?  3rd August, 2021 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/ujjval-03-aug-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Ms. Anwesha Kanjilal (06/08/21)",
-        "excerpt":"Thesis title:  Effect of Length Scale on Mechanical Behavior of Sn-Cu Joints: A Mechanics and Materials Science Based Treatment   Faculty advisor(s):  Prof. Praveen Kumar   When?  6th August, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/anwesha-6-aug-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Raj Jung Mahat (10/08/21)",
-        "excerpt":"Thesis title:  Extraction of Creep Parameters from Indentation Creep Experiment: An Artificial Neural Network-Based Approach   Faculty advisor(s):  Prof. Praveen Kumar   When?  10th August, 2021 (Tuesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/rajjung-10-aug-2021",
-        "teaser": null
-      },{
         "title": "Neelamegan Esakkiraja wins the Best Young Scientist of DIMAT 2021 (16/08/21)",
         "excerpt":"“A joint work done by Anuj Dash and Neelamegan Esakkiraja, which was presented by Esakkiraja has won the Best Young Scientist of DIMAT 2021 for the talk on Tracer diffusion coefficients in NiCoFeCr estimated by pseudo-binary, pseudo-ternary diffusion couple and radiotracer methods”  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/awards/esakki-16-aug-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Ms. Panithi Sireesha (17/08/21)",
-        "excerpt":"Thesis title:  Investigation of thermoelectric properties of Sn-Te based alloys with microstructural studies   Faculty advisor(s):  Prof. K. Chattopadhyay   When?  17th August, 2021 (Tuesday), 04:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/panithi-17-aug-2021",
         "teaser": null
       },{
         "title": "PhD Thesis Defence: Mr. Aramanda Shanmukha Kiran (07/09/21)",
