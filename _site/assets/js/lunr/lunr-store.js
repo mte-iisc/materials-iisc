@@ -352,4 +352,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/shobhit-16-sep-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Devabharathi Nehru (21/09/21)",
+        "excerpt":"Thesis title:  Inkjet-printed, co-continuous, mesoporous oxides for surface dominated functional devices   Faculty advisor(s):  Prof. Subho Dasgupta   When?  21st September, 2021 (Tuesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/bharathi-21-sep-2021",
+        "teaser": null
       },]
