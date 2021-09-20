@@ -8,17 +8,17 @@ toc_label: Resources
 toc_icon: calendar-alt
 #classes: wide
 ---
-### Departmental Resources
+## Departmental Resources
 
-## Wellness Committee:
+### Wellness Committee
 
 Prof. Suryasarathi Bose (Email: sbose_at_iisc.ac.in)<br>
 Pritiranjan Mondal (Email: pritiranjanm_at_iisc.ac.in) Prof. Kaushik Chatterjee's group<br>
 Bandla Divya Sri (Email: divyabandla_at_iisc.ac.in) Prof. Atul Chokshi's group<br>
 
-## Safety Committee
+### Safety Committee
 
-### IISc Resources
+## IISc Resources
 
 Here are links to some of the key resources for your ready reference. The <a href="https://www.iisc.ac.in/about/">IISc website</a> has many more such resources for <a href="https://www.iisc.ac.in/about/student-corner/">student</a> , <a href="https://www.iisc.ac.in/about/faculty-corner/">Faculty</a>, <a href="https://www.iisc.ac.in/about/staff-corner/">Admin Staff</a>, <a href="https://www.iisc.ac.in/research-scientists-corner/">Research Scientists</a>, and <a href="https://www.iisc.ac.in/about/guests-corner/">Guests</a>.   
  
