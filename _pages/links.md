@@ -29,7 +29,7 @@ Mrs. Venkatalakshmi (venkatalaksh_at_iisc.ac.in)<br>
 
 ## IISc Resources
 
-Here are links to some of the key resources for your ready reference. The <a href="https://www.iisc.ac.in/about/" target="_blank">IISc website</a> has many more such resources for <a href="https://www.iisc.ac.in/about/student-corner/" target="_blank">student</a> , <a href="https://www.iisc.ac.in/about/faculty-corner/" target="_blank">Faculty</a>, <a href="https://www.iisc.ac.in/about/staff-corner/" target="_blank">Admin Staff</a>, <a href="https://www.iisc.ac.in/research-scientists-corner/" target="_blank">Research Scientists</a>, and <a href="https://www.iisc.ac.in/about/guests-corner/" target="_blank">Guests</a>.   
+Here are links to some of the key resources for your ready reference. The <a href="https://www.iisc.ac.in/about/" target="_blank">IISc website</a> has many more such resources for <a href="https://www.iisc.ac.in/about/student-corner/" target="_blank">students</a> , <a href="https://www.iisc.ac.in/about/faculty-corner/" target="_blank">Faculty</a>, <a href="https://www.iisc.ac.in/about/staff-corner/" target="_blank">Admin Staff</a>, <a href="https://www.iisc.ac.in/research-scientists-corner/" target="_blank">Research Scientists</a>, and <a href="https://www.iisc.ac.in/about/guests-corner/" target="_blank">Guests</a>.   
  
 <ul>
 <li><a href="http://www.iisc.ac.in/icash/" target="_blank">ICASH: Internal Committee Against Sexual Harassment</a></li>
