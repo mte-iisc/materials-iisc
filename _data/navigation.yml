@@ -31,6 +31,8 @@ sidelinks:
               url: /staff
             - title: "Alumni"
               url: /alumni
+            - title: "Committees"
+              url: /committees
   - title: "Engage"
     children:
             - title: "Activities"
