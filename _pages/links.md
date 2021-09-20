@@ -12,11 +12,20 @@ toc_icon: calendar-alt
 
 ### Wellness Committee
 
-Prof. Suryasarathi Bose (Email: sbose_at_iisc.ac.in)<br>
-Pritiranjan Mondal (Email: pritiranjanm_at_iisc.ac.in) Prof. Kaushik Chatterjee's group<br>
-Bandla Divya Sri (Email: divyabandla_at_iisc.ac.in) Prof. Atul Chokshi's group<br>
+Prof. Suryasarathi Bose (sbose_at_iisc.ac.in)<br>
+Mr. Pritiranjan Mondal (pritiranjanm_at_iisc.ac.in) Prof. Kaushik Chatterjee's group<br>
+Ms. Bandla Divya Sri (divyabandla_at_iisc.ac.in) Prof. Atul Chokshi's group<br>
 
 ### Safety Committee
+Prof. Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
+Prof. Chandan Srivastava (csrivanstava_at_iisc.ac.in)<br>
+Mr. R.J. Deshpande (rjd_at_iisc.ac.in)<br>
+
+### Covid Committee
+Prof. Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
+Prof. S. Bose (sbose_at_iisc.ac.in)<br>
+Prof. Praveen Kumar (praveenk_at_iisc.ac.in)<br>
+Mrs. Venkatalakshmi (venkatalaksh_at_iisc.ac.in)<br>
 
 ## IISc Resources
 
