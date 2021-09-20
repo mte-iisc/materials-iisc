@@ -8,6 +8,8 @@ main:
     url: /events-list
   - title: "Courses"
     url: /courses
+  - title: "Links"
+    url: /links
 sidelinks:
   - title: "About Us"
     children:
@@ -31,8 +33,6 @@ sidelinks:
               url: /staff
             - title: "Alumni"
               url: /alumni
-            - title: "Committees"
-              url: /committees
   - title: "Engage"
     children:
             - title: "Activities"
