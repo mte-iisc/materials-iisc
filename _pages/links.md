@@ -20,6 +20,7 @@ Ms. Bandla Divya Sri (divyabandla_at_iisc.ac.in) Prof. Chokshi's group<br>
 Prof. Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
 Prof. Chandan Srivastava (csrivanstava_at_iisc.ac.in)<br>
 Mr. R.J. Deshpande (rjd_at_iisc.ac.in)<br>
+Click <a href="/pdfs/safety.pdf">here</a> to view the complete list of safety coordinators.
 
 ### Covid Committee
 Prof. Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
