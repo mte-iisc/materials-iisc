@@ -4,8 +4,8 @@ permalink: /seminar/balamurali-21-sep-2021
 ---
 ### Speaker and Affliation:
 Dr. R. Balamuralikrishnan<br>  
-Defence Metallurgical Research Laboratory (DMRL) <br> 
-Hyderabad <br>
+Defence Metallurgical Research Laboratory (DMRL)<br> 
+Hyderabad<br>
  
 ### When?
 21<sup>th</sup> September, 2021 (Thursday), 04:00 PM (India Standard Time)
