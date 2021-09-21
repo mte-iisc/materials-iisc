@@ -12,21 +12,21 @@ toc_icon: calendar-alt
 
 ### Wellness Committee
 
-Prof. Suryasarathi Bose (sbose_at_iisc.ac.in)<br>
-Mr. Pritiranjan Mondal (pritiranjanm_at_iisc.ac.in) Prof. Kaushik's group<br>
-Ms. Bandla Divya Sri (divyabandla_at_iisc.ac.in) Prof. Chokshi's group<br>
+Suryasarathi Bose (sbose_at_iisc.ac.in)<br>
+Pritiranjan Mondal (pritiranjanm_at_iisc.ac.in) Kaushik's group<br>
+Bandla Divya Sri (divyabandla_at_iisc.ac.in)  Chokshi's group<br>
 
 ### Safety Committee
-Prof. Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
-Prof. Chandan Srivastava (csrivanstava_at_iisc.ac.in)<br>
-Mr. R.J. Deshpande (rjd_at_iisc.ac.in)<br>
+Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
+Chandan Srivastava (csrivanstava_at_iisc.ac.in)<br>
+R.J. Deshpande (rjd_at_iisc.ac.in)<br>
 Click <a href="/pdfs/safety.pdf">here</a> to view the complete list of safety coordinators.
 
 ### Covid Committee
-Prof. Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
-Prof. S. Bose (sbose_at_iisc.ac.in)<br>
-Prof. Praveen Kumar (praveenk_at_iisc.ac.in)<br>
-Mrs. Venkatalakshmi (venkatalaksh_at_iisc.ac.in)<br>
+Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
+S. Bose (sbose_at_iisc.ac.in)<br>
+Praveen Kumar (praveenk_at_iisc.ac.in)<br>
+Venkatalakshmi (venkatalaksh_at_iisc.ac.in)<br>
 
 ## IISc Resources
 
