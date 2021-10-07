@@ -8,6 +8,8 @@ main:
     url: /events-list
   - title: "Courses"
     url: /courses
+  - title: "Platinum Jubilee"
+    url: /iiscjournal
   - title: "Links"
     url: /links
 sidelinks:
