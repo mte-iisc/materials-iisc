@@ -364,4 +364,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/balamurali-21-sep-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Mitta Divya (11/10/21)",
+        "excerpt":"Thesis title:  Printed and low temperature processed oxide electronics with superior electrical performance and mechanical reliability   Faculty advisor(s):  Prof. Subho Dasgupta   When?  11th October, 2021 (Monday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/divya-11-oct-2021",
+        "teaser": null
       },]
