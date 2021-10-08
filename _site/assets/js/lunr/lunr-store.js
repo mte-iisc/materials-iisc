@@ -370,4 +370,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/divya-11-oct-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Naveen Kumar (27/10/21)",
+        "excerpt":"Thesis title:  Electromechanical properties of PbTiO3 based piezoelectric ceramics and energy harvesting application of their flexible polymer composites   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  27th October, 2021 (Wednesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/naveen-27-oct-2021",
+        "teaser": null
       },]
