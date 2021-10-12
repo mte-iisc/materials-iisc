@@ -287,6 +287,18 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/panithi-17-aug-2021",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Mr. Aramanda Shanmukha Kiran (07/09/21)",
+        "excerpt":"Thesis title:  Exotic eutectic microstructures   Faculty advisor(s):  Prof. Abhik N Choudhury and Prof. K. Chattopadhyay   When?  7th September, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/aramanda-07-sep-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Shobhit Pratap Singh (16/09/21)",
+        "excerpt":"Thesis title:  EVALUATION OF LOW-STRESS HIGH-TEMPERATURE CREEP: INSIGHTS INTO THE HARPER-DORN CREEP   Faculty advisor(s):  Prof. Praveen Kumar   When?  16th September, 2021 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/shobhit-16-sep-2021",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -339,18 +351,6 @@ var store = [{
         "excerpt":"“A joint work done by Anuj Dash and Neelamegan Esakkiraja, which was presented by Esakkiraja has won the Best Young Scientist of DIMAT 2021 for the talk on Tracer diffusion coefficients in NiCoFeCr estimated by pseudo-binary, pseudo-ternary diffusion couple and radiotracer methods”  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/awards/esakki-16-aug-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Aramanda Shanmukha Kiran (07/09/21)",
-        "excerpt":"Thesis title:  Exotic eutectic microstructures   Faculty advisor(s):  Prof. Abhik N Choudhury and Prof. K. Chattopadhyay   When?  7th September, 2021 (Tuesday), 03:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/aramanda-07-sep-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Shobhit Pratap Singh (16/09/21)",
-        "excerpt":"Thesis title:  EVALUATION OF LOW-STRESS HIGH-TEMPERATURE CREEP: INSIGHTS INTO THE HARPER-DORN CREEP   Faculty advisor(s):  Prof. Praveen Kumar   When?  16th September, 2021 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/shobhit-16-sep-2021",
         "teaser": null
       },{
         "title": "PhD Thesis Colloquium: Ms. Devabharathi Nehru (21/09/21)",
