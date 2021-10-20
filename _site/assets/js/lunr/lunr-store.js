@@ -376,4 +376,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/naveen-27-oct-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Khanna Sumeet Rajesh (29/10/21)",
+        "excerpt":"Thesis title:  Eutectic Microstructures: Role of interfacial energy   anisotropy and diffusivities   Faculty advisor(s):  Prof. Abhik N Choudhury   When?  29th October, 2021 (Friday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/khanna-29-oct-2021",
+        "teaser": null
       },]
