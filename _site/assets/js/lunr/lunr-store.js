@@ -245,6 +245,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/sujit-11-jun-2021",
         "teaser": null
       },{
+        "title": "Mr. Shobhit Pratap Singh wins the 2022 Acta Student Award (02/07/21)",
+        "excerpt":"“Mr. Shobhit Pratap Singh has been selected to receive an Acta Student Award for his primary contribution to the manuscript, “The low-stress and high-temperature creep in LiF single crystals: An explanation for the So-called Harper-Dorn creep.”   The citation reads: “The field of nominees was very impressive, and the task of selecting winners was challenging. Not only did your paper demonstrate exceptional value to the materials community, but your personal credentials and recommendations were also exemplary.”   The award will be given during TMS 2022 at Anaheim, CA (USA).  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/shobhit-02-july-2021",
+        "teaser": null
+      },{
         "title": "PhD Thesis Colloquium: Mr. Abhay Gupta (05/07/21)",
         "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  5th July, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
@@ -281,6 +287,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/rajjung-10-aug-2021",
         "teaser": null
       },{
+        "title": "Neelamegan Esakkiraja wins the Best Young Scientist of DIMAT 2021 (16/08/21)",
+        "excerpt":"“A joint work done by Anuj Dash and Neelamegan Esakkiraja, which was presented by Esakkiraja has won the Best Young Scientist of DIMAT 2021 for the talk on Tracer diffusion coefficients in NiCoFeCr estimated by pseudo-binary, pseudo-ternary diffusion couple and radiotracer methods”  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/esakki-16-aug-2021",
+        "teaser": null
+      },{
         "title": "PhD Thesis Colloquium: Ms. Panithi Sireesha (17/08/21)",
         "excerpt":"Thesis title:  Investigation of thermoelectric properties of Sn-Te based alloys with microstructural studies   Faculty advisor(s):  Prof. K. Chattopadhyay   When?  17th August, 2021 (Tuesday), 04:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
@@ -297,6 +309,18 @@ var store = [{
         "excerpt":"Thesis title:  EVALUATION OF LOW-STRESS HIGH-TEMPERATURE CREEP: INSIGHTS INTO THE HARPER-DORN CREEP   Faculty advisor(s):  Prof. Praveen Kumar   When?  16th September, 2021 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/shobhit-16-sep-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Devabharathi Nehru (21/09/21)",
+        "excerpt":"Thesis title:  Inkjet-printed, co-continuous, mesoporous oxides for surface dominated functional devices   Faculty advisor(s):  Prof. Subho Dasgupta   When?  21st September, 2021 (Tuesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/bharathi-21-sep-2021",
+        "teaser": null
+      },{
+        "title": "NAVAL STEELS: FROM LABORATORY TO APPLICATION (21/09/21)",
+        "excerpt":"Speaker and Affliation:  Dr. R. Balamuralikrishnan   Defence Metallurgical Research Laboratory (DMRL)   Hyderabad    When?  21th September, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  High performance steels deliver excellent performance for rather critical applications that have stringent, often conflicting, property requirements. Steels for naval structural applications are subject to one of the harshest operating environments, with constant exposure to sea water, various types of static and dynamic loading, and large variation in temperatures. These steels are required to possess necessary ambient temperature strength (minimum yield strength: 390 to 800MPa for different variants) and excellent low temperature impact toughness (~ 80J minimum, at minus 40o C or even minus 60o C). Apart from these, they are also expected to have good weldability and adequate corrosion resistance. For over two decades, DMRL has been actively working in the development/indigenization of low alloy steels for naval applications with yield strengths of about 400MPa to about 800MPa, which are required to have impact toughness in excess of 80J at -40o C. Our efforts have spanned the entire spectrum from lab scale scientific studies to industrial scale production and certification for final use. Given the application, large sheets/plates, in widths ranging from 1.5 to 3m, and in lengths well in excess of 6m, constitute the bulk of the requirement. Thus, while studies at lab scale involve melts of 30-50kg, industrial production involves melts of 50 tonnes or more! The talk will provide a few examples from our work spanning the entire range from the developmental phase to the industrial production phase. Special emphasis will be given to illustrating how (lab-scale) R&amp;D was employed to address challenges that arose during bulk production in order to improve product reliability and consistency     ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/balamurali-21-sep-2021",
         "teaser": null
       },{
         "title": "Machining thin metallic foils",
@@ -341,30 +365,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
-        "title": "Mr. Shobhit Pratap Singh wins the 2022 Acta Student Award (02/07/21)",
-        "excerpt":"“Mr. Shobhit Pratap Singh has been selected to receive an Acta Student Award for his primary contribution to the manuscript, “The low-stress and high-temperature creep in LiF single crystals: An explanation for the So-called Harper-Dorn creep.”   The citation reads: “The field of nominees was very impressive, and the task of selecting winners was challenging. Not only did your paper demonstrate exceptional value to the materials community, but your personal credentials and recommendations were also exemplary.”   The award will be given during TMS 2022 at Anaheim, CA (USA).  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/awards/shobhit-02-july-2021",
-        "teaser": null
-      },{
-        "title": "Neelamegan Esakkiraja wins the Best Young Scientist of DIMAT 2021 (16/08/21)",
-        "excerpt":"“A joint work done by Anuj Dash and Neelamegan Esakkiraja, which was presented by Esakkiraja has won the Best Young Scientist of DIMAT 2021 for the talk on Tracer diffusion coefficients in NiCoFeCr estimated by pseudo-binary, pseudo-ternary diffusion couple and radiotracer methods”  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/awards/esakki-16-aug-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Ms. Devabharathi Nehru (21/09/21)",
-        "excerpt":"Thesis title:  Inkjet-printed, co-continuous, mesoporous oxides for surface dominated functional devices   Faculty advisor(s):  Prof. Subho Dasgupta   When?  21st September, 2021 (Tuesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/bharathi-21-sep-2021",
-        "teaser": null
-      },{
-        "title": "NAVAL STEELS: FROM LABORATORY TO APPLICATION (21/09/21)",
-        "excerpt":"Speaker and Affliation:  Dr. R. Balamuralikrishnan   Defence Metallurgical Research Laboratory (DMRL)   Hyderabad    When?  21th September, 2021 (Thursday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  High performance steels deliver excellent performance for rather critical applications that have stringent, often conflicting, property requirements. Steels for naval structural applications are subject to one of the harshest operating environments, with constant exposure to sea water, various types of static and dynamic loading, and large variation in temperatures. These steels are required to possess necessary ambient temperature strength (minimum yield strength: 390 to 800MPa for different variants) and excellent low temperature impact toughness (~ 80J minimum, at minus 40o C or even minus 60o C). Apart from these, they are also expected to have good weldability and adequate corrosion resistance. For over two decades, DMRL has been actively working in the development/indigenization of low alloy steels for naval applications with yield strengths of about 400MPa to about 800MPa, which are required to have impact toughness in excess of 80J at -40o C. Our efforts have spanned the entire spectrum from lab scale scientific studies to industrial scale production and certification for final use. Given the application, large sheets/plates, in widths ranging from 1.5 to 3m, and in lengths well in excess of 6m, constitute the bulk of the requirement. Thus, while studies at lab scale involve melts of 30-50kg, industrial production involves melts of 50 tonnes or more! The talk will provide a few examples from our work spanning the entire range from the developmental phase to the industrial production phase. Special emphasis will be given to illustrating how (lab-scale) R&amp;D was employed to address challenges that arose during bulk production in order to improve product reliability and consistency     ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/balamurali-21-sep-2021",
-        "teaser": null
-      },{
         "title": "PhD Thesis Colloquium: Ms. Mitta Divya (11/10/21)",
         "excerpt":"Thesis title:  Printed and low temperature processed oxide electronics with superior electrical performance and mechanical reliability   Faculty advisor(s):  Prof. Subho Dasgupta   When?  11th October, 2021 (Monday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
@@ -381,5 +381,11 @@ var store = [{
         "excerpt":"Thesis title:  Eutectic Microstructures: Role of interfacial energy   anisotropy and diffusivities   Faculty advisor(s):  Prof. Abhik N Choudhury   When?  29th October, 2021 (Friday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/khanna-29-oct-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Ahmed Aliyu (03/11/21)",
+        "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of  Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  3rd November, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/ahmed-03-nov-2021",
         "teaser": null
       },]
