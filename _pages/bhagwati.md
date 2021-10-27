@@ -50,24 +50,26 @@ email: bpjoshi_at_iisc.ac.in<br>
 </ul>
 
 ## Scientific Credentials
-<b>Publications:</b>  30+ Research papers published in reputed refereed journals (Nature, Nature Materials, Advanced Materials, Nano Letters, Nature Communications, Science Advances, Applied Physics Letters, etc.)<br>
+<ul>
+<li><b>Publications:</b>  30+ Research papers published in reputed refereed journals (Nature, Nature Materials, Advanced Materials, Nano Letters, Nature Communications, Science Advances, Applied Physics Letters, etc.)</li>
 
-<b>Patents - 34:</b>  30 US Patents and 4 Indian Patents<br>
+<li><b>Patents - 34:</b>  30 US Patents and 4 Indian Patents</li>
 
-<b>Conferences and Presentations:</b> <br>
+<li><b>Conferences and Presentations:</b></li>
 <ul>
 <li>Research work presented at 20 international conferences – Invited (6), Oral (9) and Posters (5) Presentations</li>
 <li>15+ Invited and organization level talks – at Western Digital, San Jose (Invited); IBM Research – Almaden (Invited-Colloquium); MIT, US (Invited) (2); Lawrence Berkeley National Lab, US (Invited); Max Planck Institute, Stuttgart, Germany (Invited); University of Cambridge, UK; University of California, Berkeley; Tata Steel and IIT Kanpur</li>
 </ul>
 
-<b>Article Reviewed:</b> 25+ (Nature publishing group journals, Wiley journals, American Institute of Physics journals, Elsevier journals, Taylor and Francis Ltd. Journals, and MDPI journals)<br>
+<li><b>Article Reviewed:</b> 25+ (Nature publishing group journals, Wiley journals, American Institute of Physics journals, Elsevier journals, Taylor and Francis Ltd. Journals, and MDPI journals)</li>
 
-<b>Memberships:</b> IEEE, IEEE magnetics society, St John’s College, University of Cambridge (Life time), Indian Physics Association (Life time), Cambridge Philosophical Society (1012-2015) and Institute of Physics (2012-2016)<br>
+<li><b>Memberships:</b> IEEE, IEEE magnetics society, St John’s College, University of Cambridge (Life time), Indian Physics Association (Life time), Cambridge Philosophical Society (1012-2015) and Institute of Physics (2012-2016)</li>
 
-<b>Scientific Community Services:</b><br>
+<li><b>Scientific Community Services:</b></li>
 <ul>
 <li>Vice Chair Programme at IEEE Santa Clara Valley Section: January 2021 to present </li>
 <li>Guest Editor at APL Materials (Special topic: Materials Challenges for Nonvolatile Memory): April 2021- September 2021</li>
+</ul>
 </ul>
 
 ## Selected Recent Publications
