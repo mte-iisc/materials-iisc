@@ -25,7 +25,7 @@ email: bpjoshi_at_iisc.ac.in<br>
 <li><b>Assistant Professor</b>; Materials Engineering Department, IISc Bangalore, India; October 2021 – Present.</li>
 <li><b>Principal Research Scientist</b>; Western Digital, San Jose, USA; November 2018 – October 2021.</li>
 <li><b>Sr. Postdoctoral Researcher</b>; University of California, Berkeley, USA; November 2016 – October 2018.</li>
-<li><b>Scientist</b>; Max Planck Institute of Solid-State Research, Stuttgart, Germany; May 2015 – October 2016.</li>
+<li><b>Scientist</b>; Max Planck Institute for Solid-State Research, Stuttgart, Germany; May 2015 – October 2016.</li>
 <li><b>Researcher (Sr. Manager)</b>; Tata Steel Limited, Jamshedpur, India; July 2008- October 2011.</li>
 </ul>
 
@@ -82,7 +82,7 @@ email: bpjoshi_at_iisc.ac.in<br>
 6. Petrucio Barrozo, Didrik René Småbråten, Yun‐Long Tang, Bhagwati Prasad, et.al., “Defect‐Enhanced Polarization Switching in the Improper Ferroelectric LuFeO3”, Advanced Materials  (2020).<br>7. Sasikanth Manipatruni, Dmitri E. Nikonov, Chia-Ching Lin, Tanay Gosavi, Huichu Li, Bhagwati Prasad, Yen Lin Huang, Ramamoorthy Ramesh, Ian A. Young, “Scalable Energy-Efficient Magnetoelectric Spin-Orbit Charge Logic”, Nature (2019). <br>
 8. Ajay K. Yadav, Kayla X. Nguyen, Zijian Hong, Pablo García-Fernández, Pablo Aguado-Puente, Christopher T. Nelson, Sujit Das, Bhagwati Prasad, et.al., “Spatially Resolved Steady State Negative Capacitance”, Nature (2019).<br>
 9. S. Das, Y. L. Tang, Z. Hong, M. A. P. Gonçalves, M. R. McCarter, F. Gómez-Ortiz, S.-L. Hsu, C. Klewe, P. Shafer, E. Arenholz, V. A. Stoica, C. Ophus, J. F. Liu, C. T. Nelson, S. Saremi, B. Prasad, et.al., “Observation of room-temperature polar skyrmions”, Nature  (2019).<br>
-10. Bhagwati. Prasad, G. Pfanzelt, E. F.-Tsirakis, M.J. Zachman, L.F. Fitting Kourkoutis, J. Mannhart, “Integrated circuits comprising functional liquids”, Advanced Materials (2018).<br>
+10. Bhagwati. Prasad, G. Pfanzelt, E. F.-Tsirakis, M.J. Zachman, L.F. Fitting Kourkoutis, J. Mannhart, “Integrated circuits comprising patterned functional liquids”, Advanced Materials (2018).<br>
 11. Sasikanth Manipatruni, Dmitri E. Nikonov, Chia-Ching Lin, Bhagwati Prasad, Yen Lin Huang, Anoop R. Damodaran, Zuhuang Chen, Ramamoorthy Ramesh and Ian A. Young, “Voltage Control of Unidirectional Anisotropy in Ferromagnet-Multiferroic System”, Science Advances (2018). <br>
 12. H. S. Alagoz,  B. Prasad, J. Jeon, M. G. Blamire, K. H. Chow and J. Jung, “Phase shift of oscillatory magnetoresistance in a double-cross thin film structure of La0.3Pr0.4Ca0.3MnO3 via strain-engineered elongation of electronic domains”, Physical Review B, (2018). <br>13. Bhagwati Prasad*, W. Zhang, J. Jian, H. Wang and M. G. Blamire; “Strongly bias-dependent tunnel magnetoresistance in manganite spin filter tunnel junctions”, Advanced Materials (2015).  <br>
 14. Bhagwati Prasad*, M. Egilmez, F. Schoofs, T. Fix, M. E. Vickers, W. Zhang, J. Jian, H. Wang and M. G. Blamire; “Nanopillar spin filter tunnel junctions with manganite barriers”, Nano Letters (2014).  <br>
