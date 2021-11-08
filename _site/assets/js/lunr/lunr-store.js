@@ -396,7 +396,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Dr. Surendra Kumar Makineni wins the NASI-Young Scientist Platinum Jubilee Award for the year 2021 (05/11/21)",
-        "excerpt":"“Congratulations to Dr.Surendra for winning the NASI-Young Scientist Platinum Jubilee Award for the year 2021 in the field of Electronics, Computer Science and Engineering.”  ","categories": [],
+        "excerpt":"“Congratulations to Dr.Surendra for winning the NASI-Young Scientist Platinum Jubilee Award for the year 2021.”  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/awards/surebdra-05-nov-2021",
         "teaser": null
