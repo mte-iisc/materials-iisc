@@ -394,4 +394,16 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/ahmed-03-nov-2021",
         "teaser": null
+      },{
+        "title": "Dr. Surendra Kumar Makineni wins the NASI-Young Scientist Platinum Jubilee Award for the year 2021 (05/11/21)",
+        "excerpt":"“Congratulations to Dr.Surendra for winning the NASI-Young Scientist Platinum Jubilee Award for the year 2021 in the field of Electronics, Computer Science and Engineering.”  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/surebdra-05-nov-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Anupam Mishra (09/11/21)",
+        "excerpt":"Thesis title:  Effect​ of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  9th November, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/anupam-09-nov-2021",
+        "teaser": null
       },]
