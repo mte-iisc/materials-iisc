@@ -391,21 +391,6 @@ Content coming soon.
 <table>
 <tbody>
 <tr>
-<td colspan="2" valign="top"><strong>Particle Size Analyzer</strong></td>
-</tr>
-<tr>
-<td valign="top">Machine Model</td>
-<td valign="top">Mastersizer</td>
-</tr>
-<tr>
-<td valign="top">Make</td>
-<td valign="top">Malvern Instruments</td>
-</tr>
-<tr>
-<td valign="top">Size range</td>
-<td valign="top">0.05 to 900 µm</td>
-</tr>
-<tr>
 <td colspan="2" valign="top"><strong>Zetasizer</strong></td>
 </tr>
 <tr>
@@ -466,39 +451,6 @@ Mr. R.J.Despande (rjd@iisc.ac.in)
 ## Chemical Analysis
 <table>
 <tbody>
-<tr>
-<td colspan="2" valign="top">
-<div align="left"><strong>ICP Spectrometer</strong></div>
-</td>
-</tr>
-<tr>
-<td valign="top">Model</td>
-<td valign="top">JY 24</td>
-</tr>
-<tr>
-<td valign="top">Make</td>
-<td valign="top">Jobin-Yvon, France, Sequential ICP Analyzer</td>
-</tr>
-<tr>
-<td valign="top">Elements analyzed</td>
-<td valign="top">can analyze ~ 72 elements in the periodic table including those such as boron, silicon etc.,</td>
-</tr>
-<tr>
-<td valign="top">Monochromator</td>
-<td valign="top">HR 640 monochromator incorporating a holographic grating with 2400 grooves/mm with a linear dispersion of 0.6nm/mm</td>
-</tr>
-<tr>
-<td valign="top">Instrument Resolution</td>
-<td valign="top">0.010 nm</td>
-</tr>
-<tr>
-<td valign="top">Sample intake</td>
-<td valign="top">About 1 ml/min Min</td>
-</tr>
-<tr>
-<td valign="top">Detection Limits</td>
-<td valign="top">Varies according to the element.<br /> Can be as low as 0.07 ppb for Mg to 20ppb for some of the rare earth elements</td>
-</tr>
 <tr>
 <td colspan="2" valign="top">
 <div align="left"><strong>Atomic Absorption Spectrometer</strong></div>
