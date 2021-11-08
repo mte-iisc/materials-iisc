@@ -323,6 +323,30 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/balamurali-21-sep-2021",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Ms. Mitta Divya (11/10/21)",
+        "excerpt":"Thesis title:  Printed and low temperature processed oxide electronics with superior electrical performance and mechanical reliability   Faculty advisor(s):  Prof. Subho Dasgupta   When?  11th October, 2021 (Monday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/divya-11-oct-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Naveen Kumar (27/10/21)",
+        "excerpt":"Thesis title:  Electromechanical properties of PbTiO3 based piezoelectric ceramics and energy harvesting application of their flexible polymer composites   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  27th October, 2021 (Wednesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/naveen-27-oct-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Khanna Sumeet Rajesh (29/10/21)",
+        "excerpt":"Thesis title:  Eutectic Microstructures: Role of interfacial energy   anisotropy and diffusivities   Faculty advisor(s):  Prof. Abhik N Choudhury   When?  29th October, 2021 (Friday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/khanna-29-oct-2021",
+        "teaser": null
+      },{
+        "title": "Bacterial Nano Cellulose (BNC) as a sustainable technological material (29/10/21)",
+        "excerpt":"Speaker and Affliation:  Dr. Syed G. Dastager Principal Scientist and Associate Professor, National Collection of Industrial Microorganism (NCIM), CSIR-National Chemical Laboratory, Pune  &amp;   INSA Visiting Scientist, Department of Materials Engineering,     Indian Institute of Science, Bangalore    When?  29th October, 2021 (Friday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  With increasing environmental and ecological concerns due to the use of petroleum based chemicals and products, the synthesis of fine chemicals and functional materials from natural resources are of great importance. Bacterial nanocellulose may prove to be one of the most promising green materials of modern times due to its advantages over plant cellulose, including high purity, good water absorption, strong water retention, high tensile strength, good biocompatibility and biodegradability Based on these characteristics, BNC has been widely used in many areas such as electronics, biomedicine, food industry and energy storage. It is also used in foods such as multifunctional food ingredients to control the properties of food or beverage as a thickener, stabilizer and texture modifier. In the biomedical field, BNC is widely studied as a highly biocompatible raw material for wound healing, artificial blood vessels, and tissue engineering. We have demonstrate by using indigenously isolated an alternative bacterium different than model organisms. Further an efficient BNC synthesizing strain-using glycerol as a low- cost carbon source confirming the economic feasibility of BNC production. The structural characteristics of the BC membrane produced by glycerol were found to be more suitable for various medical applications.     ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/syed-29-oct-2021",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -365,30 +389,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
-        "title": "PhD Thesis Colloquium: Ms. Mitta Divya (11/10/21)",
-        "excerpt":"Thesis title:  Printed and low temperature processed oxide electronics with superior electrical performance and mechanical reliability   Faculty advisor(s):  Prof. Subho Dasgupta   When?  11th October, 2021 (Monday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/divya-11-oct-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Naveen Kumar (27/10/21)",
-        "excerpt":"Thesis title:  Electromechanical properties of PbTiO3 based piezoelectric ceramics and energy harvesting application of their flexible polymer composites   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  27th October, 2021 (Wednesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/naveen-27-oct-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Khanna Sumeet Rajesh (29/10/21)",
-        "excerpt":"Thesis title:  Eutectic Microstructures: Role of interfacial energy   anisotropy and diffusivities   Faculty advisor(s):  Prof. Abhik N Choudhury   When?  29th October, 2021 (Friday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/khanna-29-oct-2021",
-        "teaser": null
-      },{
-        "title": "Bacterial Nano Cellulose (BNC) as a sustainable technological material (29/10/21)",
-        "excerpt":"Speaker and Affliation:  Dr. Syed G. Dastager Principal Scientist and Associate Professor, National Collection of Industrial Microorganism (NCIM), CSIR-National Chemical Laboratory, Pune  &amp;   INSA Visiting Scientist, Department of Materials Engineering,     Indian Institute of Science, Bangalore    When?  29th October, 2021 (Friday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  With increasing environmental and ecological concerns due to the use of petroleum based chemicals and products, the synthesis of fine chemicals and functional materials from natural resources are of great importance. Bacterial nanocellulose may prove to be one of the most promising green materials of modern times due to its advantages over plant cellulose, including high purity, good water absorption, strong water retention, high tensile strength, good biocompatibility and biodegradability Based on these characteristics, BNC has been widely used in many areas such as electronics, biomedicine, food industry and energy storage. It is also used in foods such as multifunctional food ingredients to control the properties of food or beverage as a thickener, stabilizer and texture modifier. In the biomedical field, BNC is widely studied as a highly biocompatible raw material for wound healing, artificial blood vessels, and tissue engineering. We have demonstrate by using indigenously isolated an alternative bacterium different than model organisms. Further an efficient BNC synthesizing strain-using glycerol as a low- cost carbon source confirming the economic feasibility of BNC production. The structural characteristics of the BC membrane produced by glycerol were found to be more suitable for various medical applications.     ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/syed-29-oct-2021",
-        "teaser": null
-      },{
         "title": "PhD Thesis Defence: Mr. Ahmed Aliyu (03/11/21)",
         "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of  Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  3rd November, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
@@ -405,5 +405,11 @@ var store = [{
         "excerpt":"Thesis title:  Effect​ of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  9th November, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/anupam-09-nov-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Abhay Gupta (16/11/21)",
+        "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  16th November, 2021 (Tuesday), 10:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/abhay-16-nov-2021",
         "teaser": null
       },]
