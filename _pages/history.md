@@ -13,6 +13,10 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 <table>
 <tbody>
 <tr>
+<td>2021-22</td>
+<td>Platinum Jubilee</td>
+</tr>
+<tr>
 <td>2008</td>
 <td>Networking Resource Centre for Materials</td>
 </tr>
