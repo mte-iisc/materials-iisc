@@ -389,6 +389,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
+        "title": "Oxygen Concentrator developed at Indian Institute of Science",
+        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
+      },{
         "title": "PhD Thesis Defence: Mr. Ahmed Aliyu (03/11/21)",
         "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of  Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  3rd November, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],

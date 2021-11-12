@@ -11,6 +11,9 @@
     - src: /assets/images/slider/annual-students-symposium-2020.png
       alt: Recap of annual students' symposium (January 2020)
       href: https://materials.iisc.ac.in/sympo
+    - src: /assets/images/slider/oxygen_concentrator.png
+      alt: Oxygen concentrator developed in the department
+      href: /highlights/oxygen-concentrator
   settings:
     height: 6:1
     effect: "'fade'"
@@ -22,6 +25,9 @@
   bullets: false
   captions: true
   images:
+    - src: /assets/images/slider/oxygen_concentrator.png
+      alt: Oxygen concentrator developed in the department
+      href: /highlights/oxygen-concentrator
     - src: /assets/images/research/machining.jpg
       alt: Machining thin metallic foils by applying electric current pulse and a mechanical stress&#58; synergy between variuos fields
       href: /highlights/thin-foils
