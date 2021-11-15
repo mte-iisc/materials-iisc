@@ -389,6 +389,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
         "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
       },{
+        "title": "Oxygen Concentrator developed at Indian Institute of Science",
+        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
+      },{
         "title": "PhD Thesis Defence: Mr. Ahmed Aliyu (03/11/21)",
         "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of  Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  3rd November, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
@@ -411,5 +417,11 @@ var store = [{
         "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  16th November, 2021 (Tuesday), 10:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/abhay-16-nov-2021",
+        "teaser": null
+      },{
+        "title": "“Characterization of material microstructure for modeling of formability and fracture of automotive aluminum sheet (19/11/21)\"",
+        "excerpt":"Speaker and Affliation:  Prof. Mukesh Jain  Dr. Satish Dhawan visiting chair,   Department of Materials Engineering,      Indian Institute of Science, Bangalore    When?  19th November, 2021 (Friday), 03:30 PM (India Standard Time)   Location  Lecture Theatre, Materials Engineering.   Abstract  Microstructures of materials are known to play a significant role in determining the effective properties of materials as well as their elasto-plastic response in terms of the ability to deform plastically to large strains without the onset of plastic instability and fracture. This has significance in terms of better understanding of material behavior of existing commercial alloys leading to their microstructure optimization as well as development of new alloys. Much experimental effort is being made towards developing techniques that are newer, faster, more accurate, and involve larger material volumes at smaller scales of precipitates and other constituent particles in the matrix. Additional effort is being made towards creating virtual microstructures that can efficiently and closely resemble real microstructures using statistical methods and stereological relationships. Lastly, microstructure-based finite element methodologies are being advanced to study large plastic deformation behavior of structural metallic materials for automotive forming applications. The talk would briefly review the smaller-scale particle characterization effort for structural metallic materials in the literature and then focus on the effort being made at McMaster towards (i) particle characterization of two different automotive aluminum sheet materials by statistical and FIB/SEM based experimental methods, and (ii) incorporation of particles microstructure into finite element models for studying their role in governing plastic flow, damage development, and fracture.     ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/mukesh-19-nov-2021",
         "teaser": null
       },]

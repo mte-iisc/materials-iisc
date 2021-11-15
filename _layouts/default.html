@@ -19,6 +19,7 @@
     {% if page.url == "/events-list" %}
     <link rel="stylesheet" href="{{ site.baseurl }}/components/bootstrap-calendar/css/calendar.css">
     {% endif %}
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">

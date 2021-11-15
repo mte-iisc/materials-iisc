@@ -230,8 +230,95 @@ Prof. Praveen Ramamurthy (praveen@iisc.ac.in)<br>
 Dr. P.Padaikathan (padai@iisc.ac.in)<br>
 Mr R.J. Deshpande (rjd@iisc.ac.in)<br>
 
-## Mechanical testing
+## Mechanical Testing and Manufacturing Processes
+### Mechanical Testing
+<table>
+<tbody>
+<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/instron_5967.png"></td>
+<td><b>Model</b></td>
+<td colspan=2>Instron 5967</td>
+</tr>
+<tr> 
+<td><b>Kind of Tests</b></td>
+<td colspan="2">Tension, Compression, Bending</td>
+</tr>
+<tr> 
+<td><b>Strain rate (s<sup>-1</sup>)</b></td>
+<td colspan="2">0.00001 to 0.1</td>
+</tr>
+<tr> 
+<td><b>Load Cell</b></td>
+<td colspan="2">2 kN, 5 kN, and 30 kN</td>
+</tr>
+<tr> 
+<td><b>Temperature</b></td>
+<td colspan="2">Room Temperature (RT) and High Temperature (HT; upto 650 &deg;C)</td>
+</tr>
+<tr>
+<td rowspan="3"><b>Charges</b></td>
+<td>Department (<i class="fa fa-inr"></i> per hour)</td>
+<td>RT-100; HT-125</td>
+</tr>
+<tr>
+<td>Academic (<i class="fa fa-inr"></i> per hour)</td>
+<td>RT-200; HT-250</td>
+</tr>
+<tr>
+<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
+<td>RT-2500; HT-3000</td>
+</tr>
+<tr>
+<td><b>Contact person</b></td> 
+<td colspan="2">Mr. Kantharaja (<a href="mailto:kantharaja@iisc.ac.in">kantharaja@iisc.ac.in</a>)</td>
+</tr>
+</tbody>
+</table>
+
 ### Dynamic Mechanical Analyser
+<table>
+<tbody>
+<tr>
+<td rowspan="8"><img src="{{ site.baseurl }}/assets/images/facilities/gabo_qualimeter.png"></td>
+<td><b>Model</b></td>
+<td colspan=2>GABO Qualimeter (Germany)</td>
+</tr>
+<tr> 
+<td><b>Kind of Tests</b></td>
+<td colspan="2">Tension, Compression, 3-Point Bending</td>
+</tr>
+<tr> 
+<td><b>Load Cell</b></td>
+<td colspan="2">0.5 kN</td>
+</tr>
+<tr> 
+<td><b>Temperature</b></td>
+<td colspan="2">-170 &deg;C to 350 &deg;C</td>
+</tr>
+<tr>
+<td rowspan="3"><b>Charges</b></td>
+<td>Department (<i class="fa fa-inr"></i> per hour)</td>
+<td>RT-200; HT-300</td>
+</tr>
+<tr>
+<td>Academic (<i class="fa fa-inr"></i> per hour)</td>
+<td>RT-400; HT-800</td>
+</tr>
+<tr>
+<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
+<td>RT-2500; HT-3000</td>
+</tr>
+<tr>
+<td><b>Contact person</b></td> 
+<td colspan="2">Mr. Kantharaja (<a href="mailto:kantharaja@iisc.ac.in">kantharaja@iisc.ac.in</a>)</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+
+
 <table >
 <tbody>
 <tr>
