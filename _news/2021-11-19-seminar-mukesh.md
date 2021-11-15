@@ -5,7 +5,7 @@ permalink: /seminar/mukesh-19-nov-2021
 ### Speaker and Affliation:
 Prof. Mukesh Jain<br>
 Dr. Satish Dhawan visiting chair, <br>
-Department of Materials Engineering,  <br>   
+Department of Materials Engineering,<br>
 Indian Institute of Science, Bangalore<br>
  
 ### When?
