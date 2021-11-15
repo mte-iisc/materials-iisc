@@ -11,6 +11,9 @@
     - src: /assets/images/slider/annual-students-symposium-2020.png
       alt: Recap of annual students' symposium (January 2020)
       href: https://materials.iisc.ac.in/sympo
+    - src: /assets/images/slider/microsim_lab.png
+      alt: First release of phase-field software "MicroSim"
+      href: /highlights/microsim-lab
     - src: /assets/images/slider/oxygen_concentrator.png
       alt: Oxygen concentrator developed in the department
       href: /highlights/oxygen-concentrator
@@ -25,6 +28,9 @@
   bullets: false
   captions: true
   images:
+    - src: /assets/images/slider/microsim_lab.png
+      alt: First release of phase-field software "MicroSim"
+      href: /highlights/microsim-lab
     - src: /assets/images/slider/oxygen_concentrator.png
       alt: Oxygen concentrator developed in the department
       href: /highlights/oxygen-concentrator
