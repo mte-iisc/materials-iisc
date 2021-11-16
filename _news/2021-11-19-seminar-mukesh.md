@@ -7,7 +7,7 @@ Prof. Mukesh Jain<br>
 Dr. Satish Dhawan visiting chair, <br>
 Department of Materials Engineering,<br>
 Indian Institute of Science, Bangalore<br>
- 
+&<br>Professor, <br>Department of Mechanical Engineering, <br>McMaster University, Canada 
 ### When?
 19<sup>th</sup> November, 2021 (Friday), 03:30 PM (India Standard Time)
 
