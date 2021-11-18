@@ -1,6 +1,6 @@
 ---
-title: “Characterization of material microstructure for modeling of formability and fracture of automotive aluminum sheet (23/11/21)"
-permalink: /seminar/mukesh-23-nov-2021
+title: “Characterization of material microstructure for modeling of formability and fracture of automotive aluminum sheet (25/11/21)"
+permalink: /seminar/mukesh-25-nov-2021
 ---
 ### Speaker and Affliation:
 Prof. Mukesh Jain<br>
@@ -9,7 +9,7 @@ Department of Materials Engineering,<br>
 Indian Institute of Science, Bangalore<br>
 &<br>Professor, <br>Department of Mechanical Engineering, <br>McMaster University, Canada 
 ### When?
-23<sup>rd</sup> November, 2021 (Tuesday), 03:30 PM (India Standard Time)
+25<sup>th</sup> November, 2021 (Thursday), 03:30 PM (India Standard Time)
 
 ### Location
 Lecture Theatre, Materials Engineering.
