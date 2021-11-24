@@ -430,4 +430,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/mukesh-25-nov-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Amith G. Anil (06/12/21)",
+        "excerpt":"Thesis title:  Architecting and Developing Sensors for Environmental Monitoring   Faculty advisor(s):  Prof. S. Subramanian and Prof. Praveen C. Ramamurthy   When?  6th December, 2021 (Monday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/amith-06-dec-2021",
+        "teaser": null
       },]
