@@ -16,5 +16,4 @@ Denmark. <br>
 
 ### Abstract
 Layered materials are attractive building blocks in the modern electronic world. Exploring novel layered structures is especially interesting in optoelectronics applications such as transistors, photodetectors, ultrafast lasers, touch panels, and optical modulators to achieve the ever-increasing demands for high-speed performance less power consumption, and easy-to-fabricate flexible devices. Compared with zero- and one-dimensional materials, by virtue of their excellent electron mobility and large surface area, two-dimensional (2D) materials are well suited for easy integration into the complex electronic circuitry that pervades the modern electronics industry. To control the performance of 2D materials, many methods have been proposed, including physical and chemical ways, to manipulate the electronic, atomic, and microscopic properties. This talk discusses the growth of novel 2D materials and their interactions with light to influence the 2D material properties and device performances for future scalable and flexible optoelectronic devices.
-
-  
+ 
