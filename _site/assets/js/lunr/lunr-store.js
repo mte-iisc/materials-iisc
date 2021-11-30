@@ -460,4 +460,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/bhuvanesh-10-dec-2021",
         "teaser": null
+      },{
+        "title": "“Light and Matter Interactions in Novel Two-Dimensional Atomically Thin Materials for High-Performance Optoelectronic Devices (13/12/21)\"",
+        "excerpt":"Speaker and Affliation:  Dr. Rajesh Kumar Ulaganathan  Postdoctoral Researcher  Technical University of Denmark   Denmark.     When?  13th December, 2021 (Monday), 02:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  Layered materials are attractive building blocks in the modern electronic world. Exploring novel layered structures is especially interesting in optoelectronics applications such as transistors, photodetectors, ultrafast lasers, touch panels, and optical modulators to achieve the ever-increasing demands for high-speed performance less power consumption, and easy-to-fabricate flexible devices. Compared with zero- and one-dimensional materials, by virtue of their excellent electron mobility and large surface area, two-dimensional (2D) materials are well suited for easy integration into the complex electronic circuitry that pervades the modern electronics industry. To control the performance of 2D materials, many methods have been proposed, including physical and chemical ways, to manipulate the electronic, atomic, and microscopic properties. This talk discusses the growth of novel 2D materials and their interactions with light to influence the 2D material properties and device performances for future scalable and flexible optoelectronic devices.   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/rajesh-13-dec-2021",
+        "teaser": null
       },]
