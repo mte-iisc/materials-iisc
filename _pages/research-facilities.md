@@ -16,7 +16,7 @@ permalink: /facilities
 
 <b>Optical Microscopes</b>
 
-<b>Carl Zeiss (INVERTED)</b>
+### Carl Zeiss (INVERTED)
 
 <table>
 <tbody>
@@ -61,7 +61,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>Leica DMi8</b>
+### Leica DMi8
 
 <table>
 <tbody>
@@ -94,7 +94,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>Metallographic equipment</b>
+### Metallographic equipment
 
 <table>
 <tbody>
@@ -126,7 +126,7 @@ permalink: /facilities
 ### Electron Microscopy laboratory
 <b>In-charge</b>: Dr. R. Ravi, Professor Subodh Kumar, Professor S. Dasgupta, Professor Satyam Suwas
 
-<b>Scanning electron microscope</b>
+### Scanning electron microscope
 
 <table>
 <tbody>
@@ -163,7 +163,8 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>Electron Probe Micro Analyzer (EPMA</b>
+### Electron Probe Micro Analyzer (EPMA)
+
 <table>
 
 <tbody>
@@ -200,9 +201,9 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>Atomic Force Microscope</b>
-<table>
+### Atomic Force Microscope
 
+<table>
 <tbody>
 <tr>
 <td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/afm.png"></td>
@@ -249,7 +250,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>Scanning Tunneling Microscope</b>
+### Scanning Tunneling Microscope
 
 <table>
 <tbody>
@@ -301,7 +302,7 @@ permalink: /facilities
 ### X-ray Diffraction Laboratory
 <b>In-charge</b>: Professor R. Ranjan, Professor Satyam Suwas, Dr. G. S. Avadhani
 
-<b>X-Pert PRO, PANalytical</b>
+### X-Pert PRO, PANalytical
 
 <table>
 <tbody>
@@ -338,7 +339,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>Rigaku Smart Lab</b>
+### Rigaku Smart Lab
 
 <table>
 <tbody>
@@ -375,7 +376,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>X-ray radiography</b>
+### X-ray radiography
 
 <table>
 <tbody>
@@ -417,7 +418,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-<b>Thin Film Residual Stress</b>
+### Thin Film Residual Stress
 
 <table>
 <tbody>
@@ -462,7 +463,7 @@ permalink: /facilities
 
 <b>In-charge</b>: Professor S. Kumar, Professor S. Karthikeyan, Dr. P. Padaikathan
 
-<b>Differential Scanning Calorimeter </b>
+### Differential Scanning Calorimeter (DSC)
 
 <table>
 <tbody>
@@ -544,7 +545,7 @@ Temperature range: Between RT and 1500°C</td>
 </tbody>
 </table>
 
-<b>TG-DSC and TG-DTA </b>
+### TG-DSC and TG-DTA
 
 <table>
 <tbody>
@@ -601,7 +602,7 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 
 <b>In-charge:</b> Professor A. M. Raichur, Professor P. C. Ramamurthy, Dr. P. Padaikathan, Mr. R. J. Deshpande
 
-<b>Atomic Absorption Spectrometer</b>
+### Atomic Absorption Spectrometer
 
 <table>
 <tbody>
@@ -646,7 +647,7 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-<b>Particle Size Analyzer</b>
+### Particle Size Analyzer
 
 <table>
 <tbody>
@@ -683,7 +684,7 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-<b>Automatic Micropore Physisorption Analyzer</b>
+### Automatic Micropore Physisorption Analyzer
 
 <table>
 <tbody>
@@ -738,7 +739,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<b>See beck Coefficient/Electrical resistance measuring system</b>
+### Seebeck Coefficient/Electrical resistance measuring system
 
 <table>
 <tbody>
@@ -775,7 +776,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<b>Thermal Properties Testers</b>
+### Thermal Properties Testers
 
 <table>
 <tbody>
@@ -855,7 +856,7 @@ Transducer: 0.001 mmHg
 
 <b>In-charge:</b> Professor S. Suwas, Professor A. Paul, Dr. P. Padaikathan
 
-<b>Vacuum Arc Melting/casting</b>
+### Vacuum Arc Melting/casting
 
 <table>
 <tbody>
@@ -900,7 +901,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<b>Vacuum Quartz Sealing Unit</b>
+### Vacuum Quartz Sealing Unit
 
 <table>
 <tbody>
@@ -933,7 +934,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<b>Melt Spinning Unit</b>
+### Melt Spinning Unit
 
 <table>
 <tbody>
@@ -966,7 +967,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<b>Induction Melting Unit</b>
+### Induction Melting Unit
 
 <table>
 <tbody>
@@ -999,7 +1000,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<b>Planetary Ball Mill</b>
+### Planetary Ball Mill
 
 <table>
 <tbody>
@@ -1113,7 +1114,7 @@ For reliable results, perform your own calibration, especially after changing th
 </tbody>
 </table>
 
-<b>Electrical Discharge Machine</b>
+### Electrical Discharge Machine
 
 <table>
 <tbody>
@@ -1150,7 +1151,7 @@ For reliable results, perform your own calibration, especially after changing th
 </tbody>
 </table>
 
-<b>Computational Facilities</b>
+## Computational Facilities
 
 Computational facility with precision air conditioning with a redundant cooling capacity of 5 tones with variable scroll control for heat load variability.
 
@@ -1166,7 +1167,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>Modified Bridgman Furnaces for DS/Single-crystal studies</b> 
+### Modified Bridgman Furnaces for DS/Single-crystal studies
 
 <table>
 <tbody>
@@ -1196,7 +1197,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 ## Mechanical Testing and Manufacturing Processes laboratory
 <b>In-charge</b>: Professor Praveen Kumar, Professor Satyam Suwas, Dr. G. S. Avadhani
 
-<b>Instron 5967</b>
+### Instron 5967
 
 <table>
 <tbody>
@@ -1241,7 +1242,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>ZWICK/ROELL Z100 </b>
+### ZWICK/ROELL Z100
 
 <table>
 <tbody>
@@ -1286,7 +1287,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>DARTEC</b>
+### DARTEC
 
 <table>
 <tbody>
@@ -1331,7 +1332,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>INSTRON 8502</b>
+### INSTRON 8502
 
 <table>
 <tbody>
@@ -1376,7 +1377,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>INSTRON 8032</b>
+### INSTRON 8032
 
 <table>
 <tbody>
@@ -1421,7 +1422,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>Rotating Bending Fatigue (RBF) setup</b>
+### Rotating Bending Fatigue (RBF) setup
 
 <table>
 <tbody>
@@ -1466,7 +1467,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>Dynamic Mechanical Analyser</b>
+### Dynamic Mechanical Analyser
 
 <table>
 <tbody>
@@ -1507,7 +1508,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>Zwick/Roell Indenter</b>
+### Zwick/Roell Indenter
 
 <table>
 <tbody>
@@ -1544,7 +1545,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>CSM instrumented micro-indentation</b>
+### CSM instrumented micro-indentation
 
 <table>
 <tbody>
@@ -1596,7 +1597,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 
 <b>Depth Sensing Indentation</b>
 
-<b>Hysitron Tribo Indenter</b>
+### Hysitron Tribo Indenter
 
 <table>
 <tbody>
@@ -1645,7 +1646,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>Hysitron Nano Indenter</b>
+### Hysitron Nano Indenter
 
 <table>
 <tbody>
@@ -1694,7 +1695,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>HOT EXTRUSION PRESS </b>
+### HOT EXTRUSION PRESS
 
 <table>
 <tbody>
