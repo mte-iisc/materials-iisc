@@ -9,24 +9,21 @@ toc_icon: "flask"
 permalink: /facilities
 ---
 <b><a href="/pdfs/central-facility.pdf" target="_blank">Central facility usage form</a></b>
-## Characterization Facilities
+## Structural characterisation
 
-### Optical Microscopy and Metallography laboratory
-<b>In-charge</b>: Prof. S. Dasgupta, Prof. R. Ranjan, Prof. S. Bose
+### Optical Microscopy and Metallographic laboratory
+<b>In-charge</b>: Professor S. Dasgupta, Professor R. Ranjan, Professor S. Bose
 
 <b>Optical Microscopes</b>
+
+### Carl Zeiss (INVERTED)
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Carl Zeiss (Inverted)</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/carl_zeiss.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/carl_zeiss.png"></td>
 <td><b>Model</b></td>
-<td colspan=2>MAT 200 Motorised Axio Vision (Version 4.7.2)</td>
+<td colspan=2>MAT 200 MOTORISED AXIO VISION 4.7.2 VERSION</td>
 </tr>
 <tr> 
 <td><b>Mode of Operation</b></td>
@@ -64,20 +61,14 @@ permalink: /facilities
 </tbody>
 </table>
 
-
-<br>
+### Leica DMi8
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Leica DMi8</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/leica.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/leica.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">DMi8</td>
+<td colspan=2>DMi8</td>
 </tr>
 <tr> 
 <td><b>Mode of Operation</b></td>
@@ -103,15 +94,14 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
+### Metallographic Equipment
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Metallography</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/struers.png"></td>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/struers.png"></td>
+<td><b></b></td>
+<td colspan=2></td>
 </tr>
 <tr>
 <td rowspan="3"><b>Charges (one-time usage)</b></td>
@@ -133,24 +123,17 @@ permalink: /facilities
 </tbody>
 </table>
 
-
-<br>
-
-
 ### Electron Microscopy laboratory
 <b>In-charge</b>: Dr. R. Ravi, Professor Subodh Kumar, Professor S. Dasgupta, Professor Satyam Suwas
+
+### Scanning Electron Microscope (SEM)
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Scanning electron microscope (SEM)</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/sem.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/sem.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">ESEM Quanta 200, FEI</td>
+<td colspan=2>ESEM Quanta 200, FEI</td>
 </tr>
 <tr> 
 <td><b>Source</b></td>
@@ -180,19 +163,15 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
+### Electron Probe Micro Analyzer (EPMA)
 
 <table>
+
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Electron probe micro analyzer (EPMA)</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/epma.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/epma.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">JEOL JXA-8530F</td>
+<td colspan=2>JEOL  JXA-8530F</td>
 </tr>
 <tr> 
 <td><b>Source</b></td>
@@ -222,19 +201,14 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
+### Atomic Force Microscope
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Atomic force microscope (AFM)</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/afm.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/afm.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">JPK Nanowizard R3</td>
+<td colspan=2>JPK Nanowizard R3</td>
 </tr>
 <tr> 
 <td><b>Imaging Modes</b></td>
@@ -276,17 +250,12 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
+### Scanning Tunneling Microscope
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Scanning tunneling microscope (STM)</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/stm.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/stm.png"></td>
 <td><b>Model</b></td>
 <td colspan=2></td>
 </tr>
@@ -330,22 +299,17 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
 ### X-ray Diffraction Laboratory
 <b>In-charge</b>: Professor R. Ranjan, Professor Satyam Suwas, Dr. G. S. Avadhani
+
+### X-Pert PRO, PANalytical
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">X-pert PRO</th>
-</tr>
-<tr>
-<td colspan="9" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/xpert.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/xpert.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">X-Pert PRO, PANalytical</td>
+<td colspan=2>X-Pert PRO, PANalytical</td>
 </tr>
 <tr> 
 <td><b>Target</b></td>
@@ -375,19 +339,14 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
+### Rigaku Smart Lab
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Rigaku</th>
-</tr>
-<tr>
-<td colspan="3"><img src="{{ site.baseurl }}/assets/images/facilities/rigaku.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/rigaku.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">Rigaku Smart Lab</td>
+<td colspan=2>Rigaku Smart Lab</td>
 </tr>
 <tr> 
 <td><b>Target</b></td>
@@ -417,17 +376,12 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
+### X-ray Radiography
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">X-ray radiography</th>
-</tr>
-<tr>
-<td colspan="9" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/stenoscope.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/stenoscope.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Stenoscope 9000</td>
 </tr>
@@ -464,19 +418,12 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
-### Residual Stress (Laser)
+### Thin Film Residual Stress
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Thin film residual stress measurement</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/kla_tencor.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/kla_tencor.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>KLA Tencor FLX 2320</td>
 </tr>
@@ -512,23 +459,18 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
-### Thermal  Characterization Laboratory
+## Physical Property and Thermal  Characterization laboratory
 
 <b>In-charge</b>: Professor S. Kumar, Professor S. Karthikeyan, Dr. P. Padaikathan
+
+### Differential Scanning Calorimeter (DSC)
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Differential scanning calorimeter (DSC)</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/dsc.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/dsc.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">Mettler-Toledo DSC 822e</td>
+<td colspan=2>Mettler-Toledo DSC 822e</td>
 </tr>
 <tr> 
 <td><b>Specifications</b></td>
@@ -564,12 +506,15 @@ permalink: /facilities
 <td><b>Contact person</b></td> 
 <td colspan="2">Dr. P. Padaikathan (<a href="mailto:padai@iisc.ac.in">padai@iisc.ac.in</a>)</td>
 </tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
 <tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/netzsch.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/netzsch.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">NETZSCH STA 449 F-3 Jupiter</td>
+<td colspan=2>NETZSCH STA 449 F-3 Jupiter</td>
 </tr>
 <tr> 
 <td><b>Specifications</b></td>
@@ -600,19 +545,14 @@ Temperature range: Between RT and 1500°C</td>
 </tbody>
 </table>
 
-<br>
+### TG-DSC and TG-DTA
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">TG-DSC and TG-DTA</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/tg_dsc_dta.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/tg_dsc_dta.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">NETZSCH STA 409 </td>
+<td colspan=2>NETZSCH STA 409 </td>
 </tr>
 <tr> 
 <td><b>Specifications</b></td>
@@ -658,23 +598,18 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-<br>
-
-### Particle and Pore Characterization Laboratory
+## Characterization Laboratory
 
 <b>In-charge:</b> Professor A. M. Raichur, Professor P. C. Ramamurthy, Dr. P. Padaikathan, Mr. R. J. Deshpande
+
+### Atomic Absorption Spectrometer
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Atomic absorption spectrometer</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/aas.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/aas.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">Series AA Spectrometer, Thermo Electron Corporation</td>
+<td colspan=2>Series AA Spectrometer, Thermo Electron Corporation</td>
 </tr>
 <tr> 
 <td><b>Elements analysed</b></td>
@@ -712,17 +647,12 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-<br>
+### Particle Size Analyzer
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Particle size analyzer</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/zetasizer.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/zetasizer.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Zetasizer Nanoseries-ZEN 3690 (Malvern Instruments)</td>
 </tr>
@@ -754,19 +684,14 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-<br>
+### Automatic Micropore Physisorption Analyzer
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Automatic micropore physisorption analyzer</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/micromeritics.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/micromeritics.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">Micromeritics ASAP 2020</td>
+<td colspan=2>Micromeritics ASAP 2020</td>
 </tr>
 <tr> 
 <td><b>Analysis Gases</b></td>
@@ -814,21 +739,14 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
-
-### Functional property characterization 
+### Seebeck Coefficient/Electrical Resistance Measuring System
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Seebeck coefficient/electrical resistance measuring system</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/ulvac.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/ulvac.png"></td>
 <td><b>Model</b></td>
-<td colspan="2">ULVAC-Rico-ZEM-3 (M10)</td>
+<td colspan=2>ULVAC-Rico-ZEM-3 (M10)</td>
 </tr>
 <tr> 
 <td><b>Temperature</b></td>
@@ -858,17 +776,12 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
+### Thermal Properties Testers
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Thermal properties testers</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/flashline.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/flashline.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Flashline L-S2  EM 200-Discovery</td>
 </tr>
@@ -897,10 +810,13 @@ Transducer: 0.001 mmHg
 <td><b>Contact person</b></td> 
 <td colspan="2">Prof. Subho Dasgupta   (<a href="mailto:dasgupta@iisc.ac.in">dasgupta@iisc.ac.in</a>)</td>
 </tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
 <tr>
-<td colspan="9" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/flashline5000.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/flashline5000.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Flashline 50000</td>
 </tr>
@@ -936,21 +852,16 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
-
 ## Alloy Preparation Laboratory
 
 <b>In-charge:</b> Professor S. Suwas, Professor A. Paul, Dr. P. Padaikathan
 
+### Vacuum Arc Melting/Casting
+
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Vacuum Arc Melting/Casting</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/unit1.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/unit1.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Custom Made</td>
 </tr>
@@ -990,17 +901,12 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
+### Vacuum Quartz Sealing Unit
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Vacuum Quartz Sealing Unit</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/sealing_unit.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/sealing_unit.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Custom Made</td>
 </tr>
@@ -1028,17 +934,12 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
+### Melt Spinning Unit
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Melt Spinning Unit</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/msu.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/msu.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Custom Made</td>
 </tr>
@@ -1066,17 +967,12 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
+### Induction Melting Unit
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Induction Melting Unit</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/imu.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/imu.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Custom Made</td>
 </tr>
@@ -1104,17 +1000,12 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
+### Planetary Ball Mill
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Planetary Ball Mill</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/ballmill.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/ballmill.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>FRISCH Pulverisette 7</td>
 </tr>
@@ -1170,7 +1061,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-## Heat Treatment
+## Heat Treatment and EDM Laboratory
 
 <b>In-charge:</b> Dr. S. K. Makineni, Professor S. Suwas, Professor A. Paul 
 
@@ -1199,12 +1090,7 @@ For reliable results, perform your own calibration, especially after changing th
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Furnaces</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/furnaces.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/furnaces.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Delta Make</td>
 </tr>
@@ -1228,17 +1114,12 @@ For reliable results, perform your own calibration, especially after changing th
 </tbody>
 </table>
 
-<br>
+### Electrical Discharge Machine
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Electrical Discharge Machine</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/au500ia.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/au500ia.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>AU-500iA, Accutex Make</td>
 </tr>
@@ -1270,17 +1151,28 @@ For reliable results, perform your own calibration, especially after changing th
 </tbody>
 </table>
 
-<br>
+## Computational Facilities
+
+Computational facility with precision air conditioning with a redundant cooling capacity of 5 tones with variable scroll control for heat load variability.
+
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Modified Bridgman Furnaces for DS/Single-crystal studies</th>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/cluster.png"></td>
+<td>The department has several computing clusters available, with contributions from the groups of Prof. T. A. Abinandanan, Prof. S. Karthikeyan, Prof. Abhik Choudhury, and Prof. Sai Gautam Gopalakrishnan. All computing clusters are located in a facility in the E-wing of the department. Interested people can contact respective faculty for usage which is FREE and therefore not guaranteed.<br>
+Individual clusters are handled by respective faculties; the precision cooling is under the supervision of Prof. Abhik Choudhury</td>
 </tr>
+
+</tbody>
+</table>
+
+### Modified Bridgman Furnaces for DS/Single-crystal studies
+
+<table>
+<tbody>
 <tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/mosi2.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/mosi2.png"></td>
 <td rowspan="3"><b>Charges<sup>*</sup> (Rupees per hour + GST)</b></td>
 <td>Department (<i class="fa fa-inr"></i> per hour)</td>
 <td>-</td>
@@ -1302,43 +1194,15 @@ For reliable results, perform your own calibration, especially after changing th
 <sup>*</sup>material preparation and cost is the responsibility of user.
 
 
-
-## Computational Facilities
-
-Computational facility with precision air conditioning with a redundant cooling capacity of 5 tones with variable scroll control for heat load variability.
-
-
-<table>
-<tbody>
-<tr>
-<th colspan="3" style="text-align:center; font-size:large">Clusters</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/cluster.png"></td>
-</tr>
-<tr>
-<td>The department has several computing clusters available, with contributions from the groups of Prof. T. A. Abinandanan, Prof. S. Karthikeyan, Prof. Abhik Choudhury, and Prof. Sai Gautam Gopalakrishnan. All computing clusters are located in a facility in the E-wing of the department. Interested people can contact respective faculty for usage which is FREE and therefore not guaranteed.<br>
-Individual clusters are handled by respective faculties; the precision cooling is under the supervision of Prof. Abhik Choudhury</td>
-</tr>
-
-</tbody>
-</table>
-
-
-## Mechanical Testing 
+## Mechanical Testing and Manufacturing Processes laboratory
 <b>In-charge</b>: Professor Praveen Kumar, Professor Satyam Suwas, Dr. G. S. Avadhani
 
-### Tensile Testing
+### Instron 5967
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Instron 5967</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/instron_5967.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/instron_5967.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Instron 5967</td>
 </tr>
@@ -1378,17 +1242,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
+### ZWICK/ROELL Z100
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">ZWICK/ROELL Z100</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/zwick_roell_z100.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/zwick_roell_z100.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Zwick-Roell</td>
 </tr>
@@ -1428,17 +1287,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-
+### DARTEC
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">DARTEC</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/dartec.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/dartec.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>DARTEC</td>
 </tr>
@@ -1478,17 +1332,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
+### INSTRON 8502
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">INSTRON 8502</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/instron8502.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/instron8502.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>INSTRON 8502</td>
 </tr>
@@ -1528,17 +1377,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<b>INSTRON 8032</b>
+### INSTRON 8032
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">INSTRON 8032</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/instron8032.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/instron8032.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>INSTRON 8032</td>
 </tr>
@@ -1578,17 +1422,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-### Fatigue and dynamic testing
+### Rotating Bending Fatigue (RBF) Setup
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Rotating Bending Fatigue (RBF) Setup</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/rbf.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/rbf.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Spranktronics, Bangalore</td>
 </tr>
@@ -1628,17 +1467,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
+### Dynamic Mechanical Analyser
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Dynamic Mechanical Analyser</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/gabo_qualimeter.png"></td>
-</tr>
-<tr>
+<td rowspan="8"><img src="{{ site.baseurl }}/assets/images/facilities/gabo_qualimeter.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>GABO Qualimeter (Germany)</td>
 </tr>
@@ -1674,17 +1508,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-### Indentation
+### Zwick/Roell Indenter
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Zwick/Roell Indenter</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/zwick_roell_indenter.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/zwick_roell_indenter.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Zwick/Roell Indenter - ZHU 250CL</td>
 </tr>
@@ -1716,17 +1545,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
+### CSM Instrumented Micro-indentation
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">CSM Instrumented Micro-indentation</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/csm.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/csm.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>CSM Instruments</td>
 </tr>
@@ -1773,15 +1597,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 
 <b>Depth Sensing Indentation</b>
 
+### Hysitron Tribo Indenter
+
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Hysitron Tribo Indenter</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/tribo_indenter.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/tribo_indenter.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>TI 900-Tribo Indenter</td>
 </tr>
@@ -1825,17 +1646,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
+### Hysitron Nano Indenter
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Hysitron Nano Indenter</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/nano_indenter.png"></td>
-</tr>
-<tr>
+<td rowspan="8"><img src="{{ site.baseurl }}/assets/images/facilities/nano_indenter.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>Hysitron TI 950 Nano indenter</td>
 </tr>
@@ -1879,17 +1695,12 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
+### Hot Extrusion Press
 
 <table>
 <tbody>
 <tr>
-<th colspan="3" style="text-align:center; font-size:large">Hot Extrusion Press</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/hot_extrusion_press.png"></td>
-</tr>
-<tr>
+<td rowspan="9"><img src="{{ site.baseurl }}/assets/images/facilities/hot_extrusion_press.png"></td>
 <td><b>Model</b></td>
 <td colspan=2>VB Ceramic Consultants, Chennai</td>
 </tr>
