@@ -64,9 +64,6 @@ permalink: /facilities
 </tbody>
 </table>
 
-
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -103,8 +100,6 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -132,10 +127,6 @@ permalink: /facilities
 </tr>
 </tbody>
 </table>
-
-
-<br>
-
 
 ### Electron Microscopy laboratory
 <b>In-charge</b>: Dr. R. Ravi, Professor Subodh Kumar, Professor S. Dasgupta, Professor Satyam Suwas
@@ -180,8 +171,6 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -221,8 +210,6 @@ permalink: /facilities
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -276,8 +263,6 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -330,8 +315,6 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
 ### X-ray Diffraction Laboratory
 <b>In-charge</b>: Professor R. Ranjan, Professor Satyam Suwas, Dr. G. S. Avadhani
 
@@ -375,8 +358,6 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -416,8 +397,6 @@ permalink: /facilities
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -463,8 +442,6 @@ permalink: /facilities
 </tr>
 </tbody>
 </table>
-
-<br>
 
 ### Residual Stress (Laser)
 
@@ -512,10 +489,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-<br>
-
 ### Thermal  Characterization Laboratory
-
 <b>In-charge</b>: Professor S. Kumar, Professor S. Karthikeyan, Dr. P. Padaikathan
 
 <table>
@@ -600,8 +574,6 @@ Temperature range: Between RT and 1500°C</td>
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -658,10 +630,7 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-<br>
-
 ### Particle and Pore Characterization Laboratory
-
 <b>In-charge:</b> Professor A. M. Raichur, Professor P. C. Ramamurthy, Dr. P. Padaikathan, Mr. R. J. Deshpande
 
 <table>
@@ -712,8 +681,6 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -753,8 +720,6 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -814,8 +779,6 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
-
 ### Functional property characterization 
 
 <table>
@@ -857,8 +820,6 @@ Transducer: 0.001 mmHg
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -936,10 +897,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
-
 ## Alloy Preparation Laboratory
-
 <b>In-charge:</b> Professor S. Suwas, Professor A. Paul, Dr. P. Padaikathan
 
 <table>
@@ -990,8 +948,6 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -1027,8 +983,6 @@ Transducer: 0.001 mmHg
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -1066,8 +1020,6 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -1103,8 +1055,6 @@ Transducer: 0.001 mmHg
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -1171,7 +1121,6 @@ Transducer: 0.001 mmHg
 </table>
 
 ## Heat Treatment
-
 <b>In-charge:</b> Dr. S. K. Makineni, Professor S. Suwas, Professor A. Paul 
 
 <b>Hot air ovens</b>
@@ -1228,8 +1177,6 @@ For reliable results, perform your own calibration, especially after changing th
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -1270,8 +1217,6 @@ For reliable results, perform your own calibration, especially after changing th
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -1301,8 +1246,6 @@ For reliable results, perform your own calibration, especially after changing th
 </table>
 <sup>*</sup>material preparation and cost is the responsibility of user.
 
-
-
 ## Computational Facilities
 
 Computational facility with precision air conditioning with a redundant cooling capacity of 5 tones with variable scroll control for heat load variability.
@@ -1319,10 +1262,8 @@ Computational facility with precision air conditioning with a redundant cooling 
 <td>The department has several computing clusters available, with contributions from the groups of Prof. T. A. Abinandanan, Prof. S. Karthikeyan, Prof. Abhik Choudhury, and Prof. Sai Gautam Gopalakrishnan. All computing clusters are located in a facility in the E-wing of the department. Interested people can contact respective faculty for usage which is FREE and therefore not guaranteed.<br>
 Individual clusters are handled by respective faculties; the precision cooling is under the supervision of Prof. Abhik Choudhury</td>
 </tr>
-
 </tbody>
 </table>
-
 
 ## Mechanical Testing 
 <b>In-charge</b>: Professor Praveen Kumar, Professor Satyam Suwas, Dr. G. S. Avadhani
@@ -1377,8 +1318,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -1427,8 +1366,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-
-
 <table>
 <tbody>
 <tr>
@@ -1476,8 +1413,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -1627,8 +1562,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -1714,8 +1647,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
@@ -1824,8 +1755,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-<br>
-
 <table>
 <tbody>
 <tr>
@@ -1877,8 +1806,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tr>
 </tbody>
 </table>
-
-<br>
 
 <table>
 <tbody>
