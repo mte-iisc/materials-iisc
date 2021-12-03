@@ -1307,7 +1307,6 @@ For reliable results, perform your own calibration, especially after changing th
 
 Computational facility with precision air conditioning with a redundant cooling capacity of 5 tones with variable scroll control for heat load variability.
 
-
 <table>
 <tbody>
 <tr>
