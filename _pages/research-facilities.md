@@ -94,7 +94,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-### Metallographic equipment
+### Metallographic Equipment
 
 <table>
 <tbody>
@@ -126,7 +126,7 @@ permalink: /facilities
 ### Electron Microscopy laboratory
 <b>In-charge</b>: Dr. R. Ravi, Professor Subodh Kumar, Professor S. Dasgupta, Professor Satyam Suwas
 
-### Scanning electron microscope
+### Scanning Electron Microscope (SEM)
 
 <table>
 <tbody>
@@ -376,7 +376,7 @@ permalink: /facilities
 </tbody>
 </table>
 
-### X-ray radiography
+### X-ray Radiography
 
 <table>
 <tbody>
@@ -598,7 +598,7 @@ Determination of onset, peak, inflection and end temperatures, Automatic peak se
 </tbody>
 </table>
 
-## Characterization laboratory
+## Characterization Laboratory
 
 <b>In-charge:</b> Professor A. M. Raichur, Professor P. C. Ramamurthy, Dr. P. Padaikathan, Mr. R. J. Deshpande
 
@@ -739,7 +739,7 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
-### Seebeck Coefficient/Electrical resistance measuring system
+### Seebeck Coefficient/Electrical Resistance Measuring System
 
 <table>
 <tbody>
@@ -856,7 +856,7 @@ Transducer: 0.001 mmHg
 
 <b>In-charge:</b> Professor S. Suwas, Professor A. Paul, Dr. P. Padaikathan
 
-### Vacuum Arc Melting/casting
+### Vacuum Arc Melting/Casting
 
 <table>
 <tbody>
@@ -1422,7 +1422,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-### Rotating Bending Fatigue (RBF) setup
+### Rotating Bending Fatigue (RBF) Setup
 
 <table>
 <tbody>
@@ -1545,7 +1545,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-### CSM instrumented micro-indentation
+### CSM Instrumented Micro-indentation
 
 <table>
 <tbody>
@@ -1695,7 +1695,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
-### HOT EXTRUSION PRESS
+### Hot Extrusion Press
 
 <table>
 <tbody>
