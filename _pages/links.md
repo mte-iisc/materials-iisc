@@ -74,7 +74,7 @@ Here are links to some of the key resources for your ready reference. The <a hre
 <a href="/old/wp-content/uploads/2019/03/Hoysala-request-form-Modi.docx">Hoysala House</a> | 
 <a href="/old/wp-content/uploads/2019/03/Request-for-Accomodation-at-Guest-house.doc">Main Guest House</a>
                            
-### Medical:</strong>
+### Medical
 
 <a href="/old/wp-content/uploads/2015/11/Higher-Insurance-coverage-Option-form.docx">Higher Insurance Coverage</a> | 
 <a href="/old/wp-content/uploads/2015/11/Medical-Reimbursement-I.doc">Medical Reimbursement I</a> | 
