@@ -1196,8 +1196,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 ## Mechanical Testing and Manufacturing Processes laboratory
 <b>In-charge</b>: Professor Praveen Kumar, Professor Satyam Suwas, Dr. G. S. Avadhani
 
-### Mechanical Testing
-
 <b>Instron 5967</b>
 
 <table>
@@ -1716,15 +1714,15 @@ Individual clusters are handled by respective faculties; the precision cooling i
 <tr>
 <td rowspan="3"><b>Charges</b></td>
 <td>Department (<i class="fa fa-inr"></i> per hour)</td>
-<td>300-</td>
+<td>300</td>
 </tr>
 <tr>
 <td>Academic (<i class="fa fa-inr"></i> per hour)</td>
-<td>600-</td>
+<td>600</td>
 </tr>
 <tr>
 <td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
-<td>3500-</td>
+<td>3500</td>
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
