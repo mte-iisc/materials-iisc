@@ -109,6 +109,18 @@ permalink: /facilities
 <td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/struers.png"></td>
 </tr>
 <tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/metco.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/diamond_wheel_cutter.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/polisher.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/ultrasonic_cleaning.png"></td>
+</tr>
+<tr>
 <td rowspan="3"><b>Charges (one-time usage)</b></td>
 <td>Department (<i class="fa fa-inr"></i> per hour)</td>
 <td>200</td>
