@@ -106,16 +106,31 @@ permalink: /facilities
 <th colspan="3" style="text-align:center; font-size:large">Metallography</th>
 </tr>
 <tr>
+<td colspan="3" style="text-align:center">Struers dual disc polisher </td>
+</tr>
+<tr>
 <td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/struers.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center">Metco single and dual disc polisher</td>
 </tr>
 <tr>
 <td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/metco.png"></td>
 </tr>
 <tr>
+<td colspan="3" style="text-align:center">Diamond wheel cutter, Hot compaction and Abrasive Grinder</td>
+</tr>
+<tr>
 <td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/diamond_wheel_cutter.png"></td>
 </tr>
 <tr>
+<td colspan="3" style="text-align:center">Automatic Polisher and Abrasive wheel cutting machine </td>
+</tr>
+<tr>
 <td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/polisher.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center">Ultrasonic cleaning, etchants and Fume hood</td>
 </tr>
 <tr>
 <td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/ultrasonic_cleaning.png"></td>
