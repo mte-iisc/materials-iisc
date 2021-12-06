@@ -380,7 +380,7 @@ permalink: /facilities
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Prof. Satyam Suwas   (<a href="mailto:satyamsuwas@iisc.ac.in">satyamsuwas@iisc.ac.in</a>)</td>
+<td colspan="2">Dr. G.S. Avadhani (<a href="mailto:gsa@iisc.ac.in">gsa@@iisc.ac.in</a>)</td>
 </tr>
 </tbody>
 </table>
@@ -420,7 +420,7 @@ permalink: /facilities
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Prof. Satyam Suwas   (<a href="mailto:satyamsuwas@iisc.ac.in">satyamsuwas@iisc.ac.in</a>)</td>
+<td colspan="2">Dr. G.S. Avadhani (<a href="mailto:gsa@iisc.ac.in">gsa@@iisc.ac.in</a>)</td>
 </tr>
 </tbody>
 </table>
@@ -1878,7 +1878,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Prof. Satyam Suwas (<a href="mailto:satyamsuwas@iisc.ac.in">satyamsuwas@iisc.ac.in</a>)</td>
+<td colspan="2">Dr. G.S. Avadhani (<a href="mailto:gsa@iisc.ac.in">gsa@@iisc.ac.in</a>)</td>
 </tr>
 </tbody>
 </table>
