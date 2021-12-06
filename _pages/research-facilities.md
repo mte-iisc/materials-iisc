@@ -1320,7 +1320,7 @@ Individual clusters are handled by respective faculties; the precision cooling i
 ## Mechanical Testing 
 <b>In-charge</b>: Professor Praveen Kumar, Professor Satyam Suwas, Dr. G. S. Avadhani
 
-### Tensile Testing
+### Tensile, Compression and Bending testing
 
 <table>
 <tbody>
