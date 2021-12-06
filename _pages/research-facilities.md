@@ -1213,45 +1213,7 @@ For reliable results, perform your own calibration, especially after changing th
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr>
-<th colspan="3" style="text-align:center; font-size:large">Electrical Discharge Machine</th>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/au500ia.png"></td>
-</tr>
-<tr>
-<td><b>Model</b></td>
-<td colspan=2>AU-500iA, Accutex Make</td>
-</tr>
-<tr> 
-<td><b>Specifications</b></td>
-<td colspan="2"></td>
-</tr>
-<tr> 
-<td><b>Sample details</b></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="3"><b>Charges (Rupees per hour + GST)</b></td>
-<td>Department (<i class="fa fa-inr"></i> per hour)</td>
-<td>300</td>
-</tr>
-<tr>
-<td>Academic (<i class="fa fa-inr"></i> per hour)</td>
-<td>500</td>
-</tr>
-<tr>
-<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
-<td>1000</td>
-</tr>
-<tr>
-<td><b>Contact person</b></td> 
-<td colspan="2">Prof. Praveen Kumar (<a href="mailto:praveenk@iisc.ac.in">praveenk@iisc.ac.in</a>)</td>
-</tr>
-</tbody>
-</table>
+## Directional Solidification
 
 <table>
 <tbody>
@@ -1450,6 +1412,9 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
+
+### Fatigue and dynamic testing
+
 <table>
 <tbody>
 <tr>
@@ -1547,8 +1512,6 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tr>
 </tbody>
 </table>
-
-### Fatigue and dynamic testing
 
 <table>
 <tbody>
@@ -1843,6 +1806,8 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tbody>
 </table>
 
+## Material Processing
+
 <table>
 <tbody>
 <tr>
@@ -1882,3 +1847,44 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+<tr>
+<th colspan="3" style="text-align:center; font-size:large">Electrical Discharge Machine</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/au500ia.png"></td>
+</tr>
+<tr>
+<td><b>Model</b></td>
+<td colspan=2>AU-500iA, Accutex Make</td>
+</tr>
+<tr> 
+<td><b>Specifications</b></td>
+<td colspan="2"></td>
+</tr>
+<tr> 
+<td><b>Sample details</b></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="3"><b>Charges (Rupees per hour + GST)</b></td>
+<td>Department (<i class="fa fa-inr"></i> per hour)</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Academic (<i class="fa fa-inr"></i> per hour)</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
+<td>1000</td>
+</tr>
+<tr>
+<td><b>Contact person</b></td> 
+<td colspan="2">Prof. Praveen Kumar (<a href="mailto:praveenk@iisc.ac.in">praveenk@iisc.ac.in</a>)</td>
+</tr>
+</tbody>
+</table>
+
