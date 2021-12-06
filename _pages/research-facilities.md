@@ -1221,7 +1221,22 @@ For reliable results, perform your own calibration, especially after changing th
 <th colspan="3" style="text-align:center; font-size:large">Modified Bridgman Furnaces for DS/Single-crystal studies</th>
 </tr>
 <tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/mosi2.png"></td>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/mosi2_furnace.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center">>MoSi<sub>2</sub> heating element: Max temperature: 1700 deg. C; Velocities: up to 1-200 µm/sec; Vacuum/Argon atmospheres</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/graphite_furnace.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center">Graphite furnace, temperatures up to 1800 deg. C, Vacuum/Argon atmospheres; speeds 1-200 µm/sec</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/low_temp_furnace.png"></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center">Low temperature furnace up to 1000 deg. C, Gradients up to 30 K/mm, and speeds up to 0.5-200 µm/sec</td>
 </tr>
 <tr>
 <td rowspan="3"><b>Charges<sup>*</sup> (Rupees per hour + GST)</b></td>
