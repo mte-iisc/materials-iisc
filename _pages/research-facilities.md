@@ -1187,7 +1187,7 @@ For reliable results, perform your own calibration, especially after changing th
 <th colspan="3" style="text-align:center; font-size:large">Furnaces</th>
 </tr>
 <tr>
-<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/muffle.png"></td>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/muffle_furnace.png"></td>
 </tr>
 <tr>
 <td colspan="3" style="text-align:center">Muffle Furnace (Delta Make), Max Temp: 1350<sup>o</sup>C</td>
