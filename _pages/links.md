@@ -51,77 +51,77 @@ Here are links to some of the key resources for your ready reference. The <a hre
 
 ## Forms
 
-<a href="https://materials.iisc.ac.in/old/wp-content/uploads/2019/12/central-facility.pdf">Central facility usage form</a>
+<a href="/docs/central-facility.docx">Central facility usage form</a>
 
 ### Email and Internet Access
 
-<a href="/old/wp-content/uploads/2019/03/MTE-Email-Application.pdf">Email Application</a> (<a href="/old/wp-content/uploads/2019/03/MTE-Students-Dummy.xlsx">Spread sheet for Students</a> | 
-<a href="/old/wp-content/uploads/2019/03/MTE-ProjectStaff-Dummy.xlsx">Porject Staff</a>) | 
-<a href="/old/wp-content/uploads/2018/05/MTE-Guest-Wifi.pdf">Guest Wifi Application</a>
+<a href="/pdfs/MTE-Email-Application.pdf">Email Application</a> (<a href="/docs/MTE-Students-Dummy.xlsx">Spread sheet for Students</a> | 
+<a href="/docs/MTE-ProjectStaff-Dummy.xlsx">Porject Staff</a>) | 
+<a href="/pdfs/MTE-Guest-Wifi.pdf">Guest Wifi Application</a>
 
 ### Cash Advance and Settlement
 
-<a href="/old/wp-content/uploads/2015/11/Cash-Advance-FA.doc">Cash Advance F&amp;A</a> | 
-<a href="/old/wp-content/uploads/2015/11/Cash-Advance-Schemes.doc">Cash Advance Schemes</a> | 
-<a href="/old/wp-content/uploads/2015/11/Contingent-Bill.doc">Contingent Bill</a> | 
-<a href="/old/wp-content/uploads/2015/11/Receipt-cum-Authorisation-FA.doc">Receipt cum Authorization F&amp;A</a> | 
-<a href="/old/wp-content/uploads/2015/11/Receipt-cum-Authorisation-Schemes.doc">Receipt cum Authorization Schemes</a> | 
-<a href="/old/wp-content/uploads/2017/05/Reimbursement-Request-For-Online-Purchases-Schemes.doc">Reimbursement Request for Online Purchases (Schemes)</a>
+<a href="/docs/Cash-Advance-FA.doc">Cash Advance F&amp;A</a> | 
+<a href="/docs/Cash-Advance-Schemes.doc">Cash Advance Schemes</a> | 
+<a href="/docs/Contingent-Bill.doc">Contingent Bill</a> | 
+<a href="/docs/Receipt-cum-Authorisation-FA.doc">Receipt cum Authorization F&amp;A</a> | 
+<a href="/docs/Receipt-cum-Authorisation-Schemes.doc">Receipt cum Authorization Schemes</a> | 
+<a href="/docs/Reimbursement-Request-For-Online-Purchases-Schemes.doc">Reimbursement Request for Online Purchases (Schemes)</a>
 
 ### Guest House
 
-<a href="/old/wp-content/uploads/2019/03/Request-for-Centenary-Visitors-House-New.doc">Centenary Visitors House</a> | 
-<a href="/old/wp-content/uploads/2019/03/Hoysala-request-form-Modi.docx">Hoysala House</a> | 
-<a href="/old/wp-content/uploads/2019/03/Request-for-Accomodation-at-Guest-house.doc">Main Guest House</a>
+<a href="/docs/Request-for-Centenary-Visitors-House-New.doc">Centenary Visitors House</a> | 
+<a href="/docs/Hoysala-request-form-Modi.docx">Hoysala House</a> | 
+<a href="/docs/Request-for-Accomodation-at-Guest-house.doc">Main Guest House</a>
                            
 ### Medical
 
-<a href="/old/wp-content/uploads/2015/11/Higher-Insurance-coverage-Option-form.docx">Higher Insurance Coverage</a> | 
-<a href="/old/wp-content/uploads/2015/11/Medical-Reimbursement-I.doc">Medical Reimbursement I</a> | 
-<a href="/old/wp-content/uploads/2015/11/Medical-Reimbursement-II.doc">Medical Reimbursement II</a>
+<a href="/docs/Higher-Insurance-coverage-Option-form.docx">Higher Insurance Coverage</a> | 
+<a href="/docs/Medical-Reimbursement-I.doc">Medical Reimbursement I</a> | 
+<a href="/docs/Medical-Reimbursement-II.doc">Medical Reimbursement II</a>
                             
 ### SID
 
-<a href="/old/wp-content/uploads/2015/11/Cash-Advance-Request-and-Receipt.doc">Cash Advance Request and Receipt</a> |  
-<a href="/old/wp-content/uploads/2015/11/Contract-appointment.doc">Contract Appointment</a> |  
-<a href="/old/wp-content/uploads/2015/11/Project-Proposal.doc">Project Proposal</a> |  
-<a href="/old/wp-content/uploads/2015/11/Settlement-of-Advance.docx">Settlement of Advance</a> |  
-<a href="/old/wp-content/uploads/2015/11/Travel-Request-Foreign.doc">Travel Request Foreign</a> | 
-<a href="/old/wp-content/uploads/2015/11/Travel-Request-National.doc">Travel Request National</a>
+<a href="/docs/Cash-Advance-Request-and-Receipt.doc">Cash Advance Request and Receipt</a> |  
+<a href="/docs/Contract-appointment.doc">Contract Appointment</a> |  
+<a href="/docs/Project-Proposal.doc">Project Proposal</a> |  
+<a href="/docs/Settlement-of-Advance.docx">Settlement of Advance</a> |  
+<a href="/docs/Travel-Request-Foreign.doc">Travel Request Foreign</a> | 
+<a href="/docs/Travel-Request-National.doc">Travel Request National</a>
 
 ### Travel
 
-<a href="/old/wp-content/uploads/2015/11/Application-for-TA-Advance.doc">Application for TA advance</a> | 
-<a href="/old/wp-content/uploads/2015/11/Travel-Approval-F-A.doc">Travel approval F&amp;A</a> | 
-<a href="/old/wp-content/uploads/2015/11/Travel-Approval-For-visitors.doc">Travel approval for visitors</a> | 
-<a href="/old/wp-content/uploads/2015/11/Travel-Approval-Schemes.doc">Travel approval Schemes</a> | 
-<a href="/old/wp-content/uploads/2015/11/Travel-Requisition-CPDA.doc">Travel requisition CPDA</a> | 
-<a href="/old/wp-content/uploads/2015/11/Travelling-allowance-Bill-Visitors.doc">Travel allowance bill Visitors</a> | 
-<a href="/old/wp-content/uploads/2015/11/Travelling-Allowance-Bill.doc">Travel allowance bill</a>| 
-<a href="/old/wp-content/uploads/2019/03/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
+<a href="/docs/Application-for-TA-Advance.doc">Application for TA advance</a> | 
+<a href="/docs/Travel-Approval-F-A.doc">Travel approval F&amp;A</a> | 
+<a href="/docs/Travel-Approval-For-visitors.doc">Travel approval for visitors</a> | 
+<a href="/docs/Travel-Approval-Schemes.doc">Travel approval Schemes</a> | 
+<a href="/docs/Travel-Requisition-CPDA.doc">Travel requisition CPDA</a> | 
+<a href="/docs/Travelling-allowance-Bill-Visitors.doc">Travel allowance bill Visitors</a> | 
+<a href="/docs/Travelling-Allowance-Bill.doc">Travel allowance bill</a>| 
+<a href="/docs/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
 
 ### LTC
 
-<a href="/old/wp-content/uploads/2015/11/LTC-Advance-For-Faculty.doc">LTC advance for Faculty</a> | 
-<a href="/old/wp-content/uploads/2015/11/LTC-Advance-Staff.doc">LTC advance for Staff</a> | 
-<a href="/old/wp-content/uploads/2015/11/LTC-BILL.docx">LTC Bill</a>
+<a href="/docs/LTC-Advance-For-Faculty.doc">LTC advance for Faculty</a> | 
+<a href="/docs/LTC-Advance-Staff.doc">LTC advance for Staff</a> | 
+<a href="/docs/LTC-BILL.docx">LTC Bill</a>
 
 ### Courier
 
-<a href="/old/wp-content/uploads/2015/11/Courier-PACKING-LIST.doc">Courier-PACKING-LIST</a> | 
-<a href="/old/wp-content/uploads/2015/11/Courier-Shippers-Certification-and-MSDS.doc">Courier-Shippers-Certification-and-MSDS</a> | 
-<a href="/old/wp-content/uploads/2015/11/Declaration-form-for-Courier-Services.doc">Declaration-form-for-Courier-Services</a> | 
-<a href="/old/wp-content/uploads/2015/11/DETAILS-OF-OUTWARD-MAILS.doc">DETAILS-OF-OUTWARD-MAILS</a>
+<a href="/docs/Courier-PACKING-LIST.doc">Courier-PACKING-LIST</a> | 
+<a href="/docs/Courier-Shippers-Certification-and-MSDS.doc">Courier-Shippers-Certification-and-MSDS</a> | 
+<a href="/docs/Declaration-form-for-Courier-Services.doc">Declaration-form-for-Courier-Services</a> | 
+<a href="/docs/DETAILS-OF-OUTWARD-MAILS.doc">DETAILS-OF-OUTWARD-MAILS</a>
 
 ### Miscellaneous
 
-<a href="/old/wp-content/uploads/2015/11/Leave-form-Staff.docx">Leave form for staff</a> | 
-<a href="/old/wp-content/uploads/2015/11/Membership-Fee-Professional-Body.pdf">Membership fee Professional bodies</a> | 
-<a href="/old/wp-content/uploads/2015/11/Request-for-Compre-Exam.doc">Request for comprehensive exam</a> | 
-<a href="/old/wp-content/uploads/2015/11/Stud-Assit-ProgSAP.docx">Students Assistance Program (SAP)</a> | 
-<a href="/old/wp-content/uploads/2015/11/VENDOR-CODE-Regn.docx">Vendor Code Registration</a> | 
-<a href="/old/wp-content/uploads/2015/11/Voucher-for-conveyance-F-A.doc">Voucher for conveyance F&amp;A</a> | 
-<a href="/old/wp-content/uploads/2015/11/Voucher-for-conveyance-Schemes.doc">Voucher for conveyance Schemes</a> | 
-<a href="/old/wp-content/uploads/2015/11/Telephone-reimb-form.doc">Telephone bill reimbursement</a> | 
-<a href="/wp-content/uploads/2015/11/Taxi-Bill-Reimb-Application.doc">Taxi bill reimbursement</a>| 
-<a href="/old/wp-content/uploads/2015/11/Check-list-for-proposals.doc">Check list for proposals</a>
+<a href="/docs/Leave-form-Staff.docx">Leave form for staff</a> | 
+<a href="/docs/Membership-Fee-Professional-Body.pdf">Membership fee Professional bodies</a> | 
+<a href="/docs/Request-for-Compre-Exam.doc">Request for comprehensive exam</a> | 
+<a href="/docs/Stud-Assit-ProgSAP.docx">Students Assistance Program (SAP)</a> | 
+<a href="/docs/VENDOR-CODE-Regn.docx">Vendor Code Registration</a> | 
+<a href="/docs/Voucher-for-conveyance-F-A.doc">Voucher for conveyance F&amp;A</a> | 
+<a href="/docs/Voucher-for-conveyance-Schemes.doc">Voucher for conveyance Schemes</a> | 
+<a href="/docs/Telephone-reimb-form.doc">Telephone bill reimbursement</a> | 
+<a href="/docs/Taxi-Bill-Reimb-Application.doc">Taxi bill reimbursement</a> | 
+<a href="/docs/Check-list-for-proposals.doc">Check list for proposals</a>
