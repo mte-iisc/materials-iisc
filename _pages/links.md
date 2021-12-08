@@ -53,13 +53,13 @@ Here are links to some of the key resources for your ready reference. The <a hre
 
 <a href="/docs/central-facility.docx">Central facility usage form</a>
 
-### Email and Internet Access
+<b>Email and Internet Access</b>
 
 <a href="/pdfs/MTE-Email-Application.pdf">Email Application</a> (<a href="/docs/MTE-Students-Dummy.xlsx">Spread sheet for Students</a> | 
 <a href="/docs/MTE-ProjectStaff-Dummy.xlsx">Porject Staff</a>) | 
 <a href="/pdfs/MTE-Guest-Wifi.pdf">Guest Wifi Application</a>
 
-### Cash Advance and Settlement
+<b>Cash Advance and Settlement</b>
 
 <a href="/docs/Cash-Advance-FA.doc">Cash Advance F&amp;A</a> | 
 <a href="/docs/Cash-Advance-Schemes.doc">Cash Advance Schemes</a> | 
@@ -68,19 +68,19 @@ Here are links to some of the key resources for your ready reference. The <a hre
 <a href="/docs/Receipt-cum-Authorisation-Schemes.doc">Receipt cum Authorization Schemes</a> | 
 <a href="/docs/Reimbursement-Request-For-Online-Purchases-Schemes.doc">Reimbursement Request for Online Purchases (Schemes)</a>
 
-### Guest House
+<b>Guest House</b>
 
 <a href="/docs/Request-for-Centenary-Visitors-House-New.doc">Centenary Visitors House</a> | 
 <a href="/docs/Hoysala-request-form-Modi.docx">Hoysala House</a> | 
 <a href="/docs/Request-for-Accomodation-at-Guest-house.doc">Main Guest House</a>
                            
-### Medical
+<b>Medical</b>
 
 <a href="/docs/Higher-Insurance-coverage-Option-form.docx">Higher Insurance Coverage</a> | 
 <a href="/docs/Medical-Reimbursement-I.doc">Medical Reimbursement I</a> | 
 <a href="/docs/Medical-Reimbursement-II.doc">Medical Reimbursement II</a>
                             
-### SID
+<b>SID</b>
 
 <a href="/docs/Cash-Advance-Request-and-Receipt.doc">Cash Advance Request and Receipt</a> |  
 <a href="/docs/Contract-appointment.doc">Contract Appointment</a> |  
@@ -89,7 +89,7 @@ Here are links to some of the key resources for your ready reference. The <a hre
 <a href="/docs/Travel-Request-Foreign.doc">Travel Request Foreign</a> | 
 <a href="/docs/Travel-Request-National.doc">Travel Request National</a>
 
-### Travel
+<b>Travel</b>
 
 <a href="/docs/Application-for-TA-Advance.doc">Application for TA advance</a> | 
 <a href="/docs/Travel-Approval-F-A.doc">Travel approval F&amp;A</a> | 
@@ -100,20 +100,20 @@ Here are links to some of the key resources for your ready reference. The <a hre
 <a href="/docs/Travelling-Allowance-Bill.doc">Travel allowance bill</a>| 
 <a href="/docs/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
 
-### LTC
+<b>LTC</b>
 
 <a href="/docs/LTC-Advance-For-Faculty.doc">LTC advance for Faculty</a> | 
 <a href="/docs/LTC-Advance-Staff.doc">LTC advance for Staff</a> | 
 <a href="/docs/LTC-BILL.docx">LTC Bill</a>
 
-### Courier
+<b>Courier</b>
 
 <a href="/docs/Courier-PACKING-LIST.doc">Courier-PACKING-LIST</a> | 
 <a href="/docs/Courier-Shippers-Certification-and-MSDS.doc">Courier-Shippers-Certification-and-MSDS</a> | 
 <a href="/docs/Declaration-form-for-Courier-Services.doc">Declaration-form-for-Courier-Services</a> | 
 <a href="/docs/DETAILS-OF-OUTWARD-MAILS.doc">DETAILS-OF-OUTWARD-MAILS</a>
 
-### Miscellaneous
+<b>Miscellaneous</b>
 
 <a href="/docs/Leave-form-Staff.docx">Leave form for staff</a> | 
 <a href="/docs/Membership-Fee-Professional-Body.pdf">Membership fee Professional bodies</a> | 
