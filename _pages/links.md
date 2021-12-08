@@ -51,77 +51,77 @@ Here are links to some of the key resources for your ready reference. The <a hre
 
 ## Forms
 
-<a href="/docs/central-facility.docx">Central facility usage form</a>
+<a href="{{ site.baseurl }}/docs/central-facility.docx">Central facility usage form</a>
 
 <b>Email and Internet Access</b>
 
-<a href="/pdfs/MTE-Email-Application.pdf">Email Application</a> (<a href="/docs/MTE-Students-Dummy.xlsx">Spread sheet for Students</a> | 
-<a href="/docs/MTE-ProjectStaff-Dummy.xlsx">Porject Staff</a>) | 
-<a href="/pdfs/MTE-Guest-Wifi.pdf">Guest Wifi Application</a>
+<a href="{{ site.baseurl }}/pdfs/MTE-Email-Application.pdf">Email Application</a> (<a href="/docs/MTE-Students-Dummy.xlsx">Spread sheet for Students</a> | 
+<a href="{{ site.baseurl }}/docs/MTE-ProjectStaff-Dummy.xlsx">Porject Staff</a>) | 
+<a href="{{ site.baseurl }}/pdfs/MTE-Guest-Wifi.pdf">Guest Wifi Application</a>
 
 <b>Cash Advance and Settlement</b>
 
-<a href="/docs/Cash-Advance-FA.doc">Cash Advance F&amp;A</a> | 
-<a href="/docs/Cash-Advance-Schemes.doc">Cash Advance Schemes</a> | 
-<a href="/docs/Contingent-Bill.doc">Contingent Bill</a> | 
-<a href="/docs/Receipt-cum-Authorisation-FA.doc">Receipt cum Authorization F&amp;A</a> | 
-<a href="/docs/Receipt-cum-Authorisation-Schemes.doc">Receipt cum Authorization Schemes</a> | 
-<a href="/docs/Reimbursement-Request-For-Online-Purchases-Schemes.doc">Reimbursement Request for Online Purchases (Schemes)</a>
+<a href="{{ site.baseurl }}/docs/Cash-Advance-FA.doc">Cash Advance F&amp;A</a> | 
+<a href="{{ site.baseurl }}/docs/Cash-Advance-Schemes.doc">Cash Advance Schemes</a> | 
+<a href="{{ site.baseurl }}/docs/Contingent-Bill.doc">Contingent Bill</a> | 
+<a href="{{ site.baseurl }}/docs/Receipt-cum-Authorisation-FA.doc">Receipt cum Authorization F&amp;A</a> | 
+<a href="{{ site.baseurl }}/docs/Receipt-cum-Authorisation-Schemes.doc">Receipt cum Authorization Schemes</a> | 
+<a href="{{ site.baseurl }}/docs/Reimbursement-Request-For-Online-Purchases-Schemes.doc">Reimbursement Request for Online Purchases (Schemes)</a>
 
 <b>Guest House</b>
 
-<a href="/docs/Request-for-Centenary-Visitors-House-New.doc">Centenary Visitors House</a> | 
-<a href="/docs/Hoysala-request-form-Modi.docx">Hoysala House</a> | 
-<a href="/docs/Request-for-Accomodation-at-Guest-house.doc">Main Guest House</a>
+<a href="{{ site.baseurl }}/docs/Request-for-Centenary-Visitors-House-New.doc">Centenary Visitors House</a> | 
+<a href="{{ site.baseurl }}/docs/Hoysala-request-form-Modi.docx">Hoysala House</a> | 
+<a href="{{ site.baseurl }}/docs/Request-for-Accomodation-at-Guest-house.doc">Main Guest House</a>
                            
 <b>Medical</b>
 
-<a href="/docs/Higher-Insurance-coverage-Option-form.docx">Higher Insurance Coverage</a> | 
-<a href="/docs/Medical-Reimbursement-I.doc">Medical Reimbursement I</a> | 
-<a href="/docs/Medical-Reimbursement-II.doc">Medical Reimbursement II</a>
+<a href="{{ site.baseurl }}/docs/Higher-Insurance-coverage-Option-form.docx">Higher Insurance Coverage</a> | 
+<a href="{{ site.baseurl }}/docs/Medical-Reimbursement-I.doc">Medical Reimbursement I</a> | 
+<a href="{{ site.baseurl }}/docs/Medical-Reimbursement-II.doc">Medical Reimbursement II</a>
                             
 <b>SID</b>
 
-<a href="/docs/Cash-Advance-Request-and-Receipt.doc">Cash Advance Request and Receipt</a> |  
-<a href="/docs/Contract-appointment.doc">Contract Appointment</a> |  
-<a href="/docs/Project-Proposal.doc">Project Proposal</a> |  
-<a href="/docs/Settlement-of-Advance.docx">Settlement of Advance</a> |  
-<a href="/docs/Travel-Request-Foreign.doc">Travel Request Foreign</a> | 
-<a href="/docs/Travel-Request-National.doc">Travel Request National</a>
+<a href="{{ site.baseurl }}/docs/Cash-Advance-Request-and-Receipt.doc">Cash Advance Request and Receipt</a> |  
+<a href="{{ site.baseurl }}/docs/Contract-appointment.doc">Contract Appointment</a> |  
+<a href="{{ site.baseurl }}/docs/Project-Proposal.doc">Project Proposal</a> |  
+<a href="{{ site.baseurl }}/docs/Settlement-of-Advance.docx">Settlement of Advance</a> |  
+<a href="{{ site.baseurl }}/docs/Travel-Request-Foreign.doc">Travel Request Foreign</a> | 
+<a href="{{ site.baseurl }}/docs/Travel-Request-National.doc">Travel Request National</a>
 
 <b>Travel</b>
 
-<a href="/docs/Application-for-TA-Advance.doc">Application for TA advance</a> | 
-<a href="/docs/Travel-Approval-F-A.doc">Travel approval F&amp;A</a> | 
-<a href="/docs/Travel-Approval-For-visitors.doc">Travel approval for visitors</a> | 
-<a href="/docs/Travel-Approval-Schemes.doc">Travel approval Schemes</a> | 
-<a href="/docs/Travel-Requisition-CPDA.doc">Travel requisition CPDA</a> | 
-<a href="/docs/Travelling-allowance-Bill-Visitors.doc">Travel allowance bill Visitors</a> | 
-<a href="/docs/Travelling-Allowance-Bill.doc">Travel allowance bill</a>| 
-<a href="/docs/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
+<a href="{{ site.baseurl }}/docs/Application-for-TA-Advance.doc">Application for TA advance</a> | 
+<a href="{{ site.baseurl }}/docs/Travel-Approval-F-A.doc">Travel approval F&amp;A</a> | 
+<a href="{{ site.baseurl }}/docs/Travel-Approval-For-visitors.doc">Travel approval for visitors</a> | 
+<a href="{{ site.baseurl }}/docs/Travel-Approval-Schemes.doc">Travel approval Schemes</a> | 
+<a href="{{ site.baseurl }}/docs/Travel-Requisition-CPDA.doc">Travel requisition CPDA</a> | 
+<a href="{{ site.baseurl }}/docs/Travelling-allowance-Bill-Visitors.doc">Travel allowance bill Visitors</a> | 
+<a href="{{ site.baseurl }}/docs/Travelling-Allowance-Bill.doc">Travel allowance bill</a>| 
+<a href="{{ site.baseurl }}/docs/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
 
 <b>LTC</b>
 
-<a href="/docs/LTC-Advance-For-Faculty.doc">LTC advance for Faculty</a> | 
-<a href="/docs/LTC-Advance-Staff.doc">LTC advance for Staff</a> | 
-<a href="/docs/LTC-BILL.docx">LTC Bill</a>
+<a href="{{ site.baseurl }}/docs/LTC-Advance-For-Faculty.doc">LTC advance for Faculty</a> | 
+<a href="{{ site.baseurl }}/docs/LTC-Advance-Staff.doc">LTC advance for Staff</a> | 
+<a href="{{ site.baseurl }}/docs/LTC-BILL.docx">LTC Bill</a>
 
 <b>Courier</b>
 
-<a href="/docs/Courier-PACKING-LIST.doc">Courier-PACKING-LIST</a> | 
-<a href="/docs/Courier-Shippers-Certification-and-MSDS.doc">Courier-Shippers-Certification-and-MSDS</a> | 
-<a href="/docs/Declaration-form-for-Courier-Services.doc">Declaration-form-for-Courier-Services</a> | 
-<a href="/docs/DETAILS-OF-OUTWARD-MAILS.doc">DETAILS-OF-OUTWARD-MAILS</a>
+<a href="{{ site.baseurl }}/docs/Courier-PACKING-LIST.doc">Courier-PACKING-LIST</a> | 
+<a href="{{ site.baseurl }}/docs/Courier-Shippers-Certification-and-MSDS.doc">Courier-Shippers-Certification-and-MSDS</a> | 
+<a href="{{ site.baseurl }}/docs/Declaration-form-for-Courier-Services.doc">Declaration-form-for-Courier-Services</a> | 
+<a href="{{ site.baseurl }}/docs/DETAILS-OF-OUTWARD-MAILS.doc">DETAILS-OF-OUTWARD-MAILS</a>
 
 <b>Miscellaneous</b>
 
-<a href="/docs/Leave-form-Staff.docx">Leave form for staff</a> | 
-<a href="/docs/Membership-Fee-Professional-Body.pdf">Membership fee Professional bodies</a> | 
-<a href="/docs/Request-for-Compre-Exam.doc">Request for comprehensive exam</a> | 
-<a href="/docs/Stud-Assit-ProgSAP.docx">Students Assistance Program (SAP)</a> | 
-<a href="/docs/VENDOR-CODE-Regn.docx">Vendor Code Registration</a> | 
-<a href="/docs/Voucher-for-conveyance-F-A.doc">Voucher for conveyance F&amp;A</a> | 
-<a href="/docs/Voucher-for-conveyance-Schemes.doc">Voucher for conveyance Schemes</a> | 
-<a href="/docs/Telephone-reimb-form.doc">Telephone bill reimbursement</a> | 
-<a href="/docs/Taxi-Bill-Reimb-Application.doc">Taxi bill reimbursement</a> | 
-<a href="/docs/Check-list-for-proposals.doc">Check list for proposals</a>
+<a href="{{ site.baseurl }}/docs/Leave-form-Staff.docx">Leave form for staff</a> | 
+<a href="{{ site.baseurl }}/docs/Membership-Fee-Professional-Body.pdf">Membership fee Professional bodies</a> | 
+<a href="{{ site.baseurl }}/docs/Request-for-Compre-Exam.doc">Request for comprehensive exam</a> | 
+<a href="{{ site.baseurl }}/docs/Stud-Assit-ProgSAP.docx">Students Assistance Program (SAP)</a> | 
+<a href="{{ site.baseurl }}/docs/VENDOR-CODE-Regn.docx">Vendor Code Registration</a> | 
+<a href="{{ site.baseurl }}/docs/Voucher-for-conveyance-F-A.doc">Voucher for conveyance F&amp;A</a> | 
+<a href="{{ site.baseurl }}/docs/Voucher-for-conveyance-Schemes.doc">Voucher for conveyance Schemes</a> | 
+<a href="{{ site.baseurl }}/docs/Telephone-reimb-form.doc">Telephone bill reimbursement</a> | 
+<a href="{{ site.baseurl }}/docs/Taxi-Bill-Reimb-Application.doc">Taxi bill reimbursement</a> | 
+<a href="{{ site.baseurl }}/docs/Check-list-for-proposals.doc">Check list for proposals</a>
