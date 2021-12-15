@@ -5,7 +5,7 @@ permalink: /seminar/sachin-15-dec-2021
 ### Speaker and Affliation:
 Dr. Sachin Rondiya<br>
 Department of Materials,<br>
-Imperial College London,                                                      Exhibition Road, London SW7 2AZ,<br>
+Imperial College London, Exhibition Road, London SW7 2AZ,<br>
 United Kingdom
 
 ### When?
