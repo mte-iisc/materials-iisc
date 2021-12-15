@@ -1,5 +1,5 @@
 ---
-title: “Earth-Abundant Semiconductor Materials for Photovoltaics: Fundamental Insights and Future Opportunities (15/12/21)"
+title: "Earth-Abundant Semiconductor Materials for Photovoltaics: Fundamental Insights and Future Opportunities (15/12/21)"
 permalink: /seminar/sachin-15-dec-2021
 ---
 ### Speaker and Affliation:

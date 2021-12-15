@@ -473,10 +473,10 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/rajesh-13-dec-2021",
         "teaser": null
       },{
-        "title": null,
+        "title": "Earth-Abundant Semiconductor Materials for Photovoltaics: Fundamental Insights and Future Opportunities (15/12/21)",
         "excerpt":"Speaker and Affliation:  Dr. Sachin Rondiya  Department of Materials,  Imperial College London, Exhibition Road, London SW7 2AZ,  United Kingdom   When?  15th December, 2021 (Wednusday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  The generation and storage of renewable energy are vital in order to meet the world’s growing energy demands and the development of emerging novel materials has become a significant feature in driving the needed technological evolution. Recently, the earth-abundant semiconductor materials (binary, ternary and quaternary) have drawn major interests as viable candidate to boost the energy conversion efficiency of solar cells. Effective commercialization of solar cells hinges on the low-cost scaled up synthesis approaches along with cost-effective device fabrication techniques. Earth-abundant semiconductor materials have shown a great potential for these synthesis methods and the thin-film technology with portable deposition techniques has proven to be the most cost-effective route for solar cell fabrication. These materials have attracted substantial attention due to their non-toxicity, low-cost potential, direct band gap commensurate with optical absorption in the visible range and high absorption coefficient (&gt;104 cm-1). Thorough atomic-level insights about the fundamental properties of the interfaces and mechanisms underlying the interfacial phenomena are immensely desirable, which aids in the fabrication of high-quality and structurally ordered junctions for efficient photovoltaic applications. The understanding about the band alignment and the related properties at the interfaces is of paramount importance as it directly affects the device performance. Several of our recent studies focused on band alignment engineering for a clear understanding of the concurrent carrier transport mechanism at heterointerface. The facile synthesis, cost-effective deposition, and fundamental insights about the band-alignment provide a promising approach for fabrication of next-generation solar cells with earth-abundant light-absorbing materials.   ","categories": [],
-        "tags": null,
-        "url": "https://materials.iisc.ac.in/news/2021-12-15-seminar-sachin/",
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/sachin-15-dec-2021",
         "teaser": null
       },{
         "title": "PhD Thesis Defence: Mr. Angappan M (07/01/22)",
