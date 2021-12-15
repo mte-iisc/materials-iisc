@@ -472,4 +472,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/rajesh-13-dec-2021",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Angappan M (07/01/22)",
+        "excerpt":"Thesis title:  Investigation of Thin Films for Frequency Selective Surface based Radar Absorbing Structures   Faculty advisor(s):  Prof. Praveen C Ramamurthy   When?  07th January, 2022 (Friday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/angappan-07-jan-2022",
+        "teaser": null
       },]
