@@ -61,7 +61,7 @@ email: rravi_at_iisc.ac.in<br>
 ## M.E Students
 <ul>
 <li>Satyam Kumar <i>(with Prof. Aloke Paul)</i><br />
-Diffusion analysis in Ni-based superalloy systems (2021).</li>
+Diffusion analysis in Ni-X (X=Ta, Mo, W, Re) systems (2021).</li>
 <li>Hemanta Kumar Meher <i>(with Prof. Praveen Kumar)</i><br />
         Effect of substrate composition on whiskering (2020).</li>
 <li>Abhilash Agnihotri <i>(with Prof. Praveen Kumar)</i><br />
