@@ -347,6 +347,36 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/syed-29-oct-2021",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Mr. Ahmed Aliyu (03/11/21)",
+        "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of  Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  3rd November, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/ahmed-03-nov-2021",
+        "teaser": null
+      },{
+        "title": "Dr. Surendra Kumar Makineni wins the NASI-Young Scientist Platinum Jubilee Award for the year 2021 (05/11/21)",
+        "excerpt":"“Congratulations to Dr.Surendra for winning the NASI-Young Scientist Platinum Jubilee Award for the year 2021.   The NASI award was given for the discovery of new Cobalt-base and Aluminum-base alloys for high temperature applications and development of correlative electron microscopy and atom probe tomography to study the atomic-scale structure and composition of creep induced defects to reveal the role of solutes in creep deformation of superalloys.”  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/surebdra-05-nov-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Anupam Mishra (09/11/21)",
+        "excerpt":"Thesis title:  Effect​ of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  9th November, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/anupam-09-nov-2021",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Abhay Gupta (16/11/21)",
+        "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  16th November, 2021 (Tuesday), 10:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/abhay-16-nov-2021",
+        "teaser": null
+      },{
+        "title": "“Characterization of material microstructure for modeling of formability and fracture of automotive aluminum sheet (25/11/21)\"",
+        "excerpt":"Speaker and Affliation:  Prof. Mukesh Jain  Dr. Satish Dhawan visiting chair,   Department of Materials Engineering,  Indian Institute of Science, Bangalore  &amp; Professor,  Department of Mechanical Engineering,  McMaster University, Canada  When?  25th November, 2021 (Thursday), 03:30 PM (India Standard Time)   Location  Lecture Theatre, Materials Engineering.   Abstract  Microstructures of materials are known to play a significant role in determining the effective properties of materials as well as their elasto-plastic response in terms of the ability to deform plastically to large strains without the onset of plastic instability and fracture. This has significance in terms of better understanding of material behavior of existing commercial alloys leading to their microstructure optimization as well as development of new alloys. Much experimental effort is being made towards developing techniques that are newer, faster, more accurate, and involve larger material volumes at smaller scales of precipitates and other constituent particles in the matrix. Additional effort is being made towards creating virtual microstructures that can efficiently and closely resemble real microstructures using statistical methods and stereological relationships. Lastly, microstructure-based finite element methodologies are being advanced to study large plastic deformation behavior of structural metallic materials for automotive forming applications. The talk would briefly review the smaller-scale particle characterization effort for structural metallic materials in the literature and then focus on the effort being made at McMaster towards (i) particle characterization of two different automotive aluminum sheet materials by statistical and FIB/SEM based experimental methods, and (ii) incorporation of particles microstructure into finite element models for studying their role in governing plastic flow, damage development, and fracture.     ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/mukesh-25-nov-2021",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -400,36 +430,6 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
-        "title": "PhD Thesis Defence: Mr. Ahmed Aliyu (03/11/21)",
-        "excerpt":"Thesis title:  Microstructure and Electrochemical Properties of  Electrodeposited High Entropy Alloy Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  3rd November, 2021 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/ahmed-03-nov-2021",
-        "teaser": null
-      },{
-        "title": "Dr. Surendra Kumar Makineni wins the NASI-Young Scientist Platinum Jubilee Award for the year 2021 (05/11/21)",
-        "excerpt":"“Congratulations to Dr.Surendra for winning the NASI-Young Scientist Platinum Jubilee Award for the year 2021.   The NASI award was given for the discovery of new Cobalt-base and Aluminum-base alloys for high temperature applications and development of correlative electron microscopy and atom probe tomography to study the atomic-scale structure and composition of creep induced defects to reveal the role of solutes in creep deformation of superalloys.”  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/awards/surebdra-05-nov-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Anupam Mishra (09/11/21)",
-        "excerpt":"Thesis title:  Effect​ of off-stoichiometry, grain size and chemical substitution on microstructure, global structure, electromechanical and energy storage properties of lead free Na0.5Bi0.5TiO3 (NBT) based piezoceramics   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  9th November, 2021 (Tuesday), 11:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/anupam-09-nov-2021",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Abhay Gupta (16/11/21)",
-        "excerpt":"Thesis title:  Microstructure and Texture Engineering Strategies to Enhance the Corrosion Resistance of Tin Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  16th November, 2021 (Tuesday), 10:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/abhay-16-nov-2021",
-        "teaser": null
-      },{
-        "title": "“Characterization of material microstructure for modeling of formability and fracture of automotive aluminum sheet (25/11/21)\"",
-        "excerpt":"Speaker and Affliation:  Prof. Mukesh Jain  Dr. Satish Dhawan visiting chair,   Department of Materials Engineering,  Indian Institute of Science, Bangalore  &amp; Professor,  Department of Mechanical Engineering,  McMaster University, Canada  When?  25th November, 2021 (Thursday), 03:30 PM (India Standard Time)   Location  Lecture Theatre, Materials Engineering.   Abstract  Microstructures of materials are known to play a significant role in determining the effective properties of materials as well as their elasto-plastic response in terms of the ability to deform plastically to large strains without the onset of plastic instability and fracture. This has significance in terms of better understanding of material behavior of existing commercial alloys leading to their microstructure optimization as well as development of new alloys. Much experimental effort is being made towards developing techniques that are newer, faster, more accurate, and involve larger material volumes at smaller scales of precipitates and other constituent particles in the matrix. Additional effort is being made towards creating virtual microstructures that can efficiently and closely resemble real microstructures using statistical methods and stereological relationships. Lastly, microstructure-based finite element methodologies are being advanced to study large plastic deformation behavior of structural metallic materials for automotive forming applications. The talk would briefly review the smaller-scale particle characterization effort for structural metallic materials in the literature and then focus on the effort being made at McMaster towards (i) particle characterization of two different automotive aluminum sheet materials by statistical and FIB/SEM based experimental methods, and (ii) incorporation of particles microstructure into finite element models for studying their role in governing plastic flow, damage development, and fracture.     ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/mukesh-25-nov-2021",
-        "teaser": null
       },{
         "title": "“Customized Titanium Implant for Load Bearing Functional Applications (02/12/21)\"",
         "excerpt":"Speaker and Affliation:  Dr. Pavan Kumar Srivas  School of Materials Engineering,  Purdue University     When?  2nd December, 2021 (Thursday), 04:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  For patients needing bone or joint replacements, orthopaedic implants mean the difference between freedom of movement or dependence on canes, walkers, and wheelchairs. An aging global population is accelerating the need for better, longer-lasting implants. Additive manufacturing makes it possible to fabricate patient-specific, titanium-alloy-based implants with tailored, three-dimensional, bone-like pores and internal surfaces for forming new bone for superior integration. However, a stubborn barrier remains. Most of the implants developed by additive manufacturing technologies involve melting the materials by high energy beam, thereby increasing the operational cost for maintaining inert environment especially with reactive metals like titanium, magnesium and their alloys. In this talk, I will cover two stories, firstly, green fabrication, one the best alternative routes as there are absence of significant thermal gradients and associated stresses during printing, avoidance of solidification-induced defects, lower oxygen contamination, and lower printing cost. The second part, I will discuss the methods to improve interfacial bonding of the implants. Current line-of-sight clinical methods enhance osseointegration but can’t reach all internal surfaces of porous implants. I will present a non-line-of-sight, gas/solid-reaction-based process that is capable of generating well-controlled nanotopographies on all open (gasexposed) surfaces of these implants. Overall, this research will demonstrate simple, user friendly and cost-effective route for developing titanium implants/equivalents with enhanced interfacial bonding for load bearing functional implant applications.   ","categories": [],
