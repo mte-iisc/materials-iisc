@@ -30,8 +30,8 @@ email: rravi_at_iisc.ac.in<br>
 
 ## M.E Students
 <ul>
-<li>Arkoprabho Roy (2022) <i>(with Prof. Praveen Kumar)</i><br />
-<li>Dineshkumar M (2022) <i>(with Prof. Aloke Paul)</i><br />
+<li>Arkoprabho Roy (2022) <i>(with Prof. Praveen Kumar)</i><br /></li>
+<li>Dineshkumar M (2022) <i>(with Prof. Aloke Paul)</i><br /></li>
 <li>Satyam Kumar <i>(with Prof. Aloke Paul)</i><br />
         Diffusion analysis in Ni-X (X=Ta, Mo, W, Re) systems (2021).</li>
 <li>Hemanta Kumar Meher <i>(with Prof. Praveen Kumar)</i><br />
