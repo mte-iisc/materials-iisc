@@ -49,7 +49,7 @@ Here are links to some of the key resources for your ready reference. The <a hre
 
 ## Forms
 
-<a href="/docs/central-facility.docx">Central facility usage form</a>
+<a href="/pdfs/central-facility.pdf" target="_blank">Central facility usage form</a>
 
 <b>Email and Internet Access</b>
 
