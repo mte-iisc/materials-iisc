@@ -127,6 +127,12 @@ Students with B. E./B. Tech./M. Sc. degree joining the M. Tech. (Research) progr
 <td><a href="{{ site.baseurl }}/courses#mt-225-aug-30">Deformation and Failure Mechanisms at Elevated Temperatures</a></td>
 </tr>
 <tr>
+<td>MT 240</td>
+<td>3:0</td>
+<td>Elective</td>
+<td><a href="{{ site.baseurl }}/courses#mt-240-jan-30">Principles of electrochemistry and corrosion</a></td>
+</tr>
+<tr>
 <td>MT 245</td>
 <td>3:0</td>
 <td>Elective</td>
@@ -357,6 +363,22 @@ References:
 </ul>
 
 -------------------------------------
+
+### MT 240 (Jan) 3:0
+<b>Principles of electrochemistry and corrosion</b>
+
+Introduction to electrochemical systems, including batteries, fuel cells and capacitors. Designing electrochemical systems with emphasis on thermodynamics, kinetic, and mass transport limitations. Measuring electrochemical properties with various measurement techniques. Basic electrochemical principles governing corrosion. Types and mechanisms of corrosion. Advances in corrosion engineering and control.
+
+Instructor: Sai Gautam Gopalakrishnan
+
+References:
+<ul>
+<li>A. J. Bard and L. R. Faulkner, Electrochemical Methods: Fundamentals and Application, 2<sup>nd</sup> Edition, Wiley India 2006. ISBN:8126508078.</li>
+<li>M. G. Fontana, Corrosion Engineering, 3<sup>rd</sup> Edition, McGraw-Hill, N.Y., 1978.</li> 
+</ul>
+
+-------------------------------------
+
 
 ### MT 241 (AUG) 3:0
 <b>Structure and Characterization of Materials</b>
