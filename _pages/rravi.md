@@ -49,6 +49,7 @@ email: rravi_at_iisc.ac.in<br>
 
 ## Publications
 <ol reversed="">
+<li>Prafull Pandey; Mangesh V. Pantawane; Nithin Baler; Raju Ravi; Surendra Kumar Makineni; Kamanio Chattopadhyay, Effect of Cr addition on microstructure evolution, mechanical properties, and coarsening kinetics in a Co-30Ni-10Al-5Mo-2Nb-2Ti alloy,  Journal of Materials Science (submitted December 2021).</li>
 <li>Amudha Arumugam, Ravi Raju and Varun A Baheti, Interdiffusion study of Co-Sb system, Recent advances in mass transport in engineering materials, Diffusion Foundations, 27 (2020) 35-39.</li>
 <li>Varun A. Baheti, Ravi Raju, Interdiffusion study of the topologically closed packed μ phase and the phase boundary compositions in the Fe–Mo system, Intermetallics, 113 (2019) 106586.</li>
 <li>V.A. Baheti, S. Islam, P. Kumar, R. Ravi, R. Narayanan, D. Hongqun, V. Vuorinen, T. Laurila, A. Paul, <a href="http://www.tandfonline.com/doi/full/10.1080/14786435.2015.1119905">Effect of Ni content on the diffusion-controlled growth of the product phases in the Cu(Ni)-Sn system</a>, Philosophical Magazine, 96(2016).</li>
