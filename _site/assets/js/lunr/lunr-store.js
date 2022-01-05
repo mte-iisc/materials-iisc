@@ -504,7 +504,7 @@ var store = [{
         "teaser": null
       },{
         "title": "PhD Thesis Colloquium: Mr. Subhasish Maiti (17/01/22)",
-        "excerpt":"Thesis title:  Graphene derivatives sandwiched with porous polyvinylidene fluoride based thin film composite membranes for effective water remediation   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  17th January, 2021 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "excerpt":"Thesis title:  Graphene derivatives sandwiched with porous polyvinylidene fluoride based thin film composite membranes for effective water remediation   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  17th January, 2022 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/subhasish-17-jan-2022",
         "teaser": null
