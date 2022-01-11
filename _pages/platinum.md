@@ -27,4 +27,4 @@ Department of Materials Engineering, IISc
 
 ### Platinum jubilee lecture series
 
-<a href="/_news/2022-01-27-seminar-guillaume.md" target="_blank">Seminar by Apl. Prof. Dr. Guillaume Laplanche, on 27 Jn 2022, 4pm</a></b>
+<b><a href="/_news/2022-01-27-seminar-guillaume.md" target="_blank">Seminar by Apl. Prof. Dr. Guillaume Laplanche, on 27 Jn 2022, 4pm</a></b>
