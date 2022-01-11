@@ -1,13 +1,19 @@
 ---
 title: "Platinum Jubilee Celebrations"
 #layout: archive
-toc: true
-toc_label: "Platinum Jubilee"
-toc_sticky: true
-toc_icon: "flask"
+#toc: true
+#toc_label: "Platinum Jubilee"
+#toc_sticky: true
+#toc_icon: "info-circle"
 #classes: wide
 permalink: /platinum
 ---
+### Lecture series
+
+<ol>
+<li>27<sup>th</sup> Jan 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/guillaume-27-jan-2022" target="_blank">Apl. Prof. Dr. Guillaume Laplanche</a></b>
+</li>
+</ol>
 
 ### Special issue of Journal of IISc
 
@@ -25,6 +31,3 @@ Kaushik Chatterjee, Satyam Suwas, and T.A. Abinandanan
 Department of Materials Engineering, IISc
 
 
-### Platinum jubilee lecture series
-
-<b><a href="/_news/2022-01-27-seminar-guillaume.md" target="_blank">Seminar by Apl. Prof. Dr. Guillaume Laplanche, on 27 Jn 2022, 4pm</a></b>
