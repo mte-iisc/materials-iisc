@@ -509,6 +509,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/subhasish-17-jan-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Ms. Panithi Sireesha (20/01/22)",
+        "excerpt":"Thesis title:  Investigation of thermoelectric properties of Sn-Te based alloys with microstructural studies   Faculty advisor(s):  Prof. Kamanio Chattopadhyay and Prof. Satyam Suwas   When?  20th January, 2022 (Thursday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/panithi-20-jan-2022",
+        "teaser": null
+      },{
         "title": "PhD Thesis Defence: Ms. Radhika Wazalwar (21/01/22)",
         "excerpt":"Thesis title:  Mechanical and curing behavior of tetra-functional epoxy reinforced with nanofillers   Faculty advisor(s):  Prof. Ashok M. Raichur   When?  21st January, 2022 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
