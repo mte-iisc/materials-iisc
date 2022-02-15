@@ -533,15 +533,15 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/guillaume-27-jan-2022",
         "teaser": null
       },{
-        "title": "PhD Thesis Defence: Mr. Gyan Shankar (18/02/22)",
-        "excerpt":"Thesis title:  “Evolution of recrystallization texture in face-centered cubic materials: Role of twin-boundaries”   Faculty advisor(s):  Prof. Satyam Suwas   When?  18th February, 2022 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/gyan-18-feb-2022",
-        "teaser": null
-      },{
         "title": "PhD Thesis Defence: Mr. Naveen Kumar (16/02/22)",
         "excerpt":"Thesis title:  “Electromechanical properties of PbTiO3 based piezoelectric ceramics and energy harvesting application of their flexible polymer composites”   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  16th February, 2022 (Wednesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/naveen-16-feb-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Gyan Shankar (18/02/22)",
+        "excerpt":"Thesis title:  “Evolution of recrystallization texture in face-centered cubic materials: Role of twin-boundaries”   Faculty advisor(s):  Prof. Satyam Suwas   When?  18th February, 2022 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/gyan-18-feb-2022",
         "teaser": null
       },]
