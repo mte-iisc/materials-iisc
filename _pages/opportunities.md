@@ -6,6 +6,23 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+## OPENING FOR A POST DOCTORAL AND PROJECT ASSISTANT POSI​TION (14 Feb 2022)
+
+Our group in the Department of Materials Engineering at the Indian Institute of Science has an opening for
+
+1. A post-doctoral position for a period of 6months (which can be extended) with the following research background
+· Familiarity with mechanical behaviour testing with emphasis on creep
+· Familiarity with EBSD analysis
+Interested candidates should have submitted a PhD thesis /obtained a PhD degree in Metallurgy/Materials Science and Engineering
+
+2. A Project Assistant position for a period of 1 year.
+· Familiarity with mechanical behaviour testing
+· Familiarity with metallographic techniques with emphasis on scanning electron microscopy
+Interested candidates should have a Bachelor's Degree / Master's Degree in Metallurgy/Materials Science and Engineering
+
+Applications may be sent to dbanerjee@iisc.ac.in
+
+
 ## Advertisement for the Postdoctoral position in Thin Film Heterostructure and Devices (21 Dec 2021)
 
 <b>Description:</b> This work involves the growth of multilayers oxide and metallic thin films, device fabrications, and measurements. Pulsed laser deposition and ultra-high vacuum sputtering systems will be utilized to grow the oxide and metallic thin films. The macroscopic structural, magnetic, and transport properties of the grown films will be evaluated. Subsequently, the electronic devices will be fabricated by using conventional photolithography techniques. The detailed device measurement will be conducted in a cryogen-free closed-cycle Cryostat system. 
