@@ -544,4 +544,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/gyan-18-feb-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Sarvesh Kumar (21/02/22)",
+        "excerpt":"Thesis title:  “On the development of Fe-containing high entropy alloys with improved strength at high temperatures”   Faculty advisor(s):  Prof. Satyam Suwas &amp; Prof. Kamanio Chattopadhyay   When?  21st February, 2022 (Monday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/sarvesh-21-feb-2022",
+        "teaser": null
       },]
