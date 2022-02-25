@@ -6,6 +6,12 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+## Advertisement for the Postdoctoral position for a project associate position: (25 Feb 2022)
+ITW India Pvt. Ltd-BiSS Division and IISc have established a Centre of Excellence at IISc to develop new instrumentation and practices in the field of advanced mechanical testing. 
+
+There are opportunities available at this centre for people with either a Masters or PhD with interest and expertise in non-contact strain measurement, high temperature testing, control systems and mechanical behaviour of materials. 
+
+Interested applicants can write to Professor Vikram Jayaram (qjayaram@iisc.ac.in) or Professor Praveen Kumar (praveenk@iisc.ac.in) for further information.
 ## OPENING FOR A POST DOCTORAL AND PROJECT ASSISTANT POSI​TION (14 Feb 2022)
 
 Our group in the Department of Materials Engineering at the Indian Institute of Science has an opening for
