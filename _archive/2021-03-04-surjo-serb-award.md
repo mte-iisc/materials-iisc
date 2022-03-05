@@ -1,0 +1,5 @@
+---
+title: "Prof. Suryasarathi Bose wins SERB-TETRA-Technology Translation Award for 2022 (04/03/22)"
+permalink: /awards/bose-04-mar-2022
+---
+Congratulations to Prof. Suryasarathi Bose for receiving the SERB-TETRA-Technology Translation Award for 2022. This is a new scheme for catalizing technology translation in academic setting. Translation research has gained considerable focus as it has the potential to elevate results from fundamental research to a given technology readiness level, in turn catalyzing symbiotic growth of institutional infrastructure to offer a platform for scale-up of entrepreneurial ventures, supported by a variety of funding mechanisms. Using the funds received from SERB under the special COVID grant, Prof. Bose and his team developed antiviral concoctions that can either be solution-spun or coated on various substrates like textiles, plastics, metal etc. This award was presented to him for successfully translating this technology to couple of start-ups for commercialization.
