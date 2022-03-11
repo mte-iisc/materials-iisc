@@ -568,4 +568,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/news/2022-03-10-student-symposium/",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Ms. Devabarathi Nehru (14/03/22)",
+        "excerpt":"Thesis title:  “Inkjet-Printed Co-continuous Mesoporous  Oxides for Surface Dominated                                               Functional Devices”   Faculty advisor(s):  Prof. Subho Dasgupta   When?  14th March, 2022 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/devabarathi-14-mar-2022",
+        "teaser": null
       },]
