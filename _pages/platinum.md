@@ -13,6 +13,8 @@ permalink: /platinum
 <ol>
 <li>27<sup>th</sup> Jan 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/guillaume-27-jan-2022" target="_blank">Apl. Prof. Dr. Guillaume Laplanche</a></b>
 </li>
+<li>24<sup>th</sup> Mar 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/gerald-24-mar-2022" target="_blank">Dr. Gerald Tennyson (TCS Research)</a></b>
+</li>
 </ol>
 
 ### Special issue of Journal of IISc
