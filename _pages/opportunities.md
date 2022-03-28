@@ -6,6 +6,35 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+## Advertisement for the Postdoctoral position in Thin Film Heterostructure and Devices: (25 March 2022)
+ 
+Description: 
+
+This work involves the growth of multilayer oxide and metallic thin films, device fabrications, and measurements. Pulsed laser deposition and ultra-high vacuum sputtering systems will be utilized to grow the oxide and metallic thin films. The macroscopic structural, magnetic, and transport properties of the grown films will be evaluated. Subsequently, the electronic devices will be fabricated by using conventional photolithography techniques. The detailed device measurement will be conducted in a cryogen-free closed-cycle Cryostat system. 
+ 
+Applicant's profile:
+<ul>
+<li>Candidate holding a Ph.D. degree in Experimental Physics/Materials Science/Solid State Electronic Devices or a closely related discipline, having a strong interest in thin-film growth, device fabrication, and characterization.</li>
+
+<li>Experience of working in thin films deposition (PLD or Sputtering), photolithography, VSM or SQUID, and transport measurement systems is preferable.</li>
+
+<li>Sound knowledge of solid-state physics, electronic devices, and magnetism is required.</li>
+
+<li>Excellent paper writing skills and the ability to guide new Ph.D. students in lab work are expected. </li>
+
+</ul>
+
+Emoluments: As per the institute rules
+ 
+Duration: 2 years commencing immediately 
+ 
+How to apply: 
+
+Interested and qualified candidates should send their applications as a single PDF file furnishing the bio-data with publications list, copies of certificates in support of qualification and experience along with contact details of at least two academic referees to bpjoshi@iisc.ac.in before April 15, 2022. 
+ 
+For further information about the position please contact Dr. Bhagwati Prasad (bpjoshi@iisc.ac.in), Materials Engineering Department, IISc Bangalore.
+
+
 ## Advertisement for a project associate position: (25 Feb 2022)
 ITW India Pvt. Ltd-BiSS Division and IISc have established a Centre of Excellence at IISc to develop new instrumentation and practices in the field of advanced mechanical testing. 
 
