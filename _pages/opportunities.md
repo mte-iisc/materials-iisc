@@ -6,6 +6,29 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+## Extreme Environment Materials Group (https://sites.google.com/view/ankurskchauhan) in the department of Materials Engineering at IISc, Bengaluru is looking for a Project Associate to work on a project titled 'Irradiation effects on materials for space applications'.
+ 
+<b>Position:</b> Project Associate
+ 
+<b>Duration:</b> 1 year and subsequently renewable based on performance
+ 
+<b>Qualifications:</b> M.E./M. Tech or Ph.D. in Materials or Metallurgy or Nuclear Engineering or related branches with a good academic record
+ 
+<b>Pay scale:</b> According to IISc norms
+ 
+<b>Major skills required:</b>
+Strong background in Microstructure analysis
+Should be able to conduct experiments and analyse data (mechanical testing including nano-indentation and monotonic tensile testing)
+Should be able to learn and operate SEM, EBSD, FIB, and TEM
+ 
+Eligible candidates kindly send a maximum 2-page CV at ankurchauhan@iisc.ac.in with subject line 'Application for Project Associate position' mentioning particularly the
+<ul> 
+<li>Educational background with grades</li>
+<li>Experience related to Mechanical testing</li>
+<li>Experience related to microstructure analysis</li>
+<li>Experience, if any, in operating SEM, EBSD, FIB, TEM</li>
+</ul>
+
 ## Advertisement for the Postdoctoral position in Thin Film Heterostructure and Devices: (25 March 2022)
  
 Description: 
