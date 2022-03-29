@@ -6,7 +6,9 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
-## Extreme Environment Materials Group (https://sites.google.com/view/ankurskchauhan) in the department of Materials Engineering at IISc, Bengaluru is looking for a Project Associate to work on a project titled 'Irradiation effects on materials for space applications'.
+## Advertisement for Project Associate position (29 March 2022
+
+Extreme Environment Materials Group (https://sites.google.com/view/ankurskchauhan) in the department of Materials Engineering at IISc, Bengaluru is looking for a Project Associate to work on a project titled 'Irradiation effects on materials for space applications'.
  
 <b>Position:</b> Project Associate
  
