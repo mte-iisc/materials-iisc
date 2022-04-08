@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis Defence: Mr. Raj Jung Mahat (11/04/22)"
+title: "MTech (Research) Defence: Mr. Raj Jung Mahat (11/04/22)"
 permalink: /defence/raj-11-apr-2022
 ---
 ### Thesis title:

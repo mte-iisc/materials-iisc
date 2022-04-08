@@ -581,7 +581,7 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/gerald-24-mar-2022",
         "teaser": null
       },{
-        "title": "PhD Thesis Defence: Mr. Raj Jung Mahat (11/04/22)",
+        "title": "MTech (Research) Defence: Mr. Raj Jung Mahat (11/04/22)",
         "excerpt":"Thesis title:  “Extraction of Creep Parameters from Indentation Creep Experiment: An Artificial Neural NetworkBased Approach”   Faculty advisor(s):  Prof. Praveen Kumar   When?  11th April, 2022 (Monday), 09:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/raj-11-apr-2022",
