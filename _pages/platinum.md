@@ -11,13 +11,13 @@ permalink: /platinum
 ### Lecture series
 
 <ol>
-<li>27<sup>th</sup> Jan 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/guillaume-27-jan-2022" target="_blank">Apl. Prof. Dr. Guillaume Laplanche</a></b>
+<li>27<sup>th</sup> Jan 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/guillaume-27-jan-2022" target="_blank">Apl. Prof. Dr. Guillaume Laplanche (Ruhr-Universität Bochum)</a></b>
 </li>
 <li>24<sup>th</sup> Mar 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/gerald-24-mar-2022" target="_blank">Dr. Gerald Tennyson (TCS Research)</a></b>
 </li>
-<li>12<sup>th</sup> April 2022, 10am: <b><a href="{{ site.baseurl }}/seminar/vikram-12-apr-2022" target="_blank">Prof. Vikram Gavini</a></b>
+<li>12<sup>th</sup> April 2022, 10am: <b><a href="{{ site.baseurl }}/seminar/vikram-12-apr-2022" target="_blank">Prof. Vikram Gavini (Univ. Michigan)</a></b>
 </li>
-<li>13<sup>th</sup> April 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/ravi-13-apr-2022" target="_blank">Prof. V.A. Ravi</a></b>
+<li>13<sup>th</sup> April 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/ravi-13-apr-2022" target="_blank">Prof. V.A. Ravi (Cal Poly Pomona)</a></b>
 </li>
 </ol>
 
