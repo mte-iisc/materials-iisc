@@ -15,7 +15,7 @@ permalink: /platinum
 </li>
 <li>24<sup>th</sup> Mar 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/gerald-24-mar-2022" target="_blank">Dr. Gerald Tennyson (TCS Research)</a></b>
 </li>
-<li>12<sup>th</sup> April 2022, 10am: <b><a href="{{ site.baseurl }}/seminar/vikram-12-apr-2022" target="_blank">Dr. Vikram Gavini</a></b>
+<li>12<sup>th</sup> April 2022, 10am: <b><a href="{{ site.baseurl }}/seminar/vikram-12-apr-2022" target="_blank">Prof. Vikram Gavini</a></b>
 </li>
 <li>13<sup>th</sup> April 2022, 4pm: <b><a href="{{ site.baseurl }}/seminar/ravi-13-apr-2022" target="_blank">Prof. V.A. Ravi</a></b>
 </li>
