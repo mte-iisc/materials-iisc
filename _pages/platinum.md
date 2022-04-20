@@ -19,6 +19,8 @@ permalink: /platinum
 </li>
 <li>13<sup>th</sup> April 2022: <b><a href="{{ site.baseurl }}/seminar/ravi-13-apr-2022" target="_blank">Prof. V.A. Ravi (Cal Poly Pomona)</a></b>
 </li>
+<li>21<sup>st</sup> April 2022: <b><a href="{{ site.baseurl }}/seminar/dierk-21-apr-2022" target="_blank">Prof. Dierk Raabe (Max-Planck-Institut)</a></b>
+</li>
 </ol>
 
 ### Special issue of Journal of IISc
