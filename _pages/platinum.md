@@ -21,6 +21,10 @@ permalink: /platinum
 </li>
 <li>21<sup>st</sup> April 2022: <b><a href="{{ site.baseurl }}/seminar/dierk-21-apr-2022" target="_blank">Prof. Dierk Raabe (Max-Planck-Institut)</a></b>
 </li>
+<li>27<sup>st</sup> April 2022: <b><a href="{{ site.baseurl }}/seminar/melis-27-apr-2022" target="_blank">Prof. Melis Serofoglu (Marmara Univ., Turkey)</a></b>
+</li>
+<li>28<sup>st</sup> April 2022: <b><a href="{{ site.baseurl }}/seminar/rajaprakash-28-apr-2022" target="_blank">Dr. Rajaprakash Ramachandramoorthy (Max-Planck-Institut)</a></b>
+</li>
 </ol>
 
 ### Special issue of Journal of IISc
