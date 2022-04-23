@@ -1,5 +1,5 @@
 ---
-title: "Solidification and Crystal Growth Dynamics in Three-Phase Eutectic Systems (21/04/22)"
+title: "Solidification and Crystal Growth Dynamics in Three-Phase Eutectic Systems (27/04/22)"
 permalink: /seminar/melis-27-apr-2022
 ---
 
