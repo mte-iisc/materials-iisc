@@ -479,6 +479,54 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/guillaume-27-jan-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Mr. Naveen Kumar (16/02/22)",
+        "excerpt":"Thesis title:  “Electromechanical properties of PbTiO3 based piezoelectric ceramics and energy harvesting application of their flexible polymer composites”   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  16th February, 2022 (Wednesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/naveen-16-feb-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Gyan Shankar (18/02/22)",
+        "excerpt":"Thesis title:  “Evolution of recrystallization texture in face-centered cubic materials: Role of twin-boundaries”   Faculty advisor(s):  Prof. Satyam Suwas   When?  18th February, 2022 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/gyan-18-feb-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Sarvesh Kumar (21/02/22)",
+        "excerpt":"Thesis title:  “On the development of Fe-containing high entropy alloys with improved strength at high temperatures”   Faculty advisor(s):  Prof. Satyam Suwas &amp; Prof. Kamanio Chattopadhyay   When?  21st February, 2022 (Monday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/sarvesh-21-feb-2022",
+        "teaser": null
+      },{
+        "title": "Prof. Suryasarathi Bose wins SERB-TETRA-Technology Translation Award for 2022 (04/03/22)",
+        "excerpt":"Congratulations to Prof. Suryasarathi Bose for receiving the SERB-TETRA-Technology Translation Award for 2022. This is a new scheme for catalizing technology translation in academic setting. Translation research has gained considerable focus as it has the potential to elevate results from fundamental research to a given technology readiness level, in turn catalyzing symbiotic growth of institutional infrastructure to offer a platform for scale-up of entrepreneurial ventures, supported by a variety of funding mechanisms. Using the funds received from SERB under the special COVID grant, Prof. Bose and his team developed antiviral concoctions that can either be solution-spun or coated on various substrates like textiles, plastics, metal etc. This award was presented to him for successfully translating this technology to couple of start-ups for commercialization.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/bose-04-mar-2022",
+        "teaser": null
+      },{
+        "title": "State of Art Developments in Flash-Sintering (10/03/22)",
+        "excerpt":"Speaker and Affliation:  Dr. Syed Idrees Afzal Jalali (Ali)   Post-Doctoral Fellow  University of Colorado, Boulder (USA)   When?  10th March, 2022 (Thursday), 04:00 PM (India Standard Time)   Location  Classroom, Department of Materials Engineering   Abstract  Sintering is one of the oldest arts known to man. However, it was only in the last five decades that the science of sintering was perfected. More recently, the addition of electric field-assisted sintering has led to ultrafast sintering and achieving improved properties compared to conventional sintering. In this subset of sintering processes, flash-sintering has emerged as a rather distinctive processing route due to the simplicity of the process and flexibility in scale-up. While the scientific engagement of flash sintering saw an exponential increase in the last few years, it is now being applied to processes beyond sintering. These include reactive flash-sintering, where two components are co-flashed to result in a non-equilibrium phase stabilization, the touch-free sintering, where the boundaries of electricity-induced sintering are pushed towards complex shape sintering, and the possibility of graphene infusion by flash, to name a few states of art developments in the flash. It’s speculated that most, if not all, of these distinctive properties are possible due to the existence of a solid-state plasma during the Stage III of the flash. I am looking forward to discussing these developments with you in the upcoming talk.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/syed-10-mar-2022",
+        "teaser": null
+      },{
+        "title": "Materials Engineering Student Symposium 2022 (12/04/22)",
+        "excerpt":"Materials Engineering Student Symposium 2022 is on 12th and 13th April 2022. This year’s symposium will be an offline event. The last date of sending the abstract for the platform presentation (all day 12th April and forenoon of 13th April 2022) and poster session (afternoon of 13th April) is 13th April 2022. There will be a dinner on 13th April evening in the department.   Please email your abstracts to:   A) Akhand Pratap Singh: akhandsingh@iisc.ac.in  B) Mohan Kumar Guttula mohankg@iisc.ac.in  C) Swapnil Bhure swapnilbhure@iisc.ac.in  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/archive/2022-03-10-student-symposium/",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Ms. Devabarathi Nehru (14/03/22)",
+        "excerpt":"Thesis title:  “Inkjet-Printed Co-continuous Mesoporous  Oxides for Surface Dominated                                               Functional Devices”   Faculty advisor(s):  Prof. Subho Dasgupta   When?  14th March, 2022 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/devabarathi-14-mar-2022",
+        "teaser": null
+      },{
+        "title": "Use of state-of-the-art computational materials engineering tools for solving industrial problems – A perspective from our journey (24/03/22)",
+        "excerpt":"Speaker and Affliation:  Gerald Tennyson PhD  Senior Scientist, TCS Research   Brief Bio  Gerald Tennyson joined TCS Research in 2014 and at present leads the ICME-Metals (Integrated Computational Materials Engineering) group. He is responsible for applying state of the art technologies in conceptualization, design and development of computational tools specific to the metals and manufacturing industries. A mechanical engineer turned materials scientist, he obtained his doctoral degree from the Department of Metallurgical and Materials Engineering, IIT Madras with his research on understanding microstructure evolution during solidification.  His research interests are in multiscale modelling, alloy design and high performance computing.   When?  24th March, 2022 (Thursday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  The recent advances in computational tools and technologies pertaining to materials engineering, ability to deal with and leverage the vast amount of data through artificial intelligence (AI) / machine learning (ML) techniques and developing closed loop iterations across these in-silico technologies with data collected through laboratory experiments and manufacturing plants provides engineers an immense opportunity to accelerate materials development and deployment in the form of engineered industrial products. This talk will focus on our experience in using some of these technologies/ approaches both in research as well as solving industrial problems. The talk will lay emphasis on Integrated Computational Materials Engineering, that aims to bring a paradigm shift in accelerating materials discovery, design, development and deployment.   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/gerald-24-mar-2022",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -532,54 +580,6 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
-        "title": "PhD Thesis Defence: Mr. Naveen Kumar (16/02/22)",
-        "excerpt":"Thesis title:  “Electromechanical properties of PbTiO3 based piezoelectric ceramics and energy harvesting application of their flexible polymer composites”   Faculty advisor(s):  Prof. Rajeev Ranjan   When?  16th February, 2022 (Wednesday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/naveen-16-feb-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Gyan Shankar (18/02/22)",
-        "excerpt":"Thesis title:  “Evolution of recrystallization texture in face-centered cubic materials: Role of twin-boundaries”   Faculty advisor(s):  Prof. Satyam Suwas   When?  18th February, 2022 (Friday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/gyan-18-feb-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Sarvesh Kumar (21/02/22)",
-        "excerpt":"Thesis title:  “On the development of Fe-containing high entropy alloys with improved strength at high temperatures”   Faculty advisor(s):  Prof. Satyam Suwas &amp; Prof. Kamanio Chattopadhyay   When?  21st February, 2022 (Monday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/sarvesh-21-feb-2022",
-        "teaser": null
-      },{
-        "title": "Prof. Suryasarathi Bose wins SERB-TETRA-Technology Translation Award for 2022 (04/03/22)",
-        "excerpt":"Congratulations to Prof. Suryasarathi Bose for receiving the SERB-TETRA-Technology Translation Award for 2022. This is a new scheme for catalizing technology translation in academic setting. Translation research has gained considerable focus as it has the potential to elevate results from fundamental research to a given technology readiness level, in turn catalyzing symbiotic growth of institutional infrastructure to offer a platform for scale-up of entrepreneurial ventures, supported by a variety of funding mechanisms. Using the funds received from SERB under the special COVID grant, Prof. Bose and his team developed antiviral concoctions that can either be solution-spun or coated on various substrates like textiles, plastics, metal etc. This award was presented to him for successfully translating this technology to couple of start-ups for commercialization.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/awards/bose-04-mar-2022",
-        "teaser": null
-      },{
-        "title": "State of Art Developments in Flash-Sintering (10/03/22)",
-        "excerpt":"Speaker and Affliation:  Dr. Syed Idrees Afzal Jalali (Ali)   Post-Doctoral Fellow  University of Colorado, Boulder (USA)   When?  10th March, 2022 (Thursday), 04:00 PM (India Standard Time)   Location  Classroom, Department of Materials Engineering   Abstract  Sintering is one of the oldest arts known to man. However, it was only in the last five decades that the science of sintering was perfected. More recently, the addition of electric field-assisted sintering has led to ultrafast sintering and achieving improved properties compared to conventional sintering. In this subset of sintering processes, flash-sintering has emerged as a rather distinctive processing route due to the simplicity of the process and flexibility in scale-up. While the scientific engagement of flash sintering saw an exponential increase in the last few years, it is now being applied to processes beyond sintering. These include reactive flash-sintering, where two components are co-flashed to result in a non-equilibrium phase stabilization, the touch-free sintering, where the boundaries of electricity-induced sintering are pushed towards complex shape sintering, and the possibility of graphene infusion by flash, to name a few states of art developments in the flash. It’s speculated that most, if not all, of these distinctive properties are possible due to the existence of a solid-state plasma during the Stage III of the flash. I am looking forward to discussing these developments with you in the upcoming talk.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/syed-10-mar-2022",
-        "teaser": null
-      },{
-        "title": "Materials Engineering Student Symposium 2022 (12/04/22)",
-        "excerpt":"Materials Engineering Student Symposium 2022 is on 12th and 13th April 2022. This year’s symposium will be an offline event. The last date of sending the abstract for the platform presentation (all day 12th April and forenoon of 13th April 2022) and poster session (afternoon of 13th April) is 13th April 2022. There will be a dinner on 13th April evening in the department.   Please email your abstracts to:   A) Akhand Pratap Singh: akhandsingh@iisc.ac.in  B) Mohan Kumar Guttula mohankg@iisc.ac.in  C) Swapnil Bhure swapnilbhure@iisc.ac.in  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/news/2022-03-10-student-symposium/",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Ms. Devabarathi Nehru (14/03/22)",
-        "excerpt":"Thesis title:  “Inkjet-Printed Co-continuous Mesoporous  Oxides for Surface Dominated                                               Functional Devices”   Faculty advisor(s):  Prof. Subho Dasgupta   When?  14th March, 2022 (Monday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/devabarathi-14-mar-2022",
-        "teaser": null
-      },{
-        "title": "Use of state-of-the-art computational materials engineering tools for solving industrial problems – A perspective from our journey (24/03/22)",
-        "excerpt":"Speaker and Affliation:  Gerald Tennyson PhD  Senior Scientist, TCS Research   Brief Bio  Gerald Tennyson joined TCS Research in 2014 and at present leads the ICME-Metals (Integrated Computational Materials Engineering) group. He is responsible for applying state of the art technologies in conceptualization, design and development of computational tools specific to the metals and manufacturing industries. A mechanical engineer turned materials scientist, he obtained his doctoral degree from the Department of Metallurgical and Materials Engineering, IIT Madras with his research on understanding microstructure evolution during solidification.  His research interests are in multiscale modelling, alloy design and high performance computing.   When?  24th March, 2022 (Thursday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  The recent advances in computational tools and technologies pertaining to materials engineering, ability to deal with and leverage the vast amount of data through artificial intelligence (AI) / machine learning (ML) techniques and developing closed loop iterations across these in-silico technologies with data collected through laboratory experiments and manufacturing plants provides engineers an immense opportunity to accelerate materials development and deployment in the form of engineered industrial products. This talk will focus on our experience in using some of these technologies/ approaches both in research as well as solving industrial problems. The talk will lay emphasis on Integrated Computational Materials Engineering, that aims to bring a paradigm shift in accelerating materials discovery, design, development and deployment.   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/gerald-24-mar-2022",
-        "teaser": null
       },{
         "title": "MTech (Research) Defence: Mr. Raj Jung Mahat (11/04/22)",
         "excerpt":"Thesis title:  “Extraction of Creep Parameters from Indentation Creep Experiment: An Artificial Neural NetworkBased Approach”   Faculty advisor(s):  Prof. Praveen Kumar   When?  11th April, 2022 (Monday), 09:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
