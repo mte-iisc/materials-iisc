@@ -646,4 +646,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/sowmya-29-apr-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Nilawar Sagar Ram (05/05/22)",
+        "excerpt":"Thesis title:  Cerium oxide-based degradable polymer nanocomposites for bone tissue engineering   Faculty advisor(s):  Prof. Kaushik Chatterjee   When?  5th May, 2022 (Thursday), 03:00 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/nilawar-05-may-2022",
+        "teaser": null
       },]
