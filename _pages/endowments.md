@@ -8,6 +8,43 @@ toc_label: Endowments and Awards
 toc_icon: trophy
 #classes: wide
 ---
+## K.P. Abraham Visiting Chair
+
+<b>Guidelines</b>
+
+Professor Kadavil Poulose Abraham (1920-2011) served the department for 21 years, including the period 1972-1977 when he was the fourth Head of the Department. As a teacher, Professor Abraham inspired many generations of students through his lectures on thermodynamics and extractive metallurgy. His teaching covered both iron & steel and nonferrous metals. He helped establish laboratories in the Department, pursued pioneering studies in Process Metallurgy, and helped establish IISc as a major centre in this field. His students have gone on to become leading metallurgists and materials scientists, both, in academic institutions as well as in industry, in India and abroad.
+
+The Department of Materials Engineering proposes the establishment of the K.P. Abraham Visiting Chair, made possible through contributions by the grateful alumni and other well-wishers.
+Endowment: The corpus of the K.P. Abraham Visiting Chair Fund will be used for all the expenditures listed below.
+
+<b>Nomination and Selection Procedure for the K.P. Abraham Visiting Chair</b>
+
+(a) Any faculty member in the Department of Materials Engineering may nominate a person for this Visiting Chair position.
+
+(b) The person being nominated will be an established scholar. Preference will be given to a scholar in the range of 45 to 60 years of age, and working in the fields of thermodynamics and kinetics, materials processing, electrochemistry, and process metallurgy.
+
+(c) The nomination will be considered by the full committee of faculty members in the Department, and a recommendation will be forwarded to the Director for consideration and approval.
+
+<b>Duration:</b> The Visiting Chair appointment will be for a duration of 4 to 6 weeks, extendable to a period of up to 8 weeks.
+
+<b>Honorarium and other allowances:</b>
+
+(a) The Visiting Chair will receive an honorarium of Rs. 1.5 lakhs per month; this will be paid on a pro-rata basis if the duration is less than a full month.
+
+(b) The Visiting Chair will be reimbursed for one Economy Class return air fare.
+
+(c) The Visiting Chair will be provided with Guest House accommodation for self and accompanying family members, depending on availability. Both lodging and boarding will be covered.
+
+### List of Chairs
+<table>
+<tbody>
+<tr>
+<td>2022</td>
+<td>Prof. V.A. Ravi, Professor, California State Polytechnic University, Pomona, USA</td>
+</tr>
+</tbody>
+</table>
+
 ## Prof. Brahm Prakash Chair
 Brahm Prakash was born on 21 August 1912 at Lahore. He obtained his B.Sc.(Hons.) degree in 1932, M.Sc. in 1934 and Ph.D. in physical chemistry in 1942 from the Punjab University. Subsequently, he obtained his Sc.D. in Metallurgy from the Massachusetts Institute of Technology, U.S.A in 1949. After returning to India he served at the Indian Institute of Science, Bangalore from 1951 to 1957, at the Bhabha Atomic Research Centre, Bombay from 1957-1972 and at the Vikram Sarabhai Space Centre, Trivandrum from 1972 to 1982. While the tasks at these institutions called for different skills, they all posed challenges of a high order. Dr. Prakash discharged them with distinction and has left a rich legacy of scientific and administrative leadership.
 
