@@ -658,4 +658,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/ravi-12-may-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Shailendra Kumar Verma (17/05/22)",
+        "excerpt":"Thesis title:  Novel L1_2 precipitate hardened Co-base superalloys   Faculty advisor(s):  Prof. S. Karthikeyan and Prof. T. A. Abinandanan   When?  17th May, 2022 (Tuesday), 03:30 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/shailendra-17-may-2022",
+        "teaser": null
       },]
