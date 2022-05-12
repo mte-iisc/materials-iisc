@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis Colloquium: Mr. Devansh Sharma (17/05/22)"
+title: "PhD Thesis Colloquium: Mr. Devansh Sharma (18/05/22)"
 permalink: /colloquium/devansh-18-may-2022
 ---
 ### Thesis title:
