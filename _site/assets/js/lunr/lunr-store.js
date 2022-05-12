@@ -664,4 +664,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/colloquium/shailendra-17-may-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Devansh Sharma (17/05/22)",
+        "excerpt":"Thesis title:  PDMS based Nanocomposite for EMI Shielding Applications   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  18th May, 2022 (Wednesday), 02:00 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/devansh-18-may-2022",
+        "teaser": null
       },]
