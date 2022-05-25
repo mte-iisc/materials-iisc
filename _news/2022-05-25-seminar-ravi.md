@@ -1,5 +1,5 @@
 ---
-title: "Third KPA lecture (25/05/22)"
+title: "Corrosion: An Interdisciplinary Approach (Third KPA lecture) (25/05/22)"
 permalink: /seminar/ravi-26-may-2022
 ---
 
