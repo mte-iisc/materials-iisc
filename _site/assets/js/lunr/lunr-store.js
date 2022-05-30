@@ -682,4 +682,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/ravi-26-may-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Ms. Mitta Divya (30/05/22)",
+        "excerpt":"Thesis title:  “Printed and low temperature processed oxide electronics with superior electrical performance and mechanical reliability”   Faculty advisor(s):  Prof. Subho Dasgupta   When?  30th May, 2022 (Monday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/divya-30-may-2022",
+        "teaser": null
       },]
