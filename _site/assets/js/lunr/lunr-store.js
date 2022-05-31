@@ -688,4 +688,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/divya-30-may-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Ms. Anwesha Kanjilal (01/06/22)",
+        "excerpt":"Thesis title:  Effect of Length Scale on Mechanical Behavior of Sn-Cu Joints: A Mechanics and Materials Science Based Treatment   Faculty advisor(s):  Prof. Praveen Kumar   When?  1st June, 2022 (Wednesday), 3:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/anwesha-1-jun-2022",
+        "teaser": null
       },]
