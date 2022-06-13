@@ -28,12 +28,13 @@ permalink: /platinum
 </ol>
 
 ### Special issue of Journal of IISc
+<a href="https://link.springer.com/journal/41745/volumes-and-issues/102-1" target="_blank"><img src="{{ site.baseurl }}/assets/images/slider/IIScJ.jpg" alt="Special issue of Journal of Indian Institute of Science" style="width:100%"></a>
+<br>
+The Department of Materials Engineering of the Indian Institute of Science (IISc) is in its 75<sup>th</sup> year since its inception. To commemorate this important milestone and celebrate the Platinum Jubilee year of the department, a special issue of the <a href="https://link.springer.com/journal/41745/volumes-and-issues/102-1" target="_blank">Journal of the Indian Institute of Science</a> has been organized, which is now available online. 
 
-The <a href="https://materials.iisc.ac.in/">Department of Materials Engineering</a> of the Indian Institute of Science (IISc) is in its 75th year since its inception. To commemorate this important milestone and celebrate the Platinum Jubilee year of the department, a special issue of the <a href="https://www.springer.com/journal/41745">Journal of the Indian Institute of Science</a> has been organized that is scheduled for production in April 2022. 
-
-The overarching theme of this special issue will be Materials Engineering for a Sustainable Future. All articles in this special issue will be invited authoritative reviews that will highlight how materials technology will broadly address the challenges of energy, environment, healthcare, security, water, nutrition, digital access, and other societal needs toward a sustainable future.  
+The overarching theme of this special issue is "Materials Engineering for a Sustainable Future". All articles in this special issue are invited authoritative reviews that highlight how materials technology broadly address the challenges of energy, environment, healthcare, security, water, nutrition, digital access, and other societal needs toward a sustainable future.  
  
-Several alumni and alumnae of the department have enthusiastically agreed to contribute articles to this special issue that will cover a broad spectrum of materials engineering and showcase the diversity of the graduates from this department. These illustrious individuals are established leaders or emerging experts in their fields who are actively engaged in materials engineering in academia, industry, and national laboratories located in different countries worldwide. 
+Several alumni of the department have enthusiastically contributed articles to this special issue that covers a broad spectrum of materials engineering and showcases the diversity of the graduates from this department. These illustrious individuals are established leaders or emerging experts in their fields who are actively engaged in materials engineering in academia, industry, and national laboratories located in different countries worldwide. 
 
 A one-day seminar series is being planned to mark the launch of this special issue- details coming soon! 
 
