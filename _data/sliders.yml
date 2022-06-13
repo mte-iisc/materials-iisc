@@ -5,18 +5,21 @@
   images:
     - src: /assets/images/slider/department.jpg
       alt: Welcome to Materials Engineering, Indian Institute of Science
-    - src: /assets/images/slider/home-page-research-highlight.png
-      alt: Explore the latest research done in the department
-      href: /highlights-list
-    - src: /assets/images/slider/annual-students-symposium-2020.png
-      alt: Recap of annual students' symposium (January 2020)
-      href: https://materials.iisc.ac.in/sympo
+    - src: /assets/images/slider/IIScJ.jpg
+      alt: Special issue of Journal of the Indian Institute of Science to commemorate the Platinum jubilee of the department
+      href: https://link.springer.com/journal/41745/volumes-and-issues/102-1 
     - src: /assets/images/slider/microsim_lab.png
       alt: First release of phase-field software "MicroSim"
       href: /highlights/microsim-lab
     - src: /assets/images/slider/oxygen_concentrator.png
       alt: Oxygen concentrator developed in the department
       href: /highlights/oxygen-concentrator
+    - src: /assets/images/slider/home-page-research-highlight.png
+      alt: Explore the latest research done in the department
+      href: /highlights-list
+    - src: /assets/images/slider/annual-students-symposium-2020.png
+      alt: Recap of annual students' symposium (January 2020)
+      href: https://materials.iisc.ac.in/sympo
   settings:
     height: 6:1
     effect: "'fade'"
