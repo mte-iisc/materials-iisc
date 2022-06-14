@@ -63,6 +63,10 @@ In order to commemorate the services of Professor Prakash, the community of meta
 <table>
 <tbody>
 <tr>
+<td>2022</td>
+<td>Prof. Apparao M. Rao, Clemson University, USA</td>
+</tr>
+<tr>
 <td>2016</td>
 <td>Prof. David P. Field, Washington State University, USA</td>
 </tr>
