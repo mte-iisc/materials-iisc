@@ -700,4 +700,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/arokia-08-jun-2022",
         "teaser": null
+      },{
+        "title": "M Tech Research  Thesis Defence: Mr. Prantosh Das (M Tech Res) (16/06/22)",
+        "excerpt":"Thesis title:  Effect of PEO coating time on corrosion and fatigue properties of AZ31 magnesium alloy   Faculty advisor(s):  Prof. Subodh Kumar   When?  16st June, 2022 (Thursday), 11:00 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/prantosh-16-jun-2022",
+        "teaser": null
       },]
