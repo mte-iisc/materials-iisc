@@ -6,186 +6,191 @@ permalink: /courses
 ---
 <a href="https://indianinstituteofscience.sharepoint.com/sites/MTE" target="_blank">Department Bulletin Board</a>
 
-<b>M. Tech. in Materials Engineering</b>
-(Duration: 2 Years, 64 credits) 
+<b>M. Tech, M. Tech (Research) and PhD programs in MATERIALS ENGINEERING</b>
+
+<b>M. Tech. in Materials Engineering</b>(Duration: 2 Years, 64 credits) 
 <br>
-32 credit course work (Sem I and Sem II) + 32 credit dissertation (Sem III and Sem IV).<br>
-Minimum mandatory credits from courses within the department: 
-<ul>
-<li>8 (3+3+2) credits of hard core courses</li>
-<li>9 (3+3+3) credits among soft core courses</li>
-<li>9 credits from among the soft core/electives offered by the department</li>
-</ul>
-The remaining 6 credits can be completed without restrictions (within or outside the department).<br>
+32 credit course work (Sem I and Sem II) + 32 credit dissertation (Sem III and Sem IV)
+Minimum mandatory credits from courses within the department: 13 (hard core) + 9 (from among the electives). The remaining 10 credits may be completed without restrictions (i.e. courses from within the department or from other departments).
+<br>
 
-<b>Ph. D. in Materials Engineering</b><br>
-Ph. D. students with M. Tech. background need to take a minimum of 12 credits and pass with minimum CGPA of 7.0.<br>
-Ph. D. students with B. E./B. Tech./M. Sc. degree must take a minimum of 24 credits and pass with a minimum CGPA of 7.0.
+<b>Ph.D. in Materials Engineering</b><br>
+Students with MTech / M Pharm background need to take a minimum of 12 credits and pass with minimum CGPA of 7.0. Students with BE/BTech/BPharm/MSc degree must take a minimum of 24 credits and pass with a minimum CGPA of 7.0.
 
-<b>Other students</b><br>
-Students with B. E./B. Tech./M. Sc. degree joining the M. Tech. (Research) program or joining the PhD program and opting for an additional M. Tech. (Research) degree are required to take minimum of 50% of their total required credits from the basket of hard core and soft core courses offered by the department.
-<br>This implies that students in M. Tech. (Research) should take a minimum of 6 credits and students desirous of M. Tech. (Research) degree together with Ph. D. degree should take 12 credits from the basket of hard core and soft core courses. 
+<b>M Tech (Research):</b> Students with BE/BTech/MSc degree joining the M Tech (Research) program should take a minimum of 12 credits and pass with minimum CGPA of 7.0.
+Note: Those entering the research program with BE/BTech/B Pharm/MSc degree must ensure that at least 50 % of their credit requirement are fulfilled with courses in the department.
 
-<b>Note:</b> 3 extra credits of <a href="{{ site.baseurl }}/courses#mt-250-jan-30">MT 250</a> is mandatory for those who don't have a prior background in a materials-related discipline. This is a non-RTP course for Ph. D. and M. Tech. (Research) students which the student must pass with minimum C-grade. 
+<b>Mandatory non-RTP course for PhD and MTech (Research) students:</b> Students with non-materials background enrolled in the research programs must credit the non-RTP course MT 250: Introduction to Materials Science and Engineering and pass with minimum C-grade before the comprehensive examination.
+
+<b>Core subjects</b> (Mandatory for the M Tech students)
 
 <table>
 <tbody>
 <tr>
 <th>Course number</th>
 <th>Credits (Lecture:Lab)</th>
-<th>Category</th>
 <th>Title</th>
 </tr>
 <tr>
 <td>MT 202</td>
-<td>3:0</td>
-<td>Hard core</td>
+<td>3:0 (Aug)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-202-aug-30">Thermodynamics and Kinetics</a></td>
 </tr>
 <tr>
+<td>MT 207</td>
+<td>2:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-207-aug-30">Introduction to Electronic Properties of Materials</a></td>
+</tr>
+<tr>
+<td>MT 217</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-217-aug-30">Computational Mathematics for Materials Engineers</a></td>
+</tr>
+<tr>
 <td>MT 241</td>
-<td>3:0</td>
-<td>Hard core</td>
+<td>3:0 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-241-aug-30">Structure and Characterization of Materials</a></td>
 </tr>
 <tr>
 <td>MT 243</td>
-<td>0:2</td>
-<td>Hard core</td>
+<td>0:2 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-243-jan-02">Laboratory Experiments in Materials Engineering</a></td>
 </tr>
+</tbody>
+</table>
+
+<b>Electives</b>
+
+<table>
+<tbody>
 <tr>
-<td>MT 209</td>
-<td>3:0</td>
-<td>Soft core</td>
-<td><a href="{{ site.baseurl }}/courses#mt-209-aug-30">Defects in Materials</a></td>
+<th>Course number</th>
+<th>Credits (Lecture:Lab)</th>
+<th>Title</th>
 </tr>
-<tr>
-<td>MT 213</td>
-<td>3:0</td>
-<td>Soft core</td>
-<td><a href="{{ site.baseurl }}/courses#mt-213-jan-30">Electronic Properties of Materials</a></td>
-</tr>
-<tr>
-<td>MT 220</td>
-<td>3:0</td>
-<td>Soft core</td>
-<td><a href="{{ site.baseurl }}/courses#mt-220-jan-30">Microstructural Engineering of Structural Materials</a></td>
-</tr>
-<tr>
-<td>MT 231</td>
-<td>3:0</td>
-<td>Soft core</td>
-<td><a href="{{ site.baseurl }}/courses#mt-231-jan-30">Interfacial Phenomenon in Materials Processing</a></td>
-</tr>
-<tr>
-<td>MT 253</td>
-<td>3:0</td>
-<td>Soft core</td>
-<td><a href="{{ site.baseurl }}/courses#mt-253-aug-30">Mechanical Behaviour of Materials</a></td>
-</tr>
-<tr>
-<td>MT 260</td>
-<td>3:0</td>
-<td>Soft core</td>
-<td><a href="{{ site.baseurl }}/courses#mt-260-aug-30">Polymer Science and Engineering</a></td>
-</tr>
-<tr>
-<td>MT 299</td>
-<td>0:32</td>
-<td>Project</td>
-<td><a href="{{ site.baseurl }}/courses#mt-299-032">Dissertation Project</a></td>
-</tr> 
 <tr>
 <td>MT 201</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-201-jan-30">Phase Transformations</a></td>
 </tr>
 <tr>
-<td>MT 206</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>MT 206 </td>
+<td>3:0 (Aug)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-206-aug-30">Texture and Grain Boundary Engineering</a></td>
 </tr>
 <tr>
 <td>MT 208</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0(Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-208-jan-30">Diffusion in Solids</a></td>
 </tr>
 <tr>
+<td>MT 209</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-209-aug-30">Defects in Materials</a></td>
+</tr>
+<tr>
+<td>MT 211</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-211-aug-30">Magnetism, Magnetic Materials and Devices</a></td>
+</tr>
+<tr>
+<td>MT 214</td>
+<td>3:0 (Jan)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-214-jan-30">Electronic Materials and Devices</a></td>
+</tr>
+<tr>
 <td>MT 218</td>
-<td>2:1</td>
-<td>Elective</td>
-<td><a href="{{ site.baseurl }}/courses#mt-218-aug-21">Modeling and Simulation in Materials Engineering</a></td>
+<td>2:1 (Jan)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-218-jan-30">Modeling and Simulation in Materials Engineering</a></td>
+</tr>
+<tr>
+<td>MT 220</td>
+<td>3:0 (Jan)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-220-jan-30">Microstructural Engineering of Structural Materials</a></td>
 </tr>
 <tr>
 <td>MT 225</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Aug)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-225-aug-30">Deformation and Failure Mechanisms at Elevated Temperatures</a></td>
 </tr>
 <tr>
+<td>MT 231</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-231-aug-30">Interfacial Phenomenon in Materials Processing</a></td>
+</tr>
+<tr>
 <td>MT 240</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-240-jan-30">Principles of electrochemistry and corrosion</a></td>
 </tr>
 <tr>
 <td>MT 245</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Aug)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-245-aug-30">Transport Processes in Process Metallurgy</a></td>
 </tr>
 <tr>
 <td>MT 248</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-248-jan-30">Modelling and Computational Methods in Metallurgy</a></td>
 </tr>
 <tr>
-<td>MT 250</td>
-<td>3:0</td>
-<td>Elective</td>
-<td><a href="{{ site.baseurl }}/courses#mt-250-jan-30">Introduction to Materials Science and Engineering</a></td>
+<td>MT 253</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-253-aug-30">Mechanical Behaviour of Materials</a></td>
 </tr>
 <tr>
 <td>MT 255</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-255-jan-30">Solidification Processing</a></td>
 </tr>
 <tr>
 <td>MT 256</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-256-jan-30">Fracture</a></td>
 </tr>
 <tr>
-<td>MT 257</td>
-<td>3:0</td>
-<td>Elective</td>
-<td><a href="{{ site.baseurl }}/courses#mt-257-jan-30">Finite Element Analysis for Materials Engineers</a></td>
+<td>MT 260</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-260-aug-30">Polymer Science and Engineering</a></td>
 </tr>
 <tr>
 <td>MT 261</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Aug)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-261-aug-30">Organic Electronics</a></td>
 </tr>
 <tr>
 <td>MT 262</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Jan)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-262-jan-30">Concepts in Polymer Blends and Nanocomposites</a></td>
 </tr>
 <tr>
 <td>MT 271</td>
-<td>3:0</td>
-<td>Elective</td>
+<td>3:0 (Aug)</td>
 <td><a href="{{ site.baseurl }}/courses#mt-271-jan-30">Introduction to Biomaterials Science and Engineering</a></td>
 </tr>
+<tr>
+<td>MT 307</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-307-aug-30">Materials in Extreme Environments</a></td>
+</tr>
+<tr>
+<td>MT 250</td>
+<td>3:0 (Aug)</td>
+<td><a href="{{ site.baseurl }}/courses#mt-250-aug-30">ntroduction to Materials Science and Engineering<br> (non RTP mandatory course for PhD/MTech (Res) students<br> with non-materials background)</a></td>
+</tr>
+</tbody>
+</table>
+
+<b>Project (32 credits for M Tech students) </b>
+
+<table>
+<tbody>
+<tr>
+<td>MT 299</td>
+<td>0:32</td>
+<td><a href="{{ site.baseurl }}/courses#mt-299-032">Dissertation Project</a></td>
+</tr> 
+
 </tbody>
 </table>
 
@@ -245,6 +250,19 @@ References:
 
 -------------------------------------
 
+### MT 207 (AUG) 2:0 
+<b>Introduction to Electronic Properties of Materials </b>Drude model, its success and failure, energy bands in crystals, basic quantum mechanics, band diagrams, Fermi function, density of states, electrical conduction in metals, semiconductors, metal oxides, amorphous semiconductors, introduction to magnetism and superconductivity. 
+Instructor: Subho Dasgupta 
+References:    
+<ul>
+<li>R. E. Hummel, Electronic Properties of Materials</li>
+<li>S. O. Kasap, Principles of Electronic Materials and Devices</li> 
+<li>D. Jiles, Introduction to the electronic properties of materials</li>
+</ul>
+
+-------------------------------------
+
+
 ### MT 208 (JAN) 3:0 
 <b>Diffusion in Solids</b>
 
@@ -279,20 +297,50 @@ References:
 </ul>
 
 -------------------------------------
-
-### MT 213 (JAN) 3:0
-<b>Electronic Properties of Materials</b>
-
-Introduction to electronic properties; Drude model, its success and failure; energy bands in crystals; density of states; electrical conduction in metals; semiconductors; semiconductor devices; p-n junctions, LEDs, transistors; electrical properties of polymers, ceramics, metal oxides, amorphous semiconductors; dielectric and ferroelectrics; polarization theories; optical, magnetic and thermal properties of materials; application of electronic materials: microelectronics, optoelectronics and magnetoelectrics.
- 
-Instructor: Subho Dasgupta
-
-References:
+### MT 211 (Aug) 3:0 
+<b>Magnetism, Magnetic Materials and Devices</b>
+A brief review of the fundamentals of solid-state physics; Classical and quantum mechanical pictures of magnetism; spin orbit coupling, crystal field environments, diamagnetism, paramagnetism, ferromagnetism, antiferromagnetism, dipolar and exchange interactions, magnetic domains, magnetic anisotropy, magnetostriction, superparamagnetism, biomagnetism, and spin glass  
+Bulk magnetic Materials: Transition and rare earth metals and alloys. Oxide based magnetic materials. Hard, soft and magnetostrictive materials, Magnetic shape memory alloys, Structure-microstructure-magnetic property correlations.    Low dimensional Magnetic systems and devices: Magnetic nanostructures, thin films, and epitaxial heterostructures; exchange bias and exchange coupling, and magneto-optical materials and devices, AMR, GMR, TMR, spin-transfer torque, spin-orbit torque and spin-Hall effect; Multiferroics, magnetoelectric and magnetoionics; nonvolatile magnetic memory, synaptic and neuromorphic computing devices;  
+Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetooptical Kerr-effect, TEM for magnetic characterization, XMLD and XMCD. 
+ Instructor: Bhagwati Prasad 
+References:  
 <ul>
-<li>R. E. Hummel, Electronic Properties of Materials</li>
-<li>S. O. Kasap, Principles of Electronic Materials and Devices</li>
-<li>S. M. Sze, Semiconductor devices: Physics and Technology</li>
-<li>D. Jiles, Introduction to the electronic properties of materials</li>
+<li>S. O. Kasap, Principles of Electronic Materials and Devices; </li>
+<li>Stephen Blundell, Magnetism in Condensed Matter; </li><li>J.M.D. Coey, Magnetism and Magnetic Materials;  
+<li>B. D. Cullity and C.D. Graham, Introduction to Magnetic Materials; </li>
+<li>K. M. Krishnan, Fundamental and Application of Magnetic Materials </li>
+</ul>
+-------------------------------------
+
+### MT 214 (JAN) 3:0
+
+<b>Electronic Materials and Devices</b>
+
+<b>Materials:</b> Silicon, GaAs, GaN, 2D semiconductors, Oxide semiconductors 
+ <b>Fabrication:</b> Introduction to nanofabrication, zero-one-two dimensional nanostructure fabrication. Short introduction to lithography and different etching protocols. Solution processing of electronic devices (printed electronics).
+    
+<b>Devices:</b> Metal-semiconductor contact, Schottky diode, p-n junction diode, short diode (intro to 2D semiconductors), tunnel diodes. Polarization mechanisms, MISCAP, Transistors, MOSFET, JFET. Short introduction to analog/digital electronics. Photodiodes, photodetectors, LEDs, OLEDs, QLEDs, Photovoltaics.
+ Instructor: Subho Dasgupta
+ References: 
+<ul>
+<li>S. O. Kasap: Principles of Electronics Materials and Devices </li>
+<li>D. A. Neamen: Semiconductor Physics and Devices</li>
+<li>D. Schroeder: Semiconductor Materials and Device Characterizations</li>
+<li>S. M. Sze: Semiconductor devices: Physics and Technology</li>
+<li>S. M. Sze: Physics of semiconductor devices</li>
+</ul>
+
+-------------------------------------
+### MT 217 (Aug)  3:0   
+<b>Computational  Mathematics for Materials Engineers</b>
+Vector and tensor algebra; Basics of linear algebra and matrix inversion methods; Coordinate transformations methods; Optimization methods, Probability and statistics; Numerical methods: Concepts of discretization in space/time, implicit, explicit; Solution to ODEs(Euler, Heun, Runge-Kutta methods), PDEs (Elliptic, Parabolic, Hyperbolic), solutions to Laplace equation and applications, transient diffusion and wave equation; Discretization methods (FDM, FVM, FEM);  iterative solution schemes Jacobi, Gauss-Seidel, ADI, Multigrid, Fourier-spectral schemes; Root finding methods, interpolation, curve-fitting, regression; Special functions: Bessel, Legendre, Fourier, Laguerre, etc; Computational tools for the solution to all the above problems will be discussed along with canonical examples from materials problems. Software tools, based on python and/or MATLAB, will also be introduced in the course.   Instructor: A N Choudhury and Sai Gautam G 
+
+References: 
+<ul>
+<li>Advanced Engineering Mathematics; Erwin Kreyzig</li> 
+<li>Mathematic physics (V. Balakrishnan)</li> 
+<li>Numerical methods for Engineers(Steven C. Chapra and Paymond P. Canale)</li>
+<li>Numerical Recipes in C(William H. Press, Vetterling, Teutolsky, Flannery) </li>
 </ul>
 
 -------------------------------------
@@ -348,7 +396,7 @@ References:
 
 -------------------------------------
 
-### MT 231 (Jan) 3:0 
+### MT 231 (Aug) 3:0 
 <b>Interfacial Phenomenon in Materials Processing</b>
 
 Materials and surfaces, Adsorption from solution, Thermodynamics of adsorption - surface excess and surface free energy, Gibbs equation, adsorption isotherms, wetting, contact angle, Young's equation, Monolayer and interfacial reactions, Electrical phenomena at interfaces, electrochemistry of the double layer, Interaction energies, DLVO theory, electrokinetics, flocculation, coagulation and dispersion, Polymers at interfaces, Emulsions. Applications in Materials Processing.
@@ -511,19 +559,6 @@ References:
 
 -------------------------------------
 
-### MT 257 (JAN) 3:0
-<b>Finite Element Analysis for Materials Engineers</b>
-
-Quick recap of relevant mathematical concepts, equations of equilibrium and compatibility conditions (structural problem) and stress (Airy) function; Philosophy of FEM, including concepts of discretization, interpolation functions and assembly of equations; Application of FEM for solving differential equations using Galerkin method and variational equations using Rayleigh - Ritz method; 1-D, 2-D and 3-D example problems in elasticity and heat transfer; Solving linear and non-linear structural, thermal and electrical problems using a commercial FEM software
-Instructor: Praveen Kumar
-
-Reference: 
-<ul>
-<li>David V Hutton , Fundamentals of Finite Element Analysis, McGraw Hill</li>
-</ul>
-
--------------------------------------
-
 ### MT 260 (Aug) 3:0
 <b>Polymer Science and Engineering</b>
 
@@ -604,3 +639,18 @@ The M.Tech. project is aimed at training the students to analyse independently a
 
 Instructors: Faculty, Materials Engineering
 
+-------------------------------------
+
+### MT 307    3:0 
+<b>Materials in Extreme environments</b>
+ Overview of Engineering Systems Under Extreme Environment 
+Background Review: Microstructure and Atomic Structure, Defects, Materials Response Under Quasistatic Loadings, Strengthening Mechanisms, Effect of Temperature on Microstructure and Properties, Creep, High-Temperature Fatigue 
+
+Materials Response Under Mechanical Extremes: Loading States, Elastic Waves in Solids, Shock Loading, Distance-Time Diagrams, Static High-Pressure Devices, Platforms for Loading at Intermediate Strain Rates, Platforms for Shock and Quasi-Isentropic Loading, Shock Compression Of FCC, BCC and HCP Metals, Amorphous Metals, Phase Transformations, Plasticity in Compression, Ramp Loading, Release, Spallation and Failure, Adiabatic Shear, Response of Ceramics. 
+
+Materials Response Under Irradiation: Irradiation Basics, Irradiation-Processes Leading to Extreme Situations, Irradiation Using Different Incident Beams, Defect Dynamics in Materials Under Irradiation, Irradiation-Enhanced Diffusion, Irradiation-Induced Segregation, Radiation-Induced/Enhanced Phase Transformation, Influence of Radiation-Induced Microstructure on Mechanical Properties Materials in Hostile Corrosive Environment: Introduction, Corrosion by Liquid Sodium, Materials for The Hostile Corrosive Environments in Steam Water Environments, Materials in Seawater Environments Instructor: Ankur Chauhan References:
+<ul>
+<li>George Dieter, Mechanical Metallurgy; </li>
+<li>Neil Bourne, Materials response under mechanical extreme; </li>
+<li>Gary was, Fundamentals of Radiation Materials Science.</li> 
+</ul>
