@@ -706,4 +706,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/prantosh-16-jun-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Sujata Singh (28/06/22)",
+        "excerpt":"Thesis title:  Enhancement in the Corrosion Resistance of Selected High Entropy  Alloys by Incorporation of Carbon Nanotubes   Faculty advisor(s):  Prof. Chandan Srivastava   When?  28th June, 2022 (Tuesday), 10:30 AM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/sujata-28-jun-2022",
+        "teaser": null
       },]
