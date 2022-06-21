@@ -1,5 +1,5 @@
 ---
-title: "Green synthesis of a novel porous gold-curcumin nanocomposite for super-efficient alcohol oxidation (08/06/22)"
+title: "Green synthesis of a novel porous gold-curcumin nanocomposite for super-efficient alcohol oxidation (21/06/22)"
 permalink: /seminar/sai-21-jun-2022
 ---
 
