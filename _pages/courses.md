@@ -8,7 +8,7 @@ permalink: /courses
 
 <b>M. Tech, M. Tech (Research) and PhD programs in MATERIALS ENGINEERING</b>
 
-<b>M. Tech. in Materials Engineering</b>(Duration: 2 Years, 64 credits) 
+<b>M. Tech. in Materials Engineering</b> (Duration: 2 Years, 64 credits) 
 <br>
 32 credit course work (Sem I and Sem II) + 32 credit dissertation (Sem III and Sem IV)
 Minimum mandatory credits from courses within the department: 13 (hard core) + 9 (from among the electives). The remaining 10 credits may be completed without restrictions (i.e. courses from within the department or from other departments).
@@ -17,43 +17,51 @@ Minimum mandatory credits from courses within the department: 13 (hard core) + 9
 <b>Ph.D. in Materials Engineering</b><br>
 Students with MTech / M Pharm background need to take a minimum of 12 credits and pass with minimum CGPA of 7.0. Students with BE/BTech/BPharm/MSc degree must take a minimum of 24 credits and pass with a minimum CGPA of 7.0.
 
-<b>M Tech (Research):</b> Students with BE/BTech/MSc degree joining the M Tech (Research) program should take a minimum of 12 credits and pass with minimum CGPA of 7.0.
+<b>M Tech (Research)</b><br>
+Students with BE/BTech/MSc degree joining the M Tech (Research) program should take a minimum of 12 credits and pass with minimum CGPA of 7.0.
 Note: Those entering the research program with BE/BTech/B Pharm/MSc degree must ensure that at least 50 % of their credit requirement are fulfilled with courses in the department.
 
-<b>Mandatory non-RTP course for PhD and MTech (Research) students:</b> Students with non-materials background enrolled in the research programs must credit the non-RTP course MT 250: Introduction to Materials Science and Engineering and pass with minimum C-grade before the comprehensive examination.
+<b>Mandatory non-RTP course for PhD and MTech (Research) students</b><br>
+Students with non-materials background enrolled in the research programs must credit the non-RTP course MT 250: Introduction to Materials Science and Engineering and pass with minimum C-grade before the comprehensive examination.
 
 <b>Core subjects</b> (Mandatory for the M Tech students)
 
 <table>
 <tbody>
 <tr>
-<th>Course number</th>
-<th>Credits (Lecture:Lab)</th>
+<th>Number</th>
+<th>Credits</th>
+<th>Semester</th>
 <th>Title</th>
 </tr>
 <tr>
 <td>MT 202</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-202-aug-30">Thermodynamics and Kinetics</a></td>
 </tr>
 <tr>
 <td>MT 207</td>
-<td>2:0 (Aug)</td>
+<td>2:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-207-aug-30">Introduction to Electronic Properties of Materials</a></td>
 </tr>
 <tr>
 <td>MT 217</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-217-aug-30">Computational Mathematics for Materials Engineers</a></td>
 </tr>
 <tr>
 <td>MT 241</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-241-aug-30">Structure and Characterization of Materials</a></td>
 </tr>
 <tr>
 <td>MT 243</td>
-<td>0:2 (Jan)</td>
+<td>0:2</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-243-jan-02">Laboratory Experiments in Materials Engineering</a></td>
 </tr>
 </tbody>
@@ -64,119 +72,142 @@ Note: Those entering the research program with BE/BTech/B Pharm/MSc degree must 
 <table>
 <tbody>
 <tr>
-<th>Course number</th>
-<th>Credits (Lecture:Lab)</th>
+<th>Number</th>
+<th>Credits</th>
+<th>Semester</th>
 <th>Title</th>
 </tr>
 <tr>
 <td>MT 201</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-201-jan-30">Phase Transformations</a></td>
 </tr>
 <tr>
 <td>MT 206 </td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-206-aug-30">Texture and Grain Boundary Engineering</a></td>
 </tr>
 <tr>
 <td>MT 208</td>
-<td>3:0(Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-208-jan-30">Diffusion in Solids</a></td>
 </tr>
 <tr>
 <td>MT 209</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-209-aug-30">Defects in Materials</a></td>
 </tr>
 <tr>
 <td>MT 211</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-211-aug-30">Magnetism, Magnetic Materials and Devices</a></td>
 </tr>
 <tr>
 <td>MT 214</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-214-jan-30">Electronic Materials and Devices</a></td>
 </tr>
 <tr>
 <td>MT 218</td>
-<td>2:1 (Jan)</td>
+<td>2:1</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-218-jan-30">Modeling and Simulation in Materials Engineering</a></td>
 </tr>
 <tr>
 <td>MT 220</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-220-jan-30">Microstructural Engineering of Structural Materials</a></td>
 </tr>
 <tr>
 <td>MT 225</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-225-aug-30">Deformation and Failure Mechanisms at Elevated Temperatures</a></td>
 </tr>
 <tr>
 <td>MT 231</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-231-aug-30">Interfacial Phenomenon in Materials Processing</a></td>
 </tr>
 <tr>
 <td>MT 240</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-240-jan-30">Principles of electrochemistry and corrosion</a></td>
 </tr>
 <tr>
 <td>MT 245</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-245-aug-30">Transport Processes in Process Metallurgy</a></td>
 </tr>
 <tr>
 <td>MT 248</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-248-jan-30">Modelling and Computational Methods in Metallurgy</a></td>
 </tr>
 <tr>
 <td>MT 253</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-253-aug-30">Mechanical Behaviour of Materials</a></td>
 </tr>
 <tr>
 <td>MT 255</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-255-jan-30">Solidification Processing</a></td>
 </tr>
 <tr>
 <td>MT 256</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-256-jan-30">Fracture</a></td>
 </tr>
 <tr>
 <td>MT 260</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-260-aug-30">Polymer Science and Engineering</a></td>
 </tr>
 <tr>
 <td>MT 261</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-261-aug-30">Organic Electronics</a></td>
 </tr>
 <tr>
 <td>MT 262</td>
-<td>3:0 (Jan)</td>
+<td>3:0</td>
+<td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-262-jan-30">Concepts in Polymer Blends and Nanocomposites</a></td>
 </tr>
 <tr>
 <td>MT 271</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-271-jan-30">Introduction to Biomaterials Science and Engineering</a></td>
 </tr>
 <tr>
 <td>MT 307</td>
-<td>3:0 (Aug)</td>
+<td>3:0</td>
+<td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-307-aug-30">Materials in Extreme Environments</a></td>
 </tr>
 <tr>
 <td>MT 250</td>
-<td>3:0 (Aug)</td>
-<td><a href="{{ site.baseurl }}/courses#mt-250-aug-30">ntroduction to Materials Science and Engineering<br> (non RTP mandatory course for PhD/MTech (Res) students<br> with non-materials background)</a></td>
+<td>3:0</td>
+<td>Aug</td>
+<td><a href="{{ site.baseurl }}/courses#mt-250-aug-30">Introduction to Materials Science and Engineering<br> (non RTP mandatory course for PhD/MTech (Res) students<br> with non-materials background)</a></td>
 </tr>
 </tbody>
 </table>
@@ -188,6 +219,7 @@ Note: Those entering the research program with BE/BTech/B Pharm/MSc degree must 
 <tr>
 <td>MT 299</td>
 <td>0:32</td>
+<td>-</td>
 <td><a href="{{ site.baseurl }}/courses#mt-299-032">Dissertation Project</a></td>
 </tr> 
 
