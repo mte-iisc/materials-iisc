@@ -593,6 +593,48 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/sowmya-29-apr-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Mr. Nilawar Sagar Ram (05/05/22)",
+        "excerpt":"Thesis title:  Cerium oxide-based degradable polymer nanocomposites for bone tissue engineering   Faculty advisor(s):  Prof. Kaushik Chatterjee   When?  5th May, 2022 (Thursday), 03:00 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/nilawar-05-may-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Shailendra Kumar Verma (17/05/22)",
+        "excerpt":"Thesis title:  Novel L1_2 precipitate hardened Co-base superalloys   Faculty advisor(s):  Prof. S. Karthikeyan and Prof. T. A. Abinandanan   When?  17th May, 2022 (Tuesday), 03:30 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/shailendra-17-may-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Devansh Sharma (18/05/22)",
+        "excerpt":"Thesis title:  PDMS based Nanocomposite for EMI Shielding Applications   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  18th May, 2022 (Wednesday), 02:00 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/devansh-18-may-2022",
+        "teaser": null
+      },{
+        "title": "Surface Modification Using Pack Cementation Processes (20/05/22)",
+        "excerpt":"Speaker and Affliation:  Prof. V.A. Ravi  Professor, Department of Chemical and Materials Engineering,  California State Polytechnic University, Pomona (Cal Poly Pomona)   Biography  Dr. Vilupanur A. Ravi is a Professor in the Department of Chemical and Materials Engineering at the California State Polytechnic University, Pomona (Cal Poly Pomona), USA. He is currently the K. P. Abraham Visiting Chair Professor in the Department of Materials Engineering at the Indian Institute of Science. He is an alumnus of the Institute, having obtained his B.E. in Metallurgy with distinction, followed by MS and PhD degrees from the Ohio State University. His research interests are in the areas of corrosion, high temperature materials/coatings and materials processing. His work has been recognized through several awards and honors including the NACE Technical Achievement Award, and Fellowships in several organizations including the National Academy of Inventors, ASM International, and NACE International. He is a registered Professional Engineer (PE) in California, a Chartered Engineer (CEng) in the UK and a European Engineer (Eur Ing).   When?  20th May, 2022 (Friday), 03:00 PM (India Standard Time)   Location  Department of Materials Engineering, KPA auditorium   Abstract  Halide activated pack cementation is a versatile and economical process of surface modification applicable to a broad range of metallic substrates, with nickel and iron-based alloys being the most common. The alloy surfaces can be engineered for resistance to corrosion, wear, erosion, etc., for service in demanding environments, e.g., those involving high temperature oxidation, accelerated corrosion under fused salt films, etc. If the fundamentals are well understood, the coating process can be controlled to obtain the desired final composition and microstructure. The in -situ generation of halide vapor species inside the pack with subsequent transport, surface reactions and solid-state diffusion are all important phenomena that need attention to achieve optimal coating conditions. In this talk, I will review the halide-activated pack cementation process; discuss relevant thermodynamics and kinetics, and present examples from our work.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ravi-20-may-2022",
+        "teaser": null
+      },{
+        "title": "High-speed X-ray Visualization of Impact Damage and Failure (20/05/22)",
+        "excerpt":"Speaker and Affliation:  Wayne Chen  Reilly Professor of AAE and MSE,   Purdue University, West Lafayette, IN   Biography  Professor Wayne Chen received his Ph.D. in Aeronautics at California Institute of Technology in 1995 under Professor G. Ravichandran. He is currently Reilly Professor of Aeronautics, Astronautics and Materials Engineering, and Professor of Mechanical Engineering (by courtesy) at Purdue University, West Lafayette, IN, USA. His research interests are in dynamic experimental technique development and dynamic material characterization. The research results from his group have been published in a book and over 230 journal articles. He is a Fellow of American Society of Mechanical Engineers, a Fellow of Society for Experimental Mechanics, and an Associate Fellow of American Institute of Aeronautics and Astronautics. His recent awards include Honorary Doctor of Science in Technology from Tampere University in Finland (2017) and Elmer F. Bruhn Award for Excellence in Teaching at Purdue University (2018).   When?  20th May, 2022 (Friday), 06:00 PM (India Standard Time)   Mode  Microsoft Teams Meet-up   Abstract  For materials in impact applications, the failure processes can be a critical aspect in their impact resistance. Thus, it is desired to track the damage initiation and evolution in real time during the dynamic deformation of the specimens, which was not possible except for a few transparent materials under high-speed imaging. Over the past decade, we integrated the high-speed X-ray imaging capabilities present at the Advanced Photon Source beamline 32 ID-B (Argonne National Laboratory, Argonne, IL, USA) with the high-rate loading offered by the Kolsky compression/tension bar and light gas gun. High-speed X-ray images and X-ray diffraction can be obtained simultaneously. The effectiveness of these new experimental capabilities is verified via impact on various material systems, demonstrating in-situ image analysis inside of the material systems during loading rates commonly encountered in high-rate deformation environments, such as high-speed machining, vehicle collision, and blast/impact.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/wayne-20-may-2022",
+        "teaser": null
+      },{
+        "title": "Corrosion: An Interdisciplinary Approach (Third KPA lecture) (25/05/22)",
+        "excerpt":"Speaker and Affliation:  Prof. V.A. Ravi  Professor, Department of Chemical and Materials Engineering,  California State Polytechnic University, Pomona (Cal Poly Pomona)   Biography  Dr. Vilupanur A. Ravi is a Professor in the Department of Chemical and Materials Engineering at the California State Polytechnic University, Pomona (Cal Poly Pomona), USA. He is currently the K. P. Abraham Visiting Chair Professor in the Department of Materials Engineering at the Indian Institute of Science. He is an alumnus of the Institute, having obtained his B.E. in Metallurgy with distinction, followed by MS and PhD degrees from the Ohio State University. His research interests are in the areas of corrosion, high temperature materials/coatings and materials processing. His work has been recognized through several awards and honors including the NACE Technical Achievement Award, and Fellowships in several organizations including the National Academy of Inventors, ASM International, and NACE International. He is a registered Professional Engineer (PE) in California, a Chartered Engineer (CEng) in the UK and a European Engineer (Eur Ing).   When?  25th May, 2022 (Wednusday), 03:00 PM (India Standard Time)   Location  Department of Materials Engineering, KPA auditorium   Abstract  Corrosion is a phenomenon that affects metals and metallic alloys in different ways depending upon the environmental conditions. Corrosion science and engineering is a truly interdisciplinary endeavor that involves knowledge and expertise in a broad range of diverse fields. In this talk, I will outline how economics, history, chemistry, electrochemistry, electronics, metallurgy and materials science all play a role in motivating, informing, understanding, quantifying and dealing with corrosion. Forms of corrosion and materials selection will be included as time permits. Examples will be provided to illustrate concepts.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ravi-26-may-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Ms. Mitta Divya (30/05/22)",
+        "excerpt":"Thesis title:  “Printed and low temperature processed oxide electronics with superior electrical performance and mechanical reliability”   Faculty advisor(s):  Prof. Subho Dasgupta   When?  30th May, 2022 (Monday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/divya-30-may-2022",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -646,48 +688,6 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Nilawar Sagar Ram (05/05/22)",
-        "excerpt":"Thesis title:  Cerium oxide-based degradable polymer nanocomposites for bone tissue engineering   Faculty advisor(s):  Prof. Kaushik Chatterjee   When?  5th May, 2022 (Thursday), 03:00 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/nilawar-05-may-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Shailendra Kumar Verma (17/05/22)",
-        "excerpt":"Thesis title:  Novel L1_2 precipitate hardened Co-base superalloys   Faculty advisor(s):  Prof. S. Karthikeyan and Prof. T. A. Abinandanan   When?  17th May, 2022 (Tuesday), 03:30 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/shailendra-17-may-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. Devansh Sharma (18/05/22)",
-        "excerpt":"Thesis title:  PDMS based Nanocomposite for EMI Shielding Applications   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  18th May, 2022 (Wednesday), 02:00 PM (India Standard Time)   Location  KPA Auditorium, Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/devansh-18-may-2022",
-        "teaser": null
-      },{
-        "title": "Surface Modification Using Pack Cementation Processes (20/05/22)",
-        "excerpt":"Speaker and Affliation:  Prof. V.A. Ravi  Professor, Department of Chemical and Materials Engineering,  California State Polytechnic University, Pomona (Cal Poly Pomona)   Biography  Dr. Vilupanur A. Ravi is a Professor in the Department of Chemical and Materials Engineering at the California State Polytechnic University, Pomona (Cal Poly Pomona), USA. He is currently the K. P. Abraham Visiting Chair Professor in the Department of Materials Engineering at the Indian Institute of Science. He is an alumnus of the Institute, having obtained his B.E. in Metallurgy with distinction, followed by MS and PhD degrees from the Ohio State University. His research interests are in the areas of corrosion, high temperature materials/coatings and materials processing. His work has been recognized through several awards and honors including the NACE Technical Achievement Award, and Fellowships in several organizations including the National Academy of Inventors, ASM International, and NACE International. He is a registered Professional Engineer (PE) in California, a Chartered Engineer (CEng) in the UK and a European Engineer (Eur Ing).   When?  20th May, 2022 (Friday), 03:00 PM (India Standard Time)   Location  Department of Materials Engineering, KPA auditorium   Abstract  Halide activated pack cementation is a versatile and economical process of surface modification applicable to a broad range of metallic substrates, with nickel and iron-based alloys being the most common. The alloy surfaces can be engineered for resistance to corrosion, wear, erosion, etc., for service in demanding environments, e.g., those involving high temperature oxidation, accelerated corrosion under fused salt films, etc. If the fundamentals are well understood, the coating process can be controlled to obtain the desired final composition and microstructure. The in -situ generation of halide vapor species inside the pack with subsequent transport, surface reactions and solid-state diffusion are all important phenomena that need attention to achieve optimal coating conditions. In this talk, I will review the halide-activated pack cementation process; discuss relevant thermodynamics and kinetics, and present examples from our work.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/ravi-20-may-2022",
-        "teaser": null
-      },{
-        "title": "High-speed X-ray Visualization of Impact Damage and Failure (20/05/22)",
-        "excerpt":"Speaker and Affliation:  Wayne Chen  Reilly Professor of AAE and MSE,   Purdue University, West Lafayette, IN   Biography  Professor Wayne Chen received his Ph.D. in Aeronautics at California Institute of Technology in 1995 under Professor G. Ravichandran. He is currently Reilly Professor of Aeronautics, Astronautics and Materials Engineering, and Professor of Mechanical Engineering (by courtesy) at Purdue University, West Lafayette, IN, USA. His research interests are in dynamic experimental technique development and dynamic material characterization. The research results from his group have been published in a book and over 230 journal articles. He is a Fellow of American Society of Mechanical Engineers, a Fellow of Society for Experimental Mechanics, and an Associate Fellow of American Institute of Aeronautics and Astronautics. His recent awards include Honorary Doctor of Science in Technology from Tampere University in Finland (2017) and Elmer F. Bruhn Award for Excellence in Teaching at Purdue University (2018).   When?  20th May, 2022 (Friday), 06:00 PM (India Standard Time)   Mode  Microsoft Teams Meet-up   Abstract  For materials in impact applications, the failure processes can be a critical aspect in their impact resistance. Thus, it is desired to track the damage initiation and evolution in real time during the dynamic deformation of the specimens, which was not possible except for a few transparent materials under high-speed imaging. Over the past decade, we integrated the high-speed X-ray imaging capabilities present at the Advanced Photon Source beamline 32 ID-B (Argonne National Laboratory, Argonne, IL, USA) with the high-rate loading offered by the Kolsky compression/tension bar and light gas gun. High-speed X-ray images and X-ray diffraction can be obtained simultaneously. The effectiveness of these new experimental capabilities is verified via impact on various material systems, demonstrating in-situ image analysis inside of the material systems during loading rates commonly encountered in high-rate deformation environments, such as high-speed machining, vehicle collision, and blast/impact.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/wayne-20-may-2022",
-        "teaser": null
-      },{
-        "title": "Corrosion: An Interdisciplinary Approach (Third KPA lecture) (25/05/22)",
-        "excerpt":"Speaker and Affliation:  Prof. V.A. Ravi  Professor, Department of Chemical and Materials Engineering,  California State Polytechnic University, Pomona (Cal Poly Pomona)   Biography  Dr. Vilupanur A. Ravi is a Professor in the Department of Chemical and Materials Engineering at the California State Polytechnic University, Pomona (Cal Poly Pomona), USA. He is currently the K. P. Abraham Visiting Chair Professor in the Department of Materials Engineering at the Indian Institute of Science. He is an alumnus of the Institute, having obtained his B.E. in Metallurgy with distinction, followed by MS and PhD degrees from the Ohio State University. His research interests are in the areas of corrosion, high temperature materials/coatings and materials processing. His work has been recognized through several awards and honors including the NACE Technical Achievement Award, and Fellowships in several organizations including the National Academy of Inventors, ASM International, and NACE International. He is a registered Professional Engineer (PE) in California, a Chartered Engineer (CEng) in the UK and a European Engineer (Eur Ing).   When?  25th May, 2022 (Wednusday), 03:00 PM (India Standard Time)   Location  Department of Materials Engineering, KPA auditorium   Abstract  Corrosion is a phenomenon that affects metals and metallic alloys in different ways depending upon the environmental conditions. Corrosion science and engineering is a truly interdisciplinary endeavor that involves knowledge and expertise in a broad range of diverse fields. In this talk, I will outline how economics, history, chemistry, electrochemistry, electronics, metallurgy and materials science all play a role in motivating, informing, understanding, quantifying and dealing with corrosion. Forms of corrosion and materials selection will be included as time permits. Examples will be provided to illustrate concepts.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/ravi-26-may-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Ms. Mitta Divya (30/05/22)",
-        "excerpt":"Thesis title:  “Printed and low temperature processed oxide electronics with superior electrical performance and mechanical reliability”   Faculty advisor(s):  Prof. Subho Dasgupta   When?  30th May, 2022 (Monday), 04:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/divya-30-may-2022",
-        "teaser": null
       },{
         "title": "PhD Thesis Defence: Ms. Anwesha Kanjilal (01/06/22)",
         "excerpt":"Thesis title:  Effect of Length Scale on Mechanical Behavior of Sn-Cu Joints: A Mechanics and Materials Science Based Treatment   Faculty advisor(s):  Prof. Praveen Kumar   When?  1st June, 2022 (Wednesday), 3:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
