@@ -730,4 +730,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/apparao-06-jul-2022",
         "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Subham Mridha (13/07/22)",
+        "excerpt":"Thesis title:  MULTI-SCALE MODELLING OF VACANCY–GRAIN BOUNDARY INTERACTIONS   Faculty advisor(s):  Prof. S. Karthikeyan   When?  13th July, 2022 (Wednesday), 3:30 PM (India Standard Time)   Location  K.P. Abraham Auditorium  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/subham-28-jul-2022",
+        "teaser": null
       },]
