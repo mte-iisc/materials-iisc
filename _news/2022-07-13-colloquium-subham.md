@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Colloquium: Mr. Subham Mridha (13/07/22)"
-permalink: /colloquium/subham-28-jul-2022
+permalink: /colloquium/subham-13-jul-2022
 ---
 ### Thesis title:
 MULTI-SCALE MODELLING OF VACANCY–GRAIN BOUNDARY INTERACTIONS
