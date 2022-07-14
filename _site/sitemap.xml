@@ -556,9 +556,6 @@
 <loc>https://materials.iisc.ac.in/iiscjournal</loc>
 </url>
 <url>
-<loc>https://materials.iisc.ac.in/</loc>
-</url>
-<url>
 <loc>https://materials.iisc.ac.in/faculty/jacob</loc>
 </url>
 <url>
@@ -664,6 +661,10 @@
 <url>
 <loc>https://materials.iisc.ac.in/components/bootstrap-calendar/tmpls/year.html</loc>
 <lastmod>2021-12-02T12:57:16+05:30</lastmod>
+</url>
+<url>
+<loc>https://materials.iisc.ac.in/</loc>
+<lastmod>2022-07-14T12:45:00+05:30</lastmod>
 </url>
 <url>
 <loc>https://materials.iisc.ac.in/pdfs/Check-Sheet-for-TA-claim.pdf</loc>
