@@ -48,7 +48,8 @@ classes: wide
 # Honorary Faculty
 
 | <img src="{{ site.baseurl }}/assets/images/faculty/db.jpg" width=120px>    |  Dipankar Banerjee <br> Honorary Professor <br> dbanerjee[at]iisc[dot]ac[dot]in <br> +91 80 2293 2558 <br> <a href="https://materials.iisc.ac.in/~dbanerjee/" target="_blank">Group Website</a>    | Quantitative and predictive understanding of materials development <br>Engineering materials                |
-| <img src="{{ site.baseurl }}/assets/images/faculty/Jayaram.jpg" width=120px>    |  Vikram Jayaram <br> Honorary Professor <br> qjayaram[at]iisc[dot]ac[dot]in <br> +91 80 2293 3243 <br> <a href="https://materials.iisc.ac.in/~qjayaram/" target="_blank">Group Website</a>    | Development of small scale techniques<br>Deformation, creep and fracture of coatings<br>High temperature systems                   |
+| <img src="{{ site.baseurl }}/assets/images/faculty/Jayaram.jpg" width=120px>    |  Vikram Jayaram <br> Honorary Professor <br> qjayaram{at]iisc[dot]ac[dot]in <br> +91 80 2293 3243 <br> <a href="https://materials.iisc.ac.in/~qjayaram/" target="_blank">Group Website</a>    | Development of small scale techniques<br>Deformation, creep and fracture of coatings<br>High temperature systems                |
+
 <br>
 
 # Inspire Faculty
