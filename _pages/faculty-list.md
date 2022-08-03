@@ -32,7 +32,6 @@ classes: wide
 | <img src="{{ site.baseurl }}/assets/images/faculty/subodh.jpg" width=120px>    |  Subodh Kumar <br> Professor <br> skumar[at]iisc[dot]ac[dot]in <br> +91 80 2293 3239 <br> <a href="{{ site.baseurl }}/faculty/subodh"> Personal Website</a>    | Mechanical behaviour of Materials <br> Processing of light materials &amp; composites <br> Corrosion                    |
 | <img src="{{ site.baseurl }}/assets/images/faculty/surendra.jpg" width=120px>    |  Surendra Kumar M.<br> Assistant Professor <br> skmakineni[at]iisc[dot]ac[dot]in <br> +91 80 2293 3706 <br> <a href="https://alloy3dlab.com" target="_blank">Group Website</a>    | Local structure &amp; composition effects on creep <br> Superalloys (Co- and Ni-based)<br> Light metal alloys (Al- and Mg-based)<br> Cu-based, high entropy alloys                    |
 | <img src="{{ site.baseurl }}/assets/images/faculty/bose.jpg" width=120px>    |  Suryasarathi Bose <br> Associate Professor <br> sbose[at]iisc[dot]ac[dot]in <br> +91 80 2293 3407 <br> <a href="https://sites.google.com/site/polymerprocessinggroup/" target="_blank">Group Website</a>    | Polymer composites <br> Sustainable water remediation <br> Advanced materials for EMI shielding applications <br> Materials Characterization                    |
-| <img src="{{ site.baseurl }}/assets/images/faculty/Jayaram.jpg" width=120px>    |  Vikram Jayaram <br> Professor <br> qjayaram[at]iisc[dot]ac[dot]in <br> +91 80 2293 3243 <br> <a href="https://materials.iisc.ac.in/~qjayaram/" target="_blank">Group Website</a>    | Development of small scale techniques<br>Deformation, creep and fracture of coatings<br>High temperature systems                   |
 
 <br>
 
@@ -49,7 +48,7 @@ classes: wide
 # Honorary Faculty
 
 | <img src="{{ site.baseurl }}/assets/images/faculty/db.jpg" width=120px>    |  Dipankar Banerjee <br> Honorary Professor <br> dbanerjee[at]iisc[dot]ac[dot]in <br> +91 80 2293 2558 <br> <a href="https://materials.iisc.ac.in/~dbanerjee/" target="_blank">Group Website</a>    | Quantitative and predictive understanding of materials development <br>Engineering materials                |
-
+| <img src="{{ site.baseurl }}/assets/images/faculty/Jayaram.jpg" width=120px>    |  Vikram Jayaram <br> Honorary Professor <br> qjayaram[at]iisc[dot]ac[dot]in <br> +91 80 2293 3243 <br> <a href="https://materials.iisc.ac.in/~qjayaram/" target="_blank">Group Website</a>    | Development of small scale techniques<br>Deformation, creep and fracture of coatings<br>High temperature systems                   |
 <br>
 
 # Inspire Faculty
