@@ -11,6 +11,80 @@ toc_icon: calendar-alt
 List of students on this page sorted in reverse chronology and according to the program in which they are enrolled. <br>
 
 ## Ph.D Students
+### 2022
+<table>
+<tbody>
+<tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>SHIBAM KARMAKAR</td><td>Ashok M Raichur</td><td>shibamk</td></tr>
+<tr><td>SITA CHOUDHARY</td><td>Satyam Suwas</td><td>sitac</td></tr>
+<tr><td>RAINEESH BABU K P</td><td>Praveen Kumar</td><td>raineeshkp</td></tr>
+<tr><td>ANKUR SRIVASTAVA</td><td>Aloke Paul</td><td>sankur</td></tr>
+<tr><td>PANCHAL ASHUTOSH CHETAN</td><td>Praveen Ramamurthy</td><td>ashutoshpanc</td></tr>
+<tr><td>SAMVIDHA DAS</td><td>Ashok M Raichur</td><td>samvidhadas</td></tr>
+<tr><td>SOURAV MAJI</td><td>Surendra Kumar Makineni</td><td>souravmaji</td></tr>
+<tr><td>KONKATI CHETHAN</td><td>Ankur Chauhan</td><td>chethank</td></tr>
+<tr><td>YASH BAJPAI</td><td>Praveen Ramamurthy</td><td>yashbajpai</td></tr>
+<tr><td>SANDEEP TRIPATHI</td><td>Suryasarathi Bose</td><td>tsandeep</td></tr>
+<tr><td>SOUVIK DAS</td><td>Rajeev Ranjan</td><td>souvikdas</td></tr>
+<tr><td>SURAJ KUMAR</td><td>Vikram Jayaram</td><td>surajkumar12</td></tr>
+<tr><td>MONIKA</td><td>Rajeev Ranjan</td><td>monikayadav</td></tr>
+<tr><td>AMARAKONDA SIRI CHANDANA</td><td>Subho Dasgupta</td><td>amarakondac</td></tr>
+<tr><td>AKSHAY YADAV</td><td>Chandan Srivastava</td><td>akshayyadav</td></tr>
+<tr><td>NIPUN JAIN</td><td>Kaushik Chatterjee</td><td>nipunjain</td></tr>
+<tr><td>SAMIR MANDAL</td><td>Suryasarathi Bose</td><td>msamir</td></tr>
+<tr><td>ADEM AHMED ALIY</td><td>Abhik N Choudhury</td><td>ademaliy</td></tr>
+<tr><td>ANJALI GAWANDE</td><td>Praveen Kumar</td><td>anjali17158</td></tr>
+<tr><td>NEERAJ KUMAR</td><td>Satyam Suwas</td><td>neerajkumar1</td></tr>
+<tr><td>SHUBHAM SISODIA</td><td>Ankur Chauhan</td><td>shubhamsisod</td></tr>
+<tr><td>ASTHA KHANDELWAL</td><td>Bhagwati Prasad</td><td>asthak</td></tr>
+<tr><td>PIYUSH VISHWAKARMA</td><td>Chandan Srivastava</td><td>piyushv</td></tr>
+<tr><td>AMIT MALAKAR</td><td>Suryasarathi Bose</td><td>amitmalakar</td></tr>
+<tr><td>SURYAKANTA MONDAL</td><td>Bhagwati Prasad</td><td>suryakantam</td></tr>
+<tr><td>NIKHIL SUMAN</td><td>Vikram Jayaram</td><td>nikhilsuman</td></tr>
+<tr><td>DEBARGHA PAUL</td><td>Abhik N Choudhury</td><td>debarghapaul</td></tr>
+<tr><td>MANISH CHANDRA BISHT</td><td>Govind S Gupta</td><td>manishc</td></tr>
+<tr><td>ALAKA T PANICKER</td><td>Kaushik Chatterjee</td><td>alakap</td></tr>
+<tr><td>ISMAIL KAMIL WORKE</td><td>Aloke Paul</td><td>ismailkamil</td></tr>
+</tbody>
+</table>
+
+### 2021
+<table>
+<tbody>
+<tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>SHIBAM KARMAKAR</td><td>Ashok M Raichur</td><td>shibamk</td></tr>
+<tr><td>SITA CHOUDHARY</td><td>Satyam Suwas</td><td>sitac</td></tr>
+<tr><td>RAINEESH BABU K P</td><td>Praveen Kumar</td><td>raineeshkp</td></tr>
+<tr><td>ANKUR SRIVASTAVA</td><td>Aloke Paul</td><td>sankur</td></tr>
+<tr><td>PANCHAL ASHUTOSH CHETAN</td><td>Praveen Ramamurthy</td><td>ashutoshpanc</td></tr>
+<tr><td>SAMVIDHA DAS</td><td>Ashok M Raichur</td><td>samvidhadas</td></tr>
+<tr><td>SOURAV MAJI</td><td>Surendra Kumar Makineni</td><td>souravmaji</td></tr>
+<tr><td>KONKATI CHETHAN</td><td>Ankur Chauhan</td><td>chethank</td></tr>
+<tr><td>YASH BAJPAI</td><td>Praveen Ramamurthy</td><td>yashbajpai</td></tr>
+<tr><td>SANDEEP TRIPATHI</td><td>Suryasarathi Bose</td><td>tsandeep</td></tr>
+<tr><td>SOUVIK DAS</td><td>Rajeev Ranjan</td><td>souvikdas</td></tr>
+<tr><td>SURAJ KUMAR</td><td>Vikram Jayaram</td><td>surajkumar12</td></tr>
+<tr><td>MONIKA</td><td>Rajeev Ranjan</td><td>monikayadav</td></tr>
+<tr><td>AMARAKONDA SIRI CHANDANA</td><td>Subho Dasgupta</td><td>amarakondac</td></tr>
+<tr><td>AKSHAY YADAV</td><td>Chandan Srivastava</td><td>akshayyadav</td></tr>
+<tr><td>NIPUN JAIN</td><td>Kaushik Chatterjee</td><td>nipunjain</td></tr>
+<tr><td>SAMIR MANDAL</td><td>Suryasarathi Bose</td><td>msamir</td></tr>
+<tr><td>ADEM AHMED ALIY</td><td>Abhik N Choudhury</td><td>ademaliy</td></tr>
+<tr><td>ANJALI GAWANDE</td><td>Praveen Kumar</td><td>anjali17158</td></tr>
+<tr><td>NEERAJ KUMAR</td><td>Satyam Suwas</td><td>neerajkumar1</td></tr>
+<tr><td>SHUBHAM SISODIA</td><td>Ankur Chauhan</td><td>shubhamsisod</td></tr>
+<tr><td>ASTHA KHANDELWAL</td><td>Bhagwati Prasad</td><td>asthak</td></tr>
+<tr><td>PIYUSH VISHWAKARMA</td><td>Chandan Srivastava</td><td>piyushv</td></tr>
+<tr><td>AMIT MALAKAR</td><td>Suryasarathi Bose</td><td>amitmalakar</td></tr>
+<tr><td>SURYAKANTA MONDAL</td><td>Bhagwati Prasad</td><td>suryakantam</td></tr>
+<tr><td>NIKHIL SUMAN</td><td>Vikram Jayaram</td><td>nikhilsuman</td></tr>
+<tr><td>DEBARGHA PAUL</td><td>Abhik N Choudhury</td><td>debarghapaul</td></tr>
+<tr><td>MANISH CHANDRA BISHT</td><td>Govind S Gupta</td><td>manishc</td></tr>
+<tr><td>ALAKA T PANICKER</td><td>Kaushik Chatterjee</td><td>alakap</td></tr>
+<tr><td>ISMAIL KAMIL WORKE</td><td>Aloke Paul</td><td>ismailkamil</td></tr>
+</tbody>
+</table>
+
 ### 2020
 <table>
 <tbody>
@@ -186,6 +260,78 @@ List of students on this page sorted in reverse chronology and according to the 
 </table>
 
 ## M.Tech Students
+### 2022
+<table>
+<tbody>
+<tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>GURU PRASANNA JENA</td><td>Abhik N Choudhury</td><td>guruprasanna</td></tr>
+<tr><td>BORA SAI PRAVEEN</td><td>Abhik N Choudhury</td><td>praveenbora</td></tr>
+<tr><td>KINTHADA PAVAN CHANDU</td><td>T A Abinandanan</td><td>kinthadac</td></tr>
+<tr><td>BATTULA VEERA VENKATANAGA DURGA BHAVANI</td><td>T A Abinandanan</td><td>bhavanib</td></tr>
+<tr><td>KOMMULA SATWIK</td><td>Ankur Chauhan</td><td>ksatwik</td></tr>
+<tr><td>LALDAWMSANG PULAMTE</td><td>Ankur Chauhan</td><td>laldawmsangp</td></tr>
+<tr><td>JAIN MUKESH RAJENDRA</td><td>Ashok Raichur</td><td>mukeshjain</td></tr>
+<tr><td>ANKIT KUMAR GUPTA</td><td>Rajeev Ranjan</td><td>ankitgk</td></tr>
+<tr><td>ARNAB PYNE</td><td>Bhagwati Prasad</td><td>arnabpyne</td></tr>
+<tr><td>SYED ABDUR RAHMAN</td><td>Bhagwati Prasad</td><td>syedrahman</td></tr>
+<tr><td>MUNSHI PAVEL ARIF</td><td>Chandan Srivastava</td><td>arifpavel</td></tr>
+<tr><td>SUBHAM CHATTORAJ</td><td>Chandan Srivastava</td><td>subhamc</td></tr>
+<tr><td>SHREYA KHARE</td><td>Govind S Gupta</td><td>shreyakhare</td></tr>
+<tr><td>KONDAPALLI SRAVANI</td><td>Karthikeyan S</td><td>sravanik</td></tr>
+<tr><td>DUDYALA VENKATA PRAVEEN KUMAR</td><td>Karthikeyan S</td><td>praveend</td></tr>
+<tr><td>SUDHANSHU KUMAR</td><td>Kaushik Chatterjee</td><td>sudhanshuk</td></tr>
+<tr><td>MANORANJAN KUMAR</td><td>Rajeev Ranjan</td><td>manoranjank</td></tr>
+<tr><td>DESHPANDE SHATAYU SAURABH</td><td>Praveen C Ramamurthy</td><td>shatayud</td></tr>
+<tr><td>REVGADE SACHIN VISHRAM</td><td>Praveen Kumar</td><td>revgades</td></tr>
+<tr><td>GOURANGA BEHERA</td><td>Praveen Kumar</td><td>gourangab</td></tr>
+<tr><td>HASNA SABREEN H</td><td>Subho Dasgupta</td><td>hasnah</td></tr>
+<tr><td>GAMPRAI DEVA HARSHA</td><td>Subho Dasgupta</td><td>gampraih</td></tr>
+<tr><td>BOLLA MALLIKA</td><td>Surendra Kumar Makineni</td><td>mallikabolla</td></tr>
+<tr><td>SOMANATH GOCHHAYAT</td><td>Surendra Kumar Makineni</td><td>somanathg</td></tr>
+<tr><td>HANUMANTHU SRI LEKHA</td><td>Surya Sarathi Bose</td><td>srih</td></tr>
+</tbody>
+</table>
+
+### 2021
+<table>
+<tbody>
+<tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>ANSUMAN DASH</td><td>Govind S Gupta</td><td>ansumandash</td></tr>
+<tr><td>NIKHIL CHOUDHARY</td><td>Subho Dasgupta</td><td>cnikhil</td></tr>
+<tr><td>SACHIN KUMAR</td><td>Sai Gautam Gopalakrishnan</td><td>sachink2</td></tr>
+<tr><td>DIVIK PATRE</td><td>Surendra Kumar Makineni</td><td>divikpatre</td></tr>
+<tr><td>A MAADHAV</td><td>Ankur Chauhan</td><td>maadhavanand</td></tr>
+<tr><td>SHWETANJALI MARKAM</td><td>Vikram Jayaram</td><td>shwetanjalim</td></tr>
+<tr><td>NEERU RAJAK</td><td>Bhagwati Prasad</td><td>neerurajak</td></tr>
+<tr><td>CHIRUMAMILLA  ADILAKSHMI</td><td>Sai Gautam Gopalakrishnan</td><td>adilakshmic</td></tr>
+<tr><td>ANKIT GARHWAL</td><td>Abhik N Choudhury</td><td>ankitgarhwal</td></tr>
+<tr><td>SARASWATI</td><td>Chandan Srivastava</td><td>saraswati2</td></tr>
+<tr><td>ANJALI KUMARI</td><td>Suryasarathi Bose</td><td>kanjali</td></tr>
+<tr><td>MURALIDHAR YADAV</td><td>Satyam Suwas</td><td>muralidhary</td></tr>
+<tr><td>DINESHKUMAR M</td><td>Aloke Paul</td><td>dineshkm</td></tr>
+<tr><td>MOHAN KUMAR M</td><td>Chandan Srivastava</td><td>mohanm</td></tr>
+<tr><td>ARKOPRABHO ROY</td><td>Ravi R</td><td>arkoprabhor</td></tr>
+<tr><td>MOHAMMED ZAIF</td><td>Karthikeyan Subramanian</td><td>zaifmohammed</td></tr>
+<tr><td>DIP CHAKRABORTY</td><td>Praveen Kumar</td><td>dipc</td></tr>
+<tr><td>SURAJIT BASAK</td><td>Aloke Paul</td><td>surajitbasak</td></tr>
+<tr><td>RAHUL BARHA</td><td>Padaikathan P</td><td>rahulbarha</td></tr>
+<tr><td>NICHENAMETLA JAI SAI</td><td>Ankur Chauhan</td><td>nichenametla</td></tr>
+<tr><td>SHUBHAM NAGAR</td><td>Surendra Kumar Makineni</td><td>shubhamnagar</td></tr>
+<tr><td>AKHILESH KUMAR</td><td>Abinandanan T A</td><td>kakhilesh</td></tr>
+<tr><td>CHINTADA GUNA SAI</td><td>Abhik N Choudhury</td><td>chintadaguna</td></tr>
+<tr><td>ARIJIT BISWAS</td><td>Kaushik Chatterjee</td><td>arijitbiswas</td></tr>
+<tr><td>BHASKARJYOTI DAS</td><td>Satyam Suwas</td><td>dbhaskarjyot</td></tr>
+<tr><td>ATCHUTANNA VIDYAADHARI</td><td>Padaikathan P</td><td>atchutannav</td></tr>
+<tr><td>CHANDANAPALLI DINDEESWARA KUMAR</td><td>Kaushik Chatterjee</td><td>dindeeswarac</td></tr>
+<tr><td>ANNEY KUMAR SINHA</td><td>Subodh Kumar</td><td>anneysinha</td></tr>
+<tr><td>VED PARKASH TIWARI</td><td>Kaushik Chatterjee</td><td>vedtiwari</td></tr>
+<tr><td>ARYAN KUMAR</td><td>Avadhani G S</td><td>aryankumar</td></tr>
+<tr><td>JITHUNLAL S</td><td>Praveen Ramamurthy</td><td>jithunlals</td></tr>
+<tr><td>ASHUTOSH KUMAR</td><td>Praveen Kumar</td><td>ashutoshkuma</td></tr>
+<tr><td>AJAY KUMAR DAS</td><td>Rajeev Ranjan</td><td>ajaydas</td></tr>
+</tbody>
+</table>
+
 ### 2020
 <table>
 <tbody>
