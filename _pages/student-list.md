@@ -11,6 +11,7 @@ toc_icon: calendar-alt
 List of students on this page sorted in reverse chronology and according to the program in which they are enrolled. <br>
 
 ## Ph.D Students
+
 ### 2022
 <table>
 <tbody>
@@ -26,7 +27,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Garje Sonali Devidas</td><td>Ashok M. Raichur</td><td>sonaligarje</td></tr>
 <tr><td>Javeed Ahmad Dar</td><td>Sai Gautam Gopalakrishnan</td><td>javeeddar</td></tr>
 <tr><td>Sougat Purohit</td><td>Sai Gautam Gopalakrishnan</td><td>sougatp</td></tr>
-<tr><td>Bright Mweene</td><td>Ankur Chauhan</td><td>brightmweene@hotmail.com</td</tr>
+<tr><td>Bright Mweene</td><td>Ankur Chauhan</td><td>brightmweene_at_hotmail.com</td</tr>
 <tr><td>Boddeda sai kumar </td><td>Sachin R. Rondiya</td><td>boddedakumar</td></tr>
 </tbody>
 </table>
