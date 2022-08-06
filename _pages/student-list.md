@@ -12,39 +12,23 @@ List of students on this page sorted in reverse chronology and according to the 
 
 ## Ph.D Students
 ### 2022
+
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>SHIBAM KARMAKAR</td><td>Ashok M Raichur</td><td>shibamk</td></tr>
-<tr><td>SITA CHOUDHARY</td><td>Satyam Suwas</td><td>sitac</td></tr>
-<tr><td>RAINEESH BABU K P</td><td>Praveen Kumar</td><td>raineeshkp</td></tr>
-<tr><td>ANKUR SRIVASTAVA</td><td>Aloke Paul</td><td>sankur</td></tr>
-<tr><td>PANCHAL ASHUTOSH CHETAN</td><td>Praveen Ramamurthy</td><td>ashutoshpanc</td></tr>
-<tr><td>SAMVIDHA DAS</td><td>Ashok M Raichur</td><td>samvidhadas</td></tr>
-<tr><td>SOURAV MAJI</td><td>Surendra Kumar Makineni</td><td>souravmaji</td></tr>
-<tr><td>KONKATI CHETHAN</td><td>Ankur Chauhan</td><td>chethank</td></tr>
-<tr><td>YASH BAJPAI</td><td>Praveen Ramamurthy</td><td>yashbajpai</td></tr>
-<tr><td>SANDEEP TRIPATHI</td><td>Suryasarathi Bose</td><td>tsandeep</td></tr>
-<tr><td>SOUVIK DAS</td><td>Rajeev Ranjan</td><td>souvikdas</td></tr>
-<tr><td>SURAJ KUMAR</td><td>Vikram Jayaram</td><td>surajkumar12</td></tr>
-<tr><td>MONIKA</td><td>Rajeev Ranjan</td><td>monikayadav</td></tr>
-<tr><td>AMARAKONDA SIRI CHANDANA</td><td>Subho Dasgupta</td><td>amarakondac</td></tr>
-<tr><td>AKSHAY YADAV</td><td>Chandan Srivastava</td><td>akshayyadav</td></tr>
-<tr><td>NIPUN JAIN</td><td>Kaushik Chatterjee</td><td>nipunjain</td></tr>
-<tr><td>SAMIR MANDAL</td><td>Suryasarathi Bose</td><td>msamir</td></tr>
-<tr><td>ADEM AHMED ALIY</td><td>Abhik N Choudhury</td><td>ademaliy</td></tr>
-<tr><td>ANJALI GAWANDE</td><td>Praveen Kumar</td><td>anjali17158</td></tr>
-<tr><td>NEERAJ KUMAR</td><td>Satyam Suwas</td><td>neerajkumar1</td></tr>
-<tr><td>SHUBHAM SISODIA</td><td>Ankur Chauhan</td><td>shubhamsisod</td></tr>
-<tr><td>ASTHA KHANDELWAL</td><td>Bhagwati Prasad</td><td>asthak</td></tr>
-<tr><td>PIYUSH VISHWAKARMA</td><td>Chandan Srivastava</td><td>piyushv</td></tr>
-<tr><td>AMIT MALAKAR</td><td>Suryasarathi Bose</td><td>amitmalakar</td></tr>
-<tr><td>SURYAKANTA MONDAL</td><td>Bhagwati Prasad</td><td>suryakantam</td></tr>
-<tr><td>NIKHIL SUMAN</td><td>Vikram Jayaram</td><td>nikhilsuman</td></tr>
-<tr><td>DEBARGHA PAUL</td><td>Abhik N Choudhury</td><td>debarghapaul</td></tr>
-<tr><td>MANISH CHANDRA BISHT</td><td>Govind S Gupta</td><td>manishc</td></tr>
-<tr><td>ALAKA T PANICKER</td><td>Kaushik Chatterjee</td><td>alakap</td></tr>
-<tr><td>ISMAIL KAMIL WORKE</td><td>Aloke Paul</td><td>ismailkamil</td></tr>
+<tr><td> Siddhesh Sadashiv Rege</td><td>Suryasarathi Bose</td><td>siddheshrege</td></tr>
+<tr><td>Durgesh Rambhau Borkar </td><td>Sachin R. Rondiya</td><td>durgeshb</td></tr>
+<tr><td>Kaushal Tiwari </td><td>Bhagwati Prasad</td><td>kaushalt</td></tr>
+<tr><td>Akshay Sunil Salvi</td><td>Subodh Kumar & Suryasarathi Bose (Co-PI)</td><td>akshaysunil</td></tr>
+<tr><td>Shubham Karmokar</td><td>Rajeev Ranjan</td><td>kpshubham</td></tr>
+<tr><td>Bavithra M</td><td>Subodh Kumar</td><td>bavithram</td></tr>
+<tr><td>Akash Basu </td><td>Prosenjit Das</td><td>akashbasu</td></tr>
+<tr><td>Tadge Tejaswini Somnath</td><td>Ashok M. Raichur</td><td>tadget</td></tr>
+<tr><td>Garje Sonali Devidas</td><td>Ashok M. Raichur</td><td>sonaligarje</td></tr>
+<tr><td>Javeed Ahmad Dar</td><td>Sai Gautam Gopalakrishnan</td><td>javeeddar</td></tr>
+<tr><td>Sougat Purohit</td><td>Sai Gautam Gopalakrishnan</td><td>sougatp</td></tr>
+<tr><td>Bright Mweene</td><td>Ankur Chauhan</td><td>brightmweene@hotmail.com</td</tr>
+<tr><td>Boddeda sai kumar </td><td>Sachin R. Rondiya</td><td>boddedakumar</td></tr>
 </tbody>
 </table>
 
