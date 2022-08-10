@@ -742,4 +742,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/kumar-26-jul-2022",
         "teaser": null
+      },{
+        "title": "The Joy of Experimenting (21/08/22)",
+        "excerpt":"The Chairman &amp; Members of The Indian Institute of Metals Bangalore Chapter  &amp;  The Chairman, Department of Materials Engineering, IISc, Bangalore    Cordially invite you to the Thirty Eighth   PROF. BRAHM PRAKASH MEMORIAL LECTURE   Speaker and Affliation:  Prof. B S Murty  Director,   Indian Institute of Technology Hyderabad,   Kandi, Sangareddy-502284   When?  21st August, 2022 (Sunday), 04:00 PM (India Standard Time)   Location  Faculty Hall, Indian Institute of Science, Bangalore   Prof. G K Ananthasuresh  Dean, Mechanical Sciences Division, Indian Institute of Science, Bengaluru    has kindly consented to preside over the lecture  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/murty-21-aug-2022",
+        "teaser": null
       },]
