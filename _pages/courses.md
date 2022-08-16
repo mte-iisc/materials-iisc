@@ -41,10 +41,10 @@ Students with non-materials background enrolled in the research programs must cr
 <td><a href="{{ site.baseurl }}/courses#mt-202-aug-30">Thermodynamics and Kinetics</a></td>
 </tr>
 <tr>
-<td>MT 207</td>
-<td>2:0</td>
+<td>MT 213</td>
+<td>3:0</td>
 <td>Aug</td>
-<td><a href="{{ site.baseurl }}/courses#mt-207-aug-30">Introduction to Electronic Properties of Materials</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-213-aug-30">Electronic Properties of Materials</a></td>
 </tr>
 <tr>
 <td>MT 217</td>
@@ -282,19 +282,6 @@ References:
 
 -------------------------------------
 
-### MT 207 (AUG) 2:0 
-<b>Introduction to Electronic Properties of Materials </b>Drude model, its success and failure, energy bands in crystals, basic quantum mechanics, band diagrams, Fermi function, density of states, electrical conduction in metals, semiconductors, metal oxides, amorphous semiconductors, introduction to magnetism and superconductivity. 
-Instructor: Subho Dasgupta 
-References:    
-<ul>
-<li>R. E. Hummel, Electronic Properties of Materials</li>
-<li>S. O. Kasap, Principles of Electronic Materials and Devices</li> 
-<li>D. Jiles, Introduction to the electronic properties of materials</li>
-</ul>
-
--------------------------------------
-
-
 ### MT 208 (JAN) 3:0 
 <b>Diffusion in Solids</b>
 
@@ -329,6 +316,7 @@ References:
 </ul>
 
 -------------------------------------
+
 ### MT 211 (Aug) 3:0 
 <b>Magnetism, Magnetic Materials and Devices</b>
 A brief review of the fundamentals of solid-state physics; Classical and quantum mechanical pictures of magnetism; spin orbit coupling, crystal field environments, diamagnetism, paramagnetism, ferromagnetism, antiferromagnetism, dipolar and exchange interactions, magnetic domains, magnetic anisotropy, magnetostriction, superparamagnetism, biomagnetism, and spin glass  
@@ -342,6 +330,19 @@ Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetoo
 <li>B. D. Cullity and C.D. Graham, Introduction to Magnetic Materials; </li>
 <li>K. M. Krishnan, Fundamental and Application of Magnetic Materials </li>
 </ul>
+
+-------------------------------------
+
+### MT 213 (AUG) 2:0 
+<b>Electronic Properties of Materials </b>Introduction to electronic properties; Drude model, its success and failure; energy bands in crystals; density of states; electrical conduction in metals; semiconductors; semiconductor devices; p-n junctions, LEDs, transistors; electrical properties of polymers, ceramics, metal oxides, amorphous semiconductors; dielectric and ferroelectrics; polarization theories; optical, magnetic and thermal properties of materials; application of electronic materials: microelectronics, optoelectronics and magnetoelectrics.
+Instructor: Subho Dasgupta 
+References:    
+<ul>
+<li>R. E. Hummel, Electronic Properties of Materials</li>
+<li>S. O. Kasap, Principles of Electronic Materials and Devices</li> 
+<li>D. Jiles, Introduction to the electronic properties of materials</li>
+</ul>
+
 -------------------------------------
 
 ### MT 214 (JAN) 3:0
@@ -363,6 +364,7 @@ Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetoo
 </ul>
 
 -------------------------------------
+
 ### MT 217 (Aug)  3:0   
 <b>Computational  Mathematics for Materials Engineers</b>
 Vector and tensor algebra; Basics of linear algebra and matrix inversion methods; Coordinate transformations methods; Optimization methods, Probability and statistics; Numerical methods: Concepts of discretization in space/time, implicit, explicit; Solution to ODEs(Euler, Heun, Runge-Kutta methods), PDEs (Elliptic, Parabolic, Hyperbolic), solutions to Laplace equation and applications, transient diffusion and wave equation; Discretization methods (FDM, FVM, FEM);  iterative solution schemes Jacobi, Gauss-Seidel, ADI, Multigrid, Fourier-spectral schemes; Root finding methods, interpolation, curve-fitting, regression; Special functions: Bessel, Legendre, Fourier, Laguerre, etc; Computational tools for the solution to all the above problems will be discussed along with canonical examples from materials problems. Software tools, based on python and/or MATLAB, will also be introduced in the course.   Instructor: A N Choudhury and Sai Gautam G 
@@ -458,7 +460,6 @@ References:
 </ul>
 
 -------------------------------------
-
 
 ### MT 241 (AUG) 3:0
 <b>Structure and Characterization of Materials</b>
@@ -571,7 +572,6 @@ References:
 <li>M.C. Flemings: Solidification Processing , McGraw Hill, 1974.</li>
 </ul>
 
-
 -------------------------------------
 
 ### MT 256 (JAN) 3:0
@@ -607,7 +607,6 @@ References:
 </ul>
 
 -------------------------------------
-
 
 ### MT 261 (Aug) 3:0
 <b>Organic Electronics</b>
@@ -645,7 +644,6 @@ References:
 <li>T.J. Pinnavia and G.W. Beall (Editors): Polymer-Clay Nanocomposites, Wiley, New York 2000.</li>
 <li>P.M. Ajayan, L.S.  Schadler and P.V. Braun: Nanocomposite Science &Technology, Wiley-VCH, Weinheim, 2003.</li>
 </ul>
-
 
 -------------------------------------
 
