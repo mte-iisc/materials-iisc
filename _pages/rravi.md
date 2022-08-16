@@ -50,7 +50,7 @@ email: rravi_at_iisc.ac.in<br>
 
 ## Publications
 <ol reversed="">
-<li>Prafull Pandey, Mangesh V. Pantawane, Nithin Baler, Raju Ravi, Surendra Kumar Makineni, Kamanio Chattopadhyay, Effect of Cr addition on the Gamma' strengthened CoNiCrAlMo compositionally complex alloy,  Journal of Materials Science and Technology (Accepted on 11 Aug 2022).</li>
+<li>Prafull Pandey, Mangesh V. Pantawane, Nithin Baler, Raju Ravi, Surendra Kumar Makineni, Kamanio Chattopadhyay, Effect of Cr addition on the Gamma' strengthened CoNiCrAlMo compositionally complex alloy,  Journal of Materials Science and Technology. https://doi.org/10.1080/02670836.2022.2114615.</li>
 <li>K. Monisha, S.M. Shariff, Ravi Raju, J. Manonmani and Senthilselvan Jayaraman; Titanium boride and titanium silicide phase formation by high power diode laser alloying of B4C and SiC particles with Ti: Microstructure, hardness and wear studies, Materials Today Communications
 https://doi.org/10.1016/j.mtcomm.2022.103741.</li>
 <li>Muthusamy Murugan, Kaliyaperumal Ashokkumar, M. Alagupalamuthirsolai, Aavudai Anandhi, Raju Ravi, M. K. Dhanya and Thiravidamani Sathyan, Understanding the Effects of Cardamom Cultivation on Its Local Environment Using Novel Systems Thinking Approach-the Case of Indian Cardamom Hills, Frontiers in Sustainable Food Systems, 07 April 2022 | https://doi.org/10.3389/fsufs.2022.728651.</li>
