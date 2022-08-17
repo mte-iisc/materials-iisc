@@ -635,60 +635,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/divya-30-may-2022",
         "teaser": null
       },{
-        "title": "Machining thin metallic foils",
-        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
-      },{
-        "title": "High throughput creep",
-        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
-      },{
-        "title": "Visualisation of stem cells",
-        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
-      },{
-        "title": "Inverse Blech Length",
-        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
-      },{
-        "title": "Atoms resolved by APT in 100 cubic planes",
-        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
-      },{
-        "title": "Microstructure of additively manufactured stainless steel",
-        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
-      },{
-        "title": "Micrographs of additively manufactured Ti-6Al-4V",
-        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
-      },{
-        "title": "Oxygen Concentrator developed at Indian Institute of Science",
-        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
-      },{
-        "title": "First release of phase-field software 'Microsim'",
-        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
-        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
         "title": "PhD Thesis Defence: Ms. Anwesha Kanjilal (01/06/22)",
         "excerpt":"Thesis title:  Effect of Length Scale on Mechanical Behavior of Sn-Cu Joints: A Mechanics and Materials Science Based Treatment   Faculty advisor(s):  Prof. Praveen Kumar   When?  1st June, 2022 (Wednesday), 3:00 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
@@ -743,6 +689,60 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/kumar-26-jul-2022",
         "teaser": null
       },{
+        "title": "Machining thin metallic foils",
+        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
+      },{
+        "title": "High throughput creep",
+        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
+      },{
+        "title": "Visualisation of stem cells",
+        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
+      },{
+        "title": "Inverse Blech Length",
+        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
+      },{
+        "title": "Atoms resolved by APT in 100 cubic planes",
+        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
+      },{
+        "title": "Microstructure of additively manufactured stainless steel",
+        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
+      },{
+        "title": "Micrographs of additively manufactured Ti-6Al-4V",
+        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
+      },{
+        "title": "Oxygen Concentrator developed at Indian Institute of Science",
+        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
+      },{
+        "title": "First release of phase-field software 'Microsim'",
+        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
+        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
+      },{
         "title": "PhD Thesis Colloquium: Ms. Sujata Singh (17/08/22)",
         "excerpt":"Thesis title:  Enhancement in the Corrosion Resistance of Selected High Entropy Alloys by Incorporation of Carbon Nanotubes   Faculty advisor(s):  Prof. Chandan Srivastava   When?  17th August, 2022 (Wednesday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmI0YmVhMTEtYjUxMy00NWZkLWIzYTctNmFkYTQwOTAyZTMy%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
         "tags": [],
@@ -753,5 +753,11 @@ var store = [{
         "excerpt":"The Chairman &amp; Members of The Indian Institute of Metals Bangalore Chapter  &amp;  The Chairman, Department of Materials Engineering, IISc, Bangalore    Cordially invite you to the Thirty Eighth   PROF. BRAHM PRAKASH MEMORIAL LECTURE   Speaker and Affliation:  Prof. B S Murty  Director,   Indian Institute of Technology Hyderabad,   Kandi, Sangareddy-502284   When?  21st August, 2022 (Sunday), 04:00 PM (India Standard Time)   Location  Faculty Hall, Indian Institute of Science, Bangalore   Prof. G K Ananthasuresh  Dean, Mechanical Sciences Division, Indian Institute of Science, Bengaluru    has kindly consented to preside over the lecture  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/murty-21-aug-2022",
+        "teaser": null
+      },{
+        "title": "Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022 (21/12/22)",
+        "excerpt":"To mark the completion of 75 years, the Department has planned to organize the Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022.   An Alumni Reunion is concurrently scheduled in the evening of 22 December, 2022. Sight-seeing visits are also planned on 24 December 2022.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/news/2022-12-21-platinum-jubilee-conference/",
         "teaser": null
       },]
