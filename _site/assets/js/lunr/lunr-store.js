@@ -755,6 +755,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/murty-21-aug-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Mr. K Sai Jyotheender (01/09/22)",
+        "excerpt":"Thesis title:  Correlation Between Microstructure and Corrosion Properties of Electrodeposited Ni and Zn-based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  1st September, 2022 (Thursday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdkNjE0ZDEtN2UzMC00YmQ3LWI3ZmUtMjY3YzY3MDNlOWU0%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/sai-01-sep-2022",
+        "teaser": null
+      },{
         "title": "Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022 (21/12/22)",
         "excerpt":"To mark the completion of 75 years, the Department has planned to organize the Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022.   An Alumni Reunion is concurrently scheduled in the evening of 22 December, 2022. Sight-seeing visits are also planned on 24 December 2022.  ","categories": [],
         "tags": [],
