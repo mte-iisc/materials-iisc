@@ -689,6 +689,18 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/kumar-26-jul-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Ms. Sujata Singh (17/08/22)",
+        "excerpt":"Thesis title:  Enhancement in the Corrosion Resistance of Selected High Entropy Alloys by Incorporation of Carbon Nanotubes   Faculty advisor(s):  Prof. Chandan Srivastava   When?  17th August, 2022 (Wednesday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmI0YmVhMTEtYjUxMy00NWZkLWIzYTctNmFkYTQwOTAyZTMy%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/sujata-17-aug-2022",
+        "teaser": null
+      },{
+        "title": "The Joy of Experimenting (21/08/22)",
+        "excerpt":"The Chairman &amp; Members of The Indian Institute of Metals Bangalore Chapter  &amp;  The Chairman, Department of Materials Engineering, IISc, Bangalore    Cordially invite you to the Thirty Eighth   PROF. BRAHM PRAKASH MEMORIAL LECTURE   Speaker and Affliation:  Prof. B S Murty  Director,   Indian Institute of Technology Hyderabad,   Kandi, Sangareddy-502284   When?  21st August, 2022 (Sunday), 04:00 PM (India Standard Time)   Location  Faculty Hall, Indian Institute of Science, Bangalore   Prof. G K Ananthasuresh  Dean, Mechanical Sciences Division, Indian Institute of Science, Bengaluru    has kindly consented to preside over the lecture  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/murty-21-aug-2022",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -743,6 +755,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
       },{
+        "title": "PhD Thesis Colloquium: Mr. K Sai Jyotheender (01/09/22)",
+        "excerpt":"Thesis title:  Correlation Between Microstructure and Corrosion Properties of Electrodeposited Ni and Zn-based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  1st September, 2022 (Thursday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdkNjE0ZDEtN2UzMC00YmQ3LWI3ZmUtMjY3YzY3MDNlOWU0%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/sai-01-sep-2022",
+        "teaser": null
+      },{
         "title": "PhD Thesis Defence: Mr. Nilawar Sagar Ram (21/09/22)",
         "excerpt":"Thesis title:  Cerium oxide-based degradable polymer nanocomposites for bone tissue engineering   Faculty advisor(s):  Prof. Kaushik Chatterjee   When?  21st September, 2022 (Wednesday), 02:30 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
         "tags": [],
@@ -753,24 +771,6 @@ var store = [{
         "excerpt":"Thesis title:  Extraction of equivalent uniaxial plastic and viscoplastic behavior from bending using a mechanistic approach   Faculty advisor(s):  Prof. Vikram Jayaram   When?  21st September, 2022 (Wednesday), 12:00 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/priya-21-sep-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Ms. Sujata Singh (17/08/22)",
-        "excerpt":"Thesis title:  Enhancement in the Corrosion Resistance of Selected High Entropy Alloys by Incorporation of Carbon Nanotubes   Faculty advisor(s):  Prof. Chandan Srivastava   When?  17th August, 2022 (Wednesday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmI0YmVhMTEtYjUxMy00NWZkLWIzYTctNmFkYTQwOTAyZTMy%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/sujata-17-aug-2022",
-        "teaser": null
-      },{
-        "title": "The Joy of Experimenting (21/08/22)",
-        "excerpt":"The Chairman &amp; Members of The Indian Institute of Metals Bangalore Chapter  &amp;  The Chairman, Department of Materials Engineering, IISc, Bangalore    Cordially invite you to the Thirty Eighth   PROF. BRAHM PRAKASH MEMORIAL LECTURE   Speaker and Affliation:  Prof. B S Murty  Director,   Indian Institute of Technology Hyderabad,   Kandi, Sangareddy-502284   When?  21st August, 2022 (Sunday), 04:00 PM (India Standard Time)   Location  Faculty Hall, Indian Institute of Science, Bangalore   Prof. G K Ananthasuresh  Dean, Mechanical Sciences Division, Indian Institute of Science, Bengaluru    has kindly consented to preside over the lecture  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/murty-21-aug-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Mr. K Sai Jyotheender (01/09/22)",
-        "excerpt":"Thesis title:  Correlation Between Microstructure and Corrosion Properties of Electrodeposited Ni and Zn-based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  1st September, 2022 (Thursday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdkNjE0ZDEtN2UzMC00YmQ3LWI3ZmUtMjY3YzY3MDNlOWU0%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/sai-01-sep-2022",
         "teaser": null
       },{
         "title": "Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022 (21/12/22)",
