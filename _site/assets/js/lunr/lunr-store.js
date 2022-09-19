@@ -743,6 +743,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
       },{
+        "title": "PhD Thesis Defence: Mr. Nilawar Sagar Ram (21/09/22)",
+        "excerpt":"Thesis title:  Cerium oxide-based degradable polymer nanocomposites for bone tissue engineering   Faculty advisor(s):  Prof. Kaushik Chatterjee   When?  21st September, 2022 (Wednesday), 02:30 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/nilawar-21-sep-2022",
+        "teaser": null
+      },{
         "title": "PhD Thesis Defence: Ms. Priya Goel (21/09/22)",
         "excerpt":"Thesis title:  Extraction of equivalent uniaxial plastic and viscoplastic behavior from bending using a mechanistic approach   Faculty advisor(s):  Prof. Vikram Jayaram   When?  21st September, 2022 (Wednesday), 12:00 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
         "tags": [],
