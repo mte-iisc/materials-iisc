@@ -773,6 +773,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/priya-21-sep-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Ms. Shweta Shekar (14/10/22)",
+        "excerpt":"Thesis title:  Investigations of sensors based on new molecular architectonics: synthesis, fabrication, and application   Faculty advisor(s):  Prof. Praveen C. Ramamurthy   When?  14th October, 2022 (Friday), 3:30 PM (India Standard Time)   where  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/shweta-14-oct-2022",
+        "teaser": null
+      },{
         "title": "Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022 (21/12/22)",
         "excerpt":"To mark the completion of 75 years, the Department has planned to organize the Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022.   An Alumni Reunion is concurrently scheduled in the evening of 22 December, 2022. Sight-seeing visits are also planned on 24 December 2022.  ","categories": [],
         "tags": [],
