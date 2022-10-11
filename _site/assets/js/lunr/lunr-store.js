@@ -773,6 +773,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/priya-21-sep-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Mr. Devansh Sharma (12/10/22)",
+        "excerpt":"Thesis title:  PDMS-based Nanocomposite for EMI Shielding Application   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  12th October, 2022 (Wednesday), 03:30 PM (India Standard Time)   Mode  Online only  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/devansh-12-oct-2022",
+        "teaser": null
+      },{
         "title": "PhD Thesis Colloquium: Ms. Shweta Shekar (14/10/22)",
         "excerpt":"Thesis title:  Investigations of sensors based on new molecular architectonics: synthesis, fabrication, and application   Faculty advisor(s):  Prof. Praveen C. Ramamurthy   When?  14th October, 2022 (Friday), 3:30 PM (India Standard Time)   where  KPA Auditorium, Department of Materials Engineering  ","categories": [],
         "tags": [],
