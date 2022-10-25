@@ -785,6 +785,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/shweta-14-oct-2022",
         "teaser": null
       },{
+        "title": "Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference (21/10/22)",
+        "excerpt":"Congratulations !!!   Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference     ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/victor-21-oct-2022",
+        "teaser": null
+      },{
         "title": "Prof. Aloke Paul has been selected as fellow of INSA Indian National Science Academy (25/10/22)",
         "excerpt":"Congratulations !!!   Prof. Aloke Paul has been selected as fellow of INSA (Indian National Science Academy).  ","categories": [],
         "tags": [],
