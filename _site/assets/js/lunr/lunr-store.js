@@ -785,7 +785,7 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/shweta-14-oct-2022",
         "teaser": null
       },{
-        "title": "Prof. Aloke Paul has been selected as fellow of INSA (Indian National Science Academy) 2022",
+        "title": "Prof. Aloke Paul has been selected as fellow of INSA Indian National Science Academy (25/10/22)",
         "excerpt":"Congratulations !!!   Prof. Aloke Paul has been selected as fellow of INSA (Indian National Science Academy).  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/awards/aloke-25-oct-2022",
