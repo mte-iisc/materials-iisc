@@ -701,6 +701,36 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/murty-21-aug-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Colloquium: Mr. K Sai Jyotheender (01/09/22)",
+        "excerpt":"Thesis title:  Correlation Between Microstructure and Corrosion Properties of Electrodeposited Ni and Zn-based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  1st September, 2022 (Thursday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdkNjE0ZDEtN2UzMC00YmQ3LWI3ZmUtMjY3YzY3MDNlOWU0%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/sai-01-sep-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Nilawar Sagar Ram (21/09/22)",
+        "excerpt":"Thesis title:  Cerium oxide-based degradable polymer nanocomposites for bone tissue engineering   Faculty advisor(s):  Prof. Kaushik Chatterjee   When?  21st September, 2022 (Wednesday), 02:30 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/nilawar-21-sep-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Ms. Priya Goel (21/09/22)",
+        "excerpt":"Thesis title:  Extraction of equivalent uniaxial plastic and viscoplastic behavior from bending using a mechanistic approach   Faculty advisor(s):  Prof. Vikram Jayaram   When?  21st September, 2022 (Wednesday), 12:00 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/priya-21-sep-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Defence: Mr. Devansh Sharma (12/10/22)",
+        "excerpt":"Thesis title:  PDMS-based Nanocomposite for EMI Shielding Application   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  12th October, 2022 (Wednesday), 03:30 PM (India Standard Time)   Mode  Online only  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/devansh-12-oct-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Ms. Shweta Shekar (14/10/22)",
+        "excerpt":"Thesis title:  Investigations of sensors based on new molecular architectonics: synthesis, fabrication, and application   Faculty advisor(s):  Prof. Praveen C. Ramamurthy   When?  14th October, 2022 (Friday), 3:30 PM (India Standard Time)   where  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/shweta-14-oct-2022",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -754,36 +784,6 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
-        "title": "PhD Thesis Colloquium: Mr. K Sai Jyotheender (01/09/22)",
-        "excerpt":"Thesis title:  Correlation Between Microstructure and Corrosion Properties of Electrodeposited Ni and Zn-based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  1st September, 2022 (Thursday), 3:00 PM (India Standard Time)   Mode  Online via Microsoft Teams https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdkNjE0ZDEtN2UzMC00YmQ3LWI3ZmUtMjY3YzY3MDNlOWU0%40thread.v2/0?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%220adae817-f942-4c15-8bde-73332579a6ee%22%7d  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/sai-01-sep-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Nilawar Sagar Ram (21/09/22)",
-        "excerpt":"Thesis title:  Cerium oxide-based degradable polymer nanocomposites for bone tissue engineering   Faculty advisor(s):  Prof. Kaushik Chatterjee   When?  21st September, 2022 (Wednesday), 02:30 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/nilawar-21-sep-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Ms. Priya Goel (21/09/22)",
-        "excerpt":"Thesis title:  Extraction of equivalent uniaxial plastic and viscoplastic behavior from bending using a mechanistic approach   Faculty advisor(s):  Prof. Vikram Jayaram   When?  21st September, 2022 (Wednesday), 12:00 PM (India Standard Time)   Location  KPA Auditorium, Department of Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/priya-21-sep-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Defence: Mr. Devansh Sharma (12/10/22)",
-        "excerpt":"Thesis title:  PDMS-based Nanocomposite for EMI Shielding Application   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  12th October, 2022 (Wednesday), 03:30 PM (India Standard Time)   Mode  Online only  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/defence/devansh-12-oct-2022",
-        "teaser": null
-      },{
-        "title": "PhD Thesis Colloquium: Ms. Shweta Shekar (14/10/22)",
-        "excerpt":"Thesis title:  Investigations of sensors based on new molecular architectonics: synthesis, fabrication, and application   Faculty advisor(s):  Prof. Praveen C. Ramamurthy   When?  14th October, 2022 (Friday), 3:30 PM (India Standard Time)   where  KPA Auditorium, Department of Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/colloquium/shweta-14-oct-2022",
-        "teaser": null
       },{
         "title": "Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference (21/10/22)",
         "excerpt":"Congratulations !!!   Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference     ","categories": [],
