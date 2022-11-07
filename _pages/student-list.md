@@ -16,6 +16,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>Mohammed Kedir Mustofa</td><td>Prosenjit Das</td><td>kedirm</td></tr>
 <tr><td>Siddhesh Sadashiv Rege</td><td>Suryasarathi Bose</td><td>siddheshrege</td></tr>
 <tr><td>Durgesh Rambhau Borkar </td><td>Sachin R. Rondiya</td><td>durgeshb</td></tr>
 <tr><td>Kaushal Tiwari </td><td>Bhagwati Prasad</td><td>kaushalt</td></tr>
