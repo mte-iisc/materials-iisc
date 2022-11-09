@@ -203,6 +203,14 @@ Students with non-materials background enrolled in the research programs must cr
 <td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-307-aug-30">Materials in Extreme Environments</a></td>
 </tr>
+
+<tr>
+<td>MT 309</td>
+<td>3:0</td>
+<td>Aug</td>
+<td><a href="{{ site.baseurl }}/courses#mt-226-aug-30">Introduction to Manufacturing Science</a></td>
+</tr>
+
 <tr>
 <td>MT 250</td>
 <td>3:0</td>
@@ -683,4 +691,26 @@ Materials Response Under Irradiation: Irradiation Basics, Irradiation-Processes 
 <li>George Dieter, Mechanical Metallurgy; </li>
 <li>Neil Bourne, Materials response under mechanical extreme; </li>
 <li>Gary was, Fundamentals of Radiation Materials Science.</li> 
+</ul>
+
+-------------------------------------
+
+### MT 309 (Aug) 3:0
+<b>Introduction to Manufacturing Science</b>
+
+Introduction to casting processes: Mechanism of solidification, Gravity die casting; Pressure assisted casting processes: Pressure die casting, Squeeze casting etc.; Compocasting; Semi-solid casting processes: Rheocasting, Thixocasting, Rheo and Thixo-moulding etc.; Centrifugal casting; Vacuum assisted casting. 
+
+Introduction to metal forming processes: Mechanics of metal working, friction, temperature and strain rate effects, processing maps. Forging, Rolling, Extrusion, Wire and tube drawing, Hot and Cold Working, Rolls and Roll Pass Design, Extrusion Processes, Extrusion Defects, Experimental methods to assess formability of sheet materials, Defects in sheet metal forming. 
+
+Introduction to Welding processes: Insight of weld metallurgy; Weld mechanics, Filler and base material interaction; Quality control of weld; Weld & HAZ microstructure; Effects of process parameters on weld quality in welding processes. 
+
+Instructor: Prosenjit Das
+
+References:
+<ul>
+<li>Rao, P.N., Manufacturing Technology Volume 1 (Foundry, Forming and Welding), McGraw Hill Education (India) Pvt. Ltd. </li>
+<li>Rao, P.N., Manufacturing Technology Volume 2 (Metal Cutting and Machine Tools), McGraw Hill Education (India) Pvt. Ltd. </li>
+<li>Ghosh, A., Malik, A.K., Manufacturing Science, East-West Press Pvt. Ltd.  </li>
+<li>Khanna, O.P., Foundry Technology, Dhanpat Rai Publications. </li>
+<li>Dieter, G.E., Mechanical Metallurgy, McGraw Hill Book Company.</li> 
 </ul>
