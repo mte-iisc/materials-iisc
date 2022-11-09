@@ -195,7 +195,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 271</td>
 <td>3:0</td>
 <td>Aug</td>
-<td><a href="{{ site.baseurl }}/courses#mt-271-jan-30">Introduction to Biomaterials Science and Engineering</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-271-aug-30">Introduction to Biomaterials Science and Engineering</a></td>
 </tr>
 <tr>
 <td>MT 307</td>
@@ -208,7 +208,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 309</td>
 <td>3:0</td>
 <td>Jan</td>
-<td><a href="{{ site.baseurl }}/courses#mt-309-aug-30">Introduction to Manufacturing Science</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-309-jan-30">Introduction to Manufacturing Science</a></td>
 </tr>
 
 <tr>
@@ -680,7 +680,7 @@ Instructors: Faculty, Materials Engineering
 
 -------------------------------------
 
-### MT 307    3:0 
+### MT 307 (AUG) 3:0 
 <b>Materials in Extreme environments</b>
  Overview of Engineering Systems Under Extreme Environment 
 Background Review: Microstructure and Atomic Structure, Defects, Materials Response Under Quasistatic Loadings, Strengthening Mechanisms, Effect of Temperature on Microstructure and Properties, Creep, High-Temperature Fatigue 
@@ -696,7 +696,7 @@ Materials Response Under Irradiation: Irradiation Basics, Irradiation-Processes 
 
 -------------------------------------
 
-### MT 309 (Jan) 3:0
+### MT 309 (JAN) 3:0
 <b>Introduction to Manufacturing Science</b>
 
 Introduction to casting processes: Mechanism of solidification, Gravity die casting; Pressure assisted casting processes: Pressure die casting, Squeeze casting etc.; Compocasting; Semi-solid casting processes: Rheocasting, Thixocasting, Rheo and Thixo-moulding etc.; Centrifugal casting; Vacuum assisted casting. 
