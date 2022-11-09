@@ -208,7 +208,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 309</td>
 <td>3:0</td>
 <td>Aug</td>
-<td><a href="{{ site.baseurl }}/courses#mt-226-aug-30">Introduction to Manufacturing Science</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-309-aug-30">Introduction to Manufacturing Science</a></td>
 </tr>
 
 <tr>
@@ -334,7 +334,8 @@ Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetoo
 References:  
 <ul>
 <li>S. O. Kasap, Principles of Electronic Materials and Devices; </li>
-<li>Stephen Blundell, Magnetism in Condensed Matter; </li><li>J.M.D. Coey, Magnetism and Magnetic Materials;  
+<li>Stephen Blundell, Magnetism in Condensed Matter; </li>
+<li>J.M.D. Coey, Magnetism and Magnetic Materials;</li>  
 <li>B. D. Cullity and C.D. Graham, Introduction to Magnetic Materials; </li>
 <li>K. M. Krishnan, Fundamental and Application of Magnetic Materials </li>
 </ul>
