@@ -827,6 +827,18 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/sriharitha-11-nov-2022",
         "teaser": null
       },{
+        "title": "PhD Thesis Defence: Mr. Kompella Sai Jyotheender (24/11/22)",
+        "excerpt":"Thesis title:  Correlation Between Microstructure and Corrosion Properties of Electrodeposited Nickel and Zinc Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  24th November, 2022 (Thursday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/sai-24-nov-2022",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Jagadeshvaran P L (20/12/22)",
+        "excerpt":"Thesis title:  Smart textiles with tuneable architectures for multifunctional applications   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  20th December, 2022 (Tuesday), 11:00 AM (India Standard Time)   Where  KPA Auditorium, Dept of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/jagadeshvaran-20-dec-2022",
+        "teaser": null
+      },{
         "title": "Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022 (21/12/22)",
         "excerpt":"To mark the completion of 75 years, the Department has planned to organize the Platinum Jubilee Conference entitled ‘Perspectives in Materials Research’ during 21-23, December 2022.   An Alumni Reunion is concurrently scheduled in the evening of 22 December, 2022. Sight-seeing visits are also planned on 24 December 2022.  ","categories": [],
         "tags": [],
