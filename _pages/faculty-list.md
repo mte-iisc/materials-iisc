@@ -55,6 +55,7 @@ classes: wide
 # Inspire Faculty
 
 | <img src="{{ site.baseurl }}/assets/images/faculty/upashi.png" width=120px>    |  Upashi Goswami <br> DST-INSPIRE Faculty <br> upashig[at]iisc[dot]ac[dot]in <br> +91 80 2293 2705 <br>     | Nano based Materials for Cancer Theranostics <br>Biomaterials for Bioprinting (3D cancer Model and Tissue Engineering) <br> 2D Nanomaterials for sensing               |
+| <img src="{{ site.baseurl }}/assets/images/faculty/arpita-paul.jpeg" width=120px>    |  Arpita Paul <br> DST-INSPIRE Faculty <br> arpita[dot]paul245[at]gmail[dot]com <br> +91 80 2293 3729 <br>     | Computational Materials Science <br>Phase diagrams in functional materials <br> Lattice models               |
 
 <br>
 
