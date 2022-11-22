@@ -6,6 +6,28 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+### Extreme Environment Materials Group (https://sites.google.com/view/ankurskchauhan) in the department of Materials Engineering at IISc, Bengaluru, is looking for a Project Associate to work on a project titled "Creep in novel alloys".
+ 
+Position: Project Associate
+ 
+Duration: 1 year and subsequently renewable based on performance
+ 
+Qualifications: M.E./M. Tech or PhD in Materials Engineering or Metallurgy or related branches with an excellent academic record
+ 
+Pay scale: According to IISc norms
+ 
+Major skills required:
+Strong background in microstructure and residual stress analysis
+Should be able to conduct experiments and analyse data (mechanical testing including nano-indentation, tensile and creep testing)
+Should be able to learn and operate XRD, SEM and EBSD
+ 
+Eligible candidates kindly send a maximum 2-page CV to ankurchauhan@iisc.ac.in with the subject line 'Application for Project Associate position' mentioning particularly the
+ 
+Educational background with grades
+Experience related to Mechanical testing
+Knowledge of microstructure or residual stress analysis
+Experience, if any, in operating XRD, SEM, EBSD, FIB, TEM
+
 ## Advanced Manufacturing & Materials Processing Group (https://materials.iisc.ac.in/faculty/prosenjit) in the department of Materials Engineering at IISc, Bengaluru is looking for a no. of Project Associates to work on below mentioned projects
 
 1. Design, analysis and development of Rheo gravity die cast Al-15Mg2Si-4.5Si composite brake disc for automobile application (Funded by DST-SERB) (No. of positions: 1)
