@@ -839,6 +839,12 @@ var store = [{
         "url": "https://materials.iisc.ac.in/mini-symposium",
         "teaser": null
       },{
+        "title": "DMaking Oxygen on Mars - Challenges, Lessons, and Next Step (02/12/22)",
+        "excerpt":"Speaker and Affliation:  Dr. S. Elangovan   OxEon Energy, LLC, North Salt Lake, UT 84009, USA    About Speaker  Dr. Biswas is a pyrometallurgist working with both ferrous and nonferrous systems. She is currently a post-doctoral researcher at Aalto University (Finland), working in the area of battery recycling. Previously, She completed my PhD from McMaster University (Canada), worked on slag/metal reaction kinetics in oxygen steelmaking process. She had also experienced on application of machine learning in process data while working at TRDDC for 2.5 years. She did my masters (M.Tech.) from IIT Bombay and bachelors (B.E.) from Jadavpur University.   When?  2nd December, 2022 (Friday), 11:00 AM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering   About the talk  OxEon Energy team led the development of solid oxide electrolysis stack for NASA’s Mars 2020 mission. Installed in the Perseverance Rover, a stack has been operated eleven times so far to demonstrate the production of high purity oxygen by electrolyzing Mars atmosphere CO­2. During development, challenges related to the design for high purity oxygen production, and the mechanical robustness required for space missions were systematically evaluated. This project, termed MOXIE is the first ever demonstration of producing anything in another planet using materials that are not brought from earth. Follow on projects are underway to scale up the device for a future manned mission.   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/elangovan-02-dec-2022",
+        "teaser": null
+      },{
         "title": "PhD Thesis Colloquium: Mr. Jagadeshvaran P L (20/12/22)",
         "excerpt":"Thesis title:  Smart textiles with tuneable architectures for multifunctional applications   Faculty advisor(s):  Prof. Suryasarathi Bose   When?  20th December, 2022 (Tuesday), 11:00 AM (India Standard Time)   Where  KPA Auditorium, Dept of Materials Engineering  ","categories": [],
         "tags": [],
