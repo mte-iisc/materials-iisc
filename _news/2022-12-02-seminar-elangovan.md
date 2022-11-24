@@ -1,5 +1,5 @@
 ---
-title: "DMaking Oxygen on Mars - Challenges, Lessons, and Next Step (02/12/22)"
+title: "Making Oxygen on Mars - Challenges, Lessons, and Next Step (02/12/22)"
 permalink: /seminar/elangovan-02-dec-2022
 ---
 ### Speaker and Affliation:
