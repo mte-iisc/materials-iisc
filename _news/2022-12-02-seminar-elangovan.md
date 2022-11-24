@@ -6,9 +6,6 @@ permalink: /seminar/elangovan-02-dec-2022
 Dr. S. Elangovan <br>
 OxEon Energy, LLC, North Salt Lake, UT 84009, USA<br>
 
-### About Speaker
-Dr. Biswas is a pyrometallurgist working with both ferrous and nonferrous systems. She is currently a post-doctoral researcher at Aalto University (Finland), working in the area of battery recycling. Previously, She completed my PhD from McMaster University (Canada), worked on slag/metal reaction kinetics in oxygen steelmaking process. She had also experienced on application of machine learning in process data while working at TRDDC for 2.5 years. She did my masters (M.Tech.) from IIT Bombay and bachelors (B.E.) from Jadavpur University. 
-
 ### When?
 2<sup>nd</sup> December, 2022 (Friday), 11:00 AM (India Standard Time)
 
