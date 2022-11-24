@@ -833,8 +833,8 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/sai-24-nov-2022",
         "teaser": null
       },{
-        "title": "mini symposium on the Recent Advancements in Materials",
-        "excerpt":"We will be having a mini symposium on the Recent Advancements in Materials in our department on 30th November afternoon. The venue will be KP Abraham Auditorium. The details are attached here in the form of a poster and abstracts.            ","categories": [],
+        "title": "Mini symposium on the Recent Advancements in Materials",
+        "excerpt":"We will be having a mini symposium on the Recent Advancements in Materials in our department on 30th November afternoon.   The venue will be KP Abraham Auditorium.   The details are attached here in the form of a poster and abstracts.                  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/mini-symposium",
         "teaser": null

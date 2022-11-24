@@ -1,5 +1,5 @@
 ---
-title: "mini symposium on the Recent Advancements in Materials"
+title: "Mini symposium on the Recent Advancements in Materials"
 #layout: archive
 #toc: true
 #toc_label: "Platinum Jubilee"
@@ -9,9 +9,16 @@ title: "mini symposium on the Recent Advancements in Materials"
 permalink: /mini-symposium
 ---
 
-We will be having a mini symposium on the Recent Advancements in Materials in our department on 30th November afternoon. The venue will be KP Abraham Auditorium. The details are attached here in the form of a poster and abstracts.
+We will be having a mini symposium on the Recent Advancements in Materials in our department on 30th November afternoon. 
+
+The venue will be KP Abraham Auditorium. 
+
+The details are attached here in the form of a poster and abstracts.
  
 <img src="{{ site.baseurl }}/assets/images/mini-symposium/Poster.jpg"><br>
+
 <img src="{{ site.baseurl }}/assets/images/mini-symposium/Fraser.jpg"><br>
+
 <img src="{{ site.baseurl }}/assets/images/mini-symposium/Hemker.jpg"><br>
+
 <img src="{{ site.baseurl }}/assets/images/mini-symposium/Wang.jpg"><br>
