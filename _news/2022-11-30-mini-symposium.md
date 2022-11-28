@@ -9,7 +9,7 @@ title: "A Discussion Session on Advances in Materials Science"
 permalink: /mini-symposium
 ---
 
-We will be having a A Discussion Session on Advances in Materials Science in our department on 30th November afternoon. 
+We will be having A Discussion Session on Advances in Materials Science in our department on 30th November afternoon. 
 
 The venue will be KP Abraham Auditorium. 
 
