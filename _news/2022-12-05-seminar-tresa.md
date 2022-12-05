@@ -1,5 +1,5 @@
 ---
-title: "Design of Cobalt-Nickel Superalloys for 3D Printing (06/12/22)"
+title: "Design of Cobalt-Nickel Superalloys for 3D Printing (05/12/22)"
 permalink: /seminar/tresa-05-dec-2022
 ---
 ### Speaker and Affliation:
