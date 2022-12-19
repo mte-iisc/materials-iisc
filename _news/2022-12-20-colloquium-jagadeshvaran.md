@@ -9,7 +9,7 @@ Smart textiles with tuneable architectures for multifunctional applications
 Prof. Suryasarathi Bose 
 
 ### When?
-20<sup>th</sup> December, 2022 (Tuesday), 11:00 AM (India Standard Time)
+20<sup>th</sup> December, 2022 (Tuesday), 02:30 PM (India Standard Time)
 
 ### Where
 KPA Auditorium, Dept of Materials Engineering
