@@ -7,14 +7,12 @@ permalink: /opportunities
 Following are a list of open positions available at the Department of Materials Engineering.
 
 ### PSPM group, Materials Engineering, IISc
- 
-Our group invites applications for a post-doctoral position to work on fatigue and creep of titanium alloys for a minimum of 6 months and extendable to 2 years. The candidate must have experience in testing for mechanical behaviour, hands-on experience with SEM/EBSD and interpretation of EBSD data. Experience with transmission electron microscopy and digital image correlation is desirable.  Candidates may also apply immediately after submitting their thesis.
- 
-Prof. Dipankar Banerjee
-C207, Materials Engineering
-Indian Institute of Science
-Bangalore 560012
-dbanerjee@iisc.ac.in
+Our group invites applications for a post-doctoral position to work on fatigue and creep of titanium alloys for a minimum of 6 months and extendable to 2 years. The candidate must have experience in testing for mechanical behaviour, hands-on experience with SEM/EBSD and interpretation of EBSD data. Experience with transmission electron microscopy and digital image correlation is desirable.  Candidates may also apply immediately after submitting their thesis.<br>
+Prof. Dipankar Banerjee<br>
+C207, Materials Engineering<br>
+Indian Institute of Science<br>
+Bangalore 560012<br>
+dbanerjee@iisc.ac.in<br>
 
 ### Extreme Environment Materials Group (https://sites.google.com/view/ankurskchauhan) in the department of Materials Engineering at IISc, Bengaluru, is looking for a Project Associate to work on a project titled "Creep in novel alloys".
  
