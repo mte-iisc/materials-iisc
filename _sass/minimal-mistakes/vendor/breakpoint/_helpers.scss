@@ -26,18 +26,21 @@
   $unit: unit($value);
 
   @if $unit == 'px' {
-    @return math.div($value*1em,16px);
+    $test: #{math.div($value,16px) * 1em};
+    @return $test;
     //@return $value / 16px * 1em;
   }
   @else if $unit == '%' {
-    @return math.div($value,100%) * 1em;
+    $test: #{math.div($value,100%) * 1em};
+    @return $test;
     //@return $value / 100% * 1em;
   }
   @else if $unit == 'em' {
     @return $value;
   }
   @else if $unit == 'pt' {
-    @return math.div($value,12pt) * 1em;
+    $test: #{math.div($value,12pt) * 1em};
+    @return $test;
     //@return $value / 12pt * 1em;
   }
   @else {
