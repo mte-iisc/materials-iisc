@@ -300,24 +300,23 @@
         
 
 
-        <h3 id="event-description">Event description:</h3>
-<p>Probing the mechanical behaviour of materials at the nanoscale is necessary for the development of new nanostructured materials and continued miniaturization of engineering devices, electronic components, thin films, and surface coatings. This symposium will cover state of the art topics related to cutting edge developments in nanoscale mechanical characterization of materials such as metals, alloys, ceramics and organic crystals; used in such applications. The talks will demonstrate in-situ nano-mechanical testing techniques to extract site specific properties across temperatures and environments in a high throughput manner, as well as introduce data science approaches for the same. The lecture
-themes are relevant to both audiences from academia and industry.</p>
+        ### Event description:
+Probing the mechanical behaviour of materials at the nanoscale is necessary for the development of new nanostructured materials and continued miniaturization of engineering devices, electronic components, thin films, and surface coatings. This symposium will cover state of the art topics related to cutting edge developments in nanoscale mechanical characterization of materials such as metals, alloys, ceramics and organic crystals; used in such applications. The talks will demonstrate in-situ nano-mechanical testing techniques to extract site specific properties across temperatures and environments in a high throughput manner, as well as introduce data science approaches for the same. The lecturethemes are relevant to both audiences from academia and industry.
 
-<h3 id="organizers">Organizers:</h3>
-<p>Indian Institute of Science, Indian Institute of Technology Bombay, Brucker, and Industron</p>
+### Organizers:
+Indian Institute of Science, Indian Institute of Technology Bombay, Brucker, and Industron
 
-<h3 id="when">When?</h3>
-<p>1<sup>st</sup> and 2<sup>nd</sup> June, 2021, 4pm-6.30pm IST</p>
+### When?
+1<sup>st</sup> and 2<sup>nd</sup> June, 2021, 4pm-6.30pm IST
 
-<h3 id="registration-links">Registration Links</h3>
-<p>Day 1: <a href="https://zoom.us/webinar/register/WN_dOfpoNhzRbeLUT--U0tVzg" target="_blank">Zoom link</a>
-<br />
-Day 2: <a href="https://zoom.us/webinar/register/WN_t9mGgJxYRkuOxdjl-mUUtQ" target="_blank">Zoom link</a></p>
+### Registration Links
+Day 1: <a href="https://zoom.us/webinar/register/WN_dOfpoNhzRbeLUT--U0tVzg" target="_blank">Zoom link</a>
+<br>
+Day 2: <a href="https://zoom.us/webinar/register/WN_t9mGgJxYRkuOxdjl-mUUtQ" target="_blank">Zoom link</a>
 
-<h3 id="event-flyer">Event flyer</h3>
+### Event flyer
 
-<p><a href="https://materials.iisc.ac.in/pdfs/Symposium_Nanomech_Testing_June2021.pdf" target="_blank">Flyer PDF</a></p>
+<style> .pdf-embed-wrap-c3078db1-e23a-4557-90b7-2e2ba7943c7b { display:flex; flex-direction: column; width: 100%; height: 650px; } .pdf-embed-container-c3078db1-e23a-4557-90b7-2e2ba7943c7b { height: 100%; } .pdf-embed-container-c3078db1-e23a-4557-90b7-2e2ba7943c7b iframe { width: 100%; height: 100%; } </style> <div class="pdf-embed-wrap-c3078db1-e23a-4557-90b7-2e2ba7943c7b"> <div class="pdf-embed-container-c3078db1-e23a-4557-90b7-2e2ba7943c7b"> <iframe src="/pdfs/Symposium_Nanomech_Testing_June2021.pdf" frameborder="0" allowfullscreen></iframe> </div> </div>
 
         
       </section>
@@ -338,11 +337,11 @@ Day 2: <a href="https://zoom.us/webinar/register/WN_t9mGgJxYRkuOxdjl-mUUtQ" targ
       
   <nav class="pagination">
     
-      <a href="/awards/jacob-29-may-2021" class="pagination--pager" title="Prof. K. T. Jacob wins the 2022 J. Willard Gibbs Equilibria Award (29/05/21)
+      <a href="/symposium/nanomechtest-1-jun-2021" class="pagination--pager" title="Mini symposium on ‘In-situ nanomechanical testing and property correlation’ (01/06/21)
 ">Previous</a>
     
     
-      <a href="/symposium/nanomechtest-1-jun-2021" class="pagination--pager" title="Mini symposium on ‘In-situ nanomechanical testing and property correlation’ (01/06/21)
+      <a href="/seminar/sunita-03-jun-2021" class="pagination--pager" title="Smart materials for smart healthcare (03/06/21)
 ">Next</a>
     
   </nav>
