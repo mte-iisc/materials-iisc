@@ -19,4 +19,5 @@ Day 2: <a href="https://zoom.us/webinar/register/WN_t9mGgJxYRkuOxdjl-mUUtQ" targ
 
 ### Event flyer
 
-{% pdf "/pdfs/Symposium_Nanomech_Testing_June2021.pdf" width=100% no_link %}
+<a href="/pdfs/Symposium_Nanomech_Testing_June2021.pdf" target="_blank">Flyer PDF</a>
+<!--{% pdf "/pdfs/Symposium_Nanomech_Testing_June2021.pdf" width=100% no_link %}-->
