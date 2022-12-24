@@ -19,4 +19,9 @@ Day 2: <a href="https://zoom.us/webinar/register/WN_t9mGgJxYRkuOxdjl-mUUtQ" targ
 
 ### Event flyer
 
-{% pdf "/pdfs/Symposium_Nanomech_Testing_June2021.pdf" width=100% no_link %}
+<a href="https://materials.iisc.ac.in/pdfs/Symposium_Nanomech_Testing_June2021.pdf" target="_blank">Flyer PDF</a>
+<!--
+Due to unsupported pdf-embed plugin, using the pdf liquid syntax doesn't lead to correct build on Github pages, but local build works fine.
+In case this is needed in future, use 'pdf' as liquid tag (bracket followed by percentage) before the link in the following command.
+"/pdfs/Symposium_Nanomech_Testing_June2021.pdf" width=100% no_link
+-->

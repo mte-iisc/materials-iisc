@@ -238,6 +238,7 @@ whitelist:
   - jekyll-include-cache
   - jekyll-lunr-js-search
   - jekyll-seo-tag
+  - jekyll-pdf-embed
 
 
 # Archives
