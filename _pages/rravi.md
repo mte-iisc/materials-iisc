@@ -14,12 +14,12 @@ Tel: +91-80-2293 3244 Email: rravi_at_iisc.ac.in<br>
 Web: https://materials.iisc.ac.in/faculty/rravi
 
 ## Research Interests
-<p><u>Exploratory analysis of Metallurgical data using Machine learning<u/></p>
+
+<p><u>Exploratory analysis of Metallurgical data using Machine learning</u></p>
 <ul>
 <li>Artificial Neural Network(ANN) Models to Predict workability parameters for Dynamic recrystallisation domain and Instability regimes.</li>
 <li>ANN Models for predicting Instability Regimes: Cu-Al, Cu-Zn Alloys.</li>
 </ul>
-
 
 <p><u>Diffusion related studies</u></p>
 <ul>
