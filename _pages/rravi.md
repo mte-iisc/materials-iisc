@@ -7,27 +7,31 @@ permalink: /faculty/rravi
 
 Chief Research Scientist<br>
 E-307, Department of Materials Engineering<br>
-Indian Institute of Science<br>
-C V Raman Avenue<br>
+Indian Institute of Science, C V Raman Avenue<br>
 Bangalore-560012, INDIA<br>
 
-Tel: +91-80-2293 3244<br>
-email: rravi_at_iisc.ac.in<br>
+Tel: +91-80-2293 3244 Email: rravi_at_iisc.ac.in<br>
+Web: https://materials.iisc.ac.in/faculty/rravi
 
 ## Research Interests
+<p><u>Exploratory analysis of Metallurgical data using Machine learning<u/></p>
+<ul>
+<li>Artificial Neural Network(ANN) Models to Predict workability parameters for Dynamic recrystallisation domain and Instability regimes.</li>
+<li>ANN Models for predicting Instability Regimes: Cu-Al, Cu-Zn Alloys.</li>
+</ul>
+
+
 <p><u>Diffusion related studies</u></p>
-<p>Systems with high temperature applications: Ni, Fe-Ni base super alloys and Co-base super alloys:</p>
 <ul>
-<li>Co-W, Co-Ta and Co-Ni-Ta</li>
-<li>Nb-X (X-Ni,Co,Fe)</li>
+<li>Systems with high temperature applications: Ni, Fe-Ni base super alloys and Co-base super alloys:Co-W, Co-Ta and Co-Ni-Ta; Nb-X (X-Ni,Co,Fe).</li>
+<li>Automobile applications: Hot dip Aluminum coating on steel.</li>
+<li>Electronic packaging materials: Pd-Sn; Au(Cu)-Sn; Cu(Ni)-Sn.</li>
 </ul>
-<p>Electronic packaging materials:</p>
+
+<p><u>Tin whiskering</u></p>
 <ul>
-<li>Pd-Sn</li>
-<li>Au(Cu)-Sn</li>
-<li>Cu(Ni)-Sn</li>
+<li>Effect of electric current and substrate composition on whiskering in Tin and on IMC growth.</li>
 </ul>
-<p>Effect of electric current and substrate composition on whiskering in Tin and on IMC growth.</p>
 
 ## M.E Students
 <ul>
