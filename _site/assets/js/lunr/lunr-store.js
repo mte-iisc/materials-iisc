@@ -731,6 +731,18 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/shweta-14-oct-2022",
         "teaser": null
       },{
+        "title": "Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference (21/10/22)",
+        "excerpt":"Congratulations !!!   Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference     ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/victor-21-oct-2022",
+        "teaser": null
+      },{
+        "title": "Prof. Aloke Paul has been selected as fellow of INSA Indian National Science Academy (25/10/22)",
+        "excerpt":"Congratulations !!!   Prof. Aloke Paul has been selected as fellow of INSA (Indian National Science Academy).  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/awards/aloke-25-oct-2022",
+        "teaser": null
+      },{
         "title": "Decarburization Kinetics of Liquid Fe-C Droplets in Oxidizing Slag” and Extraction of Co and Li from spent LIBs scrap by sulfation roasting (02/11/22)",
         "excerpt":"Speaker and Affliation:  Dr. Jayasree Biswas  Aalto University, School of Chemical &amp; Metallurgical Engineering  Kemistintie 1, 02150 Espoo    About Speaker  Dr. Biswas is a pyrometallurgist working with both ferrous and nonferrous systems. She is currently a post-doctoral researcher at Aalto University (Finland), working in the area of battery recycling. Previously, She completed my PhD from McMaster University (Canada), worked on slag/metal reaction kinetics in oxygen steelmaking process. She had also experienced on application of machine learning in process data while working at TRDDC for 2.5 years. She did my masters (M.Tech.) from IIT Bombay and bachelors (B.E.) from Jadavpur University.   When?  2nd November, 2022 (Wednesday), 03:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up   Abstract  ‘Bloating’ i.e. swelling of droplets is an important phenomenon in oxygen steelmaking process which determines the overall process efficiency by influencing the kinetics of refining. This phenomenon is controlled mainly by decarburization reaction kinetics. In this work, a mathematical model for decarburization of a droplet was developed incorporating all kinetic steps. This model demonstrated remarkably well performance with variation of experimental parameters and specifically with conditions similar to oxygen steelmaking. Another finding from this work was development of a novel kinetic model to incorporate slag electrical conductivity effect into analysis which is generally ignored by process metallurgist for decades despite knowing the nature of the system. Battery Recycling Extraction of cobalt from secondary resources has become crucial as it has been identified as strategically important and a critical raw material due to the high risks of supply chain disruptions. In this work, selective sulfation roasting followed by water leaching was investigated as a potential recycling strategy to extract cobalt and lithium from industrial LCO-rich black mass. Specifically, the effect of graphite on metals extraction was studied. A selective extraction efficiency of 99.5% Li and 60% Co by was obtained by this route.   ","categories": [],
         "tags": [],
@@ -765,6 +777,12 @@ var store = [{
         "excerpt":"Thesis title:  Correlation Between Microstructure and Corrosion Properties of Electrodeposited Nickel and Zinc Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  24th November, 2022 (Thursday), 02:30 PM (India Standard Time)   Location  Microsoft Teams Meet-up  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/sai-24-nov-2022",
+        "teaser": null
+      },{
+        "title": "A Discussion Session on Advances in Materials Science (30/11/22)",
+        "excerpt":"We will be having A Discussion Session on Advances in Materials Science in our department on 30th November afternoon.   The venue will be KP Abraham Auditorium.   The details are attached here in the form of a poster and abstracts.                   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/mini-symposium",
         "teaser": null
       },{
         "title": "Machining thin metallic foils",
@@ -820,24 +838,6 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
-        "title": "Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference (21/10/22)",
-        "excerpt":"Congratulations !!!   Mr. Victor a. Ajisafe awarded for Best Oral presentation at the 3rd BioMaH conference     ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/awards/victor-21-oct-2022",
-        "teaser": null
-      },{
-        "title": "Prof. Aloke Paul has been selected as fellow of INSA Indian National Science Academy (25/10/22)",
-        "excerpt":"Congratulations !!!   Prof. Aloke Paul has been selected as fellow of INSA (Indian National Science Academy).  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/awards/aloke-25-oct-2022",
-        "teaser": null
-      },{
-        "title": "A Discussion Session on Advances in Materials Science (30/11/22)",
-        "excerpt":"We will be having A Discussion Session on Advances in Materials Science in our department on 30th November afternoon.   The venue will be KP Abraham Auditorium.   The details are attached here in the form of a poster and abstracts.                   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/mini-symposium",
-        "teaser": null
       },{
         "title": "Making Oxygen on Mars - Challenges, Lessons, and Next Step (02/12/22)",
         "excerpt":"Speaker and Affliation:  Dr. S. Elangovan   OxEon Energy, LLC, North Salt Lake, UT 84009, USA    When?  2nd December, 2022 (Friday), 11:00 AM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering   About the talk  OxEon Energy team led the development of solid oxide electrolysis stack for NASA’s Mars 2020 mission. Installed in the Perseverance Rover, a stack has been operated eleven times so far to demonstrate the production of high purity oxygen by electrolyzing Mars atmosphere CO­2. During development, challenges related to the design for high purity oxygen production, and the mechanical robustness required for space missions were systematically evaluated. This project, termed MOXIE is the first ever demonstration of producing anything in another planet using materials that are not brought from earth. Follow on projects are underway to scale up the device for a future manned mission.   ","categories": [],
