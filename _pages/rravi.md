@@ -10,8 +10,9 @@ E-307, Department of Materials Engineering<br>
 Indian Institute of Science, C V Raman Avenue<br>
 Bangalore-560012, INDIA<br>
 
-Tel: +91-80-2293 3244 Email: rravi_at_iisc.ac.in<br>
-Web: https://materials.iisc.ac.in/faculty/rravi
+<b>Email:</b> rravi_at_iisc.ac.in
+<b>Web:</b> https://materials.iisc.ac.in/faculty/rravi
+<b>Tel:</b> +91-80-2293 3244 <br>
 
 ## Research Interests
 
