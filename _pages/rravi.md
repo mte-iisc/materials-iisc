@@ -6,13 +6,12 @@ permalink: /faculty/rravi
 ---
 
 Chief Research Scientist<br>
-E-307, Department of Materials Engineering<br>
-Indian Institute of Science, C V Raman Avenue<br>
-Bangalore-560012, INDIA<br>
+E-307, Department of Materials Engineering, Indian Institute of Science<br>
+C V Raman Avenue, Bangalore-560012, INDIA<br>
 
-<b>Email:</b> rravi_at_iisc.ac.in
-<b>Web:</b> https://materials.iisc.ac.in/faculty/rravi
-<b>Tel:</b> +91-80-2293 3244 <br>
+<b>Email:</b> rravi_at_iisc.ac.in<br>
+<b>Web:</b> https://materials.iisc.ac.in/faculty/rravi<br>
+<b>Tel:</b> +91-80-2293 3244
 
 ## Research Interests
 
@@ -52,7 +51,6 @@ Bangalore-560012, INDIA<br>
 <li>Varun A Baheti <i>(with Prof. Aloke Paul)</i><br />
         Interdiffusion studies in binary Co-Ta system and ternary Co(Ni)-Ta, Co(Ni)-Nb and Fe(Ni)-Nb systems (2012).</li>
 </ul>
-
 
 ## Publications
 <ol reversed="">
