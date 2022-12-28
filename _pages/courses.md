@@ -56,7 +56,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 241</td>
 <td>3:0</td>
 <td>Jan</td>
-<td><a href="{{ site.baseurl }}/courses#mt-241-aug-30">Structure and Characterization of Materials</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-241-jan-30">Structure and Characterization of Materials</a></td>
 </tr>
 <tr>
 <td>MT 243</td>
@@ -240,6 +240,7 @@ Students with non-materials background enrolled in the research programs must cr
 </table>
 
 ### MT 201 (JAN) 3:0
+
 <b>Phase Transformations</b>
 
 Overview of phase transformations, nucleation and growth theories, coarsening, precipitation, spinodal   decomposition, eutectoid, massive, disorder-to-order, martensitic transformations. crystal interfaces and microstructure. topics in the theory of phase transformations: linear stability analysis, elastic stress effects, sharp interface and diffuse interface models of microstructural evolution.
@@ -259,6 +260,7 @@ References:
 -------------------------------------
 
 ### MT 202 (AUG) 3:0
+
 <b>Thermodynamics and Kinetics</b>
 
 Classical and statistical thermodynamics, Interstitial and substitutional solid solutions, solution models,
@@ -278,6 +280,7 @@ References:
 -------------------------------------
 
 ### MT 206 (AUG) 3:0
+
 <b>Texture and Grain Boundary Engineering</b>
 
 Concepts of texture in materials. Representation of texture by pole figure and orientation distribution functions. Texture measurement by different techniques. Origin and development of texture during material processing stages: solidification, deformation, annealing, phase transformation, coating processes, and thin film deposition. Influence of texture on mechanical and physical properties. Texture control in Engineering Materials. Introduction to Grain boundaries in polycrystalline materials. Grain boundary engineering and its applications. 
@@ -296,6 +299,7 @@ References:
 -------------------------------------
 
 ### MT 208 (JAN) 3:0 
+
 <b>Diffusion in Solids</b>
 
 Fick's laws of diffusion, driving forces for diffusion, radiotracer and diffusion couple methods, atomic mechanism of diffusion, diffusion-controlled growth of phases, diffusion-controlled microstructural evolution, Matano-Boltzmann analysis, History, and development of the Kirkendall effect, Darken analysis, lattice and grain boundary diffusion, multicomponent diffusion, diffusion process in various multicomponent materials used in electronic packaging, jet engine turbine blades, A15 intermetallic superconductor, Multi-principal element alloys. 
@@ -312,6 +316,7 @@ References:
 -------------------------------------
 
 ### MT 209 (AUG) 3:0
+
 <b>Defects in Materials</b>
 
 Review of defect classification and concept of defect equilibrium. Review of point defects in metallic, ionic and covalent crystals. Dislocation theory - continuum and atomistic. Dislocations in different lattices. Role of anisotropy. Dislocation kinetics. Interface thermodynamics and structure. Overview of grain boundaries, interphase boundaries, stacking faults and special boundaries. Interface kinetics: migration and sliding. Defect interactions: point defect-dislocation interaction, dislocation-interface interactions, segregation, etc.. Overview of methods for studying defects including computational techniques
@@ -330,7 +335,8 @@ References:
 
 -------------------------------------
 
-### MT 211 (Aug) 3:0 
+### MT 211 (AUG) 3:0 
+
 <b>Magnetism, Magnetic Materials and Devices</b>
 A brief review of the fundamentals of solid-state physics; Classical and quantum mechanical pictures of magnetism; spin orbit coupling, crystal field environments, diamagnetism, paramagnetism, ferromagnetism, antiferromagnetism, dipolar and exchange interactions, magnetic domains, magnetic anisotropy, magnetostriction, superparamagnetism, biomagnetism, and spin glass  
 Bulk magnetic Materials: Transition and rare earth metals and alloys. Oxide based magnetic materials. Hard, soft and magnetostrictive materials, Magnetic shape memory alloys, Structure-microstructure-magnetic property correlations.    Low dimensional Magnetic systems and devices: Magnetic nanostructures, thin films, and epitaxial heterostructures; exchange bias and exchange coupling, and magneto-optical materials and devices, AMR, GMR, TMR, spin-transfer torque, spin-orbit torque and spin-Hall effect; Multiferroics, magnetoelectric and magnetoionics; nonvolatile magnetic memory, synaptic and neuromorphic computing devices;  
@@ -348,7 +354,9 @@ Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetoo
 -------------------------------------
 
 ### MT 213 (AUG) 3:0 
-<b>Electronic Properties of Materials </b>Introduction to electronic properties; Drude model, its success and failure; energy bands in crystals; density of states; electrical conduction in metals; semiconductors; semiconductor devices; p-n junctions, LEDs, transistors; electrical properties of polymers, ceramics, metal oxides, amorphous semiconductors; dielectric and ferroelectrics; polarization theories; optical, magnetic and thermal properties of materials; application of electronic materials: microelectronics, optoelectronics and magnetoelectrics.
+
+<b>Electronic Properties of Materials </b>
+Introduction to electronic properties; Drude model, its success and failure; energy bands in crystals; density of states; electrical conduction in metals; semiconductors; semiconductor devices; p-n junctions, LEDs, transistors; electrical properties of polymers, ceramics, metal oxides, amorphous semiconductors; dielectric and ferroelectrics; polarization theories; optical, magnetic and thermal properties of materials; application of electronic materials: microelectronics, optoelectronics and magnetoelectrics.
 Instructor: Subho Dasgupta 
 References:    
 <ul>
@@ -379,7 +387,8 @@ Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetoo
 
 -------------------------------------
 
-### MT 217 (Aug)  3:0   
+### MT 217 (AUG)  3:0   
+
 <b>Computational  Mathematics for Materials Engineers</b>
 Vector and tensor algebra; Basics of linear algebra and matrix inversion methods; Coordinate transformations methods; Optimization methods, Probability and statistics; Numerical methods: Concepts of discretization in space/time, implicit, explicit; Solution to ODEs(Euler, Heun, Runge-Kutta methods), PDEs (Elliptic, Parabolic, Hyperbolic), solutions to Laplace equation and applications, transient diffusion and wave equation; Discretization methods (FDM, FVM, FEM);  iterative solution schemes Jacobi, Gauss-Seidel, ADI, Multigrid, Fourier-spectral schemes; Root finding methods, interpolation, curve-fitting, regression; Special functions: Bessel, Legendre, Fourier, Laguerre, etc; Computational tools for the solution to all the above problems will be discussed along with canonical examples from materials problems. Software tools, based on python and/or MATLAB, will also be introduced in the course.   Instructor: A N Choudhury and Sai Gautam G 
 
@@ -393,7 +402,8 @@ References:
 
 -------------------------------------
 
-### MT 218 (AUG) 2:1
+### MT 218 (JAN) 2:1
+
 <b>Modeling and Simulation in Materials Engineering</b> 
 
 Importance of modeling and simulation in Materials Engineering. nd numerical approaches. Numerical solution of ODEs and PDEs, explicit and implicit methods, Concept of diffusion, phase field technique, modelling of diffusive coupled phase transformations, spinodal decomposition. Level Set methods, Celula Automata,: simple models for simulating microstructure,. Finite element modelling,: Examples in 1D, variational approach, interpolation functions for simple geometries, (rectangular and triangular elements); Atomistic modelling techniques,: Molecular and Monte-Carlo Methods.
@@ -412,6 +422,7 @@ References:
 -------------------------------------
 
 ### MT 220 (JAN) 3:0
+
 <b>Microstructural Engineering of Structural Materials</b>
 
 Elements of microstructure; Role of microstructure on properties; Review of crystalline defects; Methods of controlling microstructures: materials processing routes, heat treatments, phase transformations and mechanisms; Processing of cast and wrought alloys, Processing of nanostructured materials, processing of single crystals, Introduction to light metal alloys (Al-based, Mg-based and Ti-based), Introduction to high temperature superalloys, Introduction to high entropy alloys, Control of multiphase microstructures with case studies, hierarchical microstructures, composites; adaptive microstructures.
@@ -429,7 +440,8 @@ References:
 
 -------------------------------------
 
-### MT 225 (Aug) 3:0
+### MT 225 (AUG) 3:0
+
 <b>Deformation and Failure Mechanisms at Elevated Temperatures</b>
 
 Phenomenology of Creep, Microstructural considerations in metals, alloys, ceramics and composites. Creep mechanisms, Deformation mechanism maps, Superpasticity in metal alloys, ceramics and nanophase materials, Commercial applications and considerations, Cavitation failure at elevated temperatures by nucleation, growth and interlinkage of cavities. The course will also include some laboratory demonstrations of the phenomena discussed in the class together with an appropriate analysis of the data.
@@ -444,7 +456,8 @@ References:
 
 -------------------------------------
 
-### MT 231 (Aug) 3:0 
+### MT 231 (AUG) 3:0 
+
 <b>Interfacial Phenomenon in Materials Processing</b>
 
 Materials and surfaces, Adsorption from solution, Thermodynamics of adsorption - surface excess and surface free energy, Gibbs equation, adsorption isotherms, wetting, contact angle, Young's equation, Monolayer and interfacial reactions, Electrical phenomena at interfaces, electrochemistry of the double layer, Interaction energies, DLVO theory, electrokinetics, flocculation, coagulation and dispersion, Polymers at interfaces, Emulsions. Applications in Materials Processing.
@@ -460,7 +473,8 @@ References:
 
 -------------------------------------
 
-### MT 240 (Jan) 3:0
+### MT 240 (JAN) 3:0
+
 <b>Principles of electrochemistry and corrosion</b>
 
 Introduction to electrochemical systems, including batteries, fuel cells and capacitors. Designing electrochemical systems with emphasis on thermodynamics, kinetic, and mass transport limitations. Measuring electrochemical properties with various measurement techniques. Basic electrochemical principles governing corrosion. Types and mechanisms of corrosion. Advances in corrosion engineering and control.
@@ -475,7 +489,8 @@ References:
 
 -------------------------------------
 
-### MT 241 (AUG) 3:0
+### MT 241 (JAN) 3:0
+
 <b>Structure and Characterization of Materials</b>
 
 Bonding and crystal structures, Direct and Reciprocal lattice, Stereographic projection, Point and Space Group, Point defects in crystals, Diffraction basics, X-ray powder diffraction and its applications, Scanning and Transmission electron microscopy. 
@@ -494,6 +509,7 @@ References:
 -------------------------------------
 
 ### MT 243 (JAN) 0:2
+
 <b>Laboratory Experiments in Materials Engineering</b>
 
 Experiments in Metallographic techniques, heat treatment, diffraction mineral beneficiation, chemical and process metallurgy, and mechanical metallurgy.
@@ -503,12 +519,10 @@ Faculty
 -------------------------------------
 
 ### MT 245 (AUG) 3:0
+
 <b>Transport Processes in Process Metallurgy</b>
 
-Basic and advanced idea of fluid flow, heat and mass transfer. Integral mass, momentum and energy
-balances. The equations of continuity and motion and its solutions. Concepts of laminar and turbulent
-flows. Concept of packed and fluidized bed. Non-wetting flow, Natural and forced convection. Unit
-processes in process metallurgy. Application of the above principles in process metallurgy.
+Basic and advanced idea of fluid flow, heat and mass transfer. Integral mass, momentum and energy balances. The equations of continuity and motion and its solutions. Concepts of laminar and turbulent flows. Concept of packed and fluidized bed. Non-wetting flow, Natural and forced convection. Unit processes in process metallurgy. Application of the above principles in process metallurgy.
 
 Instructor: Govind S Gupta
 
@@ -524,13 +538,11 @@ References:
 -------------------------------------
 
 ### MT 248 (JAN) 3:0
+
 <b>Modelling and Computational Methods in Metallurgy</b>
 
 (Prerequisite: Knowledge of transport phenomena, program language) Assignments will be based on developing computer code to solve the given problem.)
-Basic principles of physical and mathematical modelling. Similarity criteria and dimensional analysis.
-Detailed study of modelling of various metallurgical processes such as blast furnace, induction furnace,
-ladle steelmaking, rolling, carburizing and drying. Finite difference method. Solution of differential
-equations using various numerical techniques. Convergence and stability criteria.
+Basic principles of physical and mathematical modelling. Similarity criteria and dimensional analysis. Detailed study of modelling of various metallurgical processes such as blast furnace, induction furnace, ladle steelmaking, rolling, carburizing and drying. Finite difference method. Solution of differential equations using various numerical techniques. Convergence and stability criteria.
 
 Instructor: Govind S Gupta
 
@@ -542,7 +554,8 @@ References:
 
 -------------------------------------
 
-### MT 250 (JAN) 3:0
+### MT 250 (AUG) 3:0
+
 <b>Introduction to Materials Science and Engineering</b>
 
 <b>Compulsory for M.Tech. students who do not have a B.E. Metallurgy, Ceramic or Polymer Engineering.<br>
@@ -560,6 +573,7 @@ Reference:
 -------------------------------------
 
 ### MT 253 (AUG) 3:0
+
 <b>Mechanical Behaviour of Materials</b>
 
 Introduction to elastic and plastic deformation; Elementary dislocation theory and twinning; Strengthening mechanisms; Fracture; Fatigue; Creep.
@@ -574,6 +588,7 @@ Reference:
 -------------------------------------
 
 ### MT 255 (JAN) 3:0
+
 <b>Solidification Processing</b>
 
 Advantage of solidification route to manufacturing, the basics of solidification including fluid dynamics, solidification dynamics and the influence of mould in the process of casting. Origin of shrinkage, linear contraction and casting defects in the design and manufacturing of casting, continuous casting, Semi-solid processing including pressure casting, stir casting and thixo casting. Welding as a special form of manufacturing process involving solidification. Modern techniques of welding, the classification of different weld zones, their origin and the influence on properties and weld design. Physical and computer modeling of solidification processes and development of expert systems. New developments and their possible impact on the manufacturing technology in the future with particular reference to the processes adaptable to the flexible manufacturing system.
@@ -589,6 +604,7 @@ References:
 -------------------------------------
 
 ### MT 256 (JAN) 3:0
+
 <b>Fracture</b>
 
 Review of elastic and plastic deformation, Historical development of fracture mechanics, Thermodynamics of fracture including Griffith theory, Linear elastic fracture mechanics, Irwin and Dugdale extensions, Stability of cracks, Crack resistance curves and toughening of brittle materials, Ductile failure, J-integral,  Introduction to FEM and its applications to fracture mechanics, Indentation failure, Environmental aspects of failure, Thermal stresses, Cyclic Fatigue, Methods to measure toughness. 
@@ -605,7 +621,8 @@ References:
 
 -------------------------------------
 
-### MT 260 (Aug) 3:0
+### MT 260 (AUG) 3:0
+
 <b>Polymer Science and Engineering</b>
 
 Fundamentals of polymer science: Polymer nomenclature and classification. Current theories for describing molecular weight, molecular weight distributions. Synthesis of monomers and polymers. Mechanisms of polymerization reactions. Introduction to polymer compounding and processing (for thermoplastic/thermosets). Structure, property relationships of polymers: crystalline and amorphous states, the degree of crystallinity, cross-linking, and branching. Stereochemistry of polymers. Instrumental methods for the elucidation of polymer structure and properties such as thermal (DSC, TGA, DMA, TMA, TOA), electrical (conductivity, dielectric), and spectroscopic (IR, Raman, NMR, ESCA, SIMS) analysis GPC, GC-MS.
@@ -622,7 +639,8 @@ References:
 
 -------------------------------------
 
-### MT 261 (Aug) 3:0
+### MT 261 (AUG) 3:0
+
 <b>Organic Electronics</b>
 
 Fundamentals of polymers. Device and materials physics. Polymer electronics materials, processing, and applications. Chemistry of device fabrication, materials characterization. Electroactive polymers. Device
@@ -643,6 +661,7 @@ References:
 -------------------------------------
 
 ### MT 262 (JAN) 3:0
+
 <b>Concepts in Polymer Blends and Nanocomposites</b>
 
 Introduction to polymer blends and composites, nanostructured materials and nanocomposites, Polymer-polymer miscibility, factors governing miscibility, immiscible systems and phase separation, Importance of interface on the property development, compatibilizers and compatibilization, Blends of amorphous & semi-crystalline polymers, rubber toughened polymers, particulate, fiber reinforced composites. Nanostructured materials like nano clay, carbon nanotubes, graphene etc. and polymer nanocomposites. Surface treatment of the reinforcing materials and interface/interphase structures of composites / nanocomposites. Various processing techniques like solution mixing, melt processing. Unique properties of blends, composites/nanocomposites in rheological, mechanical, and physical properties and applications
@@ -661,7 +680,8 @@ References:
 
 -------------------------------------
 
-### MT 271 (JAN) 3:0
+### MT 271 (AUG) 3:0
+
 <b>Introduction to Biomaterials Science and Engineering</b>
 
 This course will introduce basic concepts of biomaterials research and development including discussion on different types of materials used for biomedical applications and their relevant properties. Contents:  Surface engineering for biocompatibility; Protein adsorption to materials surfaces; Blood compatibility of materials; Immune response to materials; Corrosion and wear of implanted medical devices; Scaffolds for tissue engineering and regenerative medicine; Concepts in drug delivery; Regulatory issues and ethics.
@@ -677,6 +697,7 @@ References:
 -------------------------------------
 	  
 ### MT 299 0:32
+
 <b>Dissertation Project</b>
  
 The M.Tech. project is aimed at training the students to analyse independently any problem posed to them. The project may be a purely analytical piece of work, a completely experimental one or a combination of both. In a few cases the project can also involve a sophisticated design work. The project report is expected to show clarity of thought and expression, critical appreciation of the existing literature and analytical and/or experimental or design skill.
@@ -686,6 +707,7 @@ Instructors: Faculty, Materials Engineering
 -------------------------------------
 
 ### MT 307 (AUG) 3:0 
+
 <b>Materials in Extreme environments</b>
  Overview of Engineering Systems Under Extreme Environment 
 Background Review: Microstructure and Atomic Structure, Defects, Materials Response Under Quasistatic Loadings, Strengthening Mechanisms, Effect of Temperature on Microstructure and Properties, Creep, High-Temperature Fatigue 
@@ -700,6 +722,7 @@ Materials Response Under Irradiation: Irradiation Basics, Irradiation-Processes 
 </ul>
 
 -------------------------------------
+
 ### MT 308  (JAN) 3:0
 
 <b>Metal Forming Processes</b>
@@ -707,7 +730,6 @@ Materials Response Under Irradiation: Irradiation Basics, Irradiation-Processes 
 This course deals with analytical descriptions of the plasticity and metal working processes for metallic materials. The course content includes aspects of materials microstructural changes and damage development during metal working. Some of the interesting examples of industrial relevance will be also included. It caters to post-graduate students in Materials, Mechanical and Aerospace Engineering. 
 
 ​The objective of the course is to provide the student with a set of skills which can be applied directly to the materials processing and metal forming industries and which can serve as a basis for graduate research work in forming, materials processing and manufacturing. The course will provide the analytical basis of plasticity and its application to metal forming processes such as rolling, extrusion, wire drawing, forging and sheet metal forming. The course will deal with (i) mechanical response and testing of materials, (ii) a brief description of multiaxial plasticity in terms of yield surfaces, flow rules and anisotropic plasticity, and (iii) analytical descriptions of mechanics of rolling, extrusion, wire drawing, forging and sheet metal forming processes.
- 
  
 References: 
 
@@ -720,6 +742,7 @@ Instructor: Mukesh Jain (Guest Professor, Department of Mechanical Engineering, 
 -------------------------------------
 
 ### MT 309 (JAN) 3:0
+
 <b>Introduction to Manufacturing Science</b>
 
 Introduction to casting processes: Mechanism of solidification, Gravity die casting; Pressure assisted casting processes: Pressure die casting, Squeeze casting etc.; Compocasting; Semi-solid casting processes: Rheocasting, Thixocasting, Rheo and Thixo-moulding etc.; Centrifugal casting; Vacuum assisted casting. 
