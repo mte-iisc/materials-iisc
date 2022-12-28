@@ -347,7 +347,7 @@ Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetoo
 
 -------------------------------------
 
-### MT 213 (AUG) 2:0 
+### MT 213 (AUG) 3:0 
 <b>Electronic Properties of Materials </b>Introduction to electronic properties; Drude model, its success and failure; energy bands in crystals; density of states; electrical conduction in metals; semiconductors; semiconductor devices; p-n junctions, LEDs, transistors; electrical properties of polymers, ceramics, metal oxides, amorphous semiconductors; dielectric and ferroelectrics; polarization theories; optical, magnetic and thermal properties of materials; application of electronic materials: microelectronics, optoelectronics and magnetoelectrics.
 Instructor: Subho Dasgupta 
 References:    
