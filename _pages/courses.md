@@ -11,7 +11,7 @@ permalink: /courses
 <b>M. Tech. in Materials Engineering</b> (Duration: 2 Years, 64 credits) 
 <br>
 32 credit course work (Sem I and Sem II) + 32 credit dissertation (Sem III and Sem IV)
-Minimum mandatory credits from courses within the department: 13 (hard core) + 9 (from among the electives). The remaining 10 credits may be completed without restrictions (i.e. courses from within the department or from other departments).
+Minimum mandatory credits from courses within the department: 14 (core) + 9 (from among the electives). The remaining 10 credits may be completed without restrictions (i.e. courses from within the department or from other departments).
 <br>
 
 <b>Ph.D. in Materials Engineering</b><br>
@@ -203,7 +203,12 @@ Students with non-materials background enrolled in the research programs must cr
 <td>Aug</td>
 <td><a href="{{ site.baseurl }}/courses#mt-307-aug-30">Materials in Extreme Environments</a></td>
 </tr>
-
+<tr>
+<td>MT 308</td>
+<td>3:0</td>
+<td>Jan</td>
+<td><a href="{{ site.baseurl }}/courses#mt-308-jan-30">Metal Forming Processes</a></td>
+</tr>
 <tr>
 <td>MT 309</td>
 <td>3:0</td>
@@ -693,6 +698,24 @@ Materials Response Under Irradiation: Irradiation Basics, Irradiation-Processes 
 <li>Neil Bourne, Materials response under mechanical extreme; </li>
 <li>Gary was, Fundamentals of Radiation Materials Science.</li> 
 </ul>
+
+-------------------------------------
+### MT 308  (JAN) 3:0
+
+<b>Metal Forming Processes</b>
+ 
+This course deals with analytical descriptions of the plasticity and metal working processes for metallic materials. The course content includes aspects of materials microstructural changes and damage development during metal working. Some of the interesting examples of industrial relevance will be also included. It caters to post-graduate students in Materials, Mechanical and Aerospace Engineering. 
+
+​The objective of the course is to provide the student with a set of skills which can be applied directly to the materials processing and metal forming industries and which can serve as a basis for graduate research work in forming, materials processing and manufacturing. The course will provide the analytical basis of plasticity and its application to metal forming processes such as rolling, extrusion, wire drawing, forging and sheet metal forming. The course will deal with (i) mechanical response and testing of materials, (ii) a brief description of multiaxial plasticity in terms of yield surfaces, flow rules and anisotropic plasticity, and (iii) analytical descriptions of mechanics of rolling, extrusion, wire drawing, forging and sheet metal forming processes.
+ 
+ 
+References: 
+
+[1]. Metal Forming by W. F. Hosford and R. M. Cadell, 4th Edn.<br>
+[2]. Fundamentals of Metal Forming by R. H. Wagoner and J-L. Chenot<br>
+[3]. Mechanics of sheet metal forming by Duncan, Sowerby and Hu, 2nd Edn.<br>
+
+Instructor: Mukesh Jain (Guest Professor, Department of Mechanical Engineering, McMaster University, Canada)
 
 -------------------------------------
 
