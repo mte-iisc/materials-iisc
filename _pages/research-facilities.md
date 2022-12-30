@@ -233,7 +233,7 @@ permalink: /facilities
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Dr. Ravi R (<a href="mailto:rravi@iisc.ac.in">rravi@iisc.ac.in</a>)Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking</td>
+<td colspan="2">Dr. Ravi R (<a href="mailto:rravi@iisc.ac.in">rravi@iisc.ac.in</a>)Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.</td>
 </tr>
 </tbody>
 </table>
@@ -343,7 +343,10 @@ permalink: /facilities
 </table>
 
 ### X-ray Diffraction Laboratory
-<b>In-charge</b>: Professor R. Ranjan, Professor Satyam Suwas, Dr. G. S. Avadhani
+
+<b>In-charge</b>: Professor R. Ranjan, Professor Satyam Suwas, Dr. G. S. Avadhani<br>
+
+Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.<br>
 
 <table>
 <tbody>
@@ -1318,7 +1321,9 @@ Individual clusters are handled by respective faculties; the precision cooling i
 </table>
 
 ## Mechanical Testing 
-<b>In-charge</b>: Professor Praveen Kumar, Professor Satyam Suwas, Dr. G. S. Avadhani
+<b>In-charge</b>: Professor Praveen Kumar, Professor Satyam Suwas, Dr. G. S. Avadhani<br>
+
+Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDg6UZU5k5QifGxrq1LTRrgSg5lCz_0ep7wGeO9_jKCfcNSQ/viewform?usp=pp_url" target="_blank">this link</a> for online booking.</br>
 
 ### Tensile, Compression and Bending testing
 
