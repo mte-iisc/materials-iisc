@@ -8,7 +8,7 @@ toc_icon: "flask"
 #classes: wide
 permalink: /facilities
 ---
-Users interested in booking the slots please submit the dully filled the central facility usage form (below) in person to respective facility in-charge (or) book by online using the links provided under respective facility sections below:
+Users interested in booking the slots please submit the dully filled central facility usage form (below) in person to respective facility in-charge (or) book by online using the links provided under respective facility sections below:
 
 <b><a href="/pdfs/central-facility.pdf" target="_blank">Central facility usage form</a></b>
 ## Characterization Facilities
