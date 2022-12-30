@@ -8,6 +8,8 @@ toc_icon: "flask"
 #classes: wide
 permalink: /facilities
 ---
+Users interested in booking the slots please submit the dully filled the central facility usage form (below) in person to respective facility in-charge (or) book by online using the links provided under respective facility sections below:
+
 <b><a href="/pdfs/central-facility.pdf" target="_blank">Central facility usage form</a></b>
 ## Characterization Facilities
 
@@ -233,7 +235,7 @@ permalink: /facilities
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Dr. Ravi R (<a href="mailto:rravi@iisc.ac.in">rravi@iisc.ac.in</a>)Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.</td>
+<td colspan="2">Dr. Ravi R (<a href="mailto:rravi@iisc.ac.in">rravi@iisc.ac.in</a>) Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.</td>
 </tr>
 </tbody>
 </table>
