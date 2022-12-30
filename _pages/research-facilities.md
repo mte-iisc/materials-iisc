@@ -346,7 +346,7 @@ permalink: /facilities
 
 <b>In-charge</b>: Professor R. Ranjan, Professor Satyam Suwas, Dr. G. S. Avadhani<br>
 
-Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.<br>
+Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.</br>
 
 <table>
 <tbody>
