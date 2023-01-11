@@ -880,4 +880,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/news/2022-12-21-platinum-jubilee-conference/",
         "teaser": null
+      },{
+        "title": "Fundamentals of corrosion, their different types, and their traditional mitigation measures (12/01/23)",
+        "excerpt":"Speaker and Affliation:  Prof. Raman Singh  KP Abraham Visiting Chair, IISc.   Department of Chemical Engineering, Monash University, Australia.   When?  12th January, 2023 (Thursday), 03:30 PM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ramansingh-12-jan-2023",
+        "teaser": null
       },]
