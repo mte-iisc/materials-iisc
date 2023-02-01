@@ -827,6 +827,24 @@ var store = [{
         "url": "https://materials.iisc.ac.in/archive/2022-12-21-platinum-jubilee-conference/",
         "teaser": null
       },{
+        "title": "Fundamentals of corrosion, their different types, and their traditional mitigation measures (12/01/23)",
+        "excerpt":"Speaker and Affliation:  Prof. Raman Singh  KP Abraham Visiting Chair, IISc.   Department of Chemical Engineering, Monash University, Australia.   When?  12th January, 2023 (Thursday), 03:30 PM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ramansingh-12-jan-2023",
+        "teaser": null
+      },{
+        "title": "Localized Corrosion (19/01/23)",
+        "excerpt":"Speaker and Affliation:  Prof. Raman Singh  KP Abraham Visiting Chair, IISc.   Department of Chemical Engineering, Monash University, Australia.   When?  19th January, 2023 (Thursday), 03:30 PM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ramansingh-19-jan-2023",
+        "teaser": null
+      },{
+        "title": "Advances in corrosion research (Graphene coatings, and Mg alloys for bioimplant applications) (24/01/23)",
+        "excerpt":"Speaker and Affliation:  Prof. Raman Singh  KP Abraham Visiting Chair, IISc.   Department of Chemical Engineering, Monash University, Australia.   When?  24th January, 2023 (Tuesday), 03:30 PM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/ramansingh-24-jan-2023",
+        "teaser": null
+      },{
         "title": "Machining thin metallic foils",
         "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
         "tags": [],
@@ -880,24 +898,6 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
         "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
-        "title": "Fundamentals of corrosion, their different types, and their traditional mitigation measures (12/01/23)",
-        "excerpt":"Speaker and Affliation:  Prof. Raman Singh  KP Abraham Visiting Chair, IISc.   Department of Chemical Engineering, Monash University, Australia.   When?  12th January, 2023 (Thursday), 03:30 PM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/ramansingh-12-jan-2023",
-        "teaser": null
-      },{
-        "title": "Localized Corrosion (19/01/23)",
-        "excerpt":"Speaker and Affliation:  Prof. Raman Singh  KP Abraham Visiting Chair, IISc.   Department of Chemical Engineering, Monash University, Australia.   When?  19th January, 2023 (Thursday), 03:30 PM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/ramansingh-19-jan-2023",
-        "teaser": null
-      },{
-        "title": "Advances in corrosion research (Graphene coatings, and Mg alloys for bioimplant applications) (24/01/23)",
-        "excerpt":"Speaker and Affliation:  Prof. Raman Singh  KP Abraham Visiting Chair, IISc.   Department of Chemical Engineering, Monash University, Australia.   When?  24th January, 2023 (Tuesday), 03:30 PM (India Standard Time)   Venue  KPA Auditorium, Department of Materials Engineering  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/seminar/ramansingh-24-jan-2023",
-        "teaser": null
       },{
         "title": "36th Annual Students Symposium during 27-28, January 2023 (27/01/23)",
         "excerpt":"For more details browse Symposium web site   Preamble  The First edition of the Annual Students’ Symposium was held in the academic year 1987-88. The novel initiative was formulated by Gouthama, presently a faculty member at IT Kanpur. Traditionally the aim, with which this event was envisaged, was to create a platform for the students of this department to interact by presenting and sharing their research amongst themselves. With time, and with the induction of undergraduates, this event has broadened to include the new members of this department, as well as try to familiarise its students with the research done elsewhere. This year, we take pride in ourselves by maintaining the legacy of this Annual Students’ Symposium for 36 years.   Message from Faculty Coordinators and Conveners  Times of festivity are times to be relished. For a person married to the technical way of life, there can be nothing more joyful than the moment when he can speak about his work to an appreciative audience. This is the moment for which he waits patiently, just like one waits for the arrival of a festive season. One such moment, for which the students of this department wait every year, is the Annual Students’ Symposium. Happening for the last 36 years, the aim of this symposium has been to present a platform for the research students of this department to interact, by presenting their ideas, amongst themselves. It also doubles up its responsibilities and enlightens the students about research taking place elsewhere through talks by dignitaries invited from various academies and industries. The 36th Annual Students’ Symposium will be held on 27th and 28th January, 2023. It gives us immense pleasure to be a part of the organising team of the students’ symposium. We hope the effort that we put in bears fruit through a successful conduction of the symposium, and may this symposium be a pleasurable moment for the students of the department as well.  ","categories": [],
