@@ -1,6 +1,6 @@
 ---
 title: "Understanding Material Synthesis and Material Degradation at the Atomic Scale: Two Sides of the Same Coin (06/02/23)"
-permalink: /seminar/ramansingh-06-feb-2023
+permalink: /seminar/arun-06-feb-2023
 ---
 ### Speaker and Affliation:
 Dr. Arun Devaraj<br>
