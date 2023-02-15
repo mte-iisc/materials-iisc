@@ -6,6 +6,25 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+### Advertisement for the Postdoctoral position in Thin Film Heterostructure and Devices: (15 Feb 2023)
+ 
+Description:<br>
+This work involves the growth of multilayer oxide and metallic thin films, device fabrications, and measurements. Pulsed laser deposition and ultra-high vacuum sputtering systems will be utilized to grow the oxide and metallic thin films. The macroscopic structural, magnetic, and transport properties of the grown films will be evaluated. Subsequently, the electronic devices will be fabricated by using conventional photolithography techniques. The detailed device measurement will be conducted in a cryogen-free closed-cycle Cryostat system. 
+ 
+Applicant's profile:<br>
+• Candidate holding a Ph.D. degree in Experimental Physics/Materials Science/Solid State Electronic Devices or a closely related discipline, having a strong interest in thin-film growth, device fabrication, and characterization.<br>
+• Experience of working in thin films deposition (PLD or Sputtering), photolithography, VSM or SQUID, and transport measurement systems is preferable.<br>
+• Sound knowledge of solid-state physics, electronic devices, and magnetism is required.<br>
+• Excellent paper writing skills and the ability to guide new Ph.D. students in lab work are expected. 
+ 
+Emoluments: As per the institute rules<br>
+ 
+Duration: 2 years commencing immediately <br>
+ 
+How to apply: <br>Interested and qualified candidates should send their applications as a single PDF file furnishing the bio-data with publications list, copies of certificates in support of qualification and experience along with contact details of at least two academic referees to bpjoshi@iisc.ac.in before February 28, 2023.<br>
+ 
+For further information about the position please contact <br>Dr. Bhagwati Prasad (bpjoshi@iisc.ac.in), Materials Engineering Department, IISc Bangalore.<br>
+
 ### PSPM group, Materials Engineering, IISc
 Our group invites applications for a post-doctoral position to work on fatigue and creep of titanium alloys for a minimum of 6 months and extendable to 2 years. The candidate must have experience in testing for mechanical behaviour, hands-on experience with SEM/EBSD and interpretation of EBSD data. Experience with transmission electron microscopy and digital image correlation is desirable.  Candidates may also apply immediately after submitting their thesis.<br>
 Prof. Dipankar Banerjee<br>
