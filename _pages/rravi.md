@@ -9,9 +9,11 @@ Chief Research Scientist<br>
 E-307, Department of Materials Engineering, Indian Institute of Science<br>
 C V Raman Avenue, Bangalore-560012, INDIA<br>
 
-<b>Email:</b> rravi_at_iisc.ac.in<br>
+<b>Office:</b> Room E 307<br>
+<b>E-mail:</b> rravi_at_iisc.ac.in<br>
+<b>Phone:</b> +91 80 2293 3244
 <b>Web:</b> https://materials.iisc.ac.in/faculty/rravi<br>
-<b>Tel:</b> +91-80-2293 3244
+
 
 ## Research Interests
 
