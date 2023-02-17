@@ -15,7 +15,7 @@ Tuesday, February 21, 2023 to March 3, 2023 (no class on Sunday, February 26, 20
 5 to 6:30 PM
  
 ### Venue:
- ​KP Abraham Auditorium, Department of Materials Engineering, IISc
+New Classroom, Platinum Jubilee Wing, Department of Materials Engineering 
  
  
 ### Introduction and Overview
