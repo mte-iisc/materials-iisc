@@ -6,6 +6,21 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+### Advanced Manufacturing & Materials Processing Group (https://lnkd.in/g4cBqJde / https://materials.iisc.ac.in/faculty/prosenjit ) in the department of Materials Engineering at IISc, Bengaluru is looking for a Project Associates to work on below mentioned project
+
+1. CFD and Phase Field modelling of Additive Manufacturing Processes of Ni based supperalloy (No. of positions: 1)
+
+Project Associate-I:
+
+Qualification: M.E./M.Tech in Metallurgical and Materials Engineering/ Production Engg./ Mechanical/ Manufacturing/ Thermal / Aeronautical Engineering or Ph.D. in Physics/Materials/Metallurgy with a good academic record
+Remuneration: Rs. 31,000/- per month for scholars who are selected through GATE/CSIR-UGC NET including lectureship (Assistant Professorship) else Rs. 25,000/- per month + HRA (According to IISc norms)
+
+Age limit: 35 yrs.
+
+Duration: 1 year and subsequently renewable based on performance
+
+Desirable skills: Experience in working with Computational Fluid Dynamics based Multi-Phase Flow simulation/ Finite Element modelling/ CAD and Solid modelling / Casting & Solidification/Additive Manufacturing/Injection Moulding/ Powder Metallurgy/ Bio-ceramics/ Material Characterisation/ Atomistic modelling/ Computer languages such as "C" or "Fortran"/Mechanical Metallurgy/Mechanical testing/Ability to conduct experiments and analyse data (microstructure analysis, mechanical testing’s such as monotonic tensile testing, nano-indentation etc.)/ Ability to learn and operate SEM, EBSD, FIB, and TEM.
+
 ### Advanced Manufacturing & Materials Processing Group (https://lnkd.in/g4cBqJde) (https://lnkd.in/gfhi98yJ)
 in the department of Materials Engineering at IISc, Bengaluru is looking for a Post Doc to work on several ongoing/approved projects
 
