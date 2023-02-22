@@ -14,7 +14,7 @@ The Silver Jubilee of the Department was celebrated in 1972 with twin Internatio
 <tbody>
 <tr>
 <td>2021-22</td>
-<td>Platinum Jubilee</td>
+<td><a href="https://materials.iisc.ac.in/platinum">Platinum Jubilee</a></td>
 </tr>
 <tr>
 <td>2008</td>
