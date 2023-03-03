@@ -811,6 +811,124 @@ Transducer: 0.001 mmHg
 </tbody>
 </table>
 
+### Functional property characterization 
+
+<table>
+<tbody>
+<tr>
+<th colspan="3" style="text-align:center; font-size:large">Seebeck coefficient/electrical resistance measuring system</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/ulvac.png"></td>
+</tr>
+<tr>
+<td><b>Model</b></td>
+<td colspan="2">ULVAC-Rico-ZEM-3 (M10)</td>
+</tr>
+<tr> 
+<td><b>Temperature</b></td>
+<td colspan="2">RT to 1100°C</td>
+</tr>
+<tr> 
+<td><b>Reference Material</b></td>
+<td colspan="2">Constantan</td>
+</tr>
+<tr>
+<td rowspan="3"><b>Charges (Rupees per hour + GST)</b></td>
+<td>Department (<i class="fa fa-inr"></i> per hour)</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Academic (<i class="fa fa-inr"></i> per hour)</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
+<td>1000</td>
+</tr>
+<tr>
+<td><b>Contact person</b></td> 
+<td colspan="2">Prof. Subho Dasgupta   (<a href="mailto:dasgupta@iisc.ac.in">dasgupta@iisc.ac.in</a>)</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th colspan="3" style="text-align:center; font-size:large">Thermal properties testers</th>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/flashline.png"></td>
+</tr>
+<tr>
+<td><b>Model</b></td>
+<td colspan=2>Flashline L-S2  EM 200-Discovery</td>
+</tr>
+<tr> 
+<td><b>Temperature</b></td>
+<td colspan="2">-150 to 200°C</td>
+</tr>
+<tr> 
+<td><b>Atmosphere</b></td>
+<td colspan="2">Air, Inert</td>
+</tr>
+<tr>
+<td rowspan="3"><b>Charges (Rupees per hour + GST)</b></td>
+<td>Department (<i class="fa fa-inr"></i> per hour)</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Academic (<i class="fa fa-inr"></i> per hour)</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
+<td>1000</td>
+</tr>
+<tr>
+<td><b>Contact person</b></td> 
+<td colspan="2">Prof. Subho Dasgupta   (<a href="mailto:dasgupta@iisc.ac.in">dasgupta@iisc.ac.in</a>)</td>
+</tr>
+<tr>
+<td colspan="9" style="text-align:center"><img src="{{ site.baseurl }}/assets/images/facilities/flashline5000.png"></td>
+</tr>
+<tr>
+<td><b>Model</b></td>
+<td colspan=2>Flashline 50000</td>
+</tr>
+<tr> 
+<td><b>Temperature</b></td>
+<td colspan="2">RT to 3000°C</td>
+</tr>
+<tr> 
+<td><b>Furnace Type</b></td>
+<td colspan="2">Graphite</td>
+</tr>
+<tr> 
+<td><b>Pulse Source</b></td>
+<td colspan="2">Nd-Glass Laser with pulse width of 300 μm</td>
+</tr>
+<tr>
+<td rowspan="3"><b>Charges (Rupees per hour + GST)</b></td>
+<td>Department (<i class="fa fa-inr"></i> per hour)</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Academic (<i class="fa fa-inr"></i> per hour)</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
+<td>1000</td>
+</tr>
+<tr>
+<td><b>Contact person</b></td> 
+<td colspan="2">Prof. Subho Dasgupta   (<a href="mailto:dasgupta@iisc.ac.in">dasgupta@iisc.ac.in</a>)</td>
+</tr>
+</tbody>
+</table>
+
 ## Alloy Preparation Laboratory
 <b>In-charge:</b> Professor S. Suwas, Professor A. Paul, Dr. P. Padaikathan
 
