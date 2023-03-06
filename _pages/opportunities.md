@@ -5,6 +5,17 @@ classes: wide
 permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
+### Advanced Manufacturing & Materials Processing Group
+(https://lnkd.in/g4cBqJde) (https://lnkd.in/gfhi98yJ) ( https://materials.iisc.ac.in/faculty/prosenjit )
+in the department of Materials Engineering at IISc, Bengaluru is looking for a Post Doc for Industry Sponsored Project.
+
+Qualification: Ph.D. in Metallurgical and Materials Engineering/ Production Engg./ Mechanical/ Manufacturing/ Thermal / Aeronautical Engineering/ Physics/Materials/Metallurgy with a good academic record.
+
+Remuneration: Remuneration can vary between Rs. 31,000/- per month to Rs. 55,000 + HRA based on academic record and experience of scholars (According to IISc norms)
+
+Duration: 1 year and subsequently renewable based on performance
+
+Desirable skills: Experience in working with Computational Fluid Dynamics based Multi-Phase Flow simulation/ Finite Element modelling/ CAD and Solid modelling / Casting & Solidification/Additive Manufacturing/Metal Foam development/Injection Moulding/ Powder Metallurgy/ Bio-ceramics/ Material Characterisation/ Atomistic modelling/ Crystal Plasticity modelling/ Computer languages such as "C" or "Fortran"
 
 ### Advanced Manufacturing & Materials Processing Group (https://lnkd.in/g4cBqJde / https://materials.iisc.ac.in/faculty/prosenjit ) in the department of Materials Engineering at IISc, Bengaluru is looking for a Project Associates to work on below mentioned project
 
