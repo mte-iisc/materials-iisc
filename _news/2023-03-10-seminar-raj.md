@@ -16,8 +16,9 @@ KPA Auditorium, Department of Materials Engineering
 ### Abstract
 Gas turbine is one of the greatest engineering inventions that followed the introduction of steam engines. It is an engineering marvel and today helps to fly anywhere in the world as well provide power to numerous industries. It is a complex machine that requires extreme control of structure and property of components to operate safely and efficiently. Developing countries like China and India are unable to produce jet engines and gas turbines that can produce most efficient and effective power. The talk is about why structure and property control of turbine blades are so important and the difficulties associated in manufacturing. 
  
-Agenda:  <br>
-Gas Turbine <br>
+### Agenda:
+
+Gas Turbine: <br>
 Components <br>
 Principle of operation  <br>
  
