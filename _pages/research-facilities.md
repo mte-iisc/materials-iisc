@@ -195,7 +195,7 @@ Users interested in booking the slots please submit the dully filled central fac
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Dr. Ravi R (<a href="mailto:rravi@iisc.ac.in">rravi@iisc.ac.in</a>) Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking</td>
+<td colspan="2">Dr. Ravi R (<a href="mailto:emlab.mte@iisc.ac.in">emlab.mte@iisc.ac.in</a>) Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking</td>
 </tr>
 </tbody>
 </table>
@@ -235,7 +235,7 @@ Users interested in booking the slots please submit the dully filled central fac
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Dr. Ravi R (<a href="mailto:rravi@iisc.ac.in">rravi@iisc.ac.in</a>) Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.</td>
+<td colspan="2">Dr. Ravi R (<a href="mailto:emlab.mte@iisc.ac.in">emlab.mte@iisc.ac.in</a>) Click <a href="http://afmm.iisc.ac.in:8080/METSEMBooking/?" target="_blank">this link</a> for online booking.</td>
 </tr>
 </tbody>
 </table>
