@@ -1,6 +1,6 @@
 ---
-title: "Mechanics and Processing of Ceramics and Ceramic Composites (21/02/23)"
-permalink: /seminar/bordia-21-feb-2023
+title: "Mechanics and Processing of Ceramics and Ceramic Composites (15/03/23)"
+permalink: /seminar/bordia-15-mar-2023
 ---
 ### Instructor:
 ​Rajendra Bordia (rbordia@clemson.edu), <br>
@@ -9,7 +9,7 @@ and<br>
 George J. Bishop, III Professor of Ceramic and Materials Engineering, Clemson University, Clemson, SC, USA.
  
 ### Class Dates:​
-Tuesday, February 21, 2023 to March 3, 2023 (no class on Sunday, February 26, 2023).
+March 15, 2023 to March 27, 2023 (no class on the Saturday of March 25th, and Sundays of March 19th and March 26th) [10 days].
  
 ### Class Times:​
 5 to 6:30 PM
