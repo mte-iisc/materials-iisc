@@ -8,8 +8,6 @@ main:
     url: /events-list
   - title: "Courses"
     url: /courses
-  - title: "Platinum Jubilee"
-    url: /platinum
   - title: "Links"
     url: /links
 sidelinks:
