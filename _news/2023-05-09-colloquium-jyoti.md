@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Colloquium: Mr. Jyoti Ranjan Pradhan (09/05/23)"
-permalink: /colloquium/jyoti-may-2023
+permalink: /colloquium/jyoti-09-may-2023
 ---
 ### Thesis title:
 Inkjet-printed high performance oxide electronics and its application at sensor interface
