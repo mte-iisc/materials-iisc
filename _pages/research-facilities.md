@@ -227,10 +227,10 @@ Users interested in booking the slots please submit the dully filled central fac
 </tr>
 <tr>
 <td>Academic (<i class="fa fa-inr"></i> per hour)</td>
-<td>1000</td>
+<td>2500</td>
 </tr>
 <tr>
-<td>Industry (<i class="fa fa-inr"></i> per 3 hours)</td>
+<td>Industry (<i class="fa fa-inr"></i> per hour)</td>
 <td>5000 + GST</td>
 </tr>
 <tr>
