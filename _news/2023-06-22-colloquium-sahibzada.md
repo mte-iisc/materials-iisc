@@ -1,0 +1,18 @@
+---
+title: "PhD Thesis Colloquium: Sahibzada Roohan Farooq Lala (22/06/23)"
+permalink: /colloquium/sahibzada-22-jun-2023
+---
+### Thesis title:
+Microstructure-Corrosion Property Correlation in Electrodeposited Tin and Copper Based Coating Systems
+
+### Faculty advisor(s):
+Prof. Chandan Srivastava
+
+### When?
+22<sup>rd</sup> June, 2023 (Thursday), 11:00 AM (India Standard Time)
+
+### Mode
+Online: Microsoft Teams
+
+### Abstract: 
+Conventional metallic coatings are widely used for protection against corrosion. This study investigates the correlation between microstructure and corrosion properties in SnCr and CuCr electrodeposited coatings. The wide immiscibility of SnCr and CuCr systems would facilitate chromium's segregation in the high energy grain boundary regions, enhancing the corrosion resistance due to the formation of the stable Cr2O3 phase. The first part of the study was focused on developing SnCr and CuCr coatings with varying Cr content. Microstructural analysis using STEM revealed Cr segregation at the grain boundaries of the matrix phases, along with the evolution of solid solution SnCr and CuCr phases. For both SnCr and CuCr coatings, the corrosion rate (determined using Potentiodynamic Polarization and Electrochemical Impedance Spectroscopy) varied non-monotonically with Cr concentration, and at an optimum Cr concentration, the highest corrosion resistance was achieved. Higher corrosion resistance at lower Cr concentrations was attributed to Cr-oxide formation and the evolution of low-energy surface texture and grain boundary constitution. The higher corrosion rate at higher Cr additions was primarily due to increased coating strain. In the second part of the work, the SnCr and CuCr coatings with the lowest corrosion rate were co-deposited with graphene oxide (GO) as reinforcement. The corrosion rate of the coatings was sensitive to the volume fraction of the added GO, and at an optimum volume fraction, the lowest corrosion rate was noticed. The corrosion resistance improvement was due to the impermeable and inert nature of the GO sheets. The incorporation of GO promoted SnCr coating growth along the low energy (100) plane, while in the case of CuCr coating, surface texture revealed dominant low energy (111) planes. GO also increased the fraction of low energy low angle grain boundaries (LAGBs) and coincidence site lattices (CSLs) in both coating systems, thereby enhancing corrosion resistance. A high GO concentration led to high corrosion rates in composite coatings primarily because of the agglomeration of GO and potential galvanic coupling between the anodic metallic matrix and the cathodic GO sheets. The third part of the work involved investigation of the effect of the deposition temperature (15ºC - 45ºC) on the microstructure and corrosion behaviour of electrodeposited SnCr and CuCr coatings. The low electrodeposition temperature (15ºC) yielded coating with the lowest corrosion rate. The surface morphology of the coatings exhibited significant changes because of variations in the deposition temperature. This effect can be attributed to the alterations in deposition kinetics, which, in turn, influenced the nucleation and growth mechanisms of the coatings. The coating grain size decreased with a decrease in the deposition temperature. For the SnCr system, the preferred orientation along the low energy (100) plane, a high fraction of LAGBs, and low average strain within the grains gave rise to better corrosion resistance. Similarly, for the CuCr system, 15°C coating exhibited higher corrosion resistance due to (111) preferred orientation, smaller grain size, increased CSL boundaries, and Ʃ3 coherent twin boundaries. 
