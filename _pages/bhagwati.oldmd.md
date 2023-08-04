@@ -13,7 +13,7 @@ Bangalore-560012, INDIA<br>
 
 Tel: +91-80-2293 2679<br>
 email: bpjoshi_at_iisc.ac.in<br>
-url:https://www.demandlab-iisc.com
+Group Wesite: <a href="https://www.demandlab-iisc.com/" target="_blank">https://www.demandlab-iisc.com/</a>
 
 ## Education
 <ul>
