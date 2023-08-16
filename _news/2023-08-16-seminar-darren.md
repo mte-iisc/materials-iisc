@@ -1,6 +1,6 @@
 ---
 title: "Answering the Clinical Need: Adopting an Integrative and Multidisciplinary Approach to Musculoskeletal Science (16/08/23)"
-permalink: /seminar/darren-14-aug-2023
+permalink: /seminar/darren-16-aug-2023
 ---
 
 ### Speaker and Affliation:
