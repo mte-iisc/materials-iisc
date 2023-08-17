@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Colloquium: Mr. Sandeep Tripathi (18/08/23)"
-permalink: /colloquium/sandeep-18-sep-2023
+permalink: /colloquium/sandeep-18-aug-2023
 ---
 ### Thesis title:
 "Thermoplastic” epoxy designed using vitrimer chemistries
