@@ -1,6 +1,6 @@
 ---
-title: "PhD Thesis Defence: Mr. Anuj Dash (25/08/23)"
-permalink: /defence/anuj-25-aug-2023
+title: "PhD Thesis Defence: Mr. Anuj Dash (01/09/23)"
+permalink: /defence/anuj-01-sep-2023
 ---
 ### Thesis title:
 Solving The Unsolved In Multicomponent Diffusion: The Concept Of Constrained Diffusion Couple Methods
@@ -9,7 +9,7 @@ Solving The Unsolved In Multicomponent Diffusion: The Concept Of Constrained Dif
 Prof. Aloke Paul 
 
 ### When?
-25<sup>th</sup> August, 2023 (Friday), 11:00 AM (India Standard Time)
+1<sup>st</sup> September, 2023 (Friday), 11:00 AM (India Standard Time)
 
 ### Where
 KPA Auditorium, Dept of Materials Engineering
