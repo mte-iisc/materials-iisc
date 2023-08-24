@@ -45,7 +45,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 213</td>
 <td>3:0</td>
 <td>Jan</td>
-<td><a href="{{ site.baseurl }}/courses#mt-213-aug-30">Electronic Properties of Materials</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-213-jan-30">Electronic Properties of Materials</a></td>
 </tr>
 <tr>
 <td>MT 217</td>
@@ -88,7 +88,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 205</td>
 <td>3:0</td>
 <td>Jan</td>
-<td><a href="{{ site.baseurl }}/courses#mt-241-jan-30">Structure and Characterization of Materials</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-205-jan-30">Structure and Characterization of Materials</a></td>
 </tr>
 <tr>
 <td>MT 206 </td>
@@ -106,7 +106,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 209</td>
 <td>3:0</td>
 <td>Jan</td>
-<td><a href="{{ site.baseurl }}/courses#mt-209-aug-30">Defects in Materials</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-209-jan-30">Defects in Materials</a></td>
 </tr>
 <tr>
 <td>MT 211</td>
