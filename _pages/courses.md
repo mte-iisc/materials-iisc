@@ -419,7 +419,7 @@ References:
 
 -------------------------------------
 
-### MT 218 (AUG) 2:1
+### MT 218 (JAN) 2:1
 
 <b>Modeling and Simulation in Materials Engineering</b> 
 
