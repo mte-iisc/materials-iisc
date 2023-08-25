@@ -118,7 +118,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>MT 218</td>
 <td>2:1</td>
 <td>Jan</td>
-<td><a href="{{ site.baseurl }}/courses#mt-218-jan-30">Modeling and Simulation in Materials Engineering</a></td>
+<td><a href="{{ site.baseurl }}/courses#mt-218-aug-21">Modeling and Simulation in Materials Engineering</a></td>
 </tr>
 <tr>
 <td>MT 220</td>
@@ -404,7 +404,7 @@ Experimental techniques: VSM, SQUID, Mossbauer, MFM, Magneto-transport, Magnetoo
 
 -------------------------------------
 
-### MT 217 (AUG)  3:0   
+### MT 217 (AUG) 3:0   
 
 <b>Computational  Mathematics for Materials Engineers</b>
 Vector and tensor algebra; Basics of linear algebra and matrix inversion methods; Coordinate transformations methods; Optimization methods, Probability and statistics; Numerical methods: Concepts of discretization in space/time, implicit, explicit; Solution to ODEs(Euler, Heun, Runge-Kutta methods), PDEs (Elliptic, Parabolic, Hyperbolic), solutions to Laplace equation and applications, transient diffusion and wave equation; Discretization methods (FDM, FVM, FEM);  iterative solution schemes Jacobi, Gauss-Seidel, ADI, Multigrid, Fourier-spectral schemes; Root finding methods, interpolation, curve-fitting, regression; Special functions: Bessel, Legendre, Fourier, Laguerre, etc; Computational tools for the solution to all the above problems will be discussed along with canonical examples from materials problems. Software tools, based on python and/or MATLAB, will also be introduced in the course.   Instructor: A N Choudhury and Sai Gautam G 
