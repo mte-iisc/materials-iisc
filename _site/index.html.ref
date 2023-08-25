@@ -1,0 +1,494 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.20.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Materials Engineering IISc</title>
+<meta name="description" content="Website of Department of Materials Engineering, Indian Institute of Science">
+
+
+  <meta name="author" content=" ">
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Materials Engineering IISc">
+<meta property="og:title" content="Materials Engineering IISc">
+<meta property="og:url" content="https://materials.iisc.ac.in/.ref">
+
+
+  <meta property="og:description" content="Website of Department of Materials Engineering, Indian Institute of Science">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://materials.iisc.ac.in/.ref">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Department of Materials Engineering",
+      "url": "https://materials.iisc.ac.in/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Materials Engineering IISc Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.jpg">	
+
+<!-- end custom head snippets -->
+
+    <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<link rel="stylesheet" href="/assets/css/slider/ideal-image-slider.css">
+<link rel="stylesheet" href="/assets/css/slider/themes/default.css">
+    
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
+
+  <body class="layout--splash">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/IISclogo.png" alt=""></a>
+        
+        <a class="site-title" href="/">
+          Materials Engineering
+          <span class="site-subtitle"> </span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/history">About Us</a>
+            </li><li class="masthead__menu-item">
+              <a href="/news-list">News</a>
+            </li><li class="masthead__menu-item">
+              <a href="/events-list">Events</a>
+            </li><li class="masthead__menu-item">
+              <a href="/courses">Courses</a>
+            </li><li class="masthead__menu-item">
+              <a href="/links">Links</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+	    
+	    
+
+	    
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    
+    
+    
+
+    <section class="page__content" itemprop="text">
+      
+
+<div class="feature__wrapper">
+
+  
+
+</div>
+
+
+
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/home-page-features/research_home.png"
+                 alt="research-image">
+            
+              <span class="archive__item-caption">Stem cells on 3D printed polymer scaffold
+</span>
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Research</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Our department works on all facets of materials science, including theoretical, experimental, and computational.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/highlights" class="btn btn--primary">Explore</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/home-page-features/symposium_home.png"
+                 alt="people-image">
+            
+              <span class="archive__item-caption">Faculty and students
+</span>
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">People</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>We have a vibrant set of faculty members, students, and research scholars who are ably supported by our staff.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/faculty" class="btn btn--primary">Know</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/home-page-features/openday2020.png"
+                 alt="engage-image">
+            
+              <span class="archive__item-caption">Open day 2020
+</span>
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Engage</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Want to participate in departmental activities? Want to join us as a student or a faculty? Want to support our research?</p>
+
+            </div>
+          
+
+          
+            <p><a href="/activities" class="btn btn--primary">Connect</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+
+
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/home-page-features/unsplash-gallery-image-2-th.jpg"
+                 alt="placeholder image 2">
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+
+
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--right">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/home-page-features/unsplash-gallery-image-2-th.jpg"
+                 alt="placeholder image 2">
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Right Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Right aligned with <code class="language-plaintext highlighter-rouge">type="right"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+
+
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/home-page-features/unsplash-gallery-image-2-th.jpg"
+                 alt="placeholder image 2">
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Center Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Centered with <code class="language-plaintext highlighter-rouge">type="center"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+
+
+<a class="twitter-timeline" data-height="450" data-theme="dark" href="https://twitter.com/goths19?ref_src=twsrc%5Etfw">Tweets by goths19</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    </section>
+  </article>
+</div>
+
+    </div>
+
+    <script src="/assets/js/vanilla-back-to-top.min.js"></script>
+	<script>addBackToTop({
+		diameter: 56,
+		backgroundColor: '#0092ca',
+		textColor: '#000'
+		})</script>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <!--li><strong>Follow:</strong></li-->
+    
+          <li><a href="/contact"><i class="far fa-address-card" aria-hidden="true"></i> Contact</a></li>
+          <li><a href="/credits"><i class="fas fa-laptop-code" aria-hidden="true"></i> Credits</a></li>
+
+    
+      
+        
+      
+        
+      
+        
+          <li><a href="https://github.com/mte-iisc" rel="nofollow noopener noreferrer" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+          <li><a href="https://iisc.ac.in" rel="nofollow noopener noreferrer" target="_blank"><i class="fas fa-university" aria-hidden="true"></i> IISc</a></li>
+    <!--li><a href="/feed.xml"><i class="fas fa-rss" aria-hidden="true"></i> Feed</a></li-->
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 Department of Materials Engineering. Powered by <a href="https://jekyllrb.com" target="_blank" rel="nofollow">Jekyll</a>, <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" target="_blank" rel="nofollow">Minimal Mistakes</a> &amp; <a href="https://github.com/jekylltools/jekyll-ideal-image-slider-include" target="_blank" rel="nofollow">Ideal Image Slider</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+    <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+  <script src="/assets/js/slider/ideal-image-slider.min.js"></script>
+  <script src="/assets/js/slider/iis-bullet-nav.js"></script>
+  <script src="/assets/js/slider/iis-captions.js"></script>
+  <script>
+  var slider1 = new IdealImageSlider.Slider({
+      selector: '#slider1',
+      height: 361.0,
+      interval: 4000,
+      effect: 'fade',
+      });
+    slider1.addCaptions();
+    slider1.start();
+  </script>
+
+  </body>
+</html>
