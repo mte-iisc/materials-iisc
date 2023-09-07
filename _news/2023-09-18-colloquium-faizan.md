@@ -6,7 +6,7 @@ permalink: /colloquium/faizan-18-sep-2023
 High-Throughput Bending for Investigating Creep Behavior Affected by Structural and Microstructural Inhomogeneities
 
 ### Faculty advisor(s):
-Prof. Praveen Kumar
+Prof. Praveen Kumar and Prof. Vikram Jayaram
 
 ### When?
 18<sup>th</sup> September, 2023 (Monday), 03:00 PM (India Standard Time)
