@@ -96,7 +96,7 @@ Here are links to some of the key resources for your ready reference. The <a hre
 <a href="/docs/Travel-Requisition-CPDA.doc">Travel requisition CPDA</a> | 
 <a href="/docs/Travelling-allowance-Bill-Visitors.doc">Travel allowance bill Visitors</a> | 
 <a href="/docs/Travelling-Allowance-Bill.doc">Travel allowance bill</a>| 
-<a href="/docs/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
+<a href="/pdfs/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
 
 <b>LTC</b>
 
