@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Colloquium: Mr. Faizan Hijazi (18/09/23)"
-permalink: /colloquium/faizan-19-aug-2023
+permalink: /colloquium/faizan-18-sep-2023
 ---
 ### Thesis title:
 High-Throughput Bending for Investigating Creep Behavior Affected by Structural and Microstructural Inhomogeneities
