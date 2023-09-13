@@ -3,7 +3,7 @@ title: "PhD Thesis Defence: Mr. Kandula Muni Kumar (22/09/23)"
 permalink: /defence/muni-22-sep-2023
 ---
 ### Thesis title:
-Studying the effect of Re on the Co-Ni-Al-Ti-Nb-Cr superalloy's  coarsening kinetics and establishing the high-throughput diffusion c= ouple approach for alloy design
+Studying the effect of Re on the Co-Ni-Al-Ti-Nb-Cr superalloy's  coarsening kinetics and establishing the high-throughput diffusion couple approach for alloy design
 
 ### Faculty advisor(s):
 Prof. Aloke Paul and Prof. Chattopadhyay K
@@ -12,7 +12,7 @@ Prof. Aloke Paul and Prof. Chattopadhyay K
 22<sup>nd</sup> September, 2023 (Friday), 11:30 AM (India Standard Time)
 
 ### Where
-KI Vasu Auditorium, Dept of Materials Engineering. 
+K I Vasu Auditorium, Dept of Materials Engineering. 
 
 ### Abstract
 The studies are conducted to understand the effect of Re addition on  microstructural evolution and coarsening kinetics of new Co-Ni-= Al-Ti-Nb-Cr based superalloys. Lattice misfit is reduced with addition of Re, confirmed from high-resolution XRD. As a result, the  morphological transition from cuboidal to rounded cornered cubes with Re  addition is observed. Re solubility limit in the alloy is 3 at. %, and  excess Re promoted the formation of TCP phases. Through APT analysis, it  was found experimentally that there was no segregation of Re at the  / interface. With the addition of Re, the 0.2% proof strength is  retained up to 870°C with strength values greater than 650 MPa. However,  absence of yield strength anomaly (YSA) with Re is observed. 

@@ -12,7 +12,7 @@ Prof. Praveen Kumar and Prof. Vikram Jayaram
 18<sup>th</sup> September, 2023 (Monday), 03:00 PM (India Standard Time)
 
 ### Where
-KI VASU Auditorium, Department of Materials Engineering
+K I Vasu Auditorium, Department of Materials Engineering
 
 ### Abstract: 
 The bending of cantilevers is an alternate technique for the extraction of power-law creep parameters of materials. It has been shown earlier that in simple homogeneous systems, digital image correlation (DIC) can provide a high-throughput evaluation of creep parameters by obtaining multiple stress-strain rate pairs from a single test in a geometry that can accommodate small samples and simple fixturing. The present thesis attempts to extend the usefulness of this technique to more complex systems which display large or small-scale microstructural gradients. 
