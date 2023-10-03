@@ -1,6 +1,6 @@
 ---
 title: "Investigation of additively manufactured and non-additively manufactured materials (04/10/23)"
-permalink: /seminar/sudipta-04-oct-2023
+permalink: /seminar/sudipto-04-oct-2023
 ---
 ### Speaker and Affliation:
 Dr. Sudipta Pramanik<br>
