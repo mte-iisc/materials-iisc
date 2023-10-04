@@ -1,6 +1,6 @@
 ---
-title: "Flexible CMOS logic based on TMDC 2D materials (26/09/23)"
-permalink: /seminar/daniel-26-sep-2023
+title: "Flexible CMOS logic based on TMDC 2D materials (04/10/23)"
+permalink: /seminar/daniel-04-oct-2023
 ---
 Indian Institute of Metals - Bangalore Chapter,
 
@@ -16,7 +16,7 @@ University of Wuppertal, Chair of Smart Sensor Systems, 42119 Wuppertal, Germany
 AMO GmbH, Otto-Blumenthal-Str. 25, 52074 Aachen, Germany 
 
 ### When?
-26<sup>th</sup> September, 2023 (Tuesday), 04:00 PM (India Standard Time)
+04<sup>th</sup> October, 2023 (Tuesday), 04:00 PM (India Standard Time)
 
 ### Where
 KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore

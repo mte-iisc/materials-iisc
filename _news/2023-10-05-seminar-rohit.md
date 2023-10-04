@@ -8,7 +8,7 @@ Assistant Professor, Department of Metallurgical and Materials Engineering<br>
 IIT Madras 
 
 ### When?
-5<sup>th</sup> October, 2023 (Thursday), 03:00 PM (India Standard Time)
+5<sup>th</sup> October, 2023 (Thursday), 10:30 AM (India Standard Time)
 
 ### Where
 K I Vasu Auditorium, Dept. of Materials Engineering, IISc, Bangalore
