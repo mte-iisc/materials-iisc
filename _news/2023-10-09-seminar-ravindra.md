@@ -7,7 +7,7 @@ Dr. Bukke Ravindra Naik<br>
 Assistant Professor, Indian Institute of Technology Mandi
 
 ### When?
-9<sup>th</sup> October, 2023 (Monday), 03:00 PM (India Standard Time)
+9<sup>th</sup> October, 2023 (Monday), 10:30 AM (India Standard Time)
 
 ### Where
 K I Vasu Auditorium, Dept. of Materials Engineering, IISc, Bangalore

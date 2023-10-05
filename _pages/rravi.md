@@ -58,7 +58,7 @@ Bangalore-560012, INDIA<br>
 
 ## Publications
 <ol reversed="">
-<li>K. Monisha, S.M. Shariff, A. Sekar, Ravi Raju, J. Manonmani and Senthilselvan Jayaraman; <u>Titanium boride coating by high power laser alloying of amorphous boron with titanium and its surface property investigations</u>, Optics and Laser Technology, submitted 2023.</li>
+<li>K. Monisha, S.M. Shariff, A. Sekar, Ravi Raju, J. Manonmani and Senthilselvan Jayaraman; <u>Titanium boride coating by high power laser alloying of amorphous boron with titanium and its surface property investigations</u>, Optics and Laser Technology, Accepted for publication 2023.</li>
 <li>Muthusamy Murugan, M. Alagupalamuthirsolai, K. Ashokkumar, A. Anandhi, R. Ravi, R. Rajangam, M.K. Dhanya and K.S. Krishnamurthy, <u>Climate change scenarios, their impacts and implications on Indian cardamom-coffee hot spots; one of the two in the world</u>, journal
 Frontiers in Sustainable Food Systems, December 2022, DOI 10.3389/fsufs.2022.1057617.</li>
 <li>Prafull Pandey, Mangesh V. Pantawane, Nithin Baler, Raju Ravi, Surendra Kumar Makineni, Kamanio Chattopadhyay, <u>Effect of Cr addition on the Gamma' strengthened CoNiCrAlMo compositionally complex alloy</u>,  Journal of Materials Science and Technology 39:3 (2023) 347-361. https://doi.org/10.1080/02670836.2022.2114615.</li>
