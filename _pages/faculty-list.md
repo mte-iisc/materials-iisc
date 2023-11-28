@@ -38,11 +38,12 @@ classes: wide
 # Visiting and Adjunct Faculty
 
 | --------         | ------    | ------------------------------------------------------------ |                         
-| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in  <br> <a href="https://materials.iisc.ac.in/old/faculty/sonal-asthana/" target="_blank">Personal Website</a>   | 3D Bioprinting and Biomaterials <br> Data analytics for clinical research        |
-| <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Brahm Prakash Chair Professor <br> <a href="{{ site.baseurl }}/pdfs/shervanthi.pdf" target="_blank">Personal Website</a>   | Basic, translational and clinical research        |
-| <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.jpg" width=120px>    |  Prasad K. D. V. Yarlagadda <br> SERB-VAJRA Professor  <br> <a href="https://staff.qut.edu.au/staff/y.prasad" target="_blank">Personal Website</a>   | Manufacturing <br> Smart systems        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/darren.png" width=120px>    |  Dr. Darren Player <br> Hubert I Aaronson Visiting Scientist  <br> <a href="https://www.ucl.ac.uk/surgery/people/dr-darren-j-player-0" target="_blank">Personal Website</a>   | Tissue engineering <br> Skeletal muscle cell physiology <br>Musculoskeletal science <br>Rehabilitation        |
 | <img src="{{ site.baseurl }}/assets/images/faculty/gopalan.jpg" width=120px>    |  R. Gopalan <br> Adjunct Professor  <br> <a href="https://www.arci.res.in/people-pages/1570180304_gopalan.pdf" target="_blank">Personal Website</a>   | High Tc Superconductors <br> Magnetic materials <br>Li-ion battery <br>Thermoelectric, structure-property correlation of functional materials        |
-
+| <img src="{{ site.baseurl }}/assets/images/faculty/prasadkdv.jpg" width=120px>    |  Prasad K. D. V. Yarlagadda <br> SERB-VAJRA Professor  <br> <a href="https://staff.qut.edu.au/staff/y.prasad" target="_blank">Personal Website</a>   | Manufacturing <br> Smart systems        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Brahm Prakash Chair Professor <br> <a href="{{ site.baseurl }}/pdfs/shervanthi.pdf" target="_blank">Personal Website</a>   | Basic, translational and clinical research        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in  <br> <a href="https://materials.iisc.ac.in/old/faculty/sonal-asthana/" target="_blank">Personal Website</a>   | 3D Bioprinting and Biomaterials <br> Data analytics for clinical research        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/vilay.tif" width=120px>    |  Dr. Vilay Vannaladsaysy <br> ASEAN-India Visiting Fellow <br> vilayv[at]iisc[dot]ac[dot]in  <br> <a href="https://www.linkedin.com/in/vilay-vannaladsaysy-3b024616/" target="_blank">Personal Website</a>   | Polymer–Matrix Composites (PMCs) <br> Polymer blends <br> Composites Scaffold <br> Polymer Fibers and Tissue Engineering        |
 <br>
 
 # Honorary Faculty
