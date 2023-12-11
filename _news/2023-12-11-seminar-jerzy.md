@@ -1,5 +1,5 @@
 ---
-title: "Future of nuclear energy and needs for accident tolerant fuels (12/12/23)"
+title: "Future of nuclear energy and needs for accident tolerant fuels (11/12/23)"
 permalink: /seminar/jerzy-11-dec-2023
 ---
 ### Speaker and Affliation:
