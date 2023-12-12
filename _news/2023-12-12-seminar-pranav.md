@@ -13,7 +13,7 @@ Syracuse University, USA<br>
 12<sup>th</sup> December, 2023 (Tuesday), 4.00 PM (India Standard Time)
 
 ### Where
-K I Vasu Auditorium, Dept. of Materials Engineering, IISc, Bangalore
+KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore
 
 ### Abstract:
 Nature’s marvelous ability to arrange few materials (proteins, sugars, minerals) across scales has realized a wide range of ‘smart’ multifunctional structures optimized to satisfy specific environmental demands. Man-made manufacturing, however, is not able to match Nature’s building capabilities. My group focuses on closing this gap between nature-made and man-made structures by developing new multiscale, multi-material, and multimodal optics-based printers and processing technologies with applications in the areas of microfluidics, organ-on-chip, photonics, durable hydrogels, bioprinting, and single cell applications. I strongly believe that a mutually reinforcing positive feedback between ‘new technology’, ‘applications’ and ‘scientific discovery’ is essential to drive bioscience forward. In this seminar, I will present three new technologies and their unique capabilities of making functional photonic, microfluidic, and organ-on-chip devices. These next-generation tools will enable researchers to address new challenges in biomedical sciences.
