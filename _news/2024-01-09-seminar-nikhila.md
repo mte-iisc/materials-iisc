@@ -1,5 +1,5 @@
 ---
-title: "Structure and Crystallization of Iron-Rich     Borosilicate Based Nuclear Waste Glasses (08/01/24)"
+title: "Structure and Crystallization of Iron-Rich     Borosilicate Based Nuclear Waste Glasses (09/01/24)"
 permalink: /seminar/nikhila-09-jan-2024
 ---
 ### Speaker and Affliation:
