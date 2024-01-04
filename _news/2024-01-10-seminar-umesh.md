@@ -20,7 +20,7 @@ Theoretical Sciences Unit, Jawaharlal Nehru Centre for Advanced Scientific Resea
 10<sup>th</sup> January, 2024 (Tuesday), 11.00 AM (India Standard Time)
 
 ### Where
-KPA Vasu Auditorium, Dept. of Materials Engineering, IISc, Bangalore
+KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore
 
 ### Abstract:
 While the structural stability of a material and its mechanical behaviour are central to any of its applications, its instabilities are responsible for structural transitions with interesting signatures in its functional properties of technological relevance. We first illustrate this with exotic ferroelectricity in HfO2, which has the potential to be useful in the development of ultimately high-density memory chips. We then present an analysis of entropic stabilization and descriptors of structural transition in a high entropy alloy NbHfZrTi, demonstrating how the internal lattice distortions peak at the transition. The flexibility of geometrically interesting framework crystals, such as metal-organic frameworks, is important to their applications. While closely linked to rigidity, a precise measure if flexibility has been lacking. We present a quantitative measure of mechanical flexibility and uncover its mechanisms from the analysis of different types of crystalline materials. Finally, we introduce the quantum geometry of the electronic structure in a crystal, its intimate link with certain metallic states, and illustrate how it influences anomalies in measurable properties.
