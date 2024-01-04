@@ -1,5 +1,5 @@
 ---
-title: "FSustainable Energy Storage Technologies: From Materials to Devices (10/01/24)"
+title: "Sustainable Energy Storage Technologies: From Materials to Devices (10/01/24)"
 permalink: /seminar/deepak-10-jan-2024
 ---
 ### Speaker and Affliation:
