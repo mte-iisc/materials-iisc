@@ -11,9 +11,22 @@ toc_icon: calendar-alt
 ## Departmental Resources
 
 ### Wellness Committee
-Suryasarathi Bose (sbose_at_iisc.ac.in)<br>
-Pritiranjan Mondal (pritiranjanm_at_iisc.ac.in) Kaushik's group<br>
-Bandla Divya Sri (divyabandla_at_iisc.ac.in)  Chokshi's group<br>
+<b>Purpose of the committee</b>
+
+Through events, education, and access to campus resources and activities, the Wellness Committee seeks to establish a culture and atmosphere that upholds and encourages the importance of health and wellness. On the department campus, the Committee will support, promote, and carry out wellness initiatives.  The Committee will also offer courses, equipment, and other materials to help staff members take responsibility for their own health and well-being.  The Eight Dimensions of Wellness paradigm, which encompasses mental, spiritual, emotional, physical, financial, social, and environmental wellness, will serve as the foundation for committee programming and events. These seven dimensions all function and interact in ways that enhance our individual quality of life.
+ 
+<b>Wellness committee members</b><br>
+Suryasarathi Bose (sbose@iisc.ac.in)<br>
+Surendra Kumar M (skmakineni@iisc.ac.in)<br>
+Pikee Priya (ppriya@iisc.ac.in)<br>
+Astik Kumar (astikkumar@iisc.ac.in)<br>
+Ashish Omar (ashishomar@iic.ac.in)<br>
+Sudeepta Mukherjee (sudeeptam@iisc.ac.in)<br>
+Soumya Mishra (soumyamishra@iisc.ac.in)<br>
+ 
+<b>Name of the student volunteers</b><br>
+Pratik Bhoumik (pratikb@iisc.ac.in)<br>
+Shibam Karmakar (shibamk@iisc.ac.in)<br>
 
 ### Safety Committee
 Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
