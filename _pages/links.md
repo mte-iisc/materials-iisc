@@ -24,11 +24,11 @@ Ashish Omar (ashishomar@iic.ac.in)<br>
 Sudeepta Mukherjee (sudeeptam@iisc.ac.in)<br>
 Soumya Mishra (soumyamishra@iisc.ac.in)<br>
  
-<b>Name of the student volunteers</b><br>
+<b>Student volunteers</b><br>
 Pratik Bhoumik (pratikb@iisc.ac.in)<br>
 Shibam Karmakar (shibamk@iisc.ac.in)<br>
 
-<b>Psychiatric Social Worker (Wellness Coordinator)</b> for our department<br>
+<b>Department Psychiatric Social Worker (Wellness Coordinator)</b><br>
 Tanveer Ahmad Wani (tanveerwani@iisc.ac.in | +91 9880002961)
 
 <b>Consulting Psychiatrists:</b>
