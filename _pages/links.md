@@ -28,18 +28,21 @@ Soumya Mishra (soumyamishra@iisc.ac.in)<br>
 Pratik Bhoumik (pratikb@iisc.ac.in)<br>
 Shibam Karmakar (shibamk@iisc.ac.in)<br>
 
-<b>Psychiatric Social Worker (Wellness Coordinator)</b> for our department
+<b>Psychiatric Social Worker (Wellness Coordinator)</b> for our department<br>
 Tanveer Ahmad Wani (tanveerwani@iisc.ac.in | +91 9880002961)
 
 <b>Consulting Psychiatrists:</b>
-https://wellness.iisc.ac.in/index.php/committee/consulting-psychiatrist/
-<b>Consulting Psychologists:</b>
-https://wellness.iisc.ac.in/index.php/committee/consulting-psychologists/
-<b>Psychiatric Social Workers (Wellness Coordinators):</b>
-https://wellness.iisc.ac.in/index.php/wellness-coordinators
+<a href="https://wellness.iisc.ac.in/index.php/committee/consulting-psychiatrist/" target="_blank">https://wellness.iisc.ac.in/index.php/committee/consulting-psychiatrist/</a>
 
-24×7 helpline for mental health emergencies  (080-4711-3444)
-Contact information for booking appointments with Psychiatrists and Psychologists at the Wellness Centre (080-2293-3627)
+<b>Consulting Psychologists:</b>
+<a href="https://wellness.iisc.ac.in/index.php/committee/consulting-psychologists/" target="_blank">https://wellness.iisc.ac.in/index.php/committee/consulting-psychologists/</a>
+
+<b>Psychiatric Social Workers (Wellness Coordinators):</b>
+<a href="https://wellness.iisc.ac.in/index.php/wellness-coordinators" target="_blank">https://wellness.iisc.ac.in/index.php/wellness-coordinators</a>
+
+24×7 helpline for mental health emergencies  (080-4711-3444)<br>
+
+Contact information for booking appointments with Psychiatrists and Psychologists at the Wellness Centre (080-2293-3627)<br>
 
 ### Safety Committee
 Praveen C. Ramamurthy (praveen_at_iisc.ac.in)<br>
