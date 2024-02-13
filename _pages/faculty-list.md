@@ -35,6 +35,13 @@ classes: wide
 
 <br>
 
+# Associate Faculty
+
+| --------         | ------    | ------------------------------------------------------------ |                         
+| <img src="{{ site.baseurl }}/assets/images/faculty/phani.jpg" width=120px>    |  Naga Phani Aetukuri <br> Associate Professor, SSCU<br> phani[at]iisc[dot]ac[dot]in <br> +91 80 2293 3534 <br> <a href="https://sites.google.com/view/qlab-iisc/" target="_blank">Personal Website</a>   | Solid State and Li-Ion Battery Materials and Devices <br> Redox-Active Organic Materials <br>Correlated Oxide Materials and Heterostructures<br> Electroactive Materials and Devices        |
+
+<br>
+
 # Visiting and Adjunct Faculty
 
 | --------         | ------    | ------------------------------------------------------------ |                         
