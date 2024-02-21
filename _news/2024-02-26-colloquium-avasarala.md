@@ -1,7 +1,7 @@
 ---
 title: "PhD Thesis Colloquium: Ms. Avasarala Sankeerthana (26/02/24)"
 permalink: /colloquium/avasarala-26-feb-2024
-
+---
 ### Thesis title:
 Hexagonal boron nitride incorporated polymer nanocomposites for water remediation
 
