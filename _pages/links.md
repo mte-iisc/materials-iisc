@@ -23,13 +23,8 @@ Astik Kumar (astikkumar@iisc.ac.in)<br>
 Ashish Omar (ashishomar@iic.ac.in)<br>
 Sudeepta Mukherjee (sudeeptam@iisc.ac.in)<br>
 Soumya Mishra (soumyamishra@iisc.ac.in)<br>
- 
-<b>Student volunteers</b><br>
-Pratik Bhoumik (pratikb@iisc.ac.in)<br>
 Shibam Karmakar (shibamk@iisc.ac.in)<br>
-
-<b>Department Psychiatric Social Worker (Wellness Coordinator)</b><br>
-Tanveer Ahmad Wani (tanveerwani@iisc.ac.in | +91 9880002961)
+Akshay Sunil Salvi (akshaysunil@iisc.ac.in)
 
 <b>Consulting Psychiatrists:</b>
 <a href="https://wellness.iisc.ac.in/index.php/committee/consulting-psychiatrist/" target="_blank">https://wellness.iisc.ac.in/index.php/committee/consulting-psychiatrist/</a>
@@ -39,6 +34,8 @@ Tanveer Ahmad Wani (tanveerwani@iisc.ac.in | +91 9880002961)
 
 <b>Psychiatric Social Workers (Wellness Coordinators):</b>
 <a href="https://wellness.iisc.ac.in/index.php/wellness-coordinators" target="_blank">https://wellness.iisc.ac.in/index.php/wellness-coordinators</a>
+
+(contact any of them directly in case of emergency)
 
 24×7 helpline for mental health emergencies  (080-4711-3444)<br>
 
