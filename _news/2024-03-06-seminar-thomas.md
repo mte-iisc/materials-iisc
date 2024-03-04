@@ -1,6 +1,6 @@
 ---
 title: "From Ferroelectric Materials to Enhanced Semiconductor Devices (06/03/24)"
-permalink: /seminar/thomsan-06-mar-2024
+permalink: /seminar/thomas-06-mar-2024
 ---
 ### Speaker and Affliation:
 Prof. Dr.-Ing. Thomas Mikolajick<br>

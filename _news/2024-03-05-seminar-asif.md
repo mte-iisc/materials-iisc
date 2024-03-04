@@ -8,7 +8,7 @@ School of Electrical and Computer Engineering and Materials Science and Engineer
 Georgia Institute of Technology
 
 ### When?
-6<sup>th</sup> March, 2024 (Tuesday), 04.00 PM (India Standard Time)
+5<sup>th</sup> March, 2024 (Tuesday), 04.00 PM (India Standard Time)
 
 ### Where
 KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore
