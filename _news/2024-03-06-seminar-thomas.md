@@ -17,11 +17,11 @@ More than ever modern electronic systems require semiconductor memories [1]. The
  
 The talk will first explain the approach to realize ferroelectric hafnium oxide based materials of high quality including recent advances. Based on this the status of integrating such materials into devices utilizing the three different readout mechanisms described above will be introduced and discussed. Finally, applications beyond the pure memory operation will be illustrated. An outlook towards future developments will conclude the talk.
  
-References:
-[1] T. Schenk, M. Pešić, S. Slesazeck, U. Schroeder and T. Mikolajick, Memory technology—a primer for material scientists, Rep. Prog. Phys. 83, 086501 (2020)
-[2] T. Mikolajick, M. H. Park, L. Begon‐Lours, and S. Slesazeck, From Ferroelectric Material Optimization to Neuromorphic Devices, Adv. Mater. 35, 2206042 (2023)
-[3] T.S. Böscke, J. Müller, D. Bräuhaus, U. Schröder, and U. Böttger, Ferroelectricity in hafnium oxide thin films, Appl. Phys. Lett. 99, 102903 (2011)
-[4] S. Fichtner, N. Wolff, F. Lofink, L. Kienle and B. Wagner, AlScN: A III-V semiconductor based ferroelectric, Journal of Applied Physics 125, 114103 (2019)
+References:<br>
+[1] T. Schenk, M. Pešić, S. Slesazeck, U. Schroeder and T. Mikolajick, Memory technology—a primer for material scientists, Rep. Prog. Phys. 83, 086501 (2020)<br>
+[2] T. Mikolajick, M. H. Park, L. Begon‐Lours, and S. Slesazeck, From Ferroelectric Material Optimization to Neuromorphic Devices, Adv. Mater. 35, 2206042 (2023)<br>
+[3] T.S. Böscke, J. Müller, D. Bräuhaus, U. Schröder, and U. Böttger, Ferroelectricity in hafnium oxide thin films, Appl. Phys. Lett. 99, 102903 (2011)<br>
+[4] S. Fichtner, N. Wolff, F. Lofink, L. Kienle and B. Wagner, AlScN: A III-V semiconductor based ferroelectric, Journal of Applied Physics 125, 114103 (2019)<br>
 [5] U. Schroeder, M. H. Park, T. Mikolajick, and C. S. Hwang, The fundamentals and applications of ferroelectric HfO2, Nature Reviews Materials volume 7, pages653–669 (2022)
    
 ### About the Speaker
