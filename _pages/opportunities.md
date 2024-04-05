@@ -5,6 +5,12 @@ classes: wide
 permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
+
+### Group of Diffusion-Microstructure-Properties
+seeking a project associate (35000/per month) to work on the bond coat oxidation for Jet engine applications. 
+
+Interested candidates with metallurgy, materials, and physics backgrounds should send their CVs to <b>Prof. Aloke Paul (aloke@iisc.ac.in).</b>
+
 ### Advanced Manufacturing & Materials Processing Group
 (https://lnkd.in/g4cBqJde) (https://lnkd.in/gfhi98yJ) ( https://materials.iisc.ac.in/faculty/prosenjit )
 in the department of Materials Engineering at IISc, Bengaluru is looking for a Post Doc for Industry Sponsored Project.
