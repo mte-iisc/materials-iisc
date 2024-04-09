@@ -1,6 +1,6 @@
 ---
 title: "Modelling microstructural damage in AA7075 at large plastic strains (05/04/24)"
-permalink: /seminar/abhishek-05-april-2024
+permalink: /seminar/abhishek-05-apr-2024
 ---
 ### Speaker and Affliation:
 Dr. Abhishek Sarmah<br> 

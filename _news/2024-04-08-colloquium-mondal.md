@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Colloquium: Mr. Pritiranjan Mondal (08/04/24)"
-permalink: /colloquium/avasarala-08-apr-2024
+permalink: /colloquium/mondal-08-apr-2024
 ---
 ### Thesis title:
 Multifunctional hydrogels with injectable, self-healing, and shape-morphing capabilities for biomedical applications
