@@ -1512,7 +1512,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Parth Sudhir Dingre – M.Tech student Kunal Roy and Neelam Roy Fellowships Award for 2023-24 (12/04/24)",
-        "excerpt":"Congratulations to Mr.Mr. Parth Sudhir Dingre !!!   &lt;a href=”https://odaa.iisc.ac.in/kunal-roy-and-neelam-roy-fellowship/&gt;Kunal Roy and Neelam Roy Fellowships&lt;/a&gt; 2023-2024 Winner Mr. Parth Sudhir Dingre – M.Tech student from the Department of Materials Science and Engineering.  ","categories": [],
+        "excerpt":"Congratulations to Mr.Mr. Parth Sudhir Dingre !!!   Kunal Roy and Neelam Roy Fellowships 2023-2024 Winner Mr. Parth Sudhir Dingre – M.Tech student from the Department of Materials Science and Engineering.  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/awards/parth-12-apr-2024",
         "teaser": null
