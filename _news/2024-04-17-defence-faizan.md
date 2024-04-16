@@ -9,7 +9,7 @@ High-Throughput Bending Tests for Investigating Creep Behavior Affected by  Stru
 Prof. Praveen Kumar (Prof. Vikram Jayaram - Co-Supervisor)
 
 ### When?
-17<sup>th</sup> April, 2024 (Wednesday), 04:00 AM (India Standard Time)
+17<sup>th</sup> April, 2024 (Wednesday), 04:00 PM (India Standard Time)
 
 ### Where
 Online
