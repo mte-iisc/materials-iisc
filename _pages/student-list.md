@@ -291,6 +291,8 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Subramanian R S</td><td>Sai Gautam Gopalakrishnan</td><td>subramanianr</td></tr>
 <tr><td>Supriya Kalindi</td><td>Satyam Suwas</td><td>supriyak</td></tr>
 <tr><td>Tankara Jayasurya</td><td>Subho Dasgupta</td><td>jayasuryat</td></tr>
+<tr><td>Thumurothu Venkata Sai Naveen Babu Naidu</td><td>Praveen Kumar</td><td>naveenbnvst</td></tr>
+<tr><td>Vadithe Ramesh Kumar Naik</td><td>	Sachin R. Rondiya</td><td>rameshkn</td></tr>
 </tbody>
 </table>
 
