@@ -1594,4 +1594,16 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/jakub-18-jul-2024",
         "teaser": null
+      },{
+        "title": "Evolution of dendritic microstructures in single  crystal Ni-base superalloys: Crystal mosaicity. Low angle grain boundaries and Re-segregation (24/07/24)",
+        "excerpt":"Speaker and Affliation:  Professor Gunther Eggeler                                        Chair for Materials Science, Ruhr-University Bochum, Bochum (Germany)   When?  24th July, 2024 (Wednesday), 11.00 PM (India Standard Time)   Where  KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore   Abstract:  Single crystal Ni-base superalloys (SXs) exhibit excellent chemical and mechanical high temperature properties. They are used to make turbine blades for gas turbines which operate in aero engines and power plants at temperatures close to 1000°C. Cast SXs also exhibit a larger scale heterogeneity (&gt; 100 µm scale) associated with the microstructural evolution during directional solidification, where dendrites form and grow. Single dendrites as well as groups with a small number of parallel dendrites are slightly misoriented with respect to their neighborhood. This leads to crystal mosaicity and the formation of low anlge grain boundaries (LAGBs). The contribution discusses competitive dendrite growth, the physical character of LAGBs and the segregation of Re to LAGBs.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/gunther-24-jul-2024",
+        "teaser": null
+      },{
+        "title": "The high temperature strength of single crystal Ni-bases superalloys: Constant strain-rate, creep and out-of-phase thermos mechanical fatigue testing (25/07/24)",
+        "excerpt":"Speaker and Affliation:  Professor Gunther Eggeler                                        Chair for Materials Science, Ruhr-University Bochum, Bochum (Germany)   When?  25th July, 2024 (Thursday), 11.00 PM (India Standard Time)   Where  KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore   Abstract:  The present work takes a new look at the high temperature strength of single crystal (SX) Ni-base superalloys, comparing high temperature constant strain rate (CSR) testing, creep testing and out-of-phase thermomechanical fatigue (OP-TMF) testing. These high temperature tests represent key characterization methods supporting alloy development and component. The three types of tests are compared using the same SX alloy, working with precisely oriented &lt;001&gt;-specimens and considering the same temperature range between 1023 and 1223 K, where climb-controlled micro-creep processes need to be considered. It is shown that the three types of tests provide different types of information. Mechanical results are discussed on a microstructural basis, using results from scanning and transmission electron microscopy.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/gunther-25-jul-2024",
+        "teaser": null
       },]
