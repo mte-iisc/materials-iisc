@@ -287,7 +287,7 @@ Users interested in booking the slots please submit the dully filled central fac
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Prof. Ashok M. Raichur (<a href="mailto:amr@iisc.ac.in">amr@iisc.ac.in</a>)</td>
+<td colspan="2">Prof. Sachin R. Rondiya (<a href="mailto:rondiya@iisc.ac.in">rondiya@iisc.ac.in</a>)</td>
 </tr>
 </tbody>
 </table>
