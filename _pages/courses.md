@@ -687,6 +687,7 @@ References:
 <li>Introduction to Spectroscopy by Donald L. Pavia, Gary M. Lampman, George S. Kriz, and James R. Vyvyan</li>
 <li>Handbook of Deposition Technologies for Films and Coatings by Peter M. Martin</li>
 <li>Photoluminescence Spectroscopy of Semiconductors by D. Bimberg, M. Grundmann, and N. N. Ledentsov</li>
+</ul>
 
 -------------------------------------
 
