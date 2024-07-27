@@ -187,6 +187,12 @@ Students with non-materials background enrolled in the research programs must cr
 <td><a href="{{ site.baseurl }}/courses#mt-271-aug-30">Introduction to Biomaterials Science and Engineering</a></td>
 </tr>
 <tr>
+<td>MT 273</td>
+<td>3:0</td>
+<td>Aug</td>
+<td><a href="{{ site.baseurl }}/courses#mt-273-aug-30">Semiconductor Films: Deposition and Spectroscopic Characterization</a></td>
+</tr>
+<tr>
 <td>MT 307</td>
 <td>3:0</td>
 <td>Aug</td>
@@ -656,6 +662,34 @@ References:
 
 -------------------------------------
 	  
+### MT 273 (AUG) 3:0
+
+<b>Semiconductor Films: Deposition and Spectroscopic Characterization</b>
+
+Overview: This course aims to provide in-depth insights into the semiconductor thin film deposition and spectroscopic characterization processes involved in the semiconductor manufacturing industry. Students will explore various semiconductor industrial deposition techniques, spectroscopic tools, and the principles and fundamentals behind these advanced techniques. The curriculum is designed to blend theoretical knowledge with practical applications, ensuring a comprehensive understanding of semiconductor technology.
+
+Thin film growth processes: Nucleation and growth mechanisms; uncorrelated or random deposition; surface diffusion-controlled growth; ballistic deposition; shadowing effects, etc.
+
+Thin film deposition techniques: Hot-wire chemical vapor deposition (HW-CVD); plasma-enhanced chemical vapor deposition (PE-CVD); atomic layer deposition (ALD); pulse laser deposition (PLD); RF sputtering, physical vapor deposition (PVD); DC sputtering; Molecular Beam Epitaxy (MBE); electron beam evaporation; thermal evaporation; etc.
+
+Spectroscopic characterization of semiconductors: Ultraviolet-visible-near infrared spectroscopy (UV-Vis-NIR); photoluminescence spectroscopy (PL); time-resolved photoluminescence spectroscopy (TRPL); Raman spectroscopy; transient spectroscopy (TAS); terahertz time-domain spectroscopy; fluorescence Spectroscopy; circular dichroism (CD) spectroscopy; etc.
+
+Hands-on laboratory sessions: Hands-on laboratory sessions and practical demonstrations will be conducted for a few high vacuum deposition techniques and spectroscopic measurements for a few semiconductors’ thin films.
+
+Semiconductor industry visit sessions: We have designed this course based on the current requirements of the semiconductor manufacturing industry. During this course, we will visit few international companies, such as Applied Materials and LAM Research, to learn about advanced processes related to thin film depositions.
+ 
+Instructor: Sachin R. Rondiya
+
+References:
+<ul> 
+<li>Thin Film Deposition: Principles and Practice by Donald L. Smith</li>
+<li>Spectroscopic Methods in Organic Chemistry by Dudley H. Williams and Ian Fleming</li>
+<li>Introduction to Spectroscopy by Donald L. Pavia, Gary M. Lampman, George S. Kriz, and James R. Vyvyan</li>
+<li>Handbook of Deposition Technologies for Films and Coatings by Peter M. Martin</li>
+<li>Photoluminescence Spectroscopy of Semiconductors by D. Bimberg, M. Grundmann, and N. N. Ledentsov</li>
+
+-------------------------------------
+
 ### MT 299 0:32
 
 <b>Dissertation Project</b>
