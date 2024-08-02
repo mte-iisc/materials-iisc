@@ -1,0 +1,22 @@
+---
+title: "PhD Thesis Colloquium: Ms. Ria Sen Gupta (08/07/24)"
+permalink: /colloquium/ria-08-jul-2024
+---
+### Thesis title:
+Engineering Interpenetrating Polymeric Network (IPN) Membranes for Effective Water Remediation
+
+### Faculty advisor(s):
+Prof. Suryasarathi Bose
+
+### When?
+8<sup>th</sup> July, 2024 (Monday), 11:00 AM (India Standard Time)
+
+### Where
+KPA Auditorium, Department of Materials Engineering
+
+### Abstract:
+Water is fundamental to human life, sustaining ecosystems, supporting livelihoods, and underpinning human well-being. Despite its importance, water scarcity is a growing global issue due to population growth, economic expansion, and climate change, which strain freshwater resources and exacerbate disparities in access. This imbalance between water availability and demand threatens ecosystems and socio-economic stability. International risk assessments since 2015 have highlighted water scarcity as a major concern. The unequal global distribution and overuse of freshwater are expected to worsen the situation, with the World Economic Forum projecting that by 2050, around two-thirds of the global population will live in areas facing water stress. Therefore, purifying existing water resources is crucial. Primarily driven by population growth, intensified agricultural demands, and rapid industrial expansion, it has been statistically demonstrated that global water consumption has increased manifold since the 1950s. In this scenario, researchers have resorted to Membrane technology, which is considered cost-effective, efficient on a vast scale, environmentally safe, and socially acceptable. An ideal membrane should exhibit high permeability, selectivity, and effectiveness over a wide range of contaminants, be vested with high mechanical stability, and resist fouling. 
+ 
+However conventional membranes often fall short and are unable to meet stringent water standards owing to issues such as fouling and scaling, which eventually leads to membrane failure. A definitive solution to this issue remains elusive. This thesis is motivated by the challenges and seeks to engineer porous membranes via the application of cutting-edge materials like Interpenetrating Polymeric Networks (IPNs). It can enhance the chemical, mechanical, and thermal stability of polymeric materials, prolonging the system's lifespan and enabling it to be reused and recycled without sacrificing its effectiveness in removing pollutants. Moreover, IPNs are highly feasible and tailorable, allowing for the use of non-toxic chemicals and solvents, owing to their design flexibility in terms of selecting suitable monomers during the design process for targeted pollutant removal. Furthermore, by modifying the structure of the interpenetrating polymer, it becomes possible to customize the membrane's pore size and enhance its resistance to fouling and separation capabilities. 
+ 
+This thesis focuses on the design and optimization of polymeric membranes for effective and efficient water remediation. At the onset, the thesis begins primarily with exploring the fundamentals of polymeric membranes and the various methods used for fabricating and modifying them to enhance separation efficiency and prevent fouling, as documented in the literature. It examines the underlying mechanisms that contribute to separation efficiency and assist in the development of anti-fouling properties. In doing so, the thesis delves into the intricacies of interpenetrating polymer networks (IPNs) and various functional nanomaterials, highlighting their significance in engineering a portfolio of membranes with gradually reducing pore size and increasing surface charge. Furthermore, the latter half of the thesis emphasizes the importance of ensuring sustainability in membrane technologies by fabricating recyclable and high-performing membranes via installing in-situ “exchangeable bonds” (or Covalent Adaptable Networks, CANs) directly at the outset of the fabrication process. The existence of exchangeable bonds facilitated the integration of closed-loop circularity within the membranes, thereby creating a route for the reutilization of fouled membranes. The designed membranes can revolutionize membrane technology by providing straightforward regeneration techniques and promoting a transition towards circular approaches in product life cycles, significantly improving membrane waste management. 
