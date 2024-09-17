@@ -1,0 +1,24 @@
+---
+title: "Computational Advances in Supported Catalysts: From  Single Atoms to Nanoparticles (19/09/24)"
+permalink: /seminar/patra-19-sep-2024
+---
+### Speaker and Affliation:
+Dr. Abhirup Patra, Researcher<br>
+Computational Chemistry & Materials Science, AI for Materials & Molecular Science, Shell Technology Center, Houston, TX, USA 
+
+### When?
+19<sup>th</sup> September, 2024 (Thursday), 3.00 PM (India Standard Time)
+
+### Where
+KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore
+
+### Abstract: 
+
+In this talk, I will present our recent computational studies on supported catalysts, addressing challenges and advances across multiple scales. I'll begin with density functional theory investigations of single-atom and small cluster catalysts, focusing on Rh-ReOx pairs for ethylene hydroformylation and Pt/PtSn clusters for propane dehydrogenation. These studies reveal how promoters and cluster size influence activity, stability, and selectivity, providing mechanistic insights into catalytic processes. Next, I'll discuss our application of deep learning potentials to study nanoparticle sintering. Our unified deep potential model for Cu nanoparticles on alumina surfaces enables extended timescale simulations while maintaining near-DFT accuracy, uncovering facet-dependent stability and mobility patterns crucial for understanding sintering mechanisms. Finally, I'll address persistent challenges in catalysis modeling, particularly the accurate description of molecular adsorption. I'll explore the "CO adsorption puzzle," discussing how self-interaction errors and incorrect charge transfer in current functionals lead to inaccurate predictions. Our efforts to mitigate these issues, including DFT+U approaches and the development of a new functional (Opt(MS+rVV10)), will be presented. Throughout, I'll highlight how these studies tackle key computational challenges in accuracy and efficiency, advancing our ability to model and design supported catalysts from single atoms to nanoparticles.
+
+
+### About the Speaker : 
+ 
+Dr. Abhirup is a distinguished computational material scientist and quantum chemist with a pronounced emphasis on computational catalysis, surface science, and machine learning. He embarked on his academic journey at University of Calcutta, India, where he earned a BSc-MSc in Physics. He later pursued MS in Physics at Tulane University, focusing on condensed matter theory. His profound engagement with surface science was channeled during his Ph.D. at Temple University, under the guidance of Professor John P. Perdew. There, he specialized in "Surface Properties, Adsorption, and Phase Transitions with a Dispersion-Corrected Density Functional." During his graduate work, he devised several density functionals that have become extremely popular in the scientific community. His foundational work has substantially enriched our understanding of the materials that are vital for catalysis. Professionally, he had significant stints at premium institutions. At Georgia Tech, during his postdoctoral position with Prof. Rampi Ramprasad, he adeptly combined machine learning with materials science to discover new polymers suitable for batteries in electric vehicles, in close collaboration with the Toyota Research Institute. His tenure at the University of Pennsylvania with Prof. Andrew Rappe, saw him harmonize quantum chemistry methods with experimental outcomes, underscoring the potential of molecular oxygen as a catalyst and light-matter interaction in 2D materials. Abhirup pioneered research in several areas of computational catalysis at the University of Delaware in Prof. Dion Vlacho’s group. 
+ 
+Transitioning to the corporate landscape, his engagement with the relevant sciences was pivotal. Here, he crafted quantum chemistry methods to improve the molecular force field descriptions and set benchmarks using rapid molecular prediction algorithms. Additionally, at Roivant Sciences, Abhirup harnessed AI and quantum chemistry, revolutionizing small molecule discovery programs, and delving deeper into the fusion of machine learning with quantum chemistry and cheminformatics. Abhirup contributed to several groundbreaking computational catalysis studies, including his exploration of hydrogen evolution reactions in 2D materials, studies on single-atom and bi-metallic supported catalysts for alkene dehydrogenation, and his pioneering work on electronic spin-controlled reactions in single-atom-supported catalysts. Recently, he ventured into the domain of chemical dynamics at the molecule-surface interface, creating a novel machine-learning force field. Abhirup possesses broad expertise in methodology development in materials modeling to advance machine learning techniques in chemistry and materials science. He has a keen interest in learning about world history, architecture, and wines.
