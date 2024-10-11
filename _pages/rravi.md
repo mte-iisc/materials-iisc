@@ -58,6 +58,7 @@ Bangalore-560012, INDIA<br>
 
 ## Publications
 <ol reversed="">
+<li>Aloke Paul; Suman Sadhu; Anuj Dash; Neelamegan Esakkiraja; Ujjval Bansal; Avik Mondal; Anindita Chakraborty; Monojit Dutta; Raju Ravi; Surendra Makineni; Saswata Bhattacharyya; Sergiy Divinski, <u>Practicing pseudo-binary diffusion couple method in ternary and multicomponent systems</u>, Acta Materialia (Submitted).</li>
 <li>Ujjval Bansal, Neelamegan Esakkiraja, Thangaraj Baskaran, Tanaji Paul, Raju Ravi, Praveen Kumar, Vikram Jayaram, Aloke Paul, <u>Synergistic effects of Pt and Y addition in (Ni, Pt)CrAlY bond coat on oxide spallation resistance and growth of interdiffusion zone between bond coat and Ni-based Single crystal superalloy</u>, Corrosion Science, DOI: 10.1016/j.corsci.2024.112485 (2024).</li>
 <li>K. Monisha, S.M. Shariff, A. Sekar, Ravi Raju, J. Manonmani and Senthilselvan Jayaraman; <u>Titanium boride coating by high power laser alloying of amorphous boron with titanium and its surface property investigations</u>, Optics and Laser Technology 170 (2024) 110159.</li>
 <li>Prafull Pandey, Mangesh V. Pantawane, Nithin Baler, Raju Ravi, Surendra Kumar Makineni, Kamanio Chattopadhyay, <u>Effect of Cr addition on the Gamma' strengthened CoNiCrAlMo compositionally complex alloy</u>,  Journal of Materials Science and Technology 39:3 (2023) 347-361. https://doi.org/10.1080/02670836.2022.2114615.</li>
