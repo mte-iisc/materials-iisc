@@ -9,7 +9,7 @@ Evolution of oxide layers in heat-treated/deformed CMSX-4 in different  atmosphe
 Prof. Surendra Kumar Makineni
 
 ### When?
-16<sup>th</sup> October, 2024 (Tuesday), 3:00 PM (India Standard Time)
+16<sup>th</sup> October, 2024 (Wednesday), 3:00 PM (India Standard Time)
 
 ### Where
 KPA Auditorium, Department of Materials Engineering
