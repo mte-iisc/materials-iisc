@@ -1,6 +1,6 @@
 ---
-title: "PhD Thesis Colloquium: Ms. Srilekshmi M (15/10/24)"
-permalink: /colloquium/srilekshmi-15-oct-2024
+title: "PhD Thesis Colloquium: Ms. Srilekshmi M (16/10/24)"
+permalink: /colloquium/srilekshmi-16-oct-2024
 ---
 ### Thesis title:
 Evolution of oxide layers in heat-treated/deformed CMSX-4 in different  atmospheres
@@ -9,7 +9,7 @@ Evolution of oxide layers in heat-treated/deformed CMSX-4 in different  atmosphe
 Prof. Surendra Kumar Makineni
 
 ### When?
-15<sup>th</sup> October, 2024 (Tuesday), 11:00 AM (India Standard Time)
+16<sup>th</sup> October, 2024 (Tuesday), 3:00 PM (India Standard Time)
 
 ### Where
 KPA Auditorium, Department of Materials Engineering
