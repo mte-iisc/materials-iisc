@@ -36,6 +36,13 @@ Bangalore-560012, INDIA<br>
 <li>Effect of electric current and substrate composition on whiskering in Tin and on IMC growth.</li>
 </ul>
 
+## Research Students
+<ul>
+<li>Aashish Halder(with Prof. Suryasarathi Bose), 2024</li>
+<li>Jithunlal S (with Prof. Praveen Ramamurthy), 2024</li>
+<li>Tejas Suresh Shewale (with Prof. Kaushik Chatterjee), 2024</li>
+</ul>
+
 ## M.E Students
 <ul>
 <li>Arkoprabho Roy <i>(with Prof. Praveen Kumar)</i><br />
