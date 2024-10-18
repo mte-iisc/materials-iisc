@@ -45,6 +45,7 @@ Bangalore-560012, INDIA<br>
 
 ## M.E Students
 <ul>
+<li>Kumari Poonam Kujur <i>(with Prof. Aloke Paul) (2023)</i></li>
 <li>Arkoprabho Roy <i>(with Prof. Praveen Kumar)</i><br />
         Effect of chrominum addition on whiskering in tin (2023).</li>
 <li>Dineshkumar M <i>(with Prof. Aloke Paul)</i><br />
