@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Defence: Ms. Ria Sen Gupta  (05/11/24)"
-permalink: /defence/ria-5-nov-2024
+permalink: /defence/ria-05-nov-2024
 ---
 ### Thesis title:
 Engineering Interpenetrating Polymeric Network (IPN) Membranes for Effective Water Remediation
