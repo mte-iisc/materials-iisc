@@ -1,6 +1,6 @@
 ---
-title: "PhD Thesis Defence: Ms. Ria Sen Gupta  (29/10/24)"
-permalink: /defence/ria-29-oct-2024
+title: "PhD Thesis Defence: Ms. Ria Sen Gupta  (05/11/24)"
+permalink: /defence/ria-5-nov-2024
 ---
 ### Thesis title:
 Engineering Interpenetrating Polymeric Network (IPN) Membranes for Effective Water Remediation
@@ -9,7 +9,7 @@ Engineering Interpenetrating Polymeric Network (IPN) Membranes for Effective Wat
 Prof. Suryasarathi Bose
 
 ### When?
-29<sup>th</sup> October, 2024 (Tuesday), 11:00 AM (India Standard Time)
+5<sup>th</sup> November, 2024 (Tuesday), 11:00 AM (India Standard Time)
 
 ### Where
 Online
