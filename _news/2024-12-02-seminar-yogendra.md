@@ -11,9 +11,7 @@ Cordially invite you to ASM-IIM Joint Technical Talk
 ### Speaker and Affliation:
 Prof. Dr. Yogendra Kumar Mishra<br>
 Mads Clausen Institute, NanoSYD, Smart Materials,<br>
-University of Southern Denmark, Alsion 2, 6400,
-
-  Sønderborg, DENMARK  
+University of Southern Denmark 
 
 ### When?
 2<sup>nd</sup> December, 2024 (Monday), 04.00 PM (India Standard Time)
