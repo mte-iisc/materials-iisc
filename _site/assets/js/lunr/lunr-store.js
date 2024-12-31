@@ -1655,60 +1655,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/seminar/philip-27-nov-2024",
         "teaser": null
       },{
-        "title": "Machining thin metallic foils",
-        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
-      },{
-        "title": "High throughput creep",
-        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
-      },{
-        "title": "Visualisation of stem cells",
-        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
-      },{
-        "title": "Inverse Blech Length",
-        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
-      },{
-        "title": "Atoms resolved by APT in 100 cubic planes",
-        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
-      },{
-        "title": "Microstructure of additively manufactured stainless steel",
-        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
-      },{
-        "title": "Micrographs of additively manufactured Ti-6Al-4V",
-        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
-      },{
-        "title": "Oxygen Concentrator developed at Indian Institute of Science",
-        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
-      },{
-        "title": "First release of phase-field software 'Microsim'",
-        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
-        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
         "title": "Modeling Fatigue (02/12/24)",
         "excerpt":"Speaker and Affliation:  Jaafar El-Awady  Professor – Department of Mechanical Engineering  John Hopkins University (USA)   When?  2nd December, 2024 (Monday), 11.00 AM (India Standard Time)   Where  KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore   ","categories": [],
         "tags": [],
@@ -1769,10 +1715,70 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/saurabh-19-dec-2024",
         "teaser": null
       },{
+        "title": "Machining thin metallic foils",
+        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
+      },{
+        "title": "High throughput creep",
+        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
+      },{
+        "title": "Visualisation of stem cells",
+        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
+      },{
+        "title": "Inverse Blech Length",
+        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
+      },{
+        "title": "Atoms resolved by APT in 100 cubic planes",
+        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
+      },{
+        "title": "Microstructure of additively manufactured stainless steel",
+        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
+      },{
+        "title": "Micrographs of additively manufactured Ti-6Al-4V",
+        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
+      },{
+        "title": "Oxygen Concentrator developed at Indian Institute of Science",
+        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
+      },{
+        "title": "First release of phase-field software 'Microsim'",
+        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
+        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
+      },{
         "title": "PhD Thesis Defence: Mr. Akhand Pratap Singh (06/01/25)",
         "excerpt":"Thesis title:  Effect of Microstructural Evolution on the Electrochemical Degradation Behaviour of Electrodeposited Tin-Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava   When?  06th January, 2025 (Monday), 02:30 PM (India Standard Time)   Where  Online   Abstract  Electroplated Sn has been used as a protective coating against corrosion, as an anode material for rechargeable Li-ion battery, decorative finishes, and electronic packaging. The application of electrodeposited Sn is limited by its electrochemical degradation which reduces liability and increases the operating cost. In the present work, the corrosion behavior of electrodeposited Sn-based coatings (Sn-Ni, Sn-Zn, and Sn-Bi) has been studied by examining the corrosion products, the spatial distribution of phase, solute clustering/partitioning within the matrix, micro-texture, and coating strain. Key observations of the current work are: (i) Optimum incorporation of Ni in Sn coating (6 wt% Ni) produced a highly corrosion-resistant Sn-Ni coating with Ni3Sn4 intermetallic occupying the grain boundaries, low energy (100) orientated Sn matrix, highest fraction of low energy (031) [0 3] and (0 1) [011] twin boundaries and lower matrix strain. Contrary, higher Ni addition (13 wt% Ni) degraded the corrosion resistance of the Sn-Ni coating, due to galvanic coupling between the anodic Sn-rich matrix and cathodic intermetallic phase (Ni3Sn4), and the evolution of high energy texture characterized by a high fraction of high energy high angle grain boundaries (HAGBs), high matrix strain, and low fraction of low energy twin boundaries, (ii) A non-monotonic variation in the corrosion rate of the Sn-Bi coatings with Bi addition (0-17 wt% Bi) was noted. A highly corrosion-resistant Sn-Bi coating was produced at an optimum Bi incorporation (14 wt% Bi). Sn clusters in Bi-rich grains strained the Bi grains, thus lowering its effective passiveness and reducing the extent of micro-galvanic coupling between Sn-rich (anodic) and Bi-rich (cathodic) grains. The increase in the corrosion resistance for optimum Bi content was also due to the evolution of surface texture (of the matrix Sn phase) corresponding to low energy (101) orientation and the highest fraction of low-energy CSL boundaries. (iii) In Sn-14wt%Bi, coatings electrodeposited at different cathodic current densities (5, 12, 25, and 40 mA/cm2), the highest corrosion resistance was observed for the coating electrodeposited at the 25 mA/cm2 current density. This was due to low energy (301) surface texture, the evolution of the Sn-1.2at% Bi solid solution phase, and the formation of the SnO2 oxide passive layer. The lowest corrosion resistance observed for 40 mA/cm2 deposited coating was due to high energy (110) surface texture, formation of Bi-enriched clusters in the Sn matrix, and an unstable passive layer consisting of SnO and Sn(OH)2 oxides. (iv) Corrosion resistance of Sn-Zn coatings decreased at lower quantities of Zn addition (up to 10 wt%) but increased substantially at higher Zn contents (20-25 wt% Zn). At higher Zn additions, the enhanced corrosion resistance was due to a higher fraction of low energy, coincidence site lattice boundaries (CSLs), and preferred low-energy (100) surface texture. On the other hand, a higher corrosion rate for lower Zn addition stemmed from a highly strained matrix and a relatively higher fraction of high-energy, HAGBs, (v) A non-monotonic variation in the corrosion rate of the Sn-23wt% coating with increased deposition current (7, 12, 17, and 22 mA/cm2) was noticed. The coating deposited at 12 mA/cm2 exhibited the highest corrosion resistance due to relatively lower energy surface texture, higher fraction of lower energy grain boundaries, lesser coating strain, and evolution of protective oxide film with stabler oxides (ZnO and SnO2). Higher energy (110) surface grain orientation, unstable b-Sn matrix due to embedded Zn-enriched clusters, and weak passive layer consisting of Zn0 led to the lowest corrosion resistance for coating electrodeposited at 17 mA/cm2.  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/akhand-06-jan-2025",
+        "teaser": null
+      },{
+        "title": "Metal-to-Insulator Phase Transition in 2D Semiconductor and Application of 2D Materials for Electrostatic Energy Storage (06/01/25)",
+        "excerpt":"Speaker and Affliation:  Dr.Nihar Pradhan, Professor  Department of Physics, Jackson State University,    Jackson, MS, United States   When?  06th January, 2025 (Monday), 11.00 AM (India Standard Time)   Where  KI Vasu Auditorium, Dept. of Materials Engineering, IISc, Bangalore   Abstract:   Layered two-dimensional materials have attracted significant interest due to their unique electronic properties. In this talk, I will discuss the electrical transport properties of few-layered transition metal dichalcogenides (TMDs) showing insulator-to-metallic phase transition under applied electric field. Charge carrier mobility of a few layered ReS2 and MoSe2 FET devices increases as a function of decreasing temperature. Despite defects and impurities, evidence of a metallic state was observed at low temperature using an applied gate voltage or, equivalently, increasing the density of charge carriers within the 2D channel. We analyzed the conductivity data to explore the nature of the phase transition using temperature scaling analysis to distinguish the QPT and percolation nature of phase transition. In the second part of my talk, I will provide an overview of our recently developed high-density capacitive energy storage device on 2D nanofiller based dielectric polymer nanocomposites thin film capacitor where 2D fillers are placed in a stratified manner in the polymer matrix to improve the polarization and breakdown strength of the dielectric capacitors.   About the Speaker :   Dr Nihar Pradhan is an Associate Professor in the Department of Physics at Jackson State University, Mississippi, United States. He graduated with a PhD degree in Applied Physics from Worcester Polytechnic Institution, Massachusetts, USA and subsequently did postdoctoral work at University of Massachusetts and National High Magnetic Field Laboratory, Florida. His research interests span from material science to engineering working in interdisciplinary research projects based on two dimensional materials systems. His expertise is in synthesis of layered semiconducting materials, device fabrication using 2D materials and their heterostructures, exploring their electronic and optical properties to explore the interface science. Some of his current projects focus on exploring interface science in 2D-2D and 2D-3D heterostructure systems to develop energy efficient electronic devices, such as transistors, p-n junction and logic devices.   Dr Pradhan has authored 87 peer review publications with three United States Patent. His research is funded by several funding agencies, including the National Science Foundation, Department of Defense, Department of Energy, Airforce Research office and Princeton University. He is the director of the recently funded collaborative grant from the Department of Energy to develop “Heterogeneous Integration of 2D-3D Materials for Energy Efficient Electronics”. He is serving as the Associate Editor and editorial board member of Springer nature Journal “Emergent Materials” and “Scientific Reports”. He is also a recipient of DOE visiting faculty awards at Argonne National Lab and National High Magnetic Field Laboratory. He serves as the vice president of user facility at Center for Nanoscale Materials, Argonne National Laboratory, Chicago.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/nihar-06-jan-2025",
         "teaser": null
       },{
         "title": "Challenges and opportunities in deep learning for sustainable materials design (09/01/25)",
