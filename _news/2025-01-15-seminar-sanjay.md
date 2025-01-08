@@ -1,5 +1,5 @@
 ---
-title: "Thermal Spray: Integration of Design, Materials and Processes (10/01/25)"
+title: "Thermal Spray: Integration of Design, Materials and Processes (15/01/25)"
 permalink: /seminar/sanjay-15-jan-2025
 ---
 Indian Institute of Metals -Bangalore Chapter<br>
