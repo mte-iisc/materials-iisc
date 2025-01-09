@@ -3,8 +3,8 @@ title: "Materials Engineering for High Efficiency Solar cells and Photoelectroch
 permalink: /seminar/shukla-10-jan-2025
 ---
 ### Speaker and Affliation:
-Dr. Sudhanshu Shukla (IMEC, Belgium)<br>
-Affiliation: Interuniversity Microelectronics Centre (IMEC), Belgium 
+Dr. Sudhanshu<br>
+Interuniversity Microelectronics Centre (IMEC), Belgium 
 
 ### When?
 10<sup>th</sup> January, 2025 (Friday), 10.00 AM (India Standard Time)
