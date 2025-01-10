@@ -6,7 +6,7 @@ permalink: /colloquium/ankit-16-jan-2025
 Design and Fabrication of P3HT-Field Effect Transistors
 
 ### Faculty advisor(s):
-PProf. Praveen C. Ramamurthy
+Prof. Praveen C. Ramamurthy
 
 ### When?
 16<sup>th</sup> January, 2025 (Thursday), 11:00 AM (India Standard Time)
