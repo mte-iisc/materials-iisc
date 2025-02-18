@@ -38,7 +38,9 @@ classes: wide
 # Associate Faculty
 
 | --------         | ------    | ------------------------------------------------------------ |                         
+| <img src="{{ site.baseurl }}/assets/images/faculty/lnrao.jpg" width=120px>    |  Lakshminarayana Rao <br> Associate Professor, CST<br> narayana[at]iisc[dot]ac[dot]in <br> +91 80 2293 3534 <br> <a href="https://www.plasmalabiisc.com/principal-investigator" target="_blank">Personal Website</a>   | developing technologies in both thermal and non-thermal plasmas <br> generation and characterization of plasma-activated water and applications of plasma-activated water        |
 | <img src="{{ site.baseurl }}/assets/images/faculty/phani.jpg" width=120px>    |  Naga Phani Aetukuri <br> Associate Professor, SSCU<br> phani[at]iisc[dot]ac[dot]in <br> +91 80 2293 3534 <br> <a href="https://sites.google.com/view/qlab-iisc/" target="_blank">Personal Website</a>   | Solid State and Li-Ion Battery Materials and Devices <br> Redox-Active Organic Materials <br>Correlated Oxide Materials and Heterostructures<br> Electroactive Materials and Devices        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/pavan.jpg" width=120px>    |  Pavan Nakul<br> Assistant Professor, CENSE<br> pnukala[at]iisc[dot]ac[dot]in <br> +91 80 2293 xxxx <br> <a href="https://www.cense.iisc.ac.in/pavan-nukala/" target="_blank">Personal Website</a>   | Correlated oxides, ferroelectric and piezoelectric oxides <br> phase-change memories (chalcogenides) for electronic applications (neuromorphic computation, in particular) <br>topological insulators         |
 
 <br>
 
