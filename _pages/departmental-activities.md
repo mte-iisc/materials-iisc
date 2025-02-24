@@ -12,6 +12,8 @@ Lines on significance of event.
 Who normally participates?
 Link to a gallery from previous year/years.
 <br>
+<a href="https://symposium-mte.github.io/index.html">Sympo 2025</a> | 
+<a href="https://sites.google.com/view/mte-symposium2024-iisc/">Sympo 2024</a> | 
 <a href="https://sites.google.com/iisc.ac.in/mte-symposium2023-iisc">Sympo 2023</a> |
 <a href="https://materials.iisc.ac.in/sympo/">Sympo 2020</a> | 
 <a href="https://sites.google.com/view/sympo2019-materials-iisc-in/">Sympo 2019</a> | 
