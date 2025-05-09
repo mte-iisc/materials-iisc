@@ -5,9 +5,9 @@ permalink: /chair
 classes: wide
 ---
 
-<img src="{{ site.baseurl }}/assets/images/faculty/satyam-chair.jpg"> <br>
+<img src="{{ site.baseurl }}/assets/images/faculty/rajeev.jpg"> <br>
 <br>
-Prof. Satyam Suwas <br> 
+Prof. Rajeev Ranjan <br> 
 Chair <br>
 Department of Materials Engineering<br>
 Indian Institute of Science<br>
