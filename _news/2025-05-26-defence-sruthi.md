@@ -9,7 +9,7 @@ Mucin-Based Photocrosslinkable Bioinks for 3D Bioprinting and Tissue  Engineerin
 Prof. Ashok M Raichur
 
 ### When?
-26<sup>th</sup> May, 2025 (Monday), 11:00 PAM (India Standard Time)
+26<sup>th</sup> May, 2025 (Monday), 11:00 AM (India Standard Time)
 
 
 ### Mode Online
