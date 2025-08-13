@@ -1692,7 +1692,7 @@ Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDg6UZU5k5QifGxrq1LTRrg
 </tr>
 <tr>
 <td><b>Contact person</b></td> 
-<td colspan="2">Prof. Ankur Chauhan (<a href="mailto:ankurchauhan@iisc.ac.in">ankurchauhan@iisc.ac.in</a>)</td>
+<td colspan="2">Prof. Suchandrima Das (<a href="mailto:suchandrima@iisc.ac.in">suchandrima@iisc.ac.in</a>)<br><a href="https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=l80Vb6f240Gyxa1Bk5dkdtcCxHoteNxNmdT_Y2CO9hlUQ01PNkNTRVkzWTBJT0pXM1lLT01KTDE0NiQlQCN0PWcu&Token=68133a3424ab4f6d8bc5b8512bf89a0b">Interested users may fill and submit this form</a></td>
 </tr>
 </tbody>
 </table>
