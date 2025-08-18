@@ -2002,4 +2002,10 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/bharat-14-aug-2025",
         "teaser": null
+      },{
+        "title": "Processing of Nuclear Materials: A Saga of Self-Reliance & Commitment (21/08/25)",
+        "excerpt":"41st PROF. BRAHM PRAKASH MEMORIAL LECTURE   Speaker and Affliation:  Dr. Komal Kapoor  Chairman &amp; Chief Executive,  Nuclear Fuel Complex, Department of Atomic Energy, Hyderabad   When?  21th August, 2025 (Thursday), 04:00 PM (India Standard Time)   Where  Faculty Hall, Indian Institute of Science, Bengaluru - 560012  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/seminar/komal-21-aug-2025",
+        "teaser": null
       },]
