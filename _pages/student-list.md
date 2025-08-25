@@ -347,7 +347,7 @@ List of students on this page sorted in reverse chronology and according to the 
 
 ## M.Tech Students
 
-### 2026
+### 2025
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr><tr><td>Athira K</td><td>Prof. Surendra Kumar Makineni</td><td>kathira</td></tr>
@@ -383,7 +383,7 @@ List of students on this page sorted in reverse chronology and according to the 
 </table>
 
 
-### 2025
+### 2024
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr><tr><td>Akash Prajapati</td><td>Prof. Bhagwati Prasad</td><td>akashp1</td></tr>
@@ -413,7 +413,7 @@ List of students on this page sorted in reverse chronology and according to the 
 
 
 
-### 2024
+### 2023
 <table>
 <tbody>
 <tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
@@ -445,47 +445,6 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>D Laxman Rao</td><td>Chandan Srivastava</td><td>laxmand</td></tr>
 <tr><td>Renuka Kumari</td><td>Satyam Suwas</td><td>renukakumari</td></tr>
 <tr><td>Aleef  Shajahan</td><td>Rajeev Ranjan</td><td>aleefs</td></tr>
-</tbody>
-</table>
-
-### 2023
-<table>
-<tbody>
-<tr><th>Name</th><th>Research Supervisor(s)</th><th>Email (&#64;iisc.ac.in)</th></tr>
-<tr><td>Aditya Singh</td><td>Suryasarathi Bose</td><td>adityasingh3</td></tr>
-<tr><td>Akepogu Navajeevan Sagar</td><td>Praveen Kumar</td><td>navajeevans</td></tr>
-<tr><td>Aluri Sai</td><td>Kaushik Chatterjee</td><td>alurisai</td></tr>
-<tr><td>Aleef  Shajahan</td><td>Rajeev Ranjan</td><td>aleefs</td></tr>
-<tr><td>Bollavatri Dheeraj Kumar</td><td>Surendra Kumar M</td><td>dheerajkumar</td></tr>
-<tr><td>Chintaluri Venkata Sai Rama Krishna Rao</td><td>Bhagwati Prasad</td><td>ramakrishnar</td></tr>
-<tr><td>Gurrala Laxmi Prasanna</td><td>Pikee Priya</td><td>gurralalaxmi</td></tr>
-<tr><td>Debashrita Kundu</td><td>Suryasarathi Bose</td><td>debashritak</td></tr>
-<tr><td>Debsundar Dey</td><td>Sai Gautam Gopalakrishnan</td><td>debsundardey</td></tr>
-<tr><td>D Laxman Rao</td><td>Chandan Srivastava</td><td>laxmand</td></tr>
-<tr><td>Gayathri</td><td>Praveen C. Ramamurthy</td><td>gayathri2023</td></tr>
-<tr><td>Ghatge Abhishek Keshav</td><td>Bhagwati Prasad</td><td>abhishekkg</td></tr>
-<tr><td>Ishan Bharti</td><td>Rajeev Ranjan</td><td>ishanbharti</td></tr>
-<tr><td>Ishwarabhotla Sanjana Sai Venkata Phani</td><td>Abhik Choudhury</td><td>sanjanai</td></tr>
-<tr><td>J Rupesh</td><td>Abhik Choudhury</td><td>rupeshjangam</td></tr>
-<tr><td>Ketan Sharma</td><td>Ankur Chauhan</td><td>ketansharma</td></tr>
-<tr><td>Kumari Poonam Kujur</td><td>Aloke Paul and Dr. Raju Ravi</td><td>poonamkumari</td></tr>
-<tr><td>Manish Majumdar</td><td>Ankur Chauhan</td><td>manishmajumd</td></tr>
-<tr><td>Menon Vaishnavi Padmakumar</td><td>Kaushik Chatterjee</td><td>vaishnavipm</td></tr>
-<tr><td>Navya S</td><td>Surendra Kumar M</td><td>navyas</td></tr>
-<tr><td>Nivargi Chetaneshwari Jitendra</td><td>Satyam Suwas</td><td>chetaneshwar</td></tr>
-<tr><td>Parth Sudhir Dingre</td><td>Praveen C. Ramamurthy</td><td>parthsudhir</td></tr>
-<tr><td>Pradeeprajan P</td><td>Abinandanan T. A.</td><td>pradeeprajan</td></tr>
-<tr><td>Priyanshu Raghuwanshi</td><td>Sachin R. Rondiya</td><td>priyanshur</td></tr>
-<tr><td>Rakesh Majhi</td><td>Prosenjit Das</td><td>rakeshmajhi</td></tr>
-<tr><td>Renuka Kumari</td><td>Pikee Priya</td><td>renukakumari</td></tr>
-<tr><td>Sai Balaraju Pinneboyana</td><td>Aloke Paul and Dr. Raju Ravi</td><td>saibalaraju</td></tr>
-<tr><td>Sista Sri Venkata Sarath Chandra</td><td>Chandan Srivastava</td><td>sarathchandr</td></tr>
-<tr><td>Somisetty Mahesh</td><td>Satyam Suwas</td><td>maheshsomise</td></tr>
-<tr><td>Subramanian R S</td><td>Sai Gautam Gopalakrishnan</td><td>subramanianr</td></tr>
-<tr><td>Supriya Kalindi</td><td>Satyam Suwas</td><td>supriyak</td></tr>
-<tr><td>Tankara Jayasurya</td><td>Subho Dasgupta</td><td>jayasuryat</td></tr>
-<tr><td>Thumurothu Venkata Sai Naveen Babu Naidu</td><td>Praveen Kumar</td><td>naveenbnvst</td></tr>
-<tr><td>Vadithe Ramesh Kumar Naik</td><td>	Sachin R. Rondiya</td><td>rameshkn</td></tr>
 </tbody>
 </table>
 
