@@ -5,7 +5,7 @@ permalink: /chair
 classes: wide
 ---
 
-<img src="{{ site.baseurl }}/assets/images/faculty/rajeev.jpg width=200px"> <br>
+<img src="{{ site.baseurl }}/assets/images/faculty/rajeev.jpg" width=200px> <br>
 <br>
 Prof. Rajeev Ranjan <br> 
 Chair <br>
