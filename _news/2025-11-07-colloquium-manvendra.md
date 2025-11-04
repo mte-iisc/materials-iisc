@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis Colloquium: Mr. Manvendra Singh (16/10/25)"
+title: "PhD Thesis Colloquium: Mr. Manvendra Singh (07/11/25)"
 permalink: /colloquium/manvendra-7-nov-2025
 ---
 ### Thesis title:
