@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Colloquium: Mr. Manvendra Singh (07/11/25)"
-permalink: /colloquium/manvendra-7-nov-2025
+permalink: /colloquium/manvendra-07-nov-2025
 ---
 ### Thesis title:
 Fully inkjet-printed inorganic-organic heterojunction diodes for advanced electronic and optoelectronic applications
