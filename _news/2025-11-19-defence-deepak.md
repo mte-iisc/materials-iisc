@@ -6,7 +6,7 @@ permalink: /defence/deepak-19-nov-2025
 Structure and polar properties of SrTiO3-Na0.5Bi0.5TiO3 ferroelectric system
 
 ### Faculty advisor(s):
-Prof. Rajeev Ranja
+Prof. Rajeev Ranjan
 
 ### When?
 19<sup>th</sup> November, 2025 (Wednesday), 10:30 AM (India Standard Time)
