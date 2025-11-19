@@ -101,6 +101,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Gayathri</td><td>Ravi R</td><td>gayathri2023</td></tr>
 <tr><td>J Rupesh</td><td>Abhik N Choudhury</td><td>rupeshjangam</td></tr>
 <tr><td>Chintaluri Venkata Sai Rama Krishna Rao</td><td> Bhagwati Prasad / Abhik N Choudhury</td><td>ramakrishnar</td></tr>
+<tr><td>Prasadinee Maharana</td><td> Satyam Suwas</td><td>prasadineem</td></tr>
 </tbody>
 </table>
 
@@ -168,6 +169,7 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>MANISH CHANDRA BISHT</td><td>Govind S Gupta</td><td>manishc</td></tr>
 <tr><td>ALAKA T PANICKER</td><td>Kaushik Chatterjee</td><td>alakap</td></tr>
 <tr><td>ISMAIL KAMIL WORKE</td><td>Aloke Paul</td><td>ismailkamil</td></tr>
+<tr><td>VAMSI KRISHNA PAKKI</td><td>SUBODH KUMAR</td><td>vamsikrishna</td></tr>
 </tbody>
 </table>
 
