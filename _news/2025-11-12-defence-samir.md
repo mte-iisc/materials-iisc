@@ -6,7 +6,7 @@ permalink: /defence/samir-12-nov-2025
 Improving Mechanical Properties and Self-Healing by Dynamic Bonds at Interface in Carbon Fiber Reinforced Epoxy Laminate and its Recycling
 
 ### Faculty advisor(s):
-Prof.Suryasarathi Bose
+Prof.Suryasarathi Bose and Prof. Subodh Kumar
 
 ### When?
 12<sup>th</sup> November, 2025 (Wednesday), 3:15 PM (India Standard Time)
