@@ -120,21 +120,20 @@ Here are links to some of the key resources for your ready reference. The <a hre
 
 <b>Travel</b>
 
-<a href="/docs/Application-for-TA-Advance.doc">Application for TA advance</a> | 
+<a href="/pdfs/TA-Approval-Advance.pdf">Approval and TA Advance</a> | 
 <a href="/docs/Travel-Approval-F-A.doc">Travel approval F&amp;A</a> | 
 <a href="/docs/Travel-Approval-For-visitors.doc">Travel approval for visitors</a> | 
 <a href="/docs/Travel-Approval-Schemes.doc">Travel approval Schemes</a> | 
-<a href="/docs/Travel-Requisition-CPDA.doc">Travel requisition CPDA</a> | 
+<a href="/pdfs/Request-for-CPDA.pdf">Travel requisition CPDA</a> | 
 <a href="/docs/Travelling-allowance-Bill-Visitors.doc">Travel allowance bill Visitors</a> | 
-<a href="/docs/Travelling-Allowance-Bill.doc">Travel allowance bill</a> | 
+<a href="/pdfs/TA-Submission.pdf">TA Submission</a> | 
 <a href="/docs/Self-declaration-on-AIR-Travel.docx">Self declaration on AIR Travel</a> | 
 <a href="/pdfs/Check-Sheet-for-TA-claim.pdf">Check list for TA Claims</a>
 
 <b>LTC</b>
 
-<a href="/docs/LTC-Advance-For-Faculty.doc">LTC advance for Faculty</a> | 
-<a href="/docs/LTC-Advance-Staff.doc">LTC advance for Staff</a> | 
-<a href="/docs/LTC-BILL.docx">LTC Bill</a>
+<a href="/pdfs/LTC-Intimation-Advance.pdf">LTC advance for Faculty</a> | 
+<a href="/pdfs/LTC-Submission.pdf">LTC Submission</a>
 
 <b>Courier</b>
 
