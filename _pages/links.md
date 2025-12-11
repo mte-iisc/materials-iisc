@@ -132,7 +132,7 @@ Here are links to some of the key resources for your ready reference. The <a hre
 
 <b>LTC</b>
 
-<a href="/pdfs/LTC-Intimation-Advance.pdf">LTC advance for Faculty</a> | 
+<a href="/pdfs/LTC-Intimation-Advance.pdf">LTC Intimation and Advance</a> | 
 <a href="/pdfs/LTC-Submission.pdf">LTC Submission</a>
 
 <b>Courier</b>
