@@ -41,6 +41,7 @@ Bangalore-560012, INDIA<br>
 <li>Aashish Halder(with Prof. Suryasarathi Bose), 2024</li>
 <li>Jithunlal S (with Prof. Praveen Ramamurthy), 2024</li>
 <li>Tejas Shewale (with Prof. Kaushik Chatterjee), 2024</li>
+<li>Gayathri (with Prof. Praveen Ramamurthy), 2023</li>
 </ul>
 
 ## M.E Students
