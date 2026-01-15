@@ -9,7 +9,7 @@ and
 
 <b>The Indian Institute of Metals-Bangalore Chapter<br>
 
-Cordially invite you for<br>
+Cordially invite you for the 5th<br>
 <b>PROF. S. RANGANATHAN Distinguished Lecture</b>
 
 ### Speaker and Affliation:
