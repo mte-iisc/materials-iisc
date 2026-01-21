@@ -54,7 +54,8 @@ classes: wide
 | <img src="{{ site.baseurl }}/assets/images/faculty/shervanthi.png" width=120px>    |  Shervanthi Homer-Vanniasinkam <br> Brahm Prakash Chair Professor <br> <a href="{{ site.baseurl }}/pdfs/shervanthi.pdf" target="_blank">Personal Website</a>   | Basic, translational and clinical research        |
 | <img src="{{ site.baseurl }}/assets/images/faculty/sonal.jpg" width=120px>    |  Sonal Asthana <br> Adjunct Faculty <br> sonalasthana[at]iisc[dot]ac[dot]in  <br> <a href="https://materials.iisc.ac.in/old/faculty/sonal-asthana/" target="_blank">Personal Website</a>   | 3D Bioprinting and Biomaterials <br> Data analytics for clinical research        |
 | <img src="{{ site.baseurl }}/assets/images/faculty/vilay.jpg" width=120px>    |  Dr. Vilay Vannaladsaysy <br> ASEAN-India Visiting Fellow <br> vilayv[at]iisc[dot]ac[dot]in  <br> <a href="https://www.linkedin.com/in/vilay-vannaladsaysy-3b024616/" target="_blank">Personal Website</a>   | Polymer–Matrix Composites (PMCs), Polymer blends <br> Composites Scaffold, Polymer Fibers and Tissue Engineering        |
-| <img src="{{ site.baseurl }}/assets/images/faculty/eabe.jpg" width=120px>    |  Eiji Abe <br> Srinivasa Ranganathan Chair Professor (Visiting) <br>abe@material.t.u-tokyo.ac.jp  <br> <a href="https://www.material.t.u-tokyo.ac.jp/faculty/eiji_abe_e.html" target="_blank">Personal Website</a>   | Electron microscopy,LPSO-Mg alloys <br> Quasicrystals, Computational Science        |
+| <img src="{{ site.baseurl }}/assets/images/faculty/eabe.jpg" width=120px>    |  Eiji Abe <br> Srinivasa Ranganathan Chair Professor <br> abe[at]material[dot]t[dot]u-tokyo[dot]ac[dot]jp  <br> <a href="https://www.material.t.u-tokyo.ac.jp/faculty/eiji_abe_e.html" target="_blank">Personal Website</a>   | Electron microscopy, LPSO-Mg alloys <br> Quasicrystals, Computational Science        |
+
 <br>
 
 # Honorary Faculty
