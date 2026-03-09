@@ -88,10 +88,14 @@ In order to commemorate the services of Professor Prakash, the community of meta
 </tr>
 <tr>
 <td>2014</td>
+<td>Prof. Manoranjan Mishra, Salt Leke city Utah</td>
+</tr>
+<tr>
+<td>2014</td>
 <td>Prof. Narendra B. Dahotre, University of North Texas, Texas, USA</td>
 </tr>
 <tr>
-<td>2013</td>
+<td>2014</td>
 <td>Prof. Do Hyang Kim, Yonsei University, South Korea</td>
 </tr>
 <tr>
