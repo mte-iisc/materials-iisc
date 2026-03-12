@@ -13,4 +13,4 @@ classes: wide
 | <img src="{{ site.baseurl }}/assets/images/staff/bharat.jpg" width=120px>    | Bharat T.C <br>  bharatt[at]iisc[dot]ac[dot]in <br> Technical Assistant <br>    |                |
 | <img src="{{ site.baseurl }}/assets/images/staff/justin.jpg" width=120px>    | Justine K Antony <br>  justinea[at]iisc[dot]ac[dot]in <br> Technical Assistant <br>    |                |
 | <img src="{{ site.baseurl }}/assets/images/staff/kanth.jpg" width=120px>    | Kantha Raja <br>  skantharaja[at]iisc[dot]ac[dot]in <br> Technical Assistant <br>    |                |
-| <img src="{{ site.baseurl }}/assets/images/staff/susant.jpg" width=120px>    | Susant Pathak <br>  susant[at]iisc[dot]ac[dot]in <br> Technical Assistant <br>    |                |
+| <img src="{{ site.baseurl }}/assets/images/staff/susant.png" width=120px>    | Susant Pathak <br>  susant[at]iisc[dot]ac[dot]in <br> Technical Assistant <br>    |                |
