@@ -1,13 +1,13 @@
 ---
-title: "Engineering Materials, Electrolytes and Interphases in Sodium Ion Batteries: Challenges, Design Rules, and Pathways to Practical Systems (09/04/26)"
-permalink: /seminar/sathiya-09-apr-2026
+title: "Engineering Materials, Electrolytes and Interphases in Sodium Ion Batteries: Challenges, Design Rules, and Pathways to Practical Systems (10/04/26)"
+permalink: /seminar/sathiya-10-apr-2026
 ---
 ### Speaker and Affliation:
 Dr. Sathiya Mariyappan<br>
 Research Scientist at CNRS, France
 
 ### When?
-9<sup>th</sup> April, 2026 (Thursday), 3.00 PM (India Standard Time)
+10<sup>th</sup> April, 2026 (Friday), 11.00 AM (India Standard Time)
 
 ### Where
 KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore
