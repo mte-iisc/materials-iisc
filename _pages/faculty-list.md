@@ -85,6 +85,69 @@ classes: wide
 
 # Former Faculty
 
+<b>Before 1945-1959:</b>
+
 <ul>
-<li> Prof. Frank Adcock (1945-48) HOD</li>
+<li>Prof. Frank Adcock (1945-48) HOD</li>
+<li>Prof. S S Ghosh (1945-49)</li>
+<li>Dr. J Balachandra (1945-1959)</li>
+<li>Prof. E G Ramachandran (1945-56)</li>
+<li>Dr. K K Majumdar (1945-49) </li>
+<li>Prof. N R Srinivasan (1949-56)</li>
+<li>Dr. K V Aiyer (1950)</li>
+<li>Prof. Brahm Prakash HOD (1951-1957) </li>
+<li>Prof. D L Bhattacharyya (1951-59)</li>
+<li>Prof. R C Deshpande (1951)</li>
+<li>Dr. B S Subramanya (1956-59)</li>
+<li>Prof. M Ramakrishna Rao (1959)</li>
+<li>Dr. V Ramachandran (1959)</li>
+<li>Prof. A V Ramana Rao (1959)</li>
+<li>Prof. R Mallikarjunan (1956)</li>
+</ul>
+
+<b>1961-1985</b>
+
+<ul>
+<li>Prof. T R Anantharaman (1956-1962)</li>
+<li>Prof. A. A. Krishnan (1957- 1972) HOD</li>
+<li>Prof. K P Abraham (1959- 1981; HOD 1972-1978)</li>
+<li>Dr. A M Gokhale (1984)</li>
+<li>Mr. R K Ramamurthy (1963)</li>
+<li>Prof. K S Raman (1963- 2000)</li>
+<li>Prof. K I Vasu (1965-1989)</li>
+<li>Prof. M Mohan Rao (1965-1990) </li>
+<li>Prof. R M Mallya (1965-1994; Chairman 1978-1982)</li>
+<li>Prof. E S Dwarakadasa (1965-2003)</li>
+<li>Prof. D H Sastry (1965-2005; Chairman 1996- 2000)</li>
+<li>Mr. C R Krishnamurthy (1965-1990)</li>
+<li>Mr. R G Satyanarayana</li>
+<li>Prof. Y V R K Prasad (1965-2003; Chairman 1992-1996)</li>
+<li>Mr. K Narasimha Murthy (1965-1975)</li>
+<li>Dr. M V Bhat (1965-2003)</li>
+<li>Mr. S C Gupta  </li>
+<li>Prof. Kishore (1965-2006)</li>
+</ul>
+
+<b>1971-72</b>
+
+<ul>
+<li>Prof. G N K Iyengar (1971- 1997)  </li>
+<li>Dr. U B Nayak (1971-1991)</li>
+<li>Dr. J P Hajra (1971-2004)</li>
+<li>Dr. A K Lahiri (1971-2005) </li>
+<li>Prof. P K Rohatgi (1975)</li>
+<li>Dr. B V Narayana (1977-2016)</li>
+<li>Prof. S Ranganathan (1982-2003; Chairman 1982-88)</li>
+<li>Prof. K T Jacob (1983-2006; Chairman 1988-1992)</li>
+<li>Prof. K A Natarajan (1983-2004; Chairman 2000-2004)</li>
+<li>Dr. K Chattopadhyay (1984 -2015; Chairman 2004-2009)</li>
+<li>Prof. S. Subramanian (1984 – 2019)  </li>
+<li>Dr. B N Pramila Bai (1984)</li>
+<li>Mr. R J Deshpande (1983 -2024)</li>
+<li>Prof. M K Surappa (1988-2017)</li>
+<li>Ms. H Sukanya (1988)</li>
+<li>Dr. G S Avadhani (1988 -2025)</li>
+<li>Prof. V. Jayaram (1990-2022) Chairman (2010-2015)</li>
+<li>Prof. T A Abinandanan (1993; Chairman 2015-2019)</li>
+<li>Prof. Atul Chokshi (1994-2025)</li>
 </ul>
