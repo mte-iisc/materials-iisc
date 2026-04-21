@@ -82,3 +82,9 @@ classes: wide
 | <img src="{{ site.baseurl }}/assets/images/faculty/kan.png" width=120px>    |  Natarajan K. A. <br> Emeritus Professor <br> kan[at]iisc[dot]ac[dot]in <br> +91 80 2293 2679 <br> <a href="https://materials.iisc.ac.in/faculty/kan" target="_blank">Personal Website</a>    | Biometallurgy<br>Hydrometallurgy<br>Mineral processing<br>Corrosion<br>Environmental control                |
 | <img src="{{ site.baseurl }}/assets/images/faculty/kishore.jpg" width=120px>    |  Kishore <br> Emeritus Professor <br> balkis[at]iisc[dot]ac[dot]in <br> <br> <a href="{{ site.baseurl }}/faculty/kishore"> Personal Website</a>    | Structure-Property Correlations<br>Friction and wear of materials<br>Polymer matrix-based composites<br>                |
 | <img src="{{ site.baseurl }}/assets/images/faculty/ssmani.png" width=120px>    |  Subramanian S. <br> Emeritus Professor <br> ssmani[at]iisc[dot]ac[dot]in <br> +91 80 2293 2261 <br> <a href="https://materials.iisc.ac.in/old/faculty/s-subramanian/" target="_blank">Personal Website</a>    | Surface and colloidal chemistry<br>Mineral processing<br>Extractive metallurgy<br>Bio-processing and environmental control                |
+
+# Former Faculty
+
+<ul>
+<li> Prof. Frank Adcock (1945-48) HOD</li>
+</ul>
