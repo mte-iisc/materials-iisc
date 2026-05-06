@@ -2177,60 +2177,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/colloquium/avik-23-mar-2026",
         "teaser": null
       },{
-        "title": "Machining thin metallic foils",
-        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
-      },{
-        "title": "High throughput creep",
-        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
-      },{
-        "title": "Visualisation of stem cells",
-        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
-      },{
-        "title": "Inverse Blech Length",
-        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
-      },{
-        "title": "Atoms resolved by APT in 100 cubic planes",
-        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
-      },{
-        "title": "Microstructure of additively manufactured stainless steel",
-        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
-      },{
-        "title": "Micrographs of additively manufactured Ti-6Al-4V",
-        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
-      },{
-        "title": "Oxygen Concentrator developed at Indian Institute of Science",
-        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
-      },{
-        "title": "First release of phase-field software 'Microsim'",
-        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
-        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
         "title": "PhD Thesis Colloquium: Mr. Sureddy Tejanath Reddy (06/04/26)",
         "excerpt":"Thesis title:  Microstructural Origin Of Dwell Fatigue In α Titanium And Near - α  Titanium Alloys.   Faculty advisor(s):  Prof. Satyam Suwas   When?  06th April, 2026 (Monday), 03:30 PM (India Standard Time)   Where  KPA Auditorium, Department of Materials Engineering   Abstract:  Titanium and its alloys owing to their high specific strength, excellent high temperature properties, and favourable fatigue and creep performance form a key class of structural materials used in aerospace applications. At the same time, the dwell fatigue behaviour of these alloys critically limits the service life of rotating aero-engine components, with dwell loading often reducing life by more than an order of magnitude relative to conventional cyclic fatigue. This degradation arises primarily from two coupled effects: progressive plastic strain accumulation and the associated damage, and the early onset of faceted crack nucleation that sharply reduces the component life. The present thesis is aimed at examining the elastic-plastic anisotropy, specially its dependence on crystallographic texture which plays a central role in governing deformation behaviour.   The present study develops a detailed understanding of the role of crystallographic texture towards anisotropic micromechanical response and dwell fatigue in commercially pure (cp) titanium. The study uses, apart from rigorous experimental investigations using electron back-scattered diffraction (EBSD), the crystal plasticity fast Fourier transform (CPFFT). The study establishes EBSD-informed CPFFT as an effective route to correlate texture, heterogeneous stress distribution, and dwell fatigue anisotropy in cp-Ti.   Further the role of macrozone (microtextured region, MTR) on dwell fatigue behaviour of the near‑α titanium alloy IMI 834 is discussed. The samples were extracted from a forged billet from the centre and periphery and were loaded along axial (AD) and transverse (TD) directions. Fractography reveals faceted crack‑initiation regions whose scale matches macrozone dimensions, directly implicating MTRs in dwell crack nucleation. Crystal plasticity FFT simulations was employed to understand the deformation behaviour.   This study further delves into examining three-dimensional microstructure and correlating with  dwell fatigue crack initiation in IMI 834 and establishes an integrated 3D characterization simulation framework that links microtexture, 3D grain connectivity and facet crystallography to dwell fatigue crack initiation in near‑α titanium alloys.  ","categories": [],
         "tags": [],
@@ -2285,9 +2231,75 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/bharath-30-apr-2026",
         "teaser": null
       },{
+        "title": "Machining thin metallic foils",
+        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
+      },{
+        "title": "High throughput creep",
+        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
+      },{
+        "title": "Visualisation of stem cells",
+        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
+      },{
+        "title": "Inverse Blech Length",
+        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
+      },{
+        "title": "Atoms resolved by APT in 100 cubic planes",
+        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
+      },{
+        "title": "Microstructure of additively manufactured stainless steel",
+        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
+      },{
+        "title": "Micrographs of additively manufactured Ti-6Al-4V",
+        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
+      },{
+        "title": "Oxygen Concentrator developed at Indian Institute of Science",
+        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
+      },{
+        "title": "First release of phase-field software 'Microsim'",
+        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
+        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
+      },{
+        "title": "PhD Thesis Defence: Mr. B. Aashranth (ERP) (07/05/26)",
+        "excerpt":"Thesis title:  Evolution of microstructure and texture during the processing of B-modified Grade 91 steel   Faculty advisor(s):  Prof. Satyam Suwas and Dr. Diptimayee Samantaray, IGCAR Kalpakkam   When?  07th May, 2026 (Thursday), 11:00 AM (India Standard Time)   Where  KPA  Auditorium, Department of Materials Engineering   Abstract  Ferritic-martensitic (F/M) steels containing 8.5-12% Cr are essential for high-temperature applications, including power production. Among the different grades of F/M steel, Grade 91 steel is selected for use in India’s Prototype Fast Breeder Reactor (PFBR), and advanced reactors worldwide, including ASTRID, JSFR, CFR-1000, and PGSFR. Boron-modified Grade 91 steel is an optimised version, with superior high temperature properties. However, boron addition necessitates careful control of the manufacturing process to ensure the required properties in the end product. It is essential to address the phase transformations occurring during and after deformation, and to correlate these with the major stages of manufacturing.   This investigation aims to address gaps in the current understanding through an experimental investigation of the hot working, warm working and cold working stages of manufacturing. The evolution of microstructure and crystallographic texture is correlated to the hot working process parameters. Through this correlation, the occurrence of dynamic transformation is demonstrated at specific hot working conditions. The mechanisms of this transformation and its dependence on process conditions are established. Further, the martensite phase transformation immediately following hot working is investigated with respect to martensitic variant selection. Through this, a method to predict transformation texture is established. This method has been used to generate new, desired martensite textures through simple hot working processes.   The mechanisms responsible for softening at warm working conditions are elucidated and correlated with the microstructure. As this steel is not amenable to high amounts of cold working by conventional methods, the feasibility of imparting high strains through severe plastic deformation has been investigated. The resultant microstructure is evaluated using new microstructural measurements that are specific to the martensitic microstructure. Finally, the learnings from individual processing stages are integrated to provide a comprehensive processing-microstructure-texture property correlations in F/M steel.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/defence/aashranth-07-may-2026",
+        "teaser": null
+      },{
         "title": "Design of Materials - Design with Materials (13/05/26)",
         "excerpt":"Speaker and Affliation:  Professor Dr.-Ing. Tim Hosenfeldt                                                  Honorary Professor for Design Engineering at Friedrich Alexander University, Germany. Senior Vice President and Head of Central Technologies at Schaeffler AG, Germany.   When?  13th May, 2026 (Wednesday), 2.15 PM (India Standard Time)   Where  KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore   Abstract:  The end-to-end methodology of moving from material development through the manufacturing process to the finished product enables an integrated design methodology in which material innovation and product development evolve simultaneously. In the integrated material-process product design approach, products can be designed that offer unique selling propositions in terms of performance, cost efficiency, and sustainability. The development of (advanced) materials thus plays a central role in modern product design, enabling improved performance, increased sustainability, and superior functionality. The integration of material digitalization and artificial intelligence accelerates the discovery and optimization of advanced materials by enabling predictive modeling and data-based insights. In the context of E-mobility, these innovations are crucial to create durable and energy-efficient components that meet the highest requirements. This interdisciplinary approach combines materials science, digital tools and AI to transform product development processes and drive sustainable technological advances in motion technology.   Short Bio of Speaker:  Prof. Dr.-Ing. Tim Hosenfeldt is Senior Vice President and Head of Central Technologies at Schaeffler AG. He studied production engineering at the University of Bremen and then worked as a research engineer at the Leibniz Institute for Material-Oriented Technologies, Bremen in the field of materials science and surface technologies. After receiving his doctorate in engineering from the University of Bremen in 2000, he started at the Schaeffler Group, where he built up and managed coating and surface technology from research to global production. From 2015-2022 he was Head of Central Innovation and since 2022 he has been Head of Central Technologies. Since 2008 he has been held the lecture “Tribology and Surface Technology” at the Chair of Design Technology (KTmfk) at the “Friedrich-Alexander-Universität Erlangen-Nürnberg”, since 2016 he has been honorary professor for Design Engineering and thus shapes the connection between industry and university in research and teaching. Since 2023 he is adjunct Professor at the Hong Kong Polytechnic University, department of Indus trial and Systems Engineering Department (ISE) and member of the international advisory board at the Research Institute for Advanced Manufacturing (RIAM). In addition, he is a member of the DIHK Committee for Industry and Research as an industry representative for Middle Franconia, a member of the Executive Board of the EU Initiative for “Innovative and Advanced Materials IAM-I”, and a member of the VDMA Committee for Research and Innovation and Chairman of the Industry Advisory Board of the Leibniz Institute for Material-Oriented Technologies.  ","categories": [],
         "tags": [],
         "url": "https://materials.iisc.ac.in/seminar/tim-13-may-2026",
+        "teaser": null
+      },{
+        "title": "PhD Thesis Colloquium: Mr. Kuntal Sarkar (ERP) (18/05/26)",
+        "excerpt":"Thesis title:  Development of Polyimide composite coating on steel for corrosion protection   Faculty advisor(s):  Prof. Suryasarathi Bose and Dr. Tapan Kumar Rout (Tata Steel Ltd.)   When?  18th May, 2026 (Monday), 11:00 AM (India Standard Time)   Where  KPA Auditorium, Department of Materials Engineering   Abstract  Steel is majorly used in construction, automotive, appliances and engineering sectors due to its higher mechanical properties, machinability, and lower cost. However, corrosion of steel is a natural phenomenon that deteriorates it over time, especially during transportation and storage from steel manufacturer (e.g., Tata Steel Ltd.) to the customer end. Temporary corrosion protective layer of rust preventive (RP) oil is provided to protect steel during transportation and storage. This RP oil coated steel is then formed in various shapes and joined (mainly by welding) to make different components as per customer’s final product requirements (e.g., furniture, fan blade, electrical panels, etc.).  Thereafter, these components go through several steps of degreasing (to clean surface oils, dirt and grease) followed by phosphating (to make the steel surface ready for painting) process and painting. This thesis titled “Development of Polyimide composite coating on steel for corrosion protection” targets to develop a single-layer polymeric coating on steel, which is superior in terms of corrosion resistance, formable, will directly be paintable and thereby replace the several steps of application of RP oil (at steel manufacturer’s end) and phosphating (at customer end). This thesis presents a synthesis of various polyimide polymers via condensation polymerization in an inert atmosphere. These polyimide polymers were applied over steel coupon samples to enhance corrosion resistance and formability. Several reinforcing particles like PANI@CeO2, CNT, glass fiber (GF) was also incorporated into the polyimide coating matrix to prepare composite coatings of enhanced corrosion resistance. This work also provides in-depth insights into corrosion mechanisms of various polyimide (pure as well as composite) coatings on steel.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/colloquium/kuntal-18-may-2026",
         "teaser": null
       },]
