@@ -62,6 +62,27 @@ In order to commemorate the services of Professor Prakash, the community of meta
 ### List of Chairs
 <table>
 <tbody>
+<tr><td>2022</td><td>Prof. Raman Singh, Monash University - Clayton Campus (Melbourne), Australia</td></tr>
+<tr>
+<td>2025</td>
+<td>Prof. Charles-Andre Gandin, Mines Paris Tech, CNRS, France</td>
+</tr>
+<tr>
+<td>2025</td>
+<td>Prof. Maria Teresa Perez Prado, IMDEA Materials Institute, Madrid, Spain</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>Prof. Sheravanthi Homer-Vanniasinkam, University College London</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>Prof. Easo P. George, University of Tennessee, USA</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>Prof. Shigeru Ueda, Tohoku University ,Sendai Japan</td>
+</tr>
 <tr>
 <td>2022</td>
 <td>Prof. Apparao M. Rao, Clemson University, USA</td>
@@ -88,10 +109,14 @@ In order to commemorate the services of Professor Prakash, the community of meta
 </tr>
 <tr>
 <td>2014</td>
+<td>Prof. Manoranjan Mishra, Salt Leke city Utah</td>
+</tr>
+<tr>
+<td>2014</td>
 <td>Prof. Narendra B. Dahotre, University of North Texas, Texas, USA</td>
 </tr>
 <tr>
-<td>2013</td>
+<td>2014</td>
 <td>Prof. Do Hyang Kim, Yonsei University, South Korea</td>
 </tr>
 <tr>
@@ -234,6 +259,10 @@ Dr. Balamuralikrishna works in the area of atom probe field ion microscopy and T
 ### <b>List of Fellows</b>
 <table>
 <tbody>
+<tr><td>2026</td><td>Dr. Daniel Schneider, Karlsruhe Institute of Technology, Germany</td></tr>
+<tr><td>2024</td><td>Prof. Megumi Kawasaki, Oregon State University, USA</td></tr>
+<tr><td>2023</td><td>Dr Darren J Player, University College London, UK</td></tr>
+<tr><td>2019</td><td>Dr. Luis A. Barrales - Mora, Georgia Tech-Lorraine,Metz, France</td></tr>
 <tr>
 <td>2015</td>
 <td>Prof. Eun Soo Park, Seoul National University, Republic of Korea</td>
@@ -295,6 +324,38 @@ Accordingly, the Institute considered the request and a <b>Karra Narasimha Murth
 </table>
 
 PS: The award was not considered during the academic years 2003-04, 2006-07, 2008-09 and 2009-10, as the number of MSc(Engg) students were less than 5.
+
+## Adithya Birla Chair
+
+### <b>List of awardees</b>
+
+<table>
+<tbody>
+<tr><td>2024</td><td>Prof. N. B. Dahotre, University of North Texas</td></tr>
+<tr><td>2023</td><td>Prof. C.F.M Helimaier, KIT, IAM-WK Germany</td></tr>
+</tbody>
+</table>
+
+## S. Ranganathan Visiting Chair
+
+### <b>List of awardees</b>
+
+<table>
+<tbody>
+<tr><td>2026</td><td>Prof. Eiji Abe, University of Tokyo</td></tr>
+</tbody>
+</table>
+
+## Satish Dhawan Visit Professor
+
+### <b>List of awardees</b>
+
+<table>
+<tbody>
+<tr><td>2024</td><td>Prof. Mukesh Jain, McMaster University, Hamilton,  Canada</td></tr>
+<tr><td>2021</td><td>Prof. Pranav Soman, Syracuse Biomaterials Institute, NY</td></tr>
+</tbody>
+</table>
 
 
 ## Manish Narayan Memorial Endowment Fund
@@ -424,3 +485,5 @@ Ms. T.V. Anuradha<br>
 Mr. M.P Gururajan<br>
 Mr. B. Sudheer<br>
 Ms. Victoria Bhattacharya<br>
+
+

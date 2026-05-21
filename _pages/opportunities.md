@@ -6,6 +6,9 @@ permalink: /opportunities
 ---
 Following are a list of open positions available at the Department of Materials Engineering.
 
+### Advertisement of position - PAIR Networking
+Job openings for the post of Project Manager and Senior Project Associate, advertisement and other details <a href="https://iisc.ac.in/careers/contract-project-staff/">here.</a>
+
 ### Group of Diffusion-Microstructure-Properties
 seeking a project associate (35000/per month) to work on the bond coat oxidation for Jet engine applications. 
 
