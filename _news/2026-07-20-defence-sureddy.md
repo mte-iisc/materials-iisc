@@ -9,7 +9,7 @@ Microstructural origin of dwell fatigue in α Titanium and near- α Titanium All
 Prof. Satyam Suwas
 
 ### When?
-20<sup>th</sup> Luly, 2026 (Monday), 11:00 AM (India Standard Time)
+20<sup>th</sup> July, 2026 (Monday), 11:00 AM (India Standard Time)
 
 ### Where
 KI Vasu  Auditorium, Department of Materials Engineering
