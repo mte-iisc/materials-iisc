@@ -193,6 +193,12 @@ Students with non-materials background enrolled in the research programs must cr
 <td><a href="{{ site.baseurl }}/courses#mt-273-aug-30">Semiconductor Films: Deposition and Spectroscopic Characterization</a></td>
 </tr>
 <tr>
+<td>MT 303</td>
+<td>2:1</td>
+<td>Jan</td>
+<td><a href="{{ site.baseurl }}/courses#mt-303-jan-30">Materials Informatics</a></td>
+</tr>
+<tr>
 <td>MT 307</td>
 <td>3:0</td>
 <td>Aug</td>
@@ -698,6 +704,38 @@ References:
 The M.Tech. project is aimed at training the students to analyse independently any problem posed to them. The project may be a purely analytical piece of work, a completely experimental one or a combination of both. In a few cases the project can also involve a sophisticated design work. The project report is expected to show clarity of thought and expression, critical appreciation of the existing literature and analytical and/or experimental or design skill.
 
 Instructors: Faculty, Materials Engineering
+
+-------------------------------------
+
+### MT 303 2:1
+
+<b>Materials Informatics</b>
+ 
+Syllabus: 
+
+The course will be structured into three modules, with learnings from one module transferred into others. Each module will have lecture sessions followed by hands-on/tutorial sessions where students have to learn new tools and execute them, via jupyter-notebooks (or similar)
+frameworks. Module 1 will focus on basic aspects of computations and machine learning. Module 2 will work on statistical mechanics, lattice models, and coarse graining techniques commonly used. Module 3 will describe the construction and validation of machine-learned
+interatomic potentials, and other advanced machine learning topics relevant for materials science.
+
+References:
+
+There are no text books for this course. Suggested are some books for additional reading.
+
+•“Computational Materials Science”, June Gunn Lee, Second Edition 2016
+
+•“Understanding molecular simulation: from algorithms to Applications”, Daan Frenkel and Berend Smit, Second Edition, 2002
+
+•“Electronic structure: basic theory and practical methods”, Richard M. Martin, Second Edition, 2020
+
+•“Statistical Mechanics”, Donald A. McQuarrie, First Edition, 2000
+
+•“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems”, Aurélien Géron,Third Edition, 2022.
+
+Pre-requisites:
+
+Students should preferably have a laptop where they can install necessary libraries/codes and execute them.
+
+Instructor: Sai Gautam Gopalakrishnan, Materials Engineering
 
 -------------------------------------
 
