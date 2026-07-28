@@ -210,7 +210,7 @@ Students with non-materials background enrolled in the research programs must cr
 <td>Jan</td>
 <td><a href="{{ site.baseurl }}/courses#mt-309-jan-30">Introduction to Manufacturing Science</a></td>
 </tr>
-tr>
+<tr>
 <td>MT 250</td>
 <td>3:0</td>
 <td>Aug</td>
