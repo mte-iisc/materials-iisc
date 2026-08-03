@@ -707,7 +707,7 @@ Instructors: Faculty, Materials Engineering
 
 -------------------------------------
 
-### MT 303 2:1
+### MT 303 (JAN) 2:1
 
 <b>Materials Informatics</b>
  
