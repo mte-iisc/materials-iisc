@@ -1,5 +1,5 @@
 ---
-title: "MTech(Res) Thesis Colloquium: Mr.Shiba Sankar Dash (21/07/26)"
+title: "MTech(Res) Thesis Colloquium: Mr.Shiba Sankar Dash (07/08/26)"
 permalink: /colloquium/shiba-07-aug-2026
 ---
 ### Thesis title:
