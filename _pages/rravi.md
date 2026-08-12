@@ -68,6 +68,9 @@ Bangalore-560012, INDIA<br>
 
 ## Publications
 <ol reversed="">
+<li>Avik Mondal; Ujjval Bansal; M. Dineshkumar; Suman Sadhu; Raju Ravi; Monojit
+Dutta; Aloke Paul; <u>"Synergistic effects of Si and Mg content in Al-based alloys and
+Mn in steel on phase formation during solid-solid interaction"</u>, Scripta Materialia (Submitted).</li>
 <li>Suman Sadhu; Anuj Dash; Neelamegan Esakkiraja; Ujjval Bansal; Raju Ravi; Saswata Bhattacharyya; Sergiy Divinski, Aloke Paul; <u>Response to the comments on "Practicing pseudo-binary diffusion couple method in ternary and multicomponent systems"</u>, Scripta Materialia 173 (2026) 117090.</li>
 <li>Muthusamy Murugan; Anil Kuruvila; Thomas George; Ravi Raju; Indhushree A; Indira Devi, <u>Indian Green Cardamom: Commerce, Climate, and Pesticides</u>, Submitted, INTECHOPEN LIMITED, Registered in England and Wales No. 11086078</li>
 <li>Suman Sadhu; Anuj Dash; Neelamegan Esakkiraja; Ujjval Bansal; Avik Mondal; Anindita Chakraborty; Monojit Dutta; Raju Ravi; Surendra Makineni; Saswata Bhattacharyya; Sergiy Divinski, Aloke Paul; <u> Practicing pseudo-binary diffusion couple method in ternary and multicomponent systems</u>, Acta Materialia 294 (2025) 121127.</li>
