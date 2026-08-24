@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Colloquium: Mr. Sunando Banerjee (07/09/26)"
-permalink: /colloquium/sunando-09-aug-2026
+permalink: /colloquium/sunando-09-sep-2026
 ---
 ### Thesis title:
 Effect of Microstructural Evolution on Corrosion and Hydrogen Permeation Behavior of Electrodeposited Ni-Based Coatings
