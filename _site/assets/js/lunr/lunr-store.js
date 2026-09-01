@@ -2309,60 +2309,6 @@ var store = [{
         "url": "https://materials.iisc.ac.in/defence/dereje-31-jul-2026",
         "teaser": null
       },{
-        "title": "Machining thin metallic foils",
-        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
-      },{
-        "title": "High throughput creep",
-        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
-      },{
-        "title": "Visualisation of stem cells",
-        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
-      },{
-        "title": "Inverse Blech Length",
-        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
-      },{
-        "title": "Atoms resolved by APT in 100 cubic planes",
-        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
-      },{
-        "title": "Microstructure of additively manufactured stainless steel",
-        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
-      },{
-        "title": "Micrographs of additively manufactured Ti-6Al-4V",
-        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
-      },{
-        "title": "Oxygen Concentrator developed at Indian Institute of Science",
-        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
-        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
-      },{
-        "title": "First release of phase-field software 'Microsim'",
-        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
-        "tags": [],
-        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
-        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
-      },{
         "title": "Using light to open doors for next-generation   thermoelectrics and chemical imaging techniques (06/08/26)",
         "excerpt":"Speaker and Affliation:  Prof. Sriparna Bhattacharya                                              Department of Physics and Astronomy, and Clemson Nanomaterials Institute Clemson, SC, USA   When?  06th August, 2026 (Thursday), 10.30 AM (India Standard Time)   Where  KPA Auditorium, Dept. of Materials Engineering, IISc, Bangalore   Abstract:  My talk will focus on using light to decode fundamental mechanisms in materials research. As two broad examples, I’ll discuss how Raman spectroscopy has helped identify phonons that drive anharmonicity in binary chalcogenides (e.g., SnSe and GeTe), leading to their intrinsically low lattice thermal conductivity and a high figure-of-merit for converting waste heat into electricity. Experimental evidence will be presented demonstrating that light is more effective than transport measurements in advancing phonon engineering approaches to improve thermoelectric material performance. My other example includes the design of a new luminescence-based chemical imaging technique that shows promise for non-invasive detection of implant infection. The luminescence in our imaging technique is activated by ultrasound, enabling much-needed deep-tissue, non-invasive, early detection of implant-associated infections.   This work on binary chalcogenides was performed in collaboration with Prof. Y-Y. Chen’s group in Academia Sinica, Taiwan, Prof. A.M. Rao’s group at Clemson University, and Dr. Rahul Rao, Air Force Research Laboratory, WPAFB, Dayton, OH, 45433 USA. The new luminescence-based chemical imaging technique was jointly developed in collaboration with Profs. J. N. Anker’s and A. M. Rao’s research teams at Clemson University.   Speaker Bio:  Sriparna Bhattacharya is a Research Associate Professor at the Department of Physics and Astronomy, the Lab Manager at the Clemson Nanomaterials Institute, and a Faculty Scholar at the School of Health Research at Clemson University. Her broad research interests include waste-heat harvesting using electron- and hole-based, as well as ion-based, thermoelectrics. Recently, she collaborated with Prof. H. J. Goldsmid, aka the ‘Father of Thermoelectrics,’ (School of Physics, University of New South Wales, Sydney, Australia), to develop a new evaluation method for thermoelectric materials. This study was featured as the Editor’s Pick by the Editorial Board of the Journal of Applied Physics. She is also passionate about improving lives in the State of SC and beyond. She is developing chemical imaging methods for early detection of infection in biomedical applications.  ","categories": [],
         "tags": [],
@@ -2422,6 +2368,60 @@ var store = [{
         "tags": [],
         "url": "https://materials.iisc.ac.in/defence/sazid-24-aug-2026",
         "teaser": null
+      },{
+        "title": "Machining thin metallic foils",
+        "excerpt":"Machining thin metallic foils by applying electric current pulse and a mechanical stress: synergy between variuos fields. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/thin-foils",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/machining.jpg"
+      },{
+        "title": "High throughput creep",
+        "excerpt":"High throughput determination of creep response of materials, saving time and resources by more than 10 times. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/high-throughput-creep",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/mechanicaltesting.jpg"
+      },{
+        "title": "Visualisation of stem cells",
+        "excerpt":"Visualisation of stem cells. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/stem-cells",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/stemcells1.jpg"
+      },{
+        "title": "Inverse Blech Length",
+        "excerpt":"Discovery of Inverse Blech Length in presence of thermomigration and electromigration in thin films. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/inverse-blech-length",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/thinfilm.jpg"
+      },{
+        "title": "Atoms resolved by APT in 100 cubic planes",
+        "excerpt":"Atoms resolved by APT in 100 cubic planes. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/atom-planes-apt",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/atoms.jpg"
+      },{
+        "title": "Microstructure of additively manufactured stainless steel",
+        "excerpt":"Microstructure of additively manufactured 316L stainless steel subjected to tensile loading. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/316l-ss",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/TensileLoading.jpg"
+      },{
+        "title": "Micrographs of additively manufactured Ti-6Al-4V",
+        "excerpt":"EBSD micrographs of additively manufactured Ti-6Al-4V after heat treatment. Detailed description coming soon.  ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/ebsd-ti6al4v",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/ebsdti6al4v.jpg"
+      },{
+        "title": "Oxygen Concentrator developed at Indian Institute of Science",
+        "excerpt":"An indigenous Oxygen Concentrator was designed and developed in the Indian Institute of Science by a team led by Prof. Praveen Ramamurthy. This prototype delivers more than 95% oxygen at 1 liter per minute and reaches this higher limit within 3 minutes of the start of the system.  At 5 lpm, greater than 93±3% and at 10 lpm 85 % oxygen is generated.  The stability of the system was monitored by continuous operation for more than 8 months.   Clinical trail is complete with a report concluding that this system is as good as compressed oxygen cylinders. Up to now technology transfer is complete to 18 companies and few more in the pipeline.   Highlights        Indigenously developed oxygen concentrator            Upto 6  lpm 93±3 % O2 concentration       Upto 10 lpm &gt; 85 %  O2 concentration           Continues operation 24/7   Clinical trial completed at BMCRI   TUV/UL certification process is yet to start   83 companies have expressed interest   27 have signed NDA   18 have already signed licensing agreement   Licensee list      Media coverage      ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/oxygen-concentrator",
+        "teaser": "https://materials.iisc.ac.in/assets/images/research/oxygen_concentrator_device.png"
+      },{
+        "title": "First release of phase-field software 'Microsim'",
+        "excerpt":"“MicroSim” is a project under the National Supercomputing Mission, Govt of India. The project offers a set of codes that can use high performance computing to simulate microstructure evolution using the Phase Field technique. MicroSim is a software stack that consists of phase-field codes that offer flexibility with discretization, models as well as the high-performance computing hardware (CPU/GPU) that they can execute on. Along with this the stack also consists of Multi-physics solver modules that are based on OpenFoam and AMRex libraries(will be added soon). The stack has an integrator interface that is built using python that allows one to create the input and filling files required for the solvers as well as provides a consolidated framework to choose the solver, compile, execute and visualize simulation results. The project is a consortium between (IISc Bangalore, IIT Hyderabad, IIT Bombay, IIT Madras, Savitribai Phule Pune University, C-DAC Pune). The phase-field models include the Grand-potential formalism, Kim-Kim Suzuki as well as the Cahn-Hilliard descriptions. The discretizations include FDM, FVM and FFT. The first release of the software contains modules for the simulation of microstructure evolution during solidification and precipitation. Future releases will include modules on grain-growth and recrystallization. Following are the links to the software on GitHub and MicroSim has been released with a GNU-GPLv3 license.   Links to MicroSim  MicroSim release (version 1.0.2)   MicroSim repository   Contributors      OpenFoam solvers and Documentation: Tanmay Dutta, Ravi Kumar, Birkamjit Karmakar, Umate Kartik (IISc)   Python wrapper and infile generator: Ajay Sagar (IISc)   KKS OpenCI and FFTW codes: Dasari Mohan, M.P. Gururajan, Gandham Phanikumar (IIT Bombay, IIT Madras)   KKS Nvidia-CUDA: Saurav Shenoy, Pankaj, and Saswata Bhattacharyya (IIT Hyderabad)   Grand-potential-based solvers: Abhik Choudhury (IISc)   Acknowledgments      Sumeet Rajesh Khanna (PhD, IISc)   Tushar Jogi (PhD, IIT Hyderabad)   Gerald Tennyson (PhD, IIT Madras)   Ravi Kumar Singh (M. Tech., IISc)   Umate Kartik (BS, IISc)   Bikramjit Karmakar (BS/MS, IISc)   ","categories": [],
+        "tags": [],
+        "url": "https://materials.iisc.ac.in/highlights/microsim-lab",
+        "teaser": "https://materials.iisc.ac.in/assets/images/slider/microsim_lab.png"
       },{
         "title": "PhD Thesis Colloquium: Mr. Sunando Banerjee (07/09/26)",
         "excerpt":"Thesis title:  Effect of Microstructural Evolution on Corrosion and Hydrogen Permeation Behavior of Electrodeposited Ni-Based Coatings   Faculty advisor(s):  Prof. Chandan Srivastava.   When?  07th September, 2026 (Monday), 03:00 PM (India Standard Time)   Where  Microsoft Teams Join: https://teams.microsoft.com/meet/43449397562564?p=TPt1z2mPNahRvb1E6q   Meeting ID: 434 493 975 625 64   Passcode: e5UK9WT2   Abstract  Electrodeposited Ni coatings are widely used in automotive, aerospace, oil &amp; gas and marine applications because of their good mechanical and corrosion-resistant properties. Their performance, however, deteriorates in aggressive environments, particularly in the presence of Cl- ions, which destabilize and break down the passive film, leading to pitting corrosion. Furthermore, hydrogen embrittlement remains a critical challenge as absorbed atomic hydrogen leads to catastrophic failure of structural components. The present work systematically investigates the influence of deposition parameters and alloying additions in engineering the microstructure of electrodeposited Ni coatings and its consequential effects on corrosion and hydrogen permeation resistance.   First part of the study investigates the influence of deposition current density (20–120 mA/cm²) on microstructural evolution and electrochemical corrosion behavior of Ni coatings. Corrosion resistance initially decreased for coatings deposited at 20 to 50 mA/cm², then increased progressively for coatings deposited at 100 mA/cm², and finally decreased, with the lowest corrosion resistance observed at 120 mA/cm². EBSD analysis of the coatings deposited at 50 and 100 mA/cm² exhibited near- random texture. The highest corrosion resistance at 100 mA/cm² was due to a higher fraction of coincident site lattice (CSL) boundaries and a lower fraction of high-angle grain boundaries, whereas the lowest corrosion resistance at 120 mA/cm² was attributed to a weak (101) higher-energy texture coupled with a higher fraction of high-angle grain boundaries.   The second part examines the effect of pulse electrodeposition parameters, notably duty cycle and frequency, on the microstructure and corrosion behavior of Ni coatings. Although EBSD revealed no significant change in surface texture, significant variations in coating strain and grain boundary constitution were observed. The coating deposited at 80% duty cycle and 75 Hz exhibited the highest corrosion resistance, with a ~57% decrease in corrosion current density (jcorr) as compared with the lowest corrosion- resistant coating obtained at the 80% duty cycle and 150 Hz. The enhanced corrosion resistance was due to a higher fraction of CSL, low-angle grain boundaries and a lower coating strain, whereas higher fractions of high-angle grain boundaries and strain resulted in a lower value of the corrosion resistance.   The third part investigates the corrosion and hydrogen permeation behavior of Ni-xMo (x = 2, 4, 8 and 11 wt%) alloy coatings deposited by pulsed plating. Corrosion behavior was non-monotonic, with Ni-4 wt% Mo and Ni-11 wt% Mo showing the highest and lowest corrosion resistance, respectively. All the alloy compositions outperformed Ni in terms of corrosion resistance. The superior corrosion resistance of Ni-4 wt% Mo was attributed to lower-energy (001) and (111) textures, favorable grain boundary constitution, a stable Mo(VI) oxide within the passive film and a lower coating strain. The lowered corrosion resistance of Ni-11 wt% Mo was due to higher energy grain boundaries and a higher strain. Atom probe tomography analysis revealed the presence of Mo-enriched Ni-Mo nanoclusters, which increased hydrogen diffusion path tortuosity and enhanced resistance to hydrogen permeation. Conversely, a higher fraction of high-angle grain boundaries promoted hydrogen diffusion, resulting in similar saturation hydrogen permeation currents for Ni-4 wt% Mo and pure Ni coatings.   The fourth part elucidates the effect of compositional heterogeneity on the corrosion and hydrogen permeation behavior of pulse electrodeposited Ni-xW alloy coatings (x = 1.5, 3.5, 5.5 and 8 wt%). Corrosion rate decreased up to Ni-3.5 wt% W and increased thereafter, indicating non-monotonic behavior. The highest corrosion resistance of Ni-3.5 wt% W was due to a nearly homogeneous Ni-W solid solution and protective W(VI) oxide-containing surface film. The lowest corrosion resistance of Ni-8 wt% W was attributed to pronounced heterogeneity in W distribution, forming W-rich and W-poor regions that promoted micro-galvanic coupling. Experimental hydrogen diffusivity values derived from hydrogen permeation measurements (Devanathan-Stachurski cell) exhibited a nearly identical range across all the coatings. Density functional theory (DFT) first-principles calculations revealed that W incorporation promotes interstitial diffusion of hydrogen; however, this enhancement is counteracted by concurrent grain refinement observed microscopically, which introduces a high density of grain boundary trapping sites retarding the hydrogen transport and thereby, resulting in a similar values of effective hydrogen diffusivity obtained across all the compositions.  ","categories": [],
