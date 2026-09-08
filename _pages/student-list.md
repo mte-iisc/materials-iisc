@@ -614,3 +614,36 @@ List of students on this page sorted in reverse chronology and according to the 
 <tr><td>Kondeti Prabhu Srikanth </td><td>	Kaushik Chatterjee</td><td>prabhus</td></tr>
 </tbody>
 </table>
+
+
+## B.Tech Students
+
+### 2026
+<table>
+<tbody>
+<tr><th>Name</th><th>Email (&#64;iisc.ac.in)</th></tr>
+<tr><td>Adarsh Bhadouria</td><td>adarshbhado1</td></tr>
+<tr><td>Ahangjeet Chakrabortty</td><td>ahangjeetch1</td></tr>
+<tr><td>Aikansh Chouhan</td><td>aikanshchou1</td></tr>
+<tr><td>Akhil Kumar Tiwari</td><td>akhilkumart1</td></tr>
+<tr><td>Amogh Kapoor</td><td>amoghkapoor</td></tr>
+<tr><td>Anandita Mishra</td><td>ananditamis1</td></tr>
+<tr><td>Arji Brijesh Rao</td><td>arjibrijesh1</td></tr>
+<tr><td>Bijjam Venkata Lakshmi Praneetha</td><td>venkatalaks1</td></tr>
+<tr><td>Chaduvula Rahul</td><td>rahulchaduv1</td></tr>
+<tr><td>Grandhi V V S M Saatvik</td><td>grandhivvsm1</td></tr>
+<tr><td>Krishn Anantharam</td><td>krishnanant1</td></tr>
+<tr><td>Marisetti Vikranth Sri Krishna</td><td>vikranthsri1</td></tr>
+<tr><td>Mulakala Jaithri</td><td>jaithrimula1</td></tr>
+<tr><td>Naradhabhatla Mahodith</td><td>mahodithnar1</td></tr>
+<tr><td>Olive Chakraborty</td><td>olivechakra1</td></tr>
+<tr><td>Pallati Tahan Kumar</td><td>tahankumarp1</td></tr>
+<tr><td>Pradyun Srinivasa</td><td>pradyunsrin1</td></tr>
+<tr><td>Prashant Kanodia</td><td>prashantkan1</td></tr>
+<tr><td>Ramavat Pardhavi Sai Narayana Sree</td><td>pardhavisai1</td></tr>
+<tr><td>Saddhanapu Sri Ganesh</td><td>sriganeshsa1</td></tr>
+<tr><td>Savinay Goel</td><td>savinaygoel</td></tr>
+<tr><td>Syed Muqeet Ahmed</td><td>syedmuqeeta1</td></tr>
+<tr><td>Utkarsh Singh</td><td>utkarshsing5</td></tr>
+</tbody>
+</table>
