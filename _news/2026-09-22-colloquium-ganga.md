@@ -1,6 +1,6 @@
 ---
-title: "PhD Thesis Defence: Mr. Gangavarapu Shashidhar (22/09/26)"
-permalink: /defence/ganga-22-sep-2026
+title: "PhD Thesis Colloquium: Mr. Gangavarapu Shashidhar (22/09/26)"
+permalink: /colloquium/ganga-22-sep-2026
 ---
 ### Thesis title:
 Environmental Degradation of Structural Materials: Hydrogen-assisted degradation and embrittlement of Ni base Single Crystal Superalloy (CMSX-4) and Zr-Nb Pressure Tube alloy (Zr-2.5Nb), Methanol-induced corrosion and mechanical degradation of Al base alloy (5052)
