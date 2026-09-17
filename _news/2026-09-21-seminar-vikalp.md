@@ -3,8 +3,7 @@ title: "Engineering Solid-State Electrochemical Devices: From Void Suppression t
 permalink: /seminar/vikalp-21-sep-2026
 ---
 ### Speaker and Affliation:
-Dr. Vikalp Raj<br>                                                
-Postdoctoral Research Associate at Oak Ridge National Laboratory
+Dr. Vikalp Raj<br>Postdoctoral Research Associate at Oak Ridge National Laboratory
 
 ### When?
 21<sup>st</sup> September, 2026 (Monday), 03.00 PM (India Standard Time)
