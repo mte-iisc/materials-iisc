@@ -1,0 +1,10 @@
+Configuration file: /Users/rravi/materials-iisc/_config.yml
+            Source: /Users/rravi/materials-iisc
+       Destination: /Users/rravi/materials-iisc/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+              Lunr: Creating search index...
+              Lunr: Index ready (lunr.js v0.7.2)
+       Jekyll Feed: Generating feed for posts
+                    done in 3.885 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
