@@ -68,6 +68,8 @@ Bangalore-560012, INDIA<br>
 
 ## Publications
 <ol reversed="">
+<li>Ismail Kamil Worke; Suman Sadhu; Ravi Raju; Saswata Bhattachryya; Aloke Paul;<u>
+"Mapping Interdiffusion, Intrinsic, and Tracer Diffusivities in Co–Al–Ti system using Diffusion Couples and Physics-Informed Neural Networks"</u>, Scripta Materialia (submitted).</li>
 <li>Avik Mondal; Ujjval Bansal; M. Dineshkumar; Suman Sadhu; Raju Ravi; Monojit
 Dutta; Aloke Paul; <u>"Synergistic effects of Si and Mg content in Al-based alloys and
 Mn in steel on phase formation during solid-solid interaction"</u>, Scripta Materialia 287 (2027) 117579.</li>
